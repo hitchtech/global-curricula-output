@@ -1,0 +1,91 @@
+Traceback (most recent call last):
+  File "\main.py", line 122, in parse
+    pdf_file = syllabus_parser.run_parser(document)
+  File "\src\syllabus_parser.py", line 613, in run_parser
+    tag_map, syllabus_file = parser.parse_pdf_document(doc, size_tag_map, max_pages=None)
+  File "\src\syllabus_parser.py", line 87, in parse_pdf_document
+    self._parse_line(TextInfo(span, page_number=page_count + 1))
+  File "\src\syllabus_parser.py", line 173, in _parse_line
+    cs.get_current_cell().margin_left = line.perimeter.left
+AttributeError: 'NoneType' object has no attribute 'margin_left'
+
+	Occurrences: 1
+	Documents:
+		\GENERAL_KNOWLEDGE_IN_ART.pdf
+
+Traceback (most recent call last):
+  File "\main.py", line 122, in parse
+    pdf_file = syllabus_parser.run_parser(document)
+  File "\src\syllabus_parser.py", line 613, in run_parser
+    tag_map, syllabus_file = parser.parse_pdf_document(doc, size_tag_map, max_pages=None)
+  File "\src\syllabus_parser.py", line 87, in parse_pdf_document
+    self._parse_line(TextInfo(span, page_number=page_count + 1))
+  File "\src\syllabus_parser.py", line 205, in _parse_line
+    self._add_text_to_body(line)
+  File "\src\syllabus_parser.py", line 274, in _add_text_to_body
+    separation_from_last_line = line.perimeter.top - self._current_section.get_current_cell().margin_bottom
+AttributeError: 'NoneType' object has no attribute 'get_current_cell'
+
+	Occurrences: 1
+	Documents:
+		\HEALTH_EDUCATION_OR HEALTH_SCIENCE.pdf
+
+Traceback (most recent call last):
+  File "\main.py", line 122, in parse
+    pdf_file = syllabus_parser.run_parser(document)
+  File "\src\syllabus_parser.py", line 613, in run_parser
+    tag_map, syllabus_file = parser.parse_pdf_document(doc, size_tag_map, max_pages=None)
+  File "\src\syllabus_parser.py", line 87, in parse_pdf_document
+    self._parse_line(TextInfo(span, page_number=page_count + 1))
+  File "\src\syllabus_parser.py", line 122, in _parse_line
+    foundHeader = self._read_header_and_start_new_section()
+  File "\src\syllabus_parser.py", line 376, in _read_header_and_start_new_section
+    foundTableHeaders = self._read_table_headers_and_start_table()
+  File "\src\syllabus_parser.py", line 448, in _read_table_headers_and_start_table
+    cell.margin_right = header_obj.perimeter.right
+AttributeError: 'NoneType' object has no attribute 'margin_right'
+
+	Occurrences: 2
+	Documents:
+		\IGBO.pdf
+		\PHYSICS.pdf
+
+Traceback (most recent call last):
+  File "\main.py", line 124, in parse
+    Analyser.section_alignment_resolver(pdf_file)
+  File "\src\analyser.py", line 260, in section_alignment_resolver
+    Analyser._move_bad_list(section_idx, file, cell_list, col)
+  File "\src\analyser.py", line 383, in _move_bad_list
+    while current_block_idx < len(bad_list.written_content.text_blocks):
+AttributeError: 'NoneType' object has no attribute 'text_blocks'
+
+	Occurrences: 64
+	Documents:
+		\BUSINESS_MANAGEMENT.pdf
+		\CHEMISTRY.pdf
+		\FISHERIES _ALTB.pdf
+		\FOODS_AND_NUTRITION.pdf
+		\FORESTRY.pdf
+		\GEOGRAPHY.pdf
+		\INTEGRATED _SCIENCE.pdf
+
+Traceback (most recent call last):
+  File "\main.py", line 124, in parse
+    Analyser.section_alignment_resolver(pdf_file)
+  File "\src\analyser.py", line 260, in section_alignment_resolver
+    Analyser._move_bad_list(section_idx, file, cell_list, col)
+  File "\src\analyser.py", line 374, in _move_bad_list
+    destination_section = skipped_sections.pop()
+IndexError: pop from empty list
+
+	Occurrences: 128
+	Documents:
+		\APPLIED_ELECTRICITY_OR_BASIC_ELECTRICITY.pdf
+		\AUTO_ELECTRICAL_WORK.pdf
+		\CHRISTIAN_RELIGIOUS_STUDIES_NEW.pdf
+		\CLERICAL_OFFICE_DUTIES.pdf
+		\COMPUTER_STUDIES.pdf
+		\DATA_PROCESSING.pdf
+		\GENERAL_MATHEMATICS_OR_MATHEMATICS _CORE.pdf
+		\GSM_PHONES_MAINTENANCE_AND_REPAIRS.pdf
+

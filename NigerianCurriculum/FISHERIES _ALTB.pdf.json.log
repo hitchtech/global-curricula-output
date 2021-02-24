@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "\main.py", line 124, in parse
+    Analyser.section_alignment_resolver(pdf_file)
+  File "\src\analyser.py", line 260, in section_alignment_resolver
+    Analyser._move_bad_list(section_idx, file, cell_list, col)
+  File "\src\analyser.py", line 383, in _move_bad_list
+    while current_block_idx < len(bad_list.written_content.text_blocks):
+AttributeError: 'NoneType' object has no attribute 'text_blocks'

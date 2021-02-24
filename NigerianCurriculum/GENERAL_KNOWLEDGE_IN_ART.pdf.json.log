@@ -1,0 +1,10 @@
+Traceback (most recent call last):
+  File "\main.py", line 122, in parse
+    pdf_file = syllabus_parser.run_parser(document)
+  File "\src\syllabus_parser.py", line 613, in run_parser
+    tag_map, syllabus_file = parser.parse_pdf_document(doc, size_tag_map, max_pages=None)
+  File "\src\syllabus_parser.py", line 87, in parse_pdf_document
+    self._parse_line(TextInfo(span, page_number=page_count + 1))
+  File "\src\syllabus_parser.py", line 173, in _parse_line
+    cs.get_current_cell().margin_left = line.perimeter.left
+AttributeError: 'NoneType' object has no attribute 'margin_left'
