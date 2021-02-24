@@ -53,7 +53,7 @@ ERROR - \HEALTH_EDUCATION_OR HEALTH_SCIENCE.pdf
 Success - \HISTORY.pdf
 Success - \HOME_MANAGEMENT.pdf
 Success - \IBIBIO.pdf
-ERROR - \IGBO.pdf
+Success - \IGBO.pdf
 Success - \INFORMATION_AND COMMUNICATION_TECHNOLOGY _CORE.pdf
 Success - \INFORMATION_AND_COMMUNICATION_TECHNOLOGY _ELECTIVE.pdf
 Success - \INSURANCE.pdf
@@ -74,7 +74,7 @@ Success - \OFFICE_PRACTICE.pdf
 Success - \PAINTING_ANDvDECORATING.pdf
 Success - \PHOTOGRAPHY.pdf
 Success - \PHYSICAL_EDUCATION.pdf
-ERROR - \PHYSICS.pdf
+Success - \PHYSICS.pdf
 Success - \PICTURE_MAKING.pdf
 Success - \PLUMBING_AND_PIPE_FITTING.pdf
 Success - \PRINCIPLES_OF_COST_ACCOUNTING.pdf
@@ -102,4 +102,4 @@ Success - \WOODWORK_TO_IED.pdf
 Success - \YORUBA.pdf
 
 
-Success: 89 Fail: 13 Total = 102
+Success: 91 Fail: 11 Total = 102
