@@ -55,33 +55,15 @@ Traceback (most recent call last):
     Analyser.section_alignment_resolver(pdf_file)
   File "\src\analyser.py", line 260, in section_alignment_resolver
     Analyser._move_bad_list(section_idx, file, cell_list, col)
-  File "\src\analyser.py", line 383, in _move_bad_list
-    while current_block_idx < len(bad_list.written_content.text_blocks):
-AttributeError: 'NoneType' object has no attribute 'text_blocks'
-
-	Occurrences: 64
-	Documents:
-		\BUSINESS_MANAGEMENT.pdf
-		\CHEMISTRY.pdf
-		\FISHERIES _ALTB.pdf
-		\FOODS_AND_NUTRITION.pdf
-		\FORESTRY.pdf
-		\GEOGRAPHY.pdf
-		\INTEGRATED _SCIENCE.pdf
-
-Traceback (most recent call last):
-  File "\main.py", line 124, in parse
-    Analyser.section_alignment_resolver(pdf_file)
-  File "\src\analyser.py", line 260, in section_alignment_resolver
-    Analyser._move_bad_list(section_idx, file, cell_list, col)
   File "\src\analyser.py", line 374, in _move_bad_list
     destination_section = skipped_sections.pop()
 IndexError: pop from empty list
 
-	Occurrences: 128
+	Occurrences: 256
 	Documents:
 		\APPLIED_ELECTRICITY_OR_BASIC_ELECTRICITY.pdf
 		\AUTO_ELECTRICAL_WORK.pdf
+		\CHEMISTRY.pdf
 		\CHRISTIAN_RELIGIOUS_STUDIES_NEW.pdf
 		\CLERICAL_OFFICE_DUTIES.pdf
 		\COMPUTER_STUDIES.pdf
