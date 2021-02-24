@@ -5,9 +5,11 @@ Traceback (most recent call last):
     tag_map, syllabus_file = parser.parse_pdf_document(doc, size_tag_map, max_pages=None)
   File "\src\syllabus_parser.py", line 87, in parse_pdf_document
     self._parse_line(TextInfo(span, page_number=page_count + 1))
-  File "\src\syllabus_parser.py", line 173, in _parse_line
-    cs.get_current_cell().margin_left = line.perimeter.left
-AttributeError: 'NoneType' object has no attribute 'margin_left'
+  File "\src\syllabus_parser.py", line 205, in _parse_line
+    self._add_text_to_body(line)
+  File "\src\syllabus_parser.py", line 274, in _add_text_to_body
+    separation_from_last_line = line.perimeter.top - self._current_section.get_current_cell().margin_bottom
+AttributeError: 'NoneType' object has no attribute 'margin_bottom'
 
 	Occurrences: 1
 	Documents:
