@@ -1,25 +1,4 @@
 Traceback (most recent call last):
-  File "\main.py", line 122, in parse
-    pdf_file = syllabus_parser.run_parser(document)
-  File "\src\syllabus_parser.py", line 617, in run_parser
-    tag_map, syllabus_file = parser.parse_pdf_document(doc, size_tag_map, max_pages=None)
-  File "\src\syllabus_parser.py", line 87, in parse_pdf_document
-    self._parse_line(TextInfo(span, page_number=page_count + 1))
-  File "\src\syllabus_parser.py", line 202, in _parse_line
-    self._begin_potential_lists(line, is_newline or is_new_column or is_new_row)
-  File "\src\syllabus_parser.py", line 252, in _begin_potential_lists
-    self._conclude_current_list()
-  File "\src\syllabus_parser.py", line 315, in _conclude_current_list
-    self._current_section.add_list(self._current_list)
-  File "\src\syllabus.py", line 303, in add_list
-    self.get_table_cell(self._row, self._col).append(item_list)
-AttributeError: 'NoneType' object has no attribute 'append'
-
-	Occurrences: 1
-	Documents:
-		\GENERAL_KNOWLEDGE_IN_ART.pdf
-
-Traceback (most recent call last):
   File "\main.py", line 124, in parse
     Analyser.section_alignment_resolver(pdf_file)
   File "\src\analyser.py", line 260, in section_alignment_resolver

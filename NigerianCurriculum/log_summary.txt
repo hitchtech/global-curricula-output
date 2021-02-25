@@ -41,7 +41,7 @@ Success - \FURNITURE_MAKING.pdf
 Success - \FURTHER_MATHEMATICS_OR_MATHEMATICS _ELECTIVE.pdf
 Success - \GARMENT_MAKING.pdf
 Success - \GENERAL _AGRICULTURE.pdf
-ERROR - \GENERAL_KNOWLEDGE_IN_ART.pdf
+Success - \GENERAL_KNOWLEDGE_IN_ART.pdf
 ERROR - \GENERAL_MATHEMATICS_OR_MATHEMATICS _CORE.pdf
 Success - \GEOGRAPHY.pdf
 Success - \GHANAIAN_LANGUAGES.pdf
@@ -102,4 +102,4 @@ Success - \WOODWORK_TO_IED.pdf
 Success - \YORUBA.pdf
 
 
-Success: 92 Fail: 10 Total = 102
+Success: 93 Fail: 9 Total = 102
