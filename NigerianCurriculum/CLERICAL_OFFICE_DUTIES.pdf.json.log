@@ -1,8 +1,0 @@
-Traceback (most recent call last):
-  File "\main.py", line 124, in parse
-    Analyser.section_alignment_resolver(pdf_file)
-  File "\src\analyser.py", line 260, in section_alignment_resolver
-    Analyser._move_bad_list(section_idx, file, cell_list, col)
-  File "\src\analyser.py", line 374, in _move_bad_list
-    destination_section = skipped_sections.pop()
-IndexError: pop from empty list
