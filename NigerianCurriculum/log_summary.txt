@@ -49,7 +49,7 @@ Success - \GOVERNMENT.pdf
 Success - \GRAPHIC_DESIGN.pdf
 ERROR - \GSM_PHONES_MAINTENANCE_AND_REPAIRS.pdf
 Success - \HAUSA.pdf
-ERROR - \HEALTH_EDUCATION_OR HEALTH_SCIENCE.pdf
+Success - \HEALTH_EDUCATION_OR HEALTH_SCIENCE.pdf
 Success - \HISTORY.pdf
 Success - \HOME_MANAGEMENT.pdf
 Success - \IBIBIO.pdf
@@ -102,4 +102,4 @@ Success - \WOODWORK_TO_IED.pdf
 Success - \YORUBA.pdf
 
 
-Success: 91 Fail: 11 Total = 102
+Success: 92 Fail: 10 Total = 102
