@@ -1,0 +1,22 @@
+Traceback (most recent call last):
+  File "\main.py", line 146, in parse
+    pdf_file = analyse_syllabus(pdf_file, props)
+  File "\src\analyser.py", line 557, in analyse_syllabus
+    Analyser.order_cell_content(content)
+  File "\src\analyser.py", line 113, in order_cell_content
+    itemised_list = list_detector.advanced_detection_on_text_blocks(text_blocks)
+  File "\src\list_detector.py", line 60, in advanced_detection_on_text_blocks
+    self._advanced_itemised_list_detection(block)
+  File "\src\list_detector.py", line 263, in _advanced_itemised_list_detection
+    self._add_list_item(stack_item)
+  File "\src\list_detector.py", line 282, in _add_list_item
+    self._pop_and_add_item(stack_item)
+  File "\src\list_detector.py", line 328, in _pop_and_add_item
+    raise ListDetectionError(f"No missing items were found, however the most recent '{stack_item.list_type.name}' list item has value '{most_recent.list_value}' "
+src.list_detector.ListDetectionError: ("No missing items were found, however the most recent 'NUMERICAL' list item has value '6' which is GREATER than new 'NUMERICAL' item with value '3'", 'Wealth Creation', [1. PRINCIPLE OF MANAGEMENT  [ListType.NUMERICAL - 1]
+, 2. FAMILY LIVING  [ListType.NUMERICAL - 2]
+, 3. Feeding the family  [ListType.NUMERICAL - 3]
+, 4. CLOTHING THE FAMILY  [ListType.NUMERICAL - 4]
+, 5. HOUSING THE FAMILY  [ListType.NUMERICAL - 5]
+, 6. Wealth Creation and Management  [ListType.NUMERICAL - 6]
+])
