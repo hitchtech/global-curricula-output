@@ -1,105 +1,105 @@
-ERROR - \WASSCE\2021-03-19\Agricultural Science\AGRICULTURAL_SCIENCE.pdf
-ERROR - \WASSCE\2021-03-19\Applied Electricity or Basic Electricity\APPLIED_ELECTRICITY_OR_BASIC_ELECTRICITY.pdf
-ERROR - \WASSCE\2021-03-19\Auto Body Repairs and Spray Painting\AUTO_BODY_REPAIRS_AND_SPRAY_PAINTING.pdf
-Success - \WASSCE\2021-03-19\Auto Electrical Work\AUTO_ELECTRICAL_WORK.pdf
-ERROR - \WASSCE\2021-03-19\Auto Mechanical Work\AUTO_MECHANICAL_WORK.pdf
-ERROR - \WASSCE\2021-03-19\Auto Mechanics\AUTO_MECHANICS.pdf
-Success - \WASSCE\2021-03-19\Auto Parts Merchandising\AUTO_PARTS_MERCHANDISING.pdf
-Success - \WASSCE\2021-03-19\Basketry\BASKETRY.pdf
-Success - \WASSCE\2021-03-19\Biology\BIOLOGY.pdf
-ERROR - \WASSCE\2021-03-19\Blocklaying Bricklaying and Concreting\BLOCKLAYING_BRICKLAYING_AND_CONCRETING.pdf
-ERROR - \WASSCE\2021-03-19\Book Keeping\BOOK_KEEPING.pdf
-ERROR - \WASSCE\2021-03-19\Building Construction\BUILDING_CONSTRUCTION.pdf
-ERROR - \WASSCE\2021-03-19\Business Management\BUSINESS_MANAGEMENT.pdf
-ERROR - \WASSCE\2021-03-19\Capentry and Joinery\CAPENTRY_AND_JOINERY.pdf
-Success - \WASSCE\2021-03-19\Catering Craft Practice\CATERING_CRAFT_PRACTICE.pdf
-Success - \WASSCE\2021-03-19\Ceramics\CERAMICS.pdf
-ERROR - \WASSCE\2021-03-19\Chemistry\CHEMISTRY.pdf
-Success - \WASSCE\2021-03-19\Christian Religious Studies New\CHRISTIAN_RELIGIOUS_STUDIES_NEW.pdf
-Success - \WASSCE\2021-03-19\Civic Education\CIVIC_EDUCATION.pdf
-ERROR - \WASSCE\2021-03-19\Clerical Office Duties\CLERICAL_OFFICE_DUTIES.pdf
-ERROR - \WASSCE\2021-03-19\Clothing and Textiles\CLOTHING_AND_TEXTILES.pdf
-Success - \WASSCE\2021-03-19\Commerce\COMMERCE.pdf
-ERROR - \WASSCE\2021-03-19\Computer Studies\COMPUTER_STUDIES.pdf
-Success - \WASSCE\2021-03-19\Cosmetology\COSMETOLOGY.pdf
-Success - \WASSCE\2021-03-19\Crop Husbandry and Horticulture\CROP_HUSBANDRY_AND_HORTICULTURE.pdf
-ERROR - \WASSCE\2021-03-19\Data Processing\DATA_PROCESSING.pdf
-Success - \WASSCE\2021-03-19\Dyeing Bleaching\DYEING_BLEACHING.pdf
-Success - \WASSCE\2021-03-19\Economics\ECONOMICS.pdf
-Success - \WASSCE\2021-03-19\Efik\EFIK.pdf
-ERROR - \WASSCE\2021-03-19\Electrical Installation and Maintenance Work\ELECTRICAL_INSTALLATION_AND_MAINTENANCE_WORK.pdf
-Success - \WASSCE\2021-03-19\Electronics or Basic Electronics\ELECTRONICS_OR_BASIC_ELECTRONICS.pdf
-Success - \WASSCE\2021-03-19\English Language\ENGLISH_LANGUAGE.pdf
-Success - \WASSCE\2021-03-19\Financial Accounting\FINANCIAL_ACCOUNTING.pdf
-Success - \WASSCE\2021-03-19\Financial Accounts\FINANCIAL_ACCOUNTS.pdf
-ERROR - \WASSCE\2021-03-19\Fisheries Alta\FISHERIES_ALTA.pdf
-Success - \WASSCE\2021-03-19\Fisheries Altb\FISHERIES_ALTB.pdf
-ERROR - \WASSCE\2021-03-19\Foods and Nutrition\FOODS_AND_NUTRITION.pdf
-ERROR - \WASSCE\2021-03-19\Forestry\FORESTRY.pdf
-Success - \WASSCE\2021-03-19\French\FRENCH.pdf
-Success - \WASSCE\2021-03-19\Furniture Making\FURNITURE_MAKING.pdf
-Success - \WASSCE\2021-03-19\Further Mathematics or Mathematics Elective\FURTHER_MATHEMATICS_OR_MATHEMATICS_ELECTIVE.pdf
-Success - \WASSCE\2021-03-19\Garment Making\GARMENT_MAKING.pdf
-ERROR - \WASSCE\2021-03-19\General Agriculture\GENERAL_AGRICULTURE.pdf
-Success - \WASSCE\2021-03-19\General Knowledge In Art\GENERAL_KNOWLEDGE_IN_ART.pdf
-ERROR - \WASSCE\2021-03-19\General Mathematics or Mathematics Core\GENERAL_MATHEMATICS_OR_MATHEMATICS_CORE.pdf
-ERROR - \WASSCE\2021-03-19\Geography\GEOGRAPHY.pdf
-Success - \WASSCE\2021-03-19\Ghanaian Languages\GHANAIAN_LANGUAGES.pdf
-ERROR - \WASSCE\2021-03-19\Government\GOVERNMENT.pdf
-Success - \WASSCE\2021-03-19\Graphic Design\GRAPHIC_DESIGN.pdf
-Success - \WASSCE\2021-03-19\Gsm Phones Maintenance and Repairs\GSM_PHONES_MAINTENANCE_AND_REPAIRS.pdf
-Success - \WASSCE\2021-03-19\Hausa\HAUSA.pdf
-Success - \WASSCE\2021-03-19\Health Education or Health Science\HEALTH_EDUCATION_OR_HEALTH_SCIENCE.pdf
-Success - \WASSCE\2021-03-19\History\HISTORY.pdf
-ERROR - \WASSCE\2021-03-19\Home Management\HOME_MANAGEMENT.pdf
-Success - \WASSCE\2021-03-19\Ibibio\IBIBIO.pdf
-Success - \WASSCE\2021-03-19\Igbo\IGBO.pdf
-Success - \WASSCE\2021-03-19\Information and Communication Technology Core\INFORMATION_AND_COMMUNICATION_TECHNOLOGY_CORE.pdf
-Success - \WASSCE\2021-03-19\Information and Communication Technology Elective\INFORMATION_AND_COMMUNICATION_TECHNOLOGY_ELECTIVE.pdf
-ERROR - \WASSCE\2021-03-19\Insurance\INSURANCE.pdf
-ERROR - \WASSCE\2021-03-19\Integrated Science\INTEGRATED_SCIENCE.pdf
-Success - \WASSCE\2021-03-19\Islamic Religious Studies\ISLAMIC_RELIGIOUS_STUDIES.pdf
-Success - \WASSCE\2021-03-19\Jewellery\JEWELLERY.pdf
-Success - \WASSCE\2021-03-19\Leather Goods\LEATHER_GOODS.pdf
-Success - \WASSCE\2021-03-19\Leatherwork\LEATHERWORK.pdf
-Success - \WASSCE\2021-03-19\Literature In English\LITERATURE_IN_ENGLISH.pdf
-ERROR - \WASSCE\2021-03-19\Machine Woodworking\MACHINE_WOODWORKING.pdf
-Success - \WASSCE\2021-03-19\Marketing\MARKETING.pdf
-Success - \WASSCE\2021-03-19\Mdo\mDO.pdf
-ERROR - \WASSCE\2021-03-19\Metalwork\METALWORK.pdf
-Success - \WASSCE\2021-03-19\Mining\MINING.pdf
-ERROR - \WASSCE\2021-03-19\Music New\MUSIC_NEW.pdf
-ERROR - \WASSCE\2021-03-19\Music Syllabus\MUSIC_SYLLABUS.pdf
-Success - \WASSCE\2021-03-19\Office Practice\OFFICE_PRACTICE.pdf
-ERROR - \WASSCE\2021-03-19\Painting Andvdecorating\PAINTING_ANDvDECORATING.pdf
-Success - \WASSCE\2021-03-19\Photography\PHOTOGRAPHY.pdf
-ERROR - \WASSCE\2021-03-19\Physical Education\PHYSICAL_EDUCATION.pdf
-ERROR - \WASSCE\2021-03-19\Physics\PHYSICS.pdf
-ERROR - \WASSCE\2021-03-19\Picture Making\PICTURE_MAKING.pdf
-ERROR - \WASSCE\2021-03-19\Plumbing and Pipe Fitting\PLUMBING_AND_PIPE_FITTING.pdf
-ERROR - \WASSCE\2021-03-19\Principles Of Cost Accounting\PRINCIPLES_OF_COST_ACCOUNTING.pdf
-Success - \WASSCE\2021-03-19\Printing Craft Practice\PRINTING_CRAFT_PRACTICE.pdf
-Success - \WASSCE\2021-03-19\Radio Television and Electronics Works\RADIO_TELEVISION_AND_ELECTRONICS_WORKS.pdf
-ERROR - \WASSCE\2021-03-19\Refrigeration and Air Conditioning\REFRIGERATION_AND_AIR_CONDITIONING.pdf
-Success - \WASSCE\2021-03-19\Salesmanship\SALESMANSHIP.pdf
-Success - \WASSCE\2021-03-19\Sculpture\SCULPTURE.pdf
-Success - \WASSCE\2021-03-19\Shorthand\SHORTHAND.pdf
-Success - \WASSCE\2021-03-19\Social Studies New\SOCIAL_STUDIES_NEW.pdf
-Success - \WASSCE\2021-03-19\Store Keeping\STORE_KEEPING.pdf
-Success - \WASSCE\2021-03-19\Store Management\STORE_MANAGEMENT.pdf
-ERROR - \WASSCE\2021-03-19\Technical Drawing\TECHNICAL_DRAWING.pdf
-Success - \WASSCE\2021-03-19\Textiles\TEXTILES.pdf
-Success - \WASSCE\2021-03-19\Tourism\TOURISM.pdf
-Success - \WASSCE\2021-03-19\Typewriting\TYPEWRITING.pdf
-Success - \WASSCE\2021-03-19\Typewriting2\TYPEWRITING2.pdf
-ERROR - \WASSCE\2021-03-19\Upholstery\UPHOLSTERY.pdf
-Success - \WASSCE\2021-03-19\Visual Art\VISUAL_ART.pdf
-ERROR - \WASSCE\2021-03-19\Welding and Fabrication Engineering Craft Practice\WELDING_AND_FABRICATION_ENGINEERING_CRAFT_PRACTICE.pdf
-Success - \WASSCE\2021-03-19\West African Traditional Religion\WEST_AFRICAN_TRADITIONAL_RELIGION.pdf
-Success - \WASSCE\2021-03-19\Woodwork\WOODWORK.pdf
-ERROR - \WASSCE\2021-03-19\Woodwork GH\WOODWORK_GH.pdf
-ERROR - \WASSCE\2021-03-19\Woodwork to IED\WOODWORK_TO_IED.pdf
-Success - \WASSCE\2021-03-19\Yoruba\YORUBA.pdf
+Success - /WASSCE/2021-03-19/Upholstery/UPHOLSTERY.pdf
+Success - /WASSCE/2021-03-19/Music Syllabus/MUSIC_SYLLABUS.pdf
+Success - /WASSCE/2021-03-19/Physical Education/PHYSICAL_EDUCATION.pdf
+Success - /WASSCE/2021-03-19/Clerical Office Duties/CLERICAL_OFFICE_DUTIES.pdf
+Success - /WASSCE/2021-03-19/Gsm Phones Maintenance and Repairs/GSM_PHONES_MAINTENANCE_AND_REPAIRS.pdf
+Success - /WASSCE/2021-03-19/French/FRENCH.pdf
+Success - /WASSCE/2021-03-19/Graphic Design/GRAPHIC_DESIGN.pdf
+Success - /WASSCE/2021-03-19/Ceramics/CERAMICS.pdf
+Success - /WASSCE/2021-03-19/Information and Communication Technology Core/INFORMATION_AND_COMMUNICATION_TECHNOLOGY_CORE.pdf
+Success - /WASSCE/2021-03-19/Auto Body Repairs and Spray Painting/AUTO_BODY_REPAIRS_AND_SPRAY_PAINTING.pdf
+Success - /WASSCE/2021-03-19/Home Management/HOME_MANAGEMENT.pdf
+Success - /WASSCE/2021-03-19/Painting Andvdecorating/PAINTING_ANDvDECORATING.pdf
+Success - /WASSCE/2021-03-19/Typewriting/TYPEWRITING.pdf
+Success - /WASSCE/2021-03-19/Cosmetology/COSMETOLOGY.pdf
+Success - /WASSCE/2021-03-19/Building Construction/BUILDING_CONSTRUCTION.pdf
+Success - /WASSCE/2021-03-19/General Mathematics or Mathematics Core/GENERAL_MATHEMATICS_OR_MATHEMATICS_CORE.pdf
+Success - /WASSCE/2021-03-19/Auto Electrical Work/AUTO_ELECTRICAL_WORK.pdf
+Success - /WASSCE/2021-03-19/Crop Husbandry and Horticulture/CROP_HUSBANDRY_AND_HORTICULTURE.pdf
+Success - /WASSCE/2021-03-19/Government/GOVERNMENT.pdf
+Success - /WASSCE/2021-03-19/Agricultural Science/AGRICULTURAL_SCIENCE.pdf
+Success - /WASSCE/2021-03-19/Capentry and Joinery/CAPENTRY_AND_JOINERY.pdf
+Success - /WASSCE/2021-03-19/Principles Of Cost Accounting/PRINCIPLES_OF_COST_ACCOUNTING.pdf
+Success - /WASSCE/2021-03-19/Basketry/BASKETRY.pdf
+Success - /WASSCE/2021-03-19/Geography/GEOGRAPHY.pdf
+Success - /WASSCE/2021-03-19/Machine Woodworking/MACHINE_WOODWORKING.pdf
+Success - /WASSCE/2021-03-19/Ghanaian Languages/GHANAIAN_LANGUAGES.pdf
+Success - /WASSCE/2021-03-19/Efik/EFIK.pdf
+Success - /WASSCE/2021-03-19/Social Studies New/SOCIAL_STUDIES_NEW.pdf
+Success - /WASSCE/2021-03-19/Furniture Making/FURNITURE_MAKING.pdf
+Success - /WASSCE/2021-03-19/English Language/ENGLISH_LANGUAGE.pdf
+Success - /WASSCE/2021-03-19/Christian Religious Studies New/CHRISTIAN_RELIGIOUS_STUDIES_NEW.pdf
+Success - /WASSCE/2021-03-19/Office Practice/OFFICE_PRACTICE.pdf
+Success - /WASSCE/2021-03-19/Commerce/COMMERCE.pdf
+Success - /WASSCE/2021-03-19/Shorthand/SHORTHAND.pdf
+Success - /WASSCE/2021-03-19/Hausa/HAUSA.pdf
+Success - /WASSCE/2021-03-19/Business Management/BUSINESS_MANAGEMENT.pdf
+Success - /WASSCE/2021-03-19/Applied Electricity or Basic Electricity/APPLIED_ELECTRICITY_OR_BASIC_ELECTRICITY.pdf
+Success - /WASSCE/2021-03-19/Electrical Installation and Maintenance Work/ELECTRICAL_INSTALLATION_AND_MAINTENANCE_WORK.pdf
+Success - /WASSCE/2021-03-19/Woodwork GH/WOODWORK_GH.pdf
+Success - /WASSCE/2021-03-19/Leatherwork/LEATHERWORK.pdf
+Success - /WASSCE/2021-03-19/Catering Craft Practice/CATERING_CRAFT_PRACTICE.pdf
+Success - /WASSCE/2021-03-19/Store Keeping/STORE_KEEPING.pdf
+Success - /WASSCE/2021-03-19/Economics/ECONOMICS.pdf
+Success - /WASSCE/2021-03-19/Physics/PHYSICS.pdf
+Success - /WASSCE/2021-03-19/Igbo/IGBO.pdf
+Success - /WASSCE/2021-03-19/Garment Making/GARMENT_MAKING.pdf
+Success - /WASSCE/2021-03-19/Metalwork/METALWORK.pdf
+Success - /WASSCE/2021-03-19/Leather Goods/LEATHER_GOODS.pdf
+Success - /WASSCE/2021-03-19/General Knowledge In Art/GENERAL_KNOWLEDGE_IN_ART.pdf
+Success - /WASSCE/2021-03-19/Further Mathematics or Mathematics Elective/FURTHER_MATHEMATICS_OR_MATHEMATICS_ELECTIVE.pdf
+Success - /WASSCE/2021-03-19/Blocklaying Bricklaying and Concreting/BLOCKLAYING_BRICKLAYING_AND_CONCRETING.pdf
+Success - /WASSCE/2021-03-19/West African Traditional Religion/WEST_AFRICAN_TRADITIONAL_RELIGION.pdf
+Success - /WASSCE/2021-03-19/General Agriculture/GENERAL_AGRICULTURE.pdf
+Success - /WASSCE/2021-03-19/Music New/MUSIC_NEW.pdf
+Success - /WASSCE/2021-03-19/Typewriting2/TYPEWRITING2.pdf
+Success - /WASSCE/2021-03-19/Biology/BIOLOGY.pdf
+Success - /WASSCE/2021-03-19/Insurance/INSURANCE.pdf
+Success - /WASSCE/2021-03-19/Auto Mechanical Work/AUTO_MECHANICAL_WORK.pdf
+Success - /WASSCE/2021-03-19/Clothing and Textiles/CLOTHING_AND_TEXTILES.pdf
+Success - /WASSCE/2021-03-19/Book Keeping/BOOK_KEEPING.pdf
+Success - /WASSCE/2021-03-19/Auto Mechanics/AUTO_MECHANICS.pdf
+Success - /WASSCE/2021-03-19/Salesmanship/SALESMANSHIP.pdf
+Success - /WASSCE/2021-03-19/Textiles/TEXTILES.pdf
+Success - /WASSCE/2021-03-19/Health Education or Health Science/HEALTH_EDUCATION_OR_HEALTH_SCIENCE.pdf
+Success - /WASSCE/2021-03-19/Sculpture/SCULPTURE.pdf
+Success - /WASSCE/2021-03-19/Chemistry/CHEMISTRY.pdf
+Success - /WASSCE/2021-03-19/History/HISTORY.pdf
+Success - /WASSCE/2021-03-19/Printing Craft Practice/PRINTING_CRAFT_PRACTICE.pdf
+Success - /WASSCE/2021-03-19/Photography/PHOTOGRAPHY.pdf
+Success - /WASSCE/2021-03-19/Auto Parts Merchandising/AUTO_PARTS_MERCHANDISING.pdf
+Success - /WASSCE/2021-03-19/Store Management/STORE_MANAGEMENT.pdf
+Success - /WASSCE/2021-03-19/Welding and Fabrication Engineering Craft Practice/WELDING_AND_FABRICATION_ENGINEERING_CRAFT_PRACTICE.pdf
+Success - /WASSCE/2021-03-19/Electronics or Basic Electronics/ELECTRONICS_OR_BASIC_ELECTRONICS.pdf
+Success - /WASSCE/2021-03-19/Woodwork to IED/WOODWORK_TO_IED.pdf
+Success - /WASSCE/2021-03-19/Marketing/MARKETING.pdf
+Success - /WASSCE/2021-03-19/Civic Education/CIVIC_EDUCATION.pdf
+Success - /WASSCE/2021-03-19/Fisheries Alta/FISHERIES_ALTA.pdf
+Success - /WASSCE/2021-03-19/Mining/MINING.pdf
+Success - /WASSCE/2021-03-19/Information and Communication Technology Elective/INFORMATION_AND_COMMUNICATION_TECHNOLOGY_ELECTIVE.pdf
+Success - /WASSCE/2021-03-19/Mdo/mDO.pdf
+Success - /WASSCE/2021-03-19/Islamic Religious Studies/ISLAMIC_RELIGIOUS_STUDIES.pdf
+Success - /WASSCE/2021-03-19/Jewellery/JEWELLERY.pdf
+Success - /WASSCE/2021-03-19/Ibibio/IBIBIO.pdf
+Success - /WASSCE/2021-03-19/Financial Accounting/FINANCIAL_ACCOUNTING.pdf
+Success - /WASSCE/2021-03-19/Computer Studies/COMPUTER_STUDIES.pdf
+Success - /WASSCE/2021-03-19/Integrated Science/INTEGRATED_SCIENCE.pdf
+Success - /WASSCE/2021-03-19/Plumbing and Pipe Fitting/PLUMBING_AND_PIPE_FITTING.pdf
+Success - /WASSCE/2021-03-19/Technical Drawing/TECHNICAL_DRAWING.pdf
+Success - /WASSCE/2021-03-19/Financial Accounts/FINANCIAL_ACCOUNTS.pdf
+Success - /WASSCE/2021-03-19/Foods and Nutrition/FOODS_AND_NUTRITION.pdf
+Success - /WASSCE/2021-03-19/Fisheries Altb/FISHERIES_ALTB.pdf
+Success - /WASSCE/2021-03-19/Data Processing/DATA_PROCESSING.pdf
+Success - /WASSCE/2021-03-19/Picture Making/PICTURE_MAKING.pdf
+Success - /WASSCE/2021-03-19/Dyeing Bleaching/DYEING_BLEACHING.pdf
+Success - /WASSCE/2021-03-19/Woodwork/WOODWORK.pdf
+Success - /WASSCE/2021-03-19/Refrigeration and Air Conditioning/REFRIGERATION_AND_AIR_CONDITIONING.pdf
+Success - /WASSCE/2021-03-19/Forestry/FORESTRY.pdf
+Success - /WASSCE/2021-03-19/Visual Art/VISUAL_ART.pdf
+Success - /WASSCE/2021-03-19/Yoruba/YORUBA.pdf
+Success - /WASSCE/2021-03-19/Literature In English/LITERATURE_IN_ENGLISH.pdf
+Success - /WASSCE/2021-03-19/Radio Television and Electronics Works/RADIO_TELEVISION_AND_ELECTRONICS_WORKS.pdf
+Success - /WASSCE/2021-03-19/Tourism/TOURISM.pdf
 
 
-Success: 60 Fail: 42 Total = 102
+Success: 102 Fail: 0 Total = 102
