@@ -1,0 +1,19 @@
+Traceback (most recent call last):
+  File "\main.py", line 137, in parse
+    pdf_syllabus = analyse_syllabus(pdf_syllabus, analyse_props)
+  File "\src\analyser.py", line 557, in analyse_syllabus
+    Analyser.order_cell_content(content)
+  File "\src\analyser.py", line 113, in order_cell_content
+    itemised_list = list_detector.advanced_detection_on_text_blocks(text_blocks)
+  File "\src\list_detector.py", line 60, in advanced_detection_on_text_blocks
+    self._advanced_itemised_list_detection(block)
+  File "\src\list_detector.py", line 263, in _advanced_itemised_list_detection
+    self._add_list_item(stack_item)
+  File "\src\list_detector.py", line 282, in _add_list_item
+    self._pop_and_add_item(stack_item)
+  File "\src\list_detector.py", line 328, in _pop_and_add_item
+    raise ListDetectionError(f"No missing items were found, however the most recent '{stack_item.list_type.name}' list item has value '{most_recent.list_value}' "
+src.list_detector.ListDetectionError: ("No missing items were found, however the most recent 'ALPHABET_LOWERCASE' list item has value '2' which is GREATER than new 'ALPHABET_LOWERCASE' item with value '1'", 'Meaning and types of agricultural  education', [1. Importance of agriculture to the national economy  [ListType.NUMERICAL - 1]
+, a. Definition and  [ListType.ALPHABET_LOWERCASE - 1]
+, b. Role of agriculture in                the  [ListType.ALPHABET_LOWERCASE - 2]
+])
