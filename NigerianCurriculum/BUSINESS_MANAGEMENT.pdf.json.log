@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "\main.py", line 137, in parse
+    pdf_syllabus = analyse_syllabus(pdf_syllabus, analyse_props)
+  File "\src\analyser.py", line 550, in analyse_syllabus
+    Analyser.combine_rows_in_section(section)
+  File "\src\analyser.py", line 168, in combine_rows_in_section
+    if content.lists[0].written_content.is_empty():
+AttributeError: 'NoneType' object has no attribute 'is_empty'

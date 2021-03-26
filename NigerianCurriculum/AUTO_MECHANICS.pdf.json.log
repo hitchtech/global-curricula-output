@@ -1,0 +1,18 @@
+Traceback (most recent call last):
+  File "\main.py", line 137, in parse
+    pdf_syllabus = analyse_syllabus(pdf_syllabus, analyse_props)
+  File "\src\analyser.py", line 557, in analyse_syllabus
+    Analyser.order_cell_content(content)
+  File "\src\analyser.py", line 113, in order_cell_content
+    itemised_list = list_detector.advanced_detection_on_text_blocks(text_blocks)
+  File "\src\list_detector.py", line 60, in advanced_detection_on_text_blocks
+    self._advanced_itemised_list_detection(block)
+  File "\src\list_detector.py", line 179, in _advanced_itemised_list_detection
+    matches = self._try_parse_list(text_block.data_text.strip())
+  File "\src\list_detector.py", line 451, in _try_parse_list
+    parser.try_deep_parse(terminals, matches)
+  File "\src\tokeniser.py", line 172, in try_deep_parse
+    matches.extend(IterableListParser.deep_parse(terminals, ignore_spaces))
+  File "\src\tokeniser.py", line 191, in deep_parse
+    all_matches.append(match)
+MemoryError
