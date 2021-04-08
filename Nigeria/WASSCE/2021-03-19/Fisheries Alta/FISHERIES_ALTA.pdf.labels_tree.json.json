@@ -1,1 +1,1629 @@
-{"subject": "subject", "Grade": "SS3", "Curriculum": "WASSCE", "labelsTree": [{"id": 2, "text": "Contents", "descriptions": null, "parentId": -1, "subLabels": [{"id": 3, "text": "A", "descriptions": [], "parentId": 2, "subLabels": []}, {"id": 4, "text": "Introduction", "descriptions": [], "parentId": 2, "subLabels": []}, {"id": 5, "text": "To", "descriptions": [], "parentId": 2, "subLabels": []}, {"id": 6, "text": "Fisheries", "descriptions": [], "parentId": 2, "subLabels": []}, {"id": 7, "text": "Fisheries and", "descriptions": [], "parentId": 2, "subLabels": [{"id": 8, "text": "(a)    meaning of fisheries", "descriptions": [], "parentId": 7, "subLabels": []}, {"id": 9, "text": "(b)     types of fisheries", "descriptions": [], "parentId": 7, "subLabels": []}, {"id": 10, "text": "(c)     importance of fisheries to national development", "descriptions": [], "parentId": 7, "subLabels": []}, {"id": 11, "text": "2.   fishery organisms and their habitats", "descriptions": [], "parentId": 7, "subLabels": []}, {"id": 12, "text": "(a)    identification and description of common fishery organisms", "descriptions": [], "parentId": 7, "subLabels": []}, {"id": 13, "text": "(b)     fishery habitats", "descriptions": [], "parentId": 7, "subLabels": []}]}, {"id": 14, "text": "Identification and", "descriptions": [], "parentId": 2, "subLabels": [{"id": 15, "text": "(d)    effects of invasive alien species in fisheries", "descriptions": [], "parentId": 14, "subLabels": []}]}, {"id": 16, "text": "(e)    prevention and control of invasive alien species in fishery habitats", "descriptions": [], "parentId": 2, "subLabels": []}, {"id": 17, "text": "3.   grouping of fishery organisms", "descriptions": [], "parentId": 2, "subLabels": [{"id": 18, "text": "B.     fishing", "descriptions": [], "parentId": 17, "subLabels": []}, {"id": 19, "text": "Activities", "descriptions": [], "parentId": 17, "subLabels": []}]}, {"id": 20, "text": "Fish landing", "descriptions": [], "parentId": 2, "subLabels": []}, {"id": 21, "text": "Types of fish", "descriptions": [], "parentId": 2, "subLabels": []}, {"id": 22, "text": "Facilities and", "descriptions": [], "parentId": 2, "subLabels": []}, {"id": 23, "text": "(c)      sanitation practices at fish landing sites", "descriptions": ["Assessment should cover the features of: Fin fishes (e.g.  herring, tuna, tilapia, Clarias, Heterobranchus ) Crustaceans (shrimp/prawns/lobster, crabs) Molluscs (clam, scallops, oyster, cuttle fish/squid)"], "parentId": 2, "subLabels": []}, {"id": 24, "text": "2.      fishing gear and craft", "descriptions": ["Knowledge of the characteristics of  habitats: freshwater (river, lake), brackish water (estuary, lagoon) and marine (pelagic, demersal) should be covered."], "parentId": 2, "subLabels": []}, {"id": 25, "text": "Classification and", "descriptions": [], "parentId": 2, "subLabels": []}, {"id": 26, "text": "(b)     construction and maintenance of fishing gear", "descriptions": ["Analysis of the effects of aquatic invasive alien species on fishery habitats, fishery organisms and fishers."], "parentId": 2, "subLabels": [{"id": 27, "text": "Description and", "descriptions": [], "parentId": 26, "subLabels": []}]}, {"id": 28, "text": "(d)     fishing methods", "descriptions": ["Assessment should cover the grouping of the following fishery organisms under freshwater, brackish water and marine habitats: Tilapia, Clarias/Heterobranchus, Chrysichthys, Heterotis,Lates, Bagrus, Alestes, Synodontis , Prawns, Crabs, Grey mullet, Shrimps, Sardinella , Sea bream, Cassava fish, Tuna, Mackerel, Anchovy, Shark, Cuttle fish/squid, Clam, Ray, Sea urchin."], "parentId": 2, "subLabels": []}, {"id": 29, "text": "(e)   harmful fishing practices", "descriptions": [], "parentId": 2, "subLabels": []}, {"id": 30, "text": "C.  fish biology", "descriptions": ["Assessment should cover the identification and location of the following landing sites in your country: beaches, harbours, lagoons, river banks, lake shores."], "parentId": 2, "subLabels": [{"id": 31, "text": "1.   identification and classification of fishery organisms", "descriptions": ["Knowledge in the use of the following facilities is required: winch, cold store, ice plant, fuel station, slipway, dry dock, jetty and breakwater."], "parentId": 30, "subLabels": []}, {"id": 32, "text": "(a)   identification of common fishery organisms by species", "descriptions": ["Description of activities at fish landing sites: -     unloading fish from vessels -     fuelling vessels -     loading of ice into vessels -     beaching of vessels for repairs -     repairs and maintenance of vessels/gear -    fish processing -    fish marketing"], "parentId": 30, "subLabels": []}, {"id": 33, "text": "(b)   classification of common fishery organisms", "descriptions": [], "parentId": 30, "subLabels": []}, {"id": 34, "text": "2.    structure and function of fishery organisms", "descriptions": ["Assessment should cover knowledge and skills of proper disposal of wastes generated at fish landing sites including oil spills and vessel parts."], "parentId": 30, "subLabels": []}]}, {"id": 35, "text": "(a)   fish body measurements", "descriptions": ["Active fishing gear: -     cast net -     seine net -     trawl -     dredges -     scoop net"], "parentId": 2, "subLabels": []}, {"id": 36, "text": "(b)   external structures and features of fishery organisms", "descriptions": [], "parentId": 2, "subLabels": []}, {"id": 37, "text": "(c)   internal organs of bony fishes and their functions", "descriptions": ["Passive fishing gear: e.g. -     hooking devices -     stationary nets -     tangle nets -     traps"], "parentId": 2, "subLabels": []}, {"id": 38, "text": "3.   life processes in fishes", "descriptions": ["Merits and demerits of using the various gear are also required."], "parentId": 2, "subLabels": [{"id": 39, "text": "(a)   locomotion", "descriptions": ["Assessment should include knowledge of materials for construction and repair of fishing gear. Basic ways of maintaining fishing gear is also required.", "Fishing craft should include canoes, trawlers and purse seiners. Accessories such as oars, sails, outboard and inboard engines, winches, sonar and radar should also be covered."], "parentId": 38, "subLabels": []}, {"id": 40, "text": "(b)    feeding and digestion", "descriptions": ["Description of active and passive fishing methods used in inland, coastal and deep sea fishing is required."], "parentId": 38, "subLabels": []}, {"id": 41, "text": "(c)    blood circulation", "descriptions": ["Assessment should cover the description of harmful fishing practices and an analysis of their effects.Ways of preventing harmful fishing practices and minimizing their effects are also required."], "parentId": 38, "subLabels": []}, {"id": 42, "text": "(d)    gaseous exchange", "descriptions": [], "parentId": 38, "subLabels": []}, {"id": 43, "text": "(e)     excretion", "descriptions": [], "parentId": 38, "subLabels": []}, {"id": 44, "text": "(f)   reproduction", "descriptions": ["Common and scientific names are required."], "parentId": 38, "subLabels": []}, {"id": 45, "text": "(g)   growth", "descriptions": ["Common fishery organisms should be classified under phylum and class for Mollusca, Arthropoda and Echinodermata. Phylum Chordata should be classified to the subclass level."], "parentId": 38, "subLabels": []}]}, {"id": 46, "text": "4.   fish ecology", "descriptions": [], "parentId": 2, "subLabels": [{"id": 47, "text": "Environmental", "descriptions": ["Ability to measure total, standard and fork lengths, and weights should be assessed."], "parentId": 46, "subLabels": []}, {"id": 48, "text": "(b)   ecological processes within fish habitats", "descriptions": ["Assessment should cover role of muscles and fins in movement and the maintenance of balance (pitching, rolling, yawing).", "Assessment  should include knowledge of ingestion, digestion, absorption and egestion in fishes."], "parentId": 46, "subLabels": []}, {"id": 49, "text": "(c)  pollution in water bodies", "descriptions": ["Assessment should cover composition, circulation and functions of blood.", "An understanding of the mechanism of gaseous exchange is required.", "Knowledge of osmo-regulation and the excretory process and products is required."], "parentId": 46, "subLabels": []}, {"id": 50, "text": "5.   fish genetics and evolution", "descriptions": ["Knowledge and understanding of the stages in the reproductive process: gamete formation, spawning, fertilization and parental care are required. Identification of male and female tilapia should be assessed. Examination of eggs of gravid/berried fish is required."], "parentId": 46, "subLabels": []}, {"id": 51, "text": "(a)     principles of genetics", "descriptions": ["Knowledge and understanding of the life cycle in fishes and the factors affecting growth (e.g. temperature, dissolved oxygen, nutrients, food availability, competition) are required."], "parentId": 46, "subLabels": []}]}, {"id": 52, "text": "(b)    inheritance of genetic", "descriptions": ["Knowledge and understanding of the environmental conditions and their effects on fish populations (temperature, dissolved oxygen, salinity, pH, turbidity, light, nutrients, upwelling phenomenon) are required. Measurement of environmental conditions using water test kits on water from pond, river/stream, lagoon, lake and sea is required."], "parentId": 2, "subLabels": []}, {"id": 53, "text": "Characteristics", "descriptions": [], "parentId": 2, "subLabels": [{"id": 54, "text": "D.     aquaculture", "descriptions": [], "parentId": 53, "subLabels": []}, {"id": 55, "text": "1.0     introduction to aquaculture", "descriptions": [], "parentId": 53, "subLabels": []}, {"id": 56, "text": "1.0     introduction to aquaculture", "descriptions": ["Knowledge of the following processes is required: -     feeding behaviour -     predation, competition -     food chain, food web -     food pyramid -     fish mortality -    adaptation of fishes to their environment"], "parentId": 53, "subLabels": [{"id": 57, "text": "Meaning and importance of", "descriptions": [], "parentId": 56, "subLabels": []}]}, {"id": 58, "text": "(b)   types of aquaculture", "descriptions": [], "parentId": 53, "subLabels": []}, {"id": 59, "text": "(c)  the state of aquaculture", "descriptions": ["The causes (poisons, sewage, debris, household refuse etc), effects, prevention and control of pollution are required. Effects of pollution on fish populations should be covered.", "Assessment should cover knowledge and understanding of chromosomes, genes, genetic crossings, genotype and phenotype as applied to fish. Application of the principles of genetics to fish breeding, e.g. development of super male tilapia and Genetically Improved Farmed Tilapia (GIFT) should be assessed.", "Explanation of the concept of inheritance of external characters in fishes", "e.g. skin colour is required."], "parentId": 53, "subLabels": []}, {"id": 60, "text": "2.     aquarium activities", "descriptions": [], "parentId": 53, "subLabels": [{"id": 61, "text": "(a)     construction of an aquarium", "descriptions": ["Assessment should cover the culture of organisms including fish, clams, shrimps and sea weeds."], "parentId": 60, "subLabels": []}, {"id": 62, "text": "Management of an", "descriptions": ["Assessment should be limited to the state of aquaculture in your country: Numbers and sizes of farms, types of cultured species, practices, infrastructure/facilities, levels of production, prospects and challenges."], "parentId": 60, "subLabels": []}, {"id": 63, "text": "3.     fish farming", "descriptions": [], "parentId": 60, "subLabels": []}, {"id": 64, "text": "(a)     introduction to", "descriptions": [], "parentId": 60, "subLabels": []}]}, {"id": 65, "text": "(a)     introduction to fish farming", "descriptions": ["Assessment should cover knowledge and skills involved in the identification of materials required, design and construction of an aquarium.", "Assessment should cover knowledge and skills involved in the identification of suitable species, capture, transport and stocking of aquarium fish. Keeping records of daily management activities and costs is also required."], "parentId": 53, "subLabels": []}, {"id": 66, "text": "Construction of", "descriptions": [], "parentId": 53, "subLabels": []}, {"id": 67, "text": "(c)   management of fish ponds", "descriptions": ["Knowledge and skills in the selection of suitable sites for construction of ponds, cages and pens is required. Criteria for the selection of sites for the construction of ponds, cages and pens should include topography, soil type, water quality and quantity and security. Skills in site clearing, marking, excavation, formation of walls, fitting drainage structures and grassing should be included."], "parentId": 53, "subLabels": []}, {"id": 68, "text": "(i)   stocking of ponds", "descriptions": ["Knowledge and skills required should include species selection, fingerling packaging and transport and stocking. Criteria for selection of fish species should include feeding habits, availability of fingerlings, growth rate and adaptability."], "parentId": 53, "subLabels": []}, {"id": 69, "text": "(ii)       pond maintenance", "descriptions": ["Knowledge of maintenance activities on fish ponds to be assessed should include: -     the control of water level -     repairing leakages -     predator and weed control -     fertilizer application"], "parentId": 53, "subLabels": []}, {"id": 70, "text": "(iii)     water quality control and monitoring", "descriptions": ["Knowledge and skills in monitoring of water quality should cover: -     pH -     dissolved oxygen -     turbidity -    ammonia content -    temperature", "Knowledge of measures to improve water quality such as stirring, lime application and fertilizer application is required."], "parentId": 53, "subLabels": []}, {"id": 71, "text": "(iv)    fish feeds and feeding", "descriptions": ["Knowledge about types of fish feeds and their nutrient content e.g. formulated feeds, agricultural by-products, pelletized and floating feeds is required.", "Skills in the formulation of nutritionally balanced fish feed/diets, procedures for feeding fish, feeding times and  quantities should be covered."], "parentId": 53, "subLabels": [{"id": 72, "text": "(v)   harvesting of fish ponds", "descriptions": ["Types of harvesting (partial and total) using various fishing gear and methods should be assessed.", "Draining and refilling of fish ponds as measures of pond preparation after harvest should be covered."], "parentId": 71, "subLabels": []}, {"id": 73, "text": "(d)     fish diseases", "descriptions": [], "parentId": 71, "subLabels": []}, {"id": 74, "text": "(i)   types and causes", "descriptions": ["Assessment should be limited to the following: Gill rot  -  fungus Furunculosis  -  bacteria Ich  -  protozoa"], "parentId": 71, "subLabels": []}]}, {"id": 75, "text": "(ii)     symptoms", "descriptions": ["Assessment should be based on the identification of symptoms: Gill rot  -  red/whitish spots on gills Furuncolosis  -  ulcers on skin Ich  -  white spots on skin and fins", "Knowledge of the following methods is required: chemotherapy, sterilization, minimal handling of fish, suitable diet and disinfection."], "parentId": 53, "subLabels": [{"id": 76, "text": "(iii)     prevention, control and treatment", "descriptions": ["Assessment should also include knowledge of aquatic conditions which favour fish diseases."], "parentId": 75, "subLabels": []}]}, {"id": 77, "text": "E.     fish utilization", "descriptions": ["Knowledge of the nutrients in fishery organisms - proteins, lipids, mineral salts, water and vitamins - and experiments to test for protein and lipids in fish are required."], "parentId": 53, "subLabels": [{"id": 78, "text": "1.    nutritive value of fish", "descriptions": [], "parentId": 77, "subLabels": []}]}]}, {"id": 79, "text": "Nutritive composition of fin fish, crustaceans and molluscs", "descriptions": ["Meaning of fish processing:  Explanation should include activities carried out to prepare fish for consumption and marketing. Meaning of fish preservation:  Explanation should include activities carried out to extend the shelf life of fish. Distinction between fish processing and fish preservation is also required"], "parentId": 2, "subLabels": [{"id": 80, "text": "2.    fish processing", "descriptions": [], "parentId": 79, "subLabels": []}]}, {"id": 81, "text": "And preservation", "descriptions": ["Reasons for fish processing and preservation should include prevention of spoilage, increase of shelf life, improvement of taste and adding value."], "parentId": 2, "subLabels": [{"id": 82, "text": "(a)     meaning of fish", "descriptions": ["Knowledge of the principles should include the removal of microbes and water, slowing down enzymatic action, denaturing of enzymes, slowing down bacterial activity and preventing fat oxidation."], "parentId": 81, "subLabels": []}]}, {"id": 83, "text": "Processing and preservation", "descriptions": [], "parentId": 2, "subLabels": [{"id": 84, "text": "Importance of fish", "descriptions": ["Assessment should be based on knowledge and skills in washing, scaling, gutting and filleting of fish. Identification of common fish processing equipment such as knives, scissors and mechanical equipment is required."], "parentId": 83, "subLabels": []}, {"id": 85, "text": "(c)   general principles of fish processing", "descriptions": [], "parentId": 83, "subLabels": []}]}, {"id": 86, "text": "And preservation", "descriptions": [], "parentId": 2, "subLabels": [{"id": 87, "text": "(d)     methods of fish processing", "descriptions": ["Identification of materials for packaging fresh and preserved fish for local and export markets e.g. cartons, crates and baskets is required. Demonstration of methods of packaging fresh fish and fish preserved by smoking,", "Major fish products to be identified: fish fillets, chunks and flakes, canned, smoked, dried, salted, pickled, marinated fish. Fish by-products to be identified should include fish oils, fish entrails (guts and gills) and fish bones. Uses of fish by-products should be covered."], "parentId": 86, "subLabels": []}, {"id": 88, "text": "(e)   methods of fish preservation", "descriptions": ["Signs of fish spoilage to be detected should include sunken eyes, mucus on the skin and darkening colour of gills.", "Knowledge of the causes of fish spoilage should be limited to microbial, enzymatic and fat oxidation."], "parentId": 86, "subLabels": []}, {"id": 89, "text": "(f)    packaging of fish", "descriptions": [], "parentId": 86, "subLabels": []}, {"id": 90, "text": "(f)    packaging of fish", "descriptions": ["The importance of proper handling of fish to delay spoilage should be included.", "Knowledge of effects such as loss of value, taste and income should be assessed. The public health hazard of consuming spoiled fish should be covered."], "parentId": 86, "subLabels": []}, {"id": 91, "text": "(g)   fish products and by-products", "descriptions": ["Assessment should cover knowledge of measures taken to maintain fish stock levels for sustainable exploitation. The concept of Maximum Sustainable Yield (MSY) should be covered."], "parentId": 86, "subLabels": []}, {"id": 92, "text": "(h)    fish spoilage", "descriptions": [], "parentId": 86, "subLabels": []}, {"id": 93, "text": "(i)      signs of fish spoilage", "descriptions": ["Objectives of fisheries management should include maximizing sustainable catches and maintaining spawning stock."], "parentId": 86, "subLabels": []}, {"id": 94, "text": "(ii)     causes of  fish spoilage", "descriptions": ["Strategies should include limiting the number of fishing units, fishing closures, regulating mesh sizes and catch quotas.", "Assessment should include the use of practices such as close seasons, taboos, non-fishing days and cultural festivals to maintain fish stocks."], "parentId": 86, "subLabels": []}, {"id": 95, "text": "(iii)    effects of fish spoilage", "descriptions": ["Knowledge of basic data required for fisheries management e.g. fish catch, fishing effort, fish length and weight, fish age and gear type should be assessed. Skills in the analysis of the data are also required."], "parentId": 86, "subLabels": []}, {"id": 96, "text": "F.    fisheries", "descriptions": [], "parentId": 86, "subLabels": [{"id": 97, "text": "Management", "descriptions": [], "parentId": 96, "subLabels": []}, {"id": 98, "text": "And business of", "descriptions": ["Factors (such as climate and breeding) responsible for seasonal variations in fish catches (bumper and lean) should be covered."], "parentId": 96, "subLabels": []}, {"id": 99, "text": "Fisheries", "descriptions": [], "parentId": 96, "subLabels": []}, {"id": 100, "text": "1.    fisheries", "descriptions": ["Explanation of the effect of upwelling on bumper harvest of fish should be assessed."], "parentId": 96, "subLabels": []}]}]}, {"id": 101, "text": "Management", "descriptions": [], "parentId": 2, "subLabels": [{"id": 102, "text": "(a)   meaning of fisheries management", "descriptions": ["Knowledge of government policies and regulations on fisheries e.g. subsidy on fishing inputs, role of stakeholders, fish imports should be assessed."], "parentId": 101, "subLabels": []}, {"id": 103, "text": "(b)    objectives and strategies offisheries", "descriptions": ["Knowledge of the importance of fisheries policies and regulations e.g. preventing capture of juvenile fishes, protection of the environment is also required."], "parentId": 101, "subLabels": []}]}, {"id": 104, "text": "Management", "descriptions": ["Meaning and economic benefits of the Exclusive Economic Zone (EEZ) should be covered."], "parentId": 2, "subLabels": [{"id": 105, "text": "Traditional fish stock", "descriptions": ["Assessment should include knowledge of endangered fishery organisms and international conventions which protect them e.g. IUCN Red List, Convention on Biodiversity (CBD), International Convention for the Conservation of Atlantic Tunas (ICCAT). The importance of international conventions should also be included."], "parentId": 104, "subLabels": []}, {"id": 106, "text": "Data collection", "descriptions": ["Knowledge and skills in the preparation of budgets using expenditure and income items from culture and capture fisheries and other fishery related businesses (sale of fishing inputs, fish marketing and fish processing) are required. Cashflow projections are also required."], "parentId": 104, "subLabels": []}]}, {"id": 107, "text": "Management", "descriptions": ["Knowledge and skills in pricing of fish products in relation to demand and supply of fish product should be covered.", "Assessment should cover knowledge in quality control, packaging, storage and transportation of fish. Major fish marketing centres in the country should be identified, e.g. fishing harbours \u2013 Tema, Takoradi fish landing beaches \u2013 Elmina fish landing sites \u2013 Yeji other fish markets \u2013 Mankessim"], "parentId": 2, "subLabels": [{"id": 108, "text": "Fishery policies", "descriptions": [], "parentId": 107, "subLabels": []}]}, {"id": 109, "text": "And regulations", "descriptions": ["Problems of fish marketing and their solutions should be covered. Activities involved in fish import and export should be outlined."], "parentId": 2, "subLabels": [{"id": 110, "text": "Government", "descriptions": ["Explanation of the effects of bumper harvest on import/export and prices of fish should be assessed."], "parentId": 109, "subLabels": []}]}, {"id": 111, "text": "Fisheries", "descriptions": ["Major companies involved in fisheries activities in your country should be named e.g. fishing \u2013 Kaas, Afko, Enyidado fish farming    \u2013 Tropo farms, Crystal lake fish company cold storage  \u2013   Felibat Ltd.", "Assessment should cover knowledge of value chains in the fishery industry.  The responsibilities of actors in the supply and value chain should be included."], "parentId": 2, "subLabels": [{"id": 112, "text": "International law and", "descriptions": ["Quality and safety standards of various fish products should be mentioned."], "parentId": 111, "subLabels": []}, {"id": 113, "text": "3.      business of fisheries", "descriptions": ["Knowledge of the location of important fishing communities in your country is required e.g. freshwater fishing communities- Yeji, Dambai, Kwamikrom and Abotoase. marine fishing communities- Teshie, Elmina, Chorkor and Shama."], "parentId": 111, "subLabels": []}]}, {"id": 114, "text": "Budget preparation and financial projections for a fishery business", "descriptions": ["List of festivals should include: Bakatue of Edina Fetu of Oguaa Dzawuwu of Agave"], "parentId": 2, "subLabels": [{"id": 115, "text": "4.    fish marketing", "descriptions": ["Knowledge of the influence of the festivals and taboos on the fishing industry should be covered, e.g. close season/fishing holiday."], "parentId": 114, "subLabels": []}, {"id": 116, "text": "(a)    the state of fishmarketing", "descriptions": ["Identification, objectives and activities of the institutions e.g. Water Research Institute and University of Ghana are required.", "Job opportunities in the fishery sub-sector should be identified, e.g. teaching/research, fish farming, fish pond engineer, fish import/export, fish processing, cold store operation and fishing gear/craft manufacturing.", "Factors required for establishing enterprises in fisheries -  Identification of business opportunities -  Identification of fishery product or service needed in a locality -   availability of market for the product or service -   demand for the product or service Resources should include land, capital, materials, structures, services, labour, technical know-how."], "parentId": 114, "subLabels": []}, {"id": 117, "text": "(b)    major  fisheries companies", "descriptions": [], "parentId": 114, "subLabels": [{"id": 118, "text": "Supply and value chains in", "descriptions": ["Procedures should include the development of business plans, registration of business, management of the business, etc"], "parentId": 117, "subLabels": []}]}, {"id": 119, "text": "(d)    food fish quality and safety standards", "descriptions": ["e.g. technical assistance to fish farmers and education of fisher folks on", "fisheries regulations.", "Assessment should cover drawing and labelling of different fishing gear."], "parentId": 114, "subLabels": []}, {"id": 120, "text": "G.    practices in", "descriptions": [], "parentId": 114, "subLabels": [{"id": 121, "text": "Fishing  communities", "descriptions": ["Assessment should cover the following fishery organisms: Tilapia , Clarias/Heterobranchus, Chrysichthys, Heterotis, Lates, Bagrus, Alestes, Synodontis, Sardinella, prawns/shrimps, crabs, grey mullet, sea bream, cassava fish, tuna, mackerel, anchovy, ray, shark cuttlefish/ squid and sea urchins."], "parentId": 120, "subLabels": []}, {"id": 122, "text": "And fisheries", "descriptions": [], "parentId": 120, "subLabels": []}, {"id": 123, "text": "Institutions", "descriptions": [], "parentId": 120, "subLabels": []}]}, {"id": 124, "text": "1.   fishing communities and cultural practices", "descriptions": ["Assessment should cover the following alien species. Eichorniacrassipes (water hyacinth) Cyperus papyrus (Papyrus reed), Salviniamolesta (kariba weed) Pistiastratiotes (water lettuce) Ceratophylumsp (Hornwort)"], "parentId": 114, "subLabels": [{"id": 125, "text": "Important fishing", "descriptions": [], "parentId": 124, "subLabels": []}]}]}, {"id": 126, "text": "Communities", "descriptions": ["Drawing and labelling of external features is required. Dissection, drawing and labelling of gills, swim bladder, alimentary canal and heart should be covered. Structure should be related to function."], "parentId": 2, "subLabels": [{"id": 127, "text": "(b)  cultural festivals and taboos related to fishing", "descriptions": ["Measurement of the environmental conditions: temperature, dissolved oxygen, pH, and salinity is required.", "Construction of food chain, food web and food pyramid should be covered."], "parentId": 126, "subLabels": [{"id": 128, "text": "Fisheries", "descriptions": [], "parentId": 127, "subLabels": []}]}]}, {"id": 129, "text": "Institutional framework and job opportunities", "descriptions": ["Knowledge of the following characteristics is required: Fresh fish - firm flesh, bright eyes, bright red gills and sea-weedy smell. Spoiled fish - sunken eyes, dark gills, mucus on skin and off odour smell."], "parentId": 2, "subLabels": [{"id": 130, "text": "(a)   fisheries training and research institutions", "descriptions": ["Assessment should cover organisms such as maggots, fungi and insects in spoiled fish."], "parentId": 129, "subLabels": []}, {"id": 131, "text": "(b)   job opportunities in the fishery sub-sector", "descriptions": ["Identification of common forms of", "(a) processed fish: e.g. gutted, filleted, skilled", "fish."], "parentId": 129, "subLabels": []}, {"id": 132, "text": "(c)    business opportunities in fisheries", "descriptions": ["(b) preserved fish: e.g. frozen, salted, canned", "and smoked fish. Identification and uses of common processing and preservation methods e.g. Chorkor smoker is required.", "Assessment should be based on the identification and uses of fish by-products.", "Identification of suitable soils, material and equipment for pond construction."], "parentId": 129, "subLabels": []}, {"id": 133, "text": "(d)    procedure for establishing enterprises in fisheries", "descriptions": ["Identification of ingredients used for fish feed formulation and identification of types of fish feed are required. Methods of formulation of fish feed are also required.", "Assessment should cover identification of types, uses and methods of application of fertilizers in fish ponds."], "parentId": 129, "subLabels": []}, {"id": 134, "text": "(e)    extension services in the fisheries sub sector", "descriptions": ["Identification of gill rot, furunculosis and ich by their symptoms is required."], "parentId": 129, "subLabels": []}, {"id": 135, "text": "1.  fishing gear", "descriptions": [], "parentId": 129, "subLabels": [{"id": 136, "text": "Identification, uses", "descriptions": [], "parentId": 135, "subLabels": []}]}]}, {"id": 137, "text": "And maintenance", "descriptions": [], "parentId": 2, "subLabels": [{"id": 138, "text": "2.   fish identification", "descriptions": [], "parentId": 137, "subLabels": [{"id": 139, "text": "Identification and classification of common freshwater, brackish water and marine fishes", "descriptions": [], "parentId": 138, "subLabels": []}]}, {"id": 140, "text": "3.   identification and description of characteristics of invasive alien species in fishery habitats", "descriptions": [], "parentId": 137, "subLabels": []}, {"id": 141, "text": "4.   fish structure and function", "descriptions": [], "parentId": 137, "subLabels": []}, {"id": 142, "text": "(a)   external features", "descriptions": [], "parentId": 137, "subLabels": []}]}, {"id": 143, "text": "Body form, fins, scales, lateral line etc", "descriptions": [], "parentId": 2, "subLabels": [{"id": 144, "text": "(b)  internal stuctures", "descriptions": [], "parentId": 143, "subLabels": []}]}, {"id": 145, "text": "Gills, swim bladder alimentary canal,heart, blood  vessels, kidney and gonads", "descriptions": [], "parentId": 2, "subLabels": [{"id": 146, "text": "5.   environmental conditions in fish habitats", "descriptions": [], "parentId": 145, "subLabels": []}, {"id": 147, "text": "6.  ecological processes within the aquatic environment", "descriptions": [], "parentId": 145, "subLabels": []}, {"id": 148, "text": "7.  characteristic features of fresh and spoiled fish", "descriptions": [], "parentId": 145, "subLabels": []}, {"id": 149, "text": "8.  identification of micro- organisms and macro-organisms in spoiled fish", "descriptions": [], "parentId": 145, "subLabels": []}, {"id": 150, "text": "9.  fish processing and preservation", "descriptions": [], "parentId": 145, "subLabels": []}, {"id": 151, "text": "10.   fish by-products", "descriptions": [], "parentId": 145, "subLabels": []}, {"id": 152, "text": "11.    pond construction", "descriptions": [], "parentId": 145, "subLabels": []}, {"id": 153, "text": "12.    feed formulation and feeding", "descriptions": [], "parentId": 145, "subLabels": []}, {"id": 154, "text": "13.    pond fertilization", "descriptions": [], "parentId": 145, "subLabels": []}, {"id": 155, "text": "14.    fish diseases", "descriptions": [], "parentId": 145, "subLabels": []}]}]}], "labels": [{"id": 3, "text": "Detailed syllabus", "descriptions": null, "parentId": -1, "subLabels": [{"id": 4, "text": "1", "descriptions": ["Introduction to Financial Accounting"], "parentId": 3, "subLabels": []}, {"id": 5, "text": "2", "descriptions": ["The Accounting Equation and Double Entry Principles"], "parentId": 3, "subLabels": []}, {"id": 6, "text": "3", "descriptions": ["Accounting Concepts"], "parentId": 3, "subLabels": []}, {"id": 7, "text": "4", "descriptions": ["The Final Accounts of a Sole Trader/proprietorship"], "parentId": 3, "subLabels": []}, {"id": 8, "text": "5", "descriptions": ["Provisions and Reserves"], "parentId": 3, "subLabels": []}, {"id": 9, "text": "6", "descriptions": ["Manufacturing Accounts"], "parentId": 3, "subLabels": []}, {"id": 10, "text": "7", "descriptions": ["Control Accounts and Self- balancing Ledgers"], "parentId": 3, "subLabels": []}, {"id": 11, "text": "8", "descriptions": ["Single Entry and Incomplete Records"], "parentId": 3, "subLabels": []}, {"id": 12, "text": "9", "descriptions": ["Accounts of Not-for-Profit Making Organizations"], "parentId": 3, "subLabels": []}, {"id": 13, "text": "10", "descriptions": ["Partnership Accounts"], "parentId": 3, "subLabels": []}, {"id": 14, "text": "11", "descriptions": ["Company Accounts"], "parentId": 3, "subLabels": []}, {"id": 15, "text": "12. *", "descriptions": ["Accounting for Value Added Tax"], "parentId": 3, "subLabels": []}, {"id": 16, "text": "13", "descriptions": ["Departmental and Branch Accounts"], "parentId": 3, "subLabels": []}, {"id": 17, "text": "14", "descriptions": ["Public Sector Accounting"], "parentId": 3, "subLabels": []}, {"id": 18, "text": "15. *", "descriptions": ["Information Technology in Accounting"], "parentId": 3, "subLabels": []}, {"id": 19, "text": "16 **", "descriptions": ["Miscellaneous Accounts"], "parentId": 3, "subLabels": [{"id": 20, "text": "17. **", "descriptions": ["Financial system"], "parentId": 19, "subLabels": []}]}]}, {"id": 4, "text": "1", "descriptions": ["Introduction to Financial Accounting"], "parentId": 3, "subLabels": []}, {"id": 5, "text": "2", "descriptions": ["The Accounting Equation and Double Entry Principles"], "parentId": 3, "subLabels": []}, {"id": 6, "text": "3", "descriptions": ["Accounting Concepts"], "parentId": 3, "subLabels": []}, {"id": 7, "text": "4", "descriptions": ["The Final Accounts of a Sole Trader/proprietorship"], "parentId": 3, "subLabels": []}, {"id": 8, "text": "5", "descriptions": ["Provisions and Reserves"], "parentId": 3, "subLabels": []}, {"id": 9, "text": "6", "descriptions": ["Manufacturing Accounts"], "parentId": 3, "subLabels": []}, {"id": 10, "text": "7", "descriptions": ["Control Accounts and Self- balancing Ledgers"], "parentId": 3, "subLabels": []}, {"id": 11, "text": "8", "descriptions": ["Single Entry and Incomplete Records"], "parentId": 3, "subLabels": []}, {"id": 12, "text": "9", "descriptions": ["Accounts of Not-for-Profit Making Organizations"], "parentId": 3, "subLabels": []}, {"id": 13, "text": "10", "descriptions": ["Partnership Accounts"], "parentId": 3, "subLabels": []}, {"id": 14, "text": "11", "descriptions": ["Company Accounts"], "parentId": 3, "subLabels": []}, {"id": 15, "text": "12. *", "descriptions": ["Accounting for Value Added Tax"], "parentId": 3, "subLabels": []}, {"id": 16, "text": "13", "descriptions": ["Departmental and Branch Accounts"], "parentId": 3, "subLabels": []}, {"id": 17, "text": "14", "descriptions": ["Public Sector Accounting"], "parentId": 3, "subLabels": []}, {"id": 18, "text": "15. *", "descriptions": ["Information Technology in Accounting"], "parentId": 3, "subLabels": []}, {"id": 19, "text": "16 **", "descriptions": ["Miscellaneous Accounts"], "parentId": 3, "subLabels": [{"id": 20, "text": "17. **", "descriptions": ["Financial system"], "parentId": 19, "subLabels": []}]}, {"id": 20, "text": "17. **", "descriptions": ["Financial system"], "parentId": 19, "subLabels": []}]}
+{
+ "subject": "Fisheries Alta",
+ "Grade": "None",
+ "Curriculum": "test",
+ "labelsTree": [
+  {
+   "id": 2,
+   "text": "Contents",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 3,
+     "text": "A",
+     "descriptions": [],
+     "parentId": 2,
+     "subLabels": []
+    },
+    {
+     "id": 4,
+     "text": "Introduction",
+     "descriptions": [],
+     "parentId": 2,
+     "subLabels": []
+    },
+    {
+     "id": 5,
+     "text": "To",
+     "descriptions": [],
+     "parentId": 2,
+     "subLabels": []
+    },
+    {
+     "id": 6,
+     "text": "Fisheries",
+     "descriptions": [],
+     "parentId": 2,
+     "subLabels": []
+    },
+    {
+     "id": 7,
+     "text": "Fisheries and",
+     "descriptions": [],
+     "parentId": 2,
+     "subLabels": [
+      {
+       "id": 8,
+       "text": "(a)    meaning of fisheries",
+       "descriptions": [],
+       "parentId": 7,
+       "subLabels": []
+      },
+      {
+       "id": 9,
+       "text": "(b)     types of fisheries",
+       "descriptions": [],
+       "parentId": 7,
+       "subLabels": []
+      },
+      {
+       "id": 10,
+       "text": "(c)     importance of fisheries to national development",
+       "descriptions": [],
+       "parentId": 7,
+       "subLabels": []
+      },
+      {
+       "id": 11,
+       "text": "2.   fishery organisms and their habitats",
+       "descriptions": [],
+       "parentId": 7,
+       "subLabels": []
+      },
+      {
+       "id": 12,
+       "text": "(a)    identification and description of common fishery organisms",
+       "descriptions": [],
+       "parentId": 7,
+       "subLabels": []
+      },
+      {
+       "id": 13,
+       "text": "(b)     fishery habitats",
+       "descriptions": [],
+       "parentId": 7,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 14,
+     "text": "Identification and",
+     "descriptions": [],
+     "parentId": 2,
+     "subLabels": [
+      {
+       "id": 15,
+       "text": "(d)    effects of invasive alien species in fisheries",
+       "descriptions": [],
+       "parentId": 14,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 16,
+     "text": "(e)    prevention and control of invasive alien species in fishery habitats",
+     "descriptions": [],
+     "parentId": 2,
+     "subLabels": []
+    },
+    {
+     "id": 17,
+     "text": "3.   grouping of fishery organisms",
+     "descriptions": [],
+     "parentId": 2,
+     "subLabels": [
+      {
+       "id": 18,
+       "text": "B.     fishing",
+       "descriptions": [],
+       "parentId": 17,
+       "subLabels": []
+      },
+      {
+       "id": 19,
+       "text": "Activities",
+       "descriptions": [],
+       "parentId": 17,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 20,
+     "text": "Fish landing",
+     "descriptions": [],
+     "parentId": 2,
+     "subLabels": []
+    },
+    {
+     "id": 21,
+     "text": "Types of fish",
+     "descriptions": [],
+     "parentId": 2,
+     "subLabels": []
+    },
+    {
+     "id": 22,
+     "text": "Facilities and",
+     "descriptions": [],
+     "parentId": 2,
+     "subLabels": []
+    },
+    {
+     "id": 23,
+     "text": "(c)      sanitation practices at fish landing sites",
+     "descriptions": [
+      "Assessment should cover the features of: Fin fishes (e.g.  herring, tuna, tilapia, Clarias, Heterobranchus ) Crustaceans (shrimp/prawns/lobster, crabs) Molluscs (clam, scallops, oyster, cuttle fish/squid)"
+     ],
+     "parentId": 2,
+     "subLabels": []
+    },
+    {
+     "id": 24,
+     "text": "2.      fishing gear and craft",
+     "descriptions": [
+      "Knowledge of the characteristics of  habitats: freshwater (river, lake), brackish water (estuary, lagoon) and marine (pelagic, demersal) should be covered."
+     ],
+     "parentId": 2,
+     "subLabels": []
+    },
+    {
+     "id": 25,
+     "text": "Classification and",
+     "descriptions": [],
+     "parentId": 2,
+     "subLabels": []
+    },
+    {
+     "id": 26,
+     "text": "(b)     construction and maintenance of fishing gear",
+     "descriptions": [
+      "Analysis of the effects of aquatic invasive alien species on fishery habitats, fishery organisms and fishers."
+     ],
+     "parentId": 2,
+     "subLabels": [
+      {
+       "id": 27,
+       "text": "Description and",
+       "descriptions": [],
+       "parentId": 26,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 28,
+     "text": "(d)     fishing methods",
+     "descriptions": [
+      "Assessment should cover the grouping of the following fishery organisms under freshwater, brackish water and marine habitats: Tilapia, Clarias/Heterobranchus, Chrysichthys, Heterotis,Lates, Bagrus, Alestes, Synodontis , Prawns, Crabs, Grey mullet, Shrimps, Sardinella , Sea bream, Cassava fish, Tuna, Mackerel, Anchovy, Shark, Cuttle fish/squid, Clam, Ray, Sea urchin."
+     ],
+     "parentId": 2,
+     "subLabels": []
+    },
+    {
+     "id": 29,
+     "text": "(e)   harmful fishing practices",
+     "descriptions": [],
+     "parentId": 2,
+     "subLabels": []
+    },
+    {
+     "id": 30,
+     "text": "C.  fish biology",
+     "descriptions": [
+      "Assessment should cover the identification and location of the following landing sites in your country: beaches, harbours, lagoons, river banks, lake shores."
+     ],
+     "parentId": 2,
+     "subLabels": [
+      {
+       "id": 31,
+       "text": "1.   identification and classification of fishery organisms",
+       "descriptions": [
+        "Knowledge in the use of the following facilities is required: winch, cold store, ice plant, fuel station, slipway, dry dock, jetty and breakwater."
+       ],
+       "parentId": 30,
+       "subLabels": []
+      },
+      {
+       "id": 32,
+       "text": "(a)   identification of common fishery organisms by species",
+       "descriptions": [
+        "Description of activities at fish landing sites: -     unloading fish from vessels -     fuelling vessels -     loading of ice into vessels -     beaching of vessels for repairs -     repairs and maintenance of vessels/gear -    fish processing -    fish marketing"
+       ],
+       "parentId": 30,
+       "subLabels": []
+      },
+      {
+       "id": 33,
+       "text": "(b)   classification of common fishery organisms",
+       "descriptions": [],
+       "parentId": 30,
+       "subLabels": []
+      },
+      {
+       "id": 34,
+       "text": "2.    structure and function of fishery organisms",
+       "descriptions": [
+        "Assessment should cover knowledge and skills of proper disposal of wastes generated at fish landing sites including oil spills and vessel parts."
+       ],
+       "parentId": 30,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 35,
+     "text": "(a)   fish body measurements",
+     "descriptions": [
+      "Active fishing gear: -     cast net -     seine net -     trawl -     dredges -     scoop net"
+     ],
+     "parentId": 2,
+     "subLabels": []
+    },
+    {
+     "id": 36,
+     "text": "(b)   external structures and features of fishery organisms",
+     "descriptions": [],
+     "parentId": 2,
+     "subLabels": []
+    },
+    {
+     "id": 37,
+     "text": "(c)   internal organs of bony fishes and their functions",
+     "descriptions": [
+      "Passive fishing gear: e.g. -     hooking devices -     stationary nets -     tangle nets -     traps"
+     ],
+     "parentId": 2,
+     "subLabels": []
+    },
+    {
+     "id": 38,
+     "text": "3.   life processes in fishes",
+     "descriptions": [
+      "Merits and demerits of using the various gear are also required."
+     ],
+     "parentId": 2,
+     "subLabels": [
+      {
+       "id": 39,
+       "text": "(a)   locomotion",
+       "descriptions": [
+        "Assessment should include knowledge of materials for construction and repair of fishing gear. Basic ways of maintaining fishing gear is also required.",
+        "Fishing craft should include canoes, trawlers and purse seiners. Accessories such as oars, sails, outboard and inboard engines, winches, sonar and radar should also be covered."
+       ],
+       "parentId": 38,
+       "subLabels": []
+      },
+      {
+       "id": 40,
+       "text": "(b)    feeding and digestion",
+       "descriptions": [
+        "Description of active and passive fishing methods used in inland, coastal and deep sea fishing is required."
+       ],
+       "parentId": 38,
+       "subLabels": []
+      },
+      {
+       "id": 41,
+       "text": "(c)    blood circulation",
+       "descriptions": [
+        "Assessment should cover the description of harmful fishing practices and an analysis of their effects.Ways of preventing harmful fishing practices and minimizing their effects are also required."
+       ],
+       "parentId": 38,
+       "subLabels": []
+      },
+      {
+       "id": 42,
+       "text": "(d)    gaseous exchange",
+       "descriptions": [],
+       "parentId": 38,
+       "subLabels": []
+      },
+      {
+       "id": 43,
+       "text": "(e)     excretion",
+       "descriptions": [],
+       "parentId": 38,
+       "subLabels": []
+      },
+      {
+       "id": 44,
+       "text": "(f)   reproduction",
+       "descriptions": [
+        "Common and scientific names are required."
+       ],
+       "parentId": 38,
+       "subLabels": []
+      },
+      {
+       "id": 45,
+       "text": "(g)   growth",
+       "descriptions": [
+        "Common fishery organisms should be classified under phylum and class for Mollusca, Arthropoda and Echinodermata. Phylum Chordata should be classified to the subclass level."
+       ],
+       "parentId": 38,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 46,
+     "text": "4.   fish ecology",
+     "descriptions": [],
+     "parentId": 2,
+     "subLabels": [
+      {
+       "id": 47,
+       "text": "Environmental",
+       "descriptions": [
+        "Ability to measure total, standard and fork lengths, and weights should be assessed."
+       ],
+       "parentId": 46,
+       "subLabels": []
+      },
+      {
+       "id": 48,
+       "text": "(b)   ecological processes within fish habitats",
+       "descriptions": [
+        "Assessment should cover role of muscles and fins in movement and the maintenance of balance (pitching, rolling, yawing).",
+        "Assessment  should include knowledge of ingestion, digestion, absorption and egestion in fishes."
+       ],
+       "parentId": 46,
+       "subLabels": []
+      },
+      {
+       "id": 49,
+       "text": "(c)  pollution in water bodies",
+       "descriptions": [
+        "Assessment should cover composition, circulation and functions of blood.",
+        "An understanding of the mechanism of gaseous exchange is required.",
+        "Knowledge of osmo-regulation and the excretory process and products is required."
+       ],
+       "parentId": 46,
+       "subLabels": []
+      },
+      {
+       "id": 50,
+       "text": "5.   fish genetics and evolution",
+       "descriptions": [
+        "Knowledge and understanding of the stages in the reproductive process: gamete formation, spawning, fertilization and parental care are required. Identification of male and female tilapia should be assessed. Examination of eggs of gravid/berried fish is required."
+       ],
+       "parentId": 46,
+       "subLabels": []
+      },
+      {
+       "id": 51,
+       "text": "(a)     principles of genetics",
+       "descriptions": [
+        "Knowledge and understanding of the life cycle in fishes and the factors affecting growth (e.g. temperature, dissolved oxygen, nutrients, food availability, competition) are required."
+       ],
+       "parentId": 46,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 52,
+     "text": "(b)    inheritance of genetic",
+     "descriptions": [
+      "Knowledge and understanding of the environmental conditions and their effects on fish populations (temperature, dissolved oxygen, salinity, pH, turbidity, light, nutrients, upwelling phenomenon) are required. Measurement of environmental conditions using water test kits on water from pond, river/stream, lagoon, lake and sea is required."
+     ],
+     "parentId": 2,
+     "subLabels": []
+    },
+    {
+     "id": 53,
+     "text": "Characteristics",
+     "descriptions": [],
+     "parentId": 2,
+     "subLabels": [
+      {
+       "id": 54,
+       "text": "D.     aquaculture",
+       "descriptions": [],
+       "parentId": 53,
+       "subLabels": []
+      },
+      {
+       "id": 55,
+       "text": "1.0     introduction to aquaculture",
+       "descriptions": [],
+       "parentId": 53,
+       "subLabels": []
+      },
+      {
+       "id": 56,
+       "text": "1.0     introduction to aquaculture",
+       "descriptions": [
+        "Knowledge of the following processes is required: -     feeding behaviour -     predation, competition -     food chain, food web -     food pyramid -     fish mortality -    adaptation of fishes to their environment"
+       ],
+       "parentId": 53,
+       "subLabels": [
+        {
+         "id": 57,
+         "text": "Meaning and importance of",
+         "descriptions": [],
+         "parentId": 56,
+         "subLabels": []
+        }
+       ]
+      },
+      {
+       "id": 58,
+       "text": "(b)   types of aquaculture",
+       "descriptions": [],
+       "parentId": 53,
+       "subLabels": []
+      },
+      {
+       "id": 59,
+       "text": "(c)  the state of aquaculture",
+       "descriptions": [
+        "The causes (poisons, sewage, debris, household refuse etc), effects, prevention and control of pollution are required. Effects of pollution on fish populations should be covered.",
+        "Assessment should cover knowledge and understanding of chromosomes, genes, genetic crossings, genotype and phenotype as applied to fish. Application of the principles of genetics to fish breeding, e.g. development of super male tilapia and Genetically Improved Farmed Tilapia (GIFT) should be assessed.",
+        "Explanation of the concept of inheritance of external characters in fishes",
+        "e.g. skin colour is required."
+       ],
+       "parentId": 53,
+       "subLabels": []
+      },
+      {
+       "id": 60,
+       "text": "2.     aquarium activities",
+       "descriptions": [],
+       "parentId": 53,
+       "subLabels": [
+        {
+         "id": 61,
+         "text": "(a)     construction of an aquarium",
+         "descriptions": [
+          "Assessment should cover the culture of organisms including fish, clams, shrimps and sea weeds."
+         ],
+         "parentId": 60,
+         "subLabels": []
+        },
+        {
+         "id": 62,
+         "text": "Management of an",
+         "descriptions": [
+          "Assessment should be limited to the state of aquaculture in your country: Numbers and sizes of farms, types of cultured species, practices, infrastructure/facilities, levels of production, prospects and challenges."
+         ],
+         "parentId": 60,
+         "subLabels": []
+        },
+        {
+         "id": 63,
+         "text": "3.     fish farming",
+         "descriptions": [],
+         "parentId": 60,
+         "subLabels": []
+        },
+        {
+         "id": 64,
+         "text": "(a)     introduction to",
+         "descriptions": [],
+         "parentId": 60,
+         "subLabels": []
+        }
+       ]
+      },
+      {
+       "id": 65,
+       "text": "(a)     introduction to fish farming",
+       "descriptions": [
+        "Assessment should cover knowledge and skills involved in the identification of materials required, design and construction of an aquarium.",
+        "Assessment should cover knowledge and skills involved in the identification of suitable species, capture, transport and stocking of aquarium fish. Keeping records of daily management activities and costs is also required."
+       ],
+       "parentId": 53,
+       "subLabels": []
+      },
+      {
+       "id": 66,
+       "text": "Construction of",
+       "descriptions": [],
+       "parentId": 53,
+       "subLabels": []
+      },
+      {
+       "id": 67,
+       "text": "(c)   management of fish ponds",
+       "descriptions": [
+        "Knowledge and skills in the selection of suitable sites for construction of ponds, cages and pens is required. Criteria for the selection of sites for the construction of ponds, cages and pens should include topography, soil type, water quality and quantity and security. Skills in site clearing, marking, excavation, formation of walls, fitting drainage structures and grassing should be included."
+       ],
+       "parentId": 53,
+       "subLabels": []
+      },
+      {
+       "id": 68,
+       "text": "(i)   stocking of ponds",
+       "descriptions": [
+        "Knowledge and skills required should include species selection, fingerling packaging and transport and stocking. Criteria for selection of fish species should include feeding habits, availability of fingerlings, growth rate and adaptability."
+       ],
+       "parentId": 53,
+       "subLabels": []
+      },
+      {
+       "id": 69,
+       "text": "(ii)       pond maintenance",
+       "descriptions": [
+        "Knowledge of maintenance activities on fish ponds to be assessed should include: -     the control of water level -     repairing leakages -     predator and weed control -     fertilizer application"
+       ],
+       "parentId": 53,
+       "subLabels": []
+      },
+      {
+       "id": 70,
+       "text": "(iii)     water quality control and monitoring",
+       "descriptions": [
+        "Knowledge and skills in monitoring of water quality should cover: -     pH -     dissolved oxygen -     turbidity -    ammonia content -    temperature",
+        "Knowledge of measures to improve water quality such as stirring, lime application and fertilizer application is required."
+       ],
+       "parentId": 53,
+       "subLabels": []
+      },
+      {
+       "id": 71,
+       "text": "(iv)    fish feeds and feeding",
+       "descriptions": [
+        "Knowledge about types of fish feeds and their nutrient content e.g. formulated feeds, agricultural by-products, pelletized and floating feeds is required.",
+        "Skills in the formulation of nutritionally balanced fish feed/diets, procedures for feeding fish, feeding times and  quantities should be covered."
+       ],
+       "parentId": 53,
+       "subLabels": [
+        {
+         "id": 72,
+         "text": "(v)   harvesting of fish ponds",
+         "descriptions": [
+          "Types of harvesting (partial and total) using various fishing gear and methods should be assessed.",
+          "Draining and refilling of fish ponds as measures of pond preparation after harvest should be covered."
+         ],
+         "parentId": 71,
+         "subLabels": []
+        },
+        {
+         "id": 73,
+         "text": "(d)     fish diseases",
+         "descriptions": [],
+         "parentId": 71,
+         "subLabels": []
+        },
+        {
+         "id": 74,
+         "text": "(i)   types and causes",
+         "descriptions": [
+          "Assessment should be limited to the following: Gill rot  -  fungus Furunculosis  -  bacteria Ich  -  protozoa"
+         ],
+         "parentId": 71,
+         "subLabels": []
+        }
+       ]
+      },
+      {
+       "id": 75,
+       "text": "(ii)     symptoms",
+       "descriptions": [
+        "Assessment should be based on the identification of symptoms: Gill rot  -  red/whitish spots on gills Furuncolosis  -  ulcers on skin Ich  -  white spots on skin and fins",
+        "Knowledge of the following methods is required: chemotherapy, sterilization, minimal handling of fish, suitable diet and disinfection."
+       ],
+       "parentId": 53,
+       "subLabels": [
+        {
+         "id": 76,
+         "text": "(iii)     prevention, control and treatment",
+         "descriptions": [
+          "Assessment should also include knowledge of aquatic conditions which favour fish diseases."
+         ],
+         "parentId": 75,
+         "subLabels": []
+        }
+       ]
+      },
+      {
+       "id": 77,
+       "text": "E.     fish utilization",
+       "descriptions": [
+        "Knowledge of the nutrients in fishery organisms - proteins, lipids, mineral salts, water and vitamins - and experiments to test for protein and lipids in fish are required."
+       ],
+       "parentId": 53,
+       "subLabels": [
+        {
+         "id": 78,
+         "text": "1.    nutritive value of fish",
+         "descriptions": [],
+         "parentId": 77,
+         "subLabels": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": 79,
+     "text": "Nutritive composition of fin fish, crustaceans and molluscs",
+     "descriptions": [
+      "Meaning of fish processing:  Explanation should include activities carried out to prepare fish for consumption and marketing. Meaning of fish preservation:  Explanation should include activities carried out to extend the shelf life of fish. Distinction between fish processing and fish preservation is also required"
+     ],
+     "parentId": 2,
+     "subLabels": [
+      {
+       "id": 80,
+       "text": "2.    fish processing",
+       "descriptions": [],
+       "parentId": 79,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 81,
+     "text": "And preservation",
+     "descriptions": [
+      "Reasons for fish processing and preservation should include prevention of spoilage, increase of shelf life, improvement of taste and adding value."
+     ],
+     "parentId": 2,
+     "subLabels": [
+      {
+       "id": 82,
+       "text": "(a)     meaning of fish",
+       "descriptions": [
+        "Knowledge of the principles should include the removal of microbes and water, slowing down enzymatic action, denaturing of enzymes, slowing down bacterial activity and preventing fat oxidation."
+       ],
+       "parentId": 81,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 83,
+     "text": "Processing and preservation",
+     "descriptions": [],
+     "parentId": 2,
+     "subLabels": [
+      {
+       "id": 84,
+       "text": "Importance of fish",
+       "descriptions": [
+        "Assessment should be based on knowledge and skills in washing, scaling, gutting and filleting of fish. Identification of common fish processing equipment such as knives, scissors and mechanical equipment is required."
+       ],
+       "parentId": 83,
+       "subLabels": []
+      },
+      {
+       "id": 85,
+       "text": "(c)   general principles of fish processing",
+       "descriptions": [],
+       "parentId": 83,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 86,
+     "text": "And preservation",
+     "descriptions": [],
+     "parentId": 2,
+     "subLabels": [
+      {
+       "id": 87,
+       "text": "(d)     methods of fish processing",
+       "descriptions": [
+        "Identification of materials for packaging fresh and preserved fish for local and export markets e.g. cartons, crates and baskets is required. Demonstration of methods of packaging fresh fish and fish preserved by smoking,",
+        "Major fish products to be identified: fish fillets, chunks and flakes, canned, smoked, dried, salted, pickled, marinated fish. Fish by-products to be identified should include fish oils, fish entrails (guts and gills) and fish bones. Uses of fish by-products should be covered."
+       ],
+       "parentId": 86,
+       "subLabels": []
+      },
+      {
+       "id": 88,
+       "text": "(e)   methods of fish preservation",
+       "descriptions": [
+        "Signs of fish spoilage to be detected should include sunken eyes, mucus on the skin and darkening colour of gills.",
+        "Knowledge of the causes of fish spoilage should be limited to microbial, enzymatic and fat oxidation."
+       ],
+       "parentId": 86,
+       "subLabels": []
+      },
+      {
+       "id": 89,
+       "text": "(f)    packaging of fish",
+       "descriptions": [],
+       "parentId": 86,
+       "subLabels": []
+      },
+      {
+       "id": 90,
+       "text": "(f)    packaging of fish",
+       "descriptions": [
+        "The importance of proper handling of fish to delay spoilage should be included.",
+        "Knowledge of effects such as loss of value, taste and income should be assessed. The public health hazard of consuming spoiled fish should be covered."
+       ],
+       "parentId": 86,
+       "subLabels": []
+      },
+      {
+       "id": 91,
+       "text": "(g)   fish products and by-products",
+       "descriptions": [
+        "Assessment should cover knowledge of measures taken to maintain fish stock levels for sustainable exploitation. The concept of Maximum Sustainable Yield (MSY) should be covered."
+       ],
+       "parentId": 86,
+       "subLabels": []
+      },
+      {
+       "id": 92,
+       "text": "(h)    fish spoilage",
+       "descriptions": [],
+       "parentId": 86,
+       "subLabels": []
+      },
+      {
+       "id": 93,
+       "text": "(i)      signs of fish spoilage",
+       "descriptions": [
+        "Objectives of fisheries management should include maximizing sustainable catches and maintaining spawning stock."
+       ],
+       "parentId": 86,
+       "subLabels": []
+      },
+      {
+       "id": 94,
+       "text": "(ii)     causes of  fish spoilage",
+       "descriptions": [
+        "Strategies should include limiting the number of fishing units, fishing closures, regulating mesh sizes and catch quotas.",
+        "Assessment should include the use of practices such as close seasons, taboos, non-fishing days and cultural festivals to maintain fish stocks."
+       ],
+       "parentId": 86,
+       "subLabels": []
+      },
+      {
+       "id": 95,
+       "text": "(iii)    effects of fish spoilage",
+       "descriptions": [
+        "Knowledge of basic data required for fisheries management e.g. fish catch, fishing effort, fish length and weight, fish age and gear type should be assessed. Skills in the analysis of the data are also required."
+       ],
+       "parentId": 86,
+       "subLabels": []
+      },
+      {
+       "id": 96,
+       "text": "F.    fisheries",
+       "descriptions": [],
+       "parentId": 86,
+       "subLabels": [
+        {
+         "id": 97,
+         "text": "Management",
+         "descriptions": [],
+         "parentId": 96,
+         "subLabels": []
+        },
+        {
+         "id": 98,
+         "text": "And business of",
+         "descriptions": [
+          "Factors (such as climate and breeding) responsible for seasonal variations in fish catches (bumper and lean) should be covered."
+         ],
+         "parentId": 96,
+         "subLabels": []
+        },
+        {
+         "id": 99,
+         "text": "Fisheries",
+         "descriptions": [],
+         "parentId": 96,
+         "subLabels": []
+        },
+        {
+         "id": 100,
+         "text": "1.    fisheries",
+         "descriptions": [
+          "Explanation of the effect of upwelling on bumper harvest of fish should be assessed."
+         ],
+         "parentId": 96,
+         "subLabels": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": 101,
+     "text": "Management",
+     "descriptions": [],
+     "parentId": 2,
+     "subLabels": [
+      {
+       "id": 102,
+       "text": "(a)   meaning of fisheries management",
+       "descriptions": [
+        "Knowledge of government policies and regulations on fisheries e.g. subsidy on fishing inputs, role of stakeholders, fish imports should be assessed."
+       ],
+       "parentId": 101,
+       "subLabels": []
+      },
+      {
+       "id": 103,
+       "text": "(b)    objectives and strategies offisheries",
+       "descriptions": [
+        "Knowledge of the importance of fisheries policies and regulations e.g. preventing capture of juvenile fishes, protection of the environment is also required."
+       ],
+       "parentId": 101,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 104,
+     "text": "Management",
+     "descriptions": [
+      "Meaning and economic benefits of the Exclusive Economic Zone (EEZ) should be covered."
+     ],
+     "parentId": 2,
+     "subLabels": [
+      {
+       "id": 105,
+       "text": "Traditional fish stock",
+       "descriptions": [
+        "Assessment should include knowledge of endangered fishery organisms and international conventions which protect them e.g. IUCN Red List, Convention on Biodiversity (CBD), International Convention for the Conservation of Atlantic Tunas (ICCAT). The importance of international conventions should also be included."
+       ],
+       "parentId": 104,
+       "subLabels": []
+      },
+      {
+       "id": 106,
+       "text": "Data collection",
+       "descriptions": [
+        "Knowledge and skills in the preparation of budgets using expenditure and income items from culture and capture fisheries and other fishery related businesses (sale of fishing inputs, fish marketing and fish processing) are required. Cashflow projections are also required."
+       ],
+       "parentId": 104,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 107,
+     "text": "Management",
+     "descriptions": [
+      "Knowledge and skills in pricing of fish products in relation to demand and supply of fish product should be covered.",
+      "Assessment should cover knowledge in quality control, packaging, storage and transportation of fish. Major fish marketing centres in the country should be identified, e.g. fishing harbours \u2013 Tema, Takoradi fish landing beaches \u2013 Elmina fish landing sites \u2013 Yeji other fish markets \u2013 Mankessim"
+     ],
+     "parentId": 2,
+     "subLabels": [
+      {
+       "id": 108,
+       "text": "Fishery policies",
+       "descriptions": [],
+       "parentId": 107,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 109,
+     "text": "And regulations",
+     "descriptions": [
+      "Problems of fish marketing and their solutions should be covered. Activities involved in fish import and export should be outlined."
+     ],
+     "parentId": 2,
+     "subLabels": [
+      {
+       "id": 110,
+       "text": "Government",
+       "descriptions": [
+        "Explanation of the effects of bumper harvest on import/export and prices of fish should be assessed."
+       ],
+       "parentId": 109,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 111,
+     "text": "Fisheries",
+     "descriptions": [
+      "Major companies involved in fisheries activities in your country should be named e.g. fishing \u2013 Kaas, Afko, Enyidado fish farming    \u2013 Tropo farms, Crystal lake fish company cold storage  \u2013   Felibat Ltd.",
+      "Assessment should cover knowledge of value chains in the fishery industry.  The responsibilities of actors in the supply and value chain should be included."
+     ],
+     "parentId": 2,
+     "subLabels": [
+      {
+       "id": 112,
+       "text": "International law and",
+       "descriptions": [
+        "Quality and safety standards of various fish products should be mentioned."
+       ],
+       "parentId": 111,
+       "subLabels": []
+      },
+      {
+       "id": 113,
+       "text": "3.      business of fisheries",
+       "descriptions": [
+        "Knowledge of the location of important fishing communities in your country is required e.g. freshwater fishing communities- Yeji, Dambai, Kwamikrom and Abotoase. marine fishing communities- Teshie, Elmina, Chorkor and Shama."
+       ],
+       "parentId": 111,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 114,
+     "text": "Budget preparation and financial projections for a fishery business",
+     "descriptions": [
+      "List of festivals should include: Bakatue of Edina Fetu of Oguaa Dzawuwu of Agave"
+     ],
+     "parentId": 2,
+     "subLabels": [
+      {
+       "id": 115,
+       "text": "4.    fish marketing",
+       "descriptions": [
+        "Knowledge of the influence of the festivals and taboos on the fishing industry should be covered, e.g. close season/fishing holiday."
+       ],
+       "parentId": 114,
+       "subLabels": []
+      },
+      {
+       "id": 116,
+       "text": "(a)    the state of fishmarketing",
+       "descriptions": [
+        "Identification, objectives and activities of the institutions e.g. Water Research Institute and University of Ghana are required.",
+        "Job opportunities in the fishery sub-sector should be identified, e.g. teaching/research, fish farming, fish pond engineer, fish import/export, fish processing, cold store operation and fishing gear/craft manufacturing.",
+        "Factors required for establishing enterprises in fisheries -  Identification of business opportunities -  Identification of fishery product or service needed in a locality -   availability of market for the product or service -   demand for the product or service Resources should include land, capital, materials, structures, services, labour, technical know-how."
+       ],
+       "parentId": 114,
+       "subLabels": []
+      },
+      {
+       "id": 117,
+       "text": "(b)    major  fisheries companies",
+       "descriptions": [],
+       "parentId": 114,
+       "subLabels": [
+        {
+         "id": 118,
+         "text": "Supply and value chains in",
+         "descriptions": [
+          "Procedures should include the development of business plans, registration of business, management of the business, etc"
+         ],
+         "parentId": 117,
+         "subLabels": []
+        }
+       ]
+      },
+      {
+       "id": 119,
+       "text": "(d)    food fish quality and safety standards",
+       "descriptions": [
+        "e.g. technical assistance to fish farmers and education of fisher folks on",
+        "fisheries regulations.",
+        "Assessment should cover drawing and labelling of different fishing gear."
+       ],
+       "parentId": 114,
+       "subLabels": []
+      },
+      {
+       "id": 120,
+       "text": "G.    practices in",
+       "descriptions": [],
+       "parentId": 114,
+       "subLabels": [
+        {
+         "id": 121,
+         "text": "Fishing  communities",
+         "descriptions": [
+          "Assessment should cover the following fishery organisms: Tilapia , Clarias/Heterobranchus, Chrysichthys, Heterotis, Lates, Bagrus, Alestes, Synodontis, Sardinella, prawns/shrimps, crabs, grey mullet, sea bream, cassava fish, tuna, mackerel, anchovy, ray, shark cuttlefish/ squid and sea urchins."
+         ],
+         "parentId": 120,
+         "subLabels": []
+        },
+        {
+         "id": 122,
+         "text": "And fisheries",
+         "descriptions": [],
+         "parentId": 120,
+         "subLabels": []
+        },
+        {
+         "id": 123,
+         "text": "Institutions",
+         "descriptions": [],
+         "parentId": 120,
+         "subLabels": []
+        }
+       ]
+      },
+      {
+       "id": 124,
+       "text": "1.   fishing communities and cultural practices",
+       "descriptions": [
+        "Assessment should cover the following alien species. Eichorniacrassipes (water hyacinth) Cyperus papyrus (Papyrus reed), Salviniamolesta (kariba weed) Pistiastratiotes (water lettuce) Ceratophylumsp (Hornwort)"
+       ],
+       "parentId": 114,
+       "subLabels": [
+        {
+         "id": 125,
+         "text": "Important fishing",
+         "descriptions": [],
+         "parentId": 124,
+         "subLabels": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": 126,
+     "text": "Communities",
+     "descriptions": [
+      "Drawing and labelling of external features is required. Dissection, drawing and labelling of gills, swim bladder, alimentary canal and heart should be covered. Structure should be related to function."
+     ],
+     "parentId": 2,
+     "subLabels": [
+      {
+       "id": 127,
+       "text": "(b)  cultural festivals and taboos related to fishing",
+       "descriptions": [
+        "Measurement of the environmental conditions: temperature, dissolved oxygen, pH, and salinity is required.",
+        "Construction of food chain, food web and food pyramid should be covered."
+       ],
+       "parentId": 126,
+       "subLabels": [
+        {
+         "id": 128,
+         "text": "Fisheries",
+         "descriptions": [],
+         "parentId": 127,
+         "subLabels": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": 129,
+     "text": "Institutional framework and job opportunities",
+     "descriptions": [
+      "Knowledge of the following characteristics is required: Fresh fish - firm flesh, bright eyes, bright red gills and sea-weedy smell. Spoiled fish - sunken eyes, dark gills, mucus on skin and off odour smell."
+     ],
+     "parentId": 2,
+     "subLabels": [
+      {
+       "id": 130,
+       "text": "(a)   fisheries training and research institutions",
+       "descriptions": [
+        "Assessment should cover organisms such as maggots, fungi and insects in spoiled fish."
+       ],
+       "parentId": 129,
+       "subLabels": []
+      },
+      {
+       "id": 131,
+       "text": "(b)   job opportunities in the fishery sub-sector",
+       "descriptions": [
+        "Identification of common forms of",
+        "(a) processed fish: e.g. gutted, filleted, skilled",
+        "fish."
+       ],
+       "parentId": 129,
+       "subLabels": []
+      },
+      {
+       "id": 132,
+       "text": "(c)    business opportunities in fisheries",
+       "descriptions": [
+        "(b) preserved fish: e.g. frozen, salted, canned",
+        "and smoked fish. Identification and uses of common processing and preservation methods e.g. Chorkor smoker is required.",
+        "Assessment should be based on the identification and uses of fish by-products.",
+        "Identification of suitable soils, material and equipment for pond construction."
+       ],
+       "parentId": 129,
+       "subLabels": []
+      },
+      {
+       "id": 133,
+       "text": "(d)    procedure for establishing enterprises in fisheries",
+       "descriptions": [
+        "Identification of ingredients used for fish feed formulation and identification of types of fish feed are required. Methods of formulation of fish feed are also required.",
+        "Assessment should cover identification of types, uses and methods of application of fertilizers in fish ponds."
+       ],
+       "parentId": 129,
+       "subLabels": []
+      },
+      {
+       "id": 134,
+       "text": "(e)    extension services in the fisheries sub sector",
+       "descriptions": [
+        "Identification of gill rot, furunculosis and ich by their symptoms is required."
+       ],
+       "parentId": 129,
+       "subLabels": []
+      },
+      {
+       "id": 135,
+       "text": "1.  fishing gear",
+       "descriptions": [],
+       "parentId": 129,
+       "subLabels": [
+        {
+         "id": 136,
+         "text": "Identification, uses",
+         "descriptions": [],
+         "parentId": 135,
+         "subLabels": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": 137,
+     "text": "And maintenance",
+     "descriptions": [],
+     "parentId": 2,
+     "subLabels": [
+      {
+       "id": 138,
+       "text": "2.   fish identification",
+       "descriptions": [],
+       "parentId": 137,
+       "subLabels": [
+        {
+         "id": 139,
+         "text": "Identification and classification of common freshwater, brackish water and marine fishes",
+         "descriptions": [],
+         "parentId": 138,
+         "subLabels": []
+        }
+       ]
+      },
+      {
+       "id": 140,
+       "text": "3.   identification and description of characteristics of invasive alien species in fishery habitats",
+       "descriptions": [],
+       "parentId": 137,
+       "subLabels": []
+      },
+      {
+       "id": 141,
+       "text": "4.   fish structure and function",
+       "descriptions": [],
+       "parentId": 137,
+       "subLabels": []
+      },
+      {
+       "id": 142,
+       "text": "(a)   external features",
+       "descriptions": [],
+       "parentId": 137,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 143,
+     "text": "Body form, fins, scales, lateral line etc",
+     "descriptions": [],
+     "parentId": 2,
+     "subLabels": [
+      {
+       "id": 144,
+       "text": "(b)  internal stuctures",
+       "descriptions": [],
+       "parentId": 143,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 145,
+     "text": "Gills, swim bladder alimentary canal,heart, blood  vessels, kidney and gonads",
+     "descriptions": [],
+     "parentId": 2,
+     "subLabels": [
+      {
+       "id": 146,
+       "text": "5.   environmental conditions in fish habitats",
+       "descriptions": [],
+       "parentId": 145,
+       "subLabels": []
+      },
+      {
+       "id": 147,
+       "text": "6.  ecological processes within the aquatic environment",
+       "descriptions": [],
+       "parentId": 145,
+       "subLabels": []
+      },
+      {
+       "id": 148,
+       "text": "7.  characteristic features of fresh and spoiled fish",
+       "descriptions": [],
+       "parentId": 145,
+       "subLabels": []
+      },
+      {
+       "id": 149,
+       "text": "8.  identification of micro- organisms and macro-organisms in spoiled fish",
+       "descriptions": [],
+       "parentId": 145,
+       "subLabels": []
+      },
+      {
+       "id": 150,
+       "text": "9.  fish processing and preservation",
+       "descriptions": [],
+       "parentId": 145,
+       "subLabels": []
+      },
+      {
+       "id": 151,
+       "text": "10.   fish by-products",
+       "descriptions": [],
+       "parentId": 145,
+       "subLabels": []
+      },
+      {
+       "id": 152,
+       "text": "11.    pond construction",
+       "descriptions": [],
+       "parentId": 145,
+       "subLabels": []
+      },
+      {
+       "id": 153,
+       "text": "12.    feed formulation and feeding",
+       "descriptions": [],
+       "parentId": 145,
+       "subLabels": []
+      },
+      {
+       "id": 154,
+       "text": "13.    pond fertilization",
+       "descriptions": [],
+       "parentId": 145,
+       "subLabels": []
+      },
+      {
+       "id": 155,
+       "text": "14.    fish diseases",
+       "descriptions": [],
+       "parentId": 145,
+       "subLabels": []
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "labels": [
+  {
+   "id": 3,
+   "text": "Detailed syllabus",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 4,
+     "text": "1",
+     "descriptions": [
+      "Introduction to Financial Accounting"
+     ],
+     "parentId": 3,
+     "subLabels": []
+    },
+    {
+     "id": 5,
+     "text": "2",
+     "descriptions": [
+      "The Accounting Equation and Double Entry Principles"
+     ],
+     "parentId": 3,
+     "subLabels": []
+    },
+    {
+     "id": 6,
+     "text": "3",
+     "descriptions": [
+      "Accounting Concepts"
+     ],
+     "parentId": 3,
+     "subLabels": []
+    },
+    {
+     "id": 7,
+     "text": "4",
+     "descriptions": [
+      "The Final Accounts of a Sole Trader/proprietorship"
+     ],
+     "parentId": 3,
+     "subLabels": []
+    },
+    {
+     "id": 8,
+     "text": "5",
+     "descriptions": [
+      "Provisions and Reserves"
+     ],
+     "parentId": 3,
+     "subLabels": []
+    },
+    {
+     "id": 9,
+     "text": "6",
+     "descriptions": [
+      "Manufacturing Accounts"
+     ],
+     "parentId": 3,
+     "subLabels": []
+    },
+    {
+     "id": 10,
+     "text": "7",
+     "descriptions": [
+      "Control Accounts and Self- balancing Ledgers"
+     ],
+     "parentId": 3,
+     "subLabels": []
+    },
+    {
+     "id": 11,
+     "text": "8",
+     "descriptions": [
+      "Single Entry and Incomplete Records"
+     ],
+     "parentId": 3,
+     "subLabels": []
+    },
+    {
+     "id": 12,
+     "text": "9",
+     "descriptions": [
+      "Accounts of Not-for-Profit Making Organizations"
+     ],
+     "parentId": 3,
+     "subLabels": []
+    },
+    {
+     "id": 13,
+     "text": "10",
+     "descriptions": [
+      "Partnership Accounts"
+     ],
+     "parentId": 3,
+     "subLabels": []
+    },
+    {
+     "id": 14,
+     "text": "11",
+     "descriptions": [
+      "Company Accounts"
+     ],
+     "parentId": 3,
+     "subLabels": []
+    },
+    {
+     "id": 15,
+     "text": "12. *",
+     "descriptions": [
+      "Accounting for Value Added Tax"
+     ],
+     "parentId": 3,
+     "subLabels": []
+    },
+    {
+     "id": 16,
+     "text": "13",
+     "descriptions": [
+      "Departmental and Branch Accounts"
+     ],
+     "parentId": 3,
+     "subLabels": []
+    },
+    {
+     "id": 17,
+     "text": "14",
+     "descriptions": [
+      "Public Sector Accounting"
+     ],
+     "parentId": 3,
+     "subLabels": []
+    },
+    {
+     "id": 18,
+     "text": "15. *",
+     "descriptions": [
+      "Information Technology in Accounting"
+     ],
+     "parentId": 3,
+     "subLabels": []
+    },
+    {
+     "id": 19,
+     "text": "16 **",
+     "descriptions": [
+      "Miscellaneous Accounts"
+     ],
+     "parentId": 3,
+     "subLabels": [
+      {
+       "id": 20,
+       "text": "17. **",
+       "descriptions": [
+        "Financial system"
+       ],
+       "parentId": 19,
+       "subLabels": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "text": "1",
+   "descriptions": [
+    "Introduction to Financial Accounting"
+   ],
+   "parentId": 3,
+   "subLabels": []
+  },
+  {
+   "id": 5,
+   "text": "2",
+   "descriptions": [
+    "The Accounting Equation and Double Entry Principles"
+   ],
+   "parentId": 3,
+   "subLabels": []
+  },
+  {
+   "id": 6,
+   "text": "3",
+   "descriptions": [
+    "Accounting Concepts"
+   ],
+   "parentId": 3,
+   "subLabels": []
+  },
+  {
+   "id": 7,
+   "text": "4",
+   "descriptions": [
+    "The Final Accounts of a Sole Trader/proprietorship"
+   ],
+   "parentId": 3,
+   "subLabels": []
+  },
+  {
+   "id": 8,
+   "text": "5",
+   "descriptions": [
+    "Provisions and Reserves"
+   ],
+   "parentId": 3,
+   "subLabels": []
+  },
+  {
+   "id": 9,
+   "text": "6",
+   "descriptions": [
+    "Manufacturing Accounts"
+   ],
+   "parentId": 3,
+   "subLabels": []
+  },
+  {
+   "id": 10,
+   "text": "7",
+   "descriptions": [
+    "Control Accounts and Self- balancing Ledgers"
+   ],
+   "parentId": 3,
+   "subLabels": []
+  },
+  {
+   "id": 11,
+   "text": "8",
+   "descriptions": [
+    "Single Entry and Incomplete Records"
+   ],
+   "parentId": 3,
+   "subLabels": []
+  },
+  {
+   "id": 12,
+   "text": "9",
+   "descriptions": [
+    "Accounts of Not-for-Profit Making Organizations"
+   ],
+   "parentId": 3,
+   "subLabels": []
+  },
+  {
+   "id": 13,
+   "text": "10",
+   "descriptions": [
+    "Partnership Accounts"
+   ],
+   "parentId": 3,
+   "subLabels": []
+  },
+  {
+   "id": 14,
+   "text": "11",
+   "descriptions": [
+    "Company Accounts"
+   ],
+   "parentId": 3,
+   "subLabels": []
+  },
+  {
+   "id": 15,
+   "text": "12. *",
+   "descriptions": [
+    "Accounting for Value Added Tax"
+   ],
+   "parentId": 3,
+   "subLabels": []
+  },
+  {
+   "id": 16,
+   "text": "13",
+   "descriptions": [
+    "Departmental and Branch Accounts"
+   ],
+   "parentId": 3,
+   "subLabels": []
+  },
+  {
+   "id": 17,
+   "text": "14",
+   "descriptions": [
+    "Public Sector Accounting"
+   ],
+   "parentId": 3,
+   "subLabels": []
+  },
+  {
+   "id": 18,
+   "text": "15. *",
+   "descriptions": [
+    "Information Technology in Accounting"
+   ],
+   "parentId": 3,
+   "subLabels": []
+  },
+  {
+   "id": 19,
+   "text": "16 **",
+   "descriptions": [
+    "Miscellaneous Accounts"
+   ],
+   "parentId": 3,
+   "subLabels": [
+    {
+     "id": 20,
+     "text": "17. **",
+     "descriptions": [
+      "Financial system"
+     ],
+     "parentId": 19,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "text": "17. **",
+   "descriptions": [
+    "Financial system"
+   ],
+   "parentId": 19,
+   "subLabels": []
+  }
+ ]
+}

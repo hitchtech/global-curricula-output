@@ -1,1 +1,2866 @@
-{"subject": "subject", "Grade": "SS3", "Curriculum": "WASSCE", "labelsTree": [], "labels": [{"id": 3, "text": "Detailed syllabus", "descriptions": null, "parentId": -1, "subLabels": [{"id": 4, "text": "Contents", "descriptions": ["NOTES"], "parentId": 3, "subLabels": []}, {"id": 5, "text": "History and development of", "descriptions": [], "parentId": 3, "subLabels": []}, {"id": 6, "text": "Health education", "descriptions": [], "parentId": 3, "subLabels": []}, {"id": 7, "text": "Meaning and setting for health education", "descriptions": [], "parentId": 3, "subLabels": []}, {"id": 8, "text": "Meaning", "descriptions": [], "parentId": 3, "subLabels": []}, {"id": 9, "text": "Setting", "descriptions": [], "parentId": 3, "subLabels": []}, {"id": 10, "text": "Meaning of health promotion", "descriptions": [], "parentId": 3, "subLabels": []}, {"id": 11, "text": "Human anatomy and physiology", "descriptions": [], "parentId": 3, "subLabels": []}, {"id": 12, "text": "Cells and tissues of human body", "descriptions": [], "parentId": 3, "subLabels": []}, {"id": 13, "text": "Types of cell", "descriptions": [], "parentId": 3, "subLabels": []}, {"id": 14, "text": "Cell division", "descriptions": [], "parentId": 3, "subLabels": []}, {"id": 15, "text": "Mitosis", "descriptions": [], "parentId": 3, "subLabels": [{"id": 16, "text": "(ii)         meiosis", "descriptions": [], "parentId": 15, "subLabels": []}]}, {"id": 17, "text": "Cell differentiation", "descriptions": [], "parentId": 3, "subLabels": [{"id": 18, "text": "Formation of tissues, organs and systems", "descriptions": [], "parentId": 17, "subLabels": []}]}]}, {"id": 19, "text": "Contents", "descriptions": null, "parentId": -1, "subLabels": [{"id": 20, "text": "Growth and development", "descriptions": ["Students should visit to observe community, health facility and work place base, health education programmes and services."], "parentId": 19, "subLabels": []}]}, {"id": 21, "text": "Notes", "descriptions": null, "parentId": -1, "subLabels": [{"id": 22, "text": "Functions of the skeletal system", "descriptions": ["Differences between growth and development should be emphasized."], "parentId": 21, "subLabels": []}]}, {"id": 23, "text": "Contents", "descriptions": null, "parentId": -1, "subLabels": [{"id": 24, "text": "Heart", "descriptions": ["The three different types of muscles should be discussed in relation to their functions.", "Emphasis should be on synovial joint.", "Location of the different types of joint should be identified.", "Specific examples should be used to illustrate the classes of levers."], "parentId": 23, "subLabels": []}]}, {"id": 25, "text": "Notes", "descriptions": null, "parentId": -1, "subLabels": [{"id": 26, "text": "Candidates should examine the heart of a dissected mammal", "descriptions": [], "parentId": 25, "subLabels": [{"id": 27, "text": "(i)          blood and lymph", "descriptions": ["Pulse rate should be counted.  The web of a toad/frog should be examined with a hand lens to observe the capillaries.  The importance of lymph nodes should be mentioned."], "parentId": 26, "subLabels": []}]}, {"id": 28, "text": "Circulation", "descriptions": [], "parentId": 25, "subLabels": [{"id": 29, "text": "Process of blood clotting", "descriptions": ["Prepared slides of blood should be observed under microscope. Pulmonary and systemic circulation should be emphasized."], "parentId": 28, "subLabels": []}, {"id": 30, "text": "Blood groups, rhesus factors hemoglobin, genotype", "descriptions": ["The relevance of these factors in relation to blood transfusion should be mentioned."], "parentId": 28, "subLabels": []}, {"id": 31, "text": "Diseases disorder of the circulatory system and their causes; sickle cell anaemia, leukaemia, haemophilia arteriosclerosis, hypertension, coronary thrombosis and stroke", "descriptions": ["Heredity aspect of sickle cell andhaemophilia should be discussed.", "Prevention of anaemia and arteriosclerosis should be discussed."], "parentId": 28, "subLabels": [{"id": 32, "text": "(c)    digestive system", "descriptions": [], "parentId": 31, "subLabels": []}]}, {"id": 33, "text": "Organs of the digestive system and their functions", "descriptions": ["Candidates should examine the alimentary canal of a dissected mammal.The location and function of accessory organs of digestion should be emphasized."], "parentId": 28, "subLabels": []}, {"id": 34, "text": "Process of digestion", "descriptions": ["Digestive enzymes should be discussed in relation to substrates and end-product."], "parentId": 28, "subLabels": []}]}]}, {"id": 35, "text": "Contents", "descriptions": null, "parentId": -1, "subLabels": [{"id": 36, "text": "Absorption, assimilation and metabolism", "descriptions": [], "parentId": 35, "subLabels": []}]}, {"id": 37, "text": "Notes", "descriptions": null, "parentId": -1, "subLabels": [{"id": 38, "text": "Mentioned should be made of tissue respiration in relation to metabolism. osmosis and diffusion should be demonstrated and their importance in absorption should be emphasized", "descriptions": [], "parentId": 37, "subLabels": [{"id": 39, "text": "(d)  excretory system", "descriptions": [], "parentId": 38, "subLabels": []}, {"id": 40, "text": "Structure and functions of the kidney and skin", "descriptions": [], "parentId": 38, "subLabels": []}, {"id": 41, "text": "Process of urine formation", "descriptions": [], "parentId": 38, "subLabels": [{"id": 42, "text": "(e)  respiratory system", "descriptions": [], "parentId": 41, "subLabels": []}]}, {"id": 43, "text": "Structure and functions of the respiratory system", "descriptions": [], "parentId": 38, "subLabels": []}, {"id": 44, "text": "Process of respiration", "descriptions": [], "parentId": 38, "subLabels": []}, {"id": 45, "text": "Mechanism of breathing", "descriptions": [], "parentId": 38, "subLabels": []}, {"id": 46, "text": "Gaseous exchange", "descriptions": [], "parentId": 38, "subLabels": []}]}]}, {"id": 47, "text": "Contents", "descriptions": null, "parentId": -1, "subLabels": [{"id": 48, "text": "Tissue/cellular", "descriptions": ["respiration."], "parentId": 47, "subLabels": []}]}, {"id": 49, "text": "Notes", "descriptions": null, "parentId": -1, "subLabels": [{"id": 50, "text": "The brain, spinal cord and nerves should be discussed", "descriptions": [], "parentId": 49, "subLabels": [{"id": 51, "text": "(f)    nervous system", "descriptions": [], "parentId": 50, "subLabels": []}, {"id": 52, "text": "Structure and functions of the components of the nervous system", "descriptions": [], "parentId": 50, "subLabels": []}, {"id": 53, "text": "Voluntary and involuntary actions", "descriptions": [], "parentId": 50, "subLabels": []}, {"id": 54, "text": "Diseases/disorders of the nervous system", "descriptions": [], "parentId": 50, "subLabels": []}, {"id": 55, "text": "Endocrine system", "descriptions": ["Body temperature, blood sugar level, water balance, electrolytes balance, pH and blood pressure should be highlighted. Candidates should test urine with litmus paper and also, count pulse rate. Mention should be made of the positive and negative feed back control system."], "parentId": 50, "subLabels": []}]}, {"id": 56, "text": "Location of the different endocrine glands, the hormones produced and their functions", "descriptions": [], "parentId": 49, "subLabels": [{"id": 57, "text": "Homeostasis", "descriptions": ["Posture should be related to the following: sitting; standing; walking and lifting."], "parentId": 56, "subLabels": [{"id": 58, "text": "Physiological factors affecting homeostatis", "descriptions": ["The roles of nutrition and exercise as determinants of correct posture should be discussed."], "parentId": 57, "subLabels": []}]}, {"id": 59, "text": "4.     posture and postural defects", "descriptions": ["The causes of postural defects e.g. habits, accidents, heredity and diseases should be discussed."], "parentId": 56, "subLabels": [{"id": 60, "text": "Definition", "descriptions": [], "parentId": 59, "subLabels": []}, {"id": 61, "text": "(ii)     characteristics of correct posture", "descriptions": [], "parentId": 59, "subLabels": [{"id": 62, "text": "(iii)      determination of correct postures", "descriptions": [], "parentId": 61, "subLabels": []}, {"id": 63, "text": "(iv)     types of postural defects", "descriptions": [], "parentId": 61, "subLabels": [{"id": 64, "text": "Flat foot; scoliosis, kyphosis and lordosis", "descriptions": [], "parentId": 63, "subLabels": []}]}]}]}]}]}, {"id": 65, "text": "Contents", "descriptions": null, "parentId": -1, "subLabels": [{"id": 66, "text": "(v)     effects of incorrect posture on", "descriptions": [], "parentId": 65, "subLabels": []}, {"id": 67, "text": "Physical appearance, position and functions of body organs", "descriptions": [], "parentId": 65, "subLabels": []}]}, {"id": 69, "text": "Notes", "descriptions": null, "parentId": -1, "subLabels": [{"id": 70, "text": "Structure and functions of the different types of teeth should be discussed", "descriptions": [], "parentId": 69, "subLabels": []}]}, {"id": 71, "text": "Contents", "descriptions": null, "parentId": -1, "subLabels": [{"id": 72, "text": "Dental caries and gingivitis should be mentioned", "descriptions": [], "parentId": 71, "subLabels": []}, {"id": 73, "text": "Goals and objectives. linkages for promotion (initiatives)", "descriptions": [], "parentId": 71, "subLabels": []}]}, {"id": 74, "text": "Contentsnotes", "descriptions": null, "parentId": -1, "subLabels": [{"id": 75, "text": "Meaning different aspects of family health", "descriptions": [], "parentId": 74, "subLabels": [{"id": 76, "text": "(i)       birth rate", "descriptions": [], "parentId": 75, "subLabels": []}, {"id": 77, "text": "(ii)     mortality rate", "descriptions": [], "parentId": 75, "subLabels": []}]}, {"id": 78, "text": "Morbidity rate", "descriptions": [], "parentId": 74, "subLabels": []}]}, {"id": 79, "text": "Environmental health", "descriptions": null, "parentId": -1, "subLabels": [{"id": 80, "text": "Housing", "descriptions": ["Effects of poor sanitation and pest infestation in home should be discussed."], "parentId": 79, "subLabels": [{"id": 81, "text": "(i)   refuse", "descriptions": [], "parentId": 80, "subLabels": []}, {"id": 82, "text": "(ii)  sewage", "descriptions": [], "parentId": 80, "subLabels": []}]}, {"id": 83, "text": "Methods", "descriptions": [], "parentId": 79, "subLabels": []}]}, {"id": 89, "text": "Notes", "descriptions": null, "parentId": -1, "subLabels": [{"id": 90, "text": "Mention should include drug abuse, drug dependence, drug misuse, drug addiction, self medication, alcoholism, rehabilitation this should include oral, injection, inhalation, topical and anal. prevention of drug abuse should be highlighted", "descriptions": [], "parentId": 89, "subLabels": []}, {"id": 91, "text": "Causative agent", "descriptions": [], "parentId": 89, "subLabels": [{"id": 92, "text": "Mode of transmission", "descriptions": [], "parentId": 91, "subLabels": []}, {"id": 93, "text": "Signs and symptoms", "descriptions": [], "parentId": 91, "subLabels": []}, {"id": 94, "text": "Prevention and control", "descriptions": ["The need for health insurance schemes should be stressed. Students  should be able to identify to differentiate between pests and vectors."], "parentId": 91, "subLabels": []}]}]}, {"id": 96, "text": "Education", "descriptions": null, "parentId": -1, "subLabels": [{"id": 97, "text": "Drug education", "descriptions": ["Tests for starch, simple and complex sugars, proteins and fats should be carried out. Local example of sources of food nutrients should be mentioned."], "parentId": 96, "subLabels": [{"id": 98, "text": "(i)  components", "descriptions": [], "parentId": 97, "subLabels": [{"id": 99, "text": "(ii)   effects of smoking on health", "descriptions": ["Negative and positive effects should be stressed.  Nutritional value of non- alcoholic beverages should be stressed."], "parentId": 98, "subLabels": []}]}, {"id": 100, "text": "Alcohol on health", "descriptions": [], "parentId": 97, "subLabels": []}, {"id": 101, "text": "Effects of alcohol on health", "descriptions": ["Charts should be used to show diets for the different groups of people."], "parentId": 97, "subLabels": []}, {"id": 102, "text": "Drugs", "descriptions": [], "parentId": 97, "subLabels": []}, {"id": 103, "text": "Effects of drug on health", "descriptions": [], "parentId": 97, "subLabels": []}, {"id": 104, "text": "Communicable and non communicable", "descriptions": [], "parentId": 97, "subLabels": []}, {"id": 105, "text": "Diseases", "descriptions": [], "parentId": 97, "subLabels": []}, {"id": 106, "text": "Diseases", "descriptions": [], "parentId": 97, "subLabels": []}]}, {"id": 107, "text": "Meaning and classes of diseases", "descriptions": [], "parentId": 96, "subLabels": [{"id": 108, "text": "Communicable diseases", "descriptions": [], "parentId": 107, "subLabels": []}, {"id": 109, "text": "Definition", "descriptions": [], "parentId": 107, "subLabels": []}, {"id": 110, "text": "Classification of communicable diseases", "descriptions": [], "parentId": 107, "subLabels": []}]}]}, {"id": 115, "text": "Human reproduction", "descriptions": null, "parentId": -1, "subLabels": [{"id": 116, "text": "Birth control methods safe motherhood", "descriptions": ["Candidates should be able to distinguish between family planning and safe motherhood.", "Candidates should be able to distinguish between population and census."], "parentId": 115, "subLabels": [{"id": 117, "text": "5.     population education", "descriptions": ["Advantages of accurate census should be discussed."], "parentId": 116, "subLabels": [{"id": 118, "text": "(a)   meaning of population and population", "descriptions": [], "parentId": 117, "subLabels": []}]}]}, {"id": 119, "text": "Education", "descriptions": [], "parentId": 115, "subLabels": [{"id": 120, "text": "(b)    census and its problems", "descriptions": ["Meaning and the interrelationship between emotional health and social health should be discussed."], "parentId": 119, "subLabels": []}, {"id": 121, "text": "(c)     small and large population", "descriptions": [], "parentId": 119, "subLabels": []}]}]}, {"id": 122, "text": "Emotional and social health", "descriptions": null, "parentId": -1, "subLabels": [{"id": 123, "text": "Interrelationship attributes", "descriptions": ["The attributes of emotional and social health should be discussed.", "Candidates should be able to identify personal problems and proffer solutions."], "parentId": 122, "subLabels": []}]}, {"id": 124, "text": "Consumer health education", "descriptions": null, "parentId": -1, "subLabels": [{"id": 125, "text": "Consumer health products and services laws protecting the consumer", "descriptions": ["Various agencies promoting consumers health should be discussed.", "Mention features of genuine products and services", "The importance of checking label expiry dates on products before purchase should be highlighted."], "parentId": 124, "subLabels": []}, {"id": 126, "text": "Factors influencing choice of consumer products; authencity; cost; availability; accessibility; availability and advertisement. consumer health care services", "descriptions": ["Various types of health services: traditional medicine, orthodox medicine, alternative methods of healing (acupuncture, yoga and faith healing) should be discussed.", "Different types of quackery such as mechanical, electrical, drug and cosmetic and medical quackery should be discussed"], "parentId": 124, "subLabels": []}, {"id": 127, "text": "Materials needed in health education laboratory/examination", "descriptions": [], "parentId": 124, "subLabels": [{"id": 128, "text": "Models of various organs of the body", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 129, "text": "Models of various parts of the body e.g. tooth", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 130, "text": "Human skeleton", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 131, "text": "Bones of the body", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 132, "text": "Contraceptive devices", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 133, "text": "Reagents for testing of starch, protein, fat", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 134, "text": "Road safety signs", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 135, "text": "Different types of safety elements", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 136, "text": "Posters/charts of systems of the body e.g. reproductive, digestive, excretory", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 137, "text": "First aid box and kits", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 138, "text": "Fire extinguisher", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 139, "text": "Sand bucket", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 140, "text": "Photographs of health facilities and  workers e.g. doctors , nurses, dentist at work", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 141, "text": "Photographs of methods of sewage and refuse disposals", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 142, "text": "Microscope", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 143, "text": "Stethoscope", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 144, "text": "Preserved worms", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 145, "text": "Preserved pests and vectors", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 146, "text": "Photographs/posters of various types of communicable and non-communicable diseases", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 147, "text": "Model/poster showing parts of the body", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 148, "text": "Materials for personal hygiene e.g. toothpaste, comb, toothbrush", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 149, "text": "Dissecting set", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 150, "text": "Photographs/posters of accident scenes", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 151, "text": "Photographs/posters showing methods of food preservation", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 152, "text": "Photographs/posters showing disaster scenes", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 153, "text": "Safety", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 154, "text": "Photographs/posters of drugs commonly misused/abused", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 155, "text": "Tobacco products", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 156, "text": "Hand lens", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 157, "text": "Real objects/photographs/poster/charts of classes of food", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 158, "text": "Photographs/posters showing correct postures", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 159, "text": "Photographs/posters showing postural abnormalities", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 160, "text": "Poster/real object of sphygmomanometer, thermometer, litmus paper snellen chart", "descriptions": [], "parentId": 127, "subLabels": []}]}]}, {"id": 4, "text": "Contents", "descriptions": ["NOTES"], "parentId": 3, "subLabels": []}, {"id": 5, "text": "History and development of", "descriptions": [], "parentId": 3, "subLabels": []}, {"id": 6, "text": "Health education", "descriptions": [], "parentId": 3, "subLabels": []}, {"id": 7, "text": "Meaning and setting for health education", "descriptions": [], "parentId": 3, "subLabels": []}, {"id": 8, "text": "Meaning", "descriptions": [], "parentId": 3, "subLabels": []}, {"id": 9, "text": "Setting", "descriptions": [], "parentId": 3, "subLabels": []}, {"id": 10, "text": "Meaning of health promotion", "descriptions": [], "parentId": 3, "subLabels": []}, {"id": 11, "text": "Human anatomy and physiology", "descriptions": [], "parentId": 3, "subLabels": []}, {"id": 12, "text": "Cells and tissues of human body", "descriptions": [], "parentId": 3, "subLabels": []}, {"id": 13, "text": "Types of cell", "descriptions": [], "parentId": 3, "subLabels": []}, {"id": 14, "text": "Cell division", "descriptions": [], "parentId": 3, "subLabels": []}, {"id": 15, "text": "Mitosis", "descriptions": [], "parentId": 3, "subLabels": [{"id": 16, "text": "(ii)         meiosis", "descriptions": [], "parentId": 15, "subLabels": []}]}, {"id": 17, "text": "Cell differentiation", "descriptions": [], "parentId": 3, "subLabels": [{"id": 18, "text": "Formation of tissues, organs and systems", "descriptions": [], "parentId": 17, "subLabels": []}]}, {"id": 20, "text": "Growth and development", "descriptions": ["Students should visit to observe community, health facility and work place base, health education programmes and services."], "parentId": 19, "subLabels": []}, {"id": 22, "text": "Functions of the skeletal system", "descriptions": ["Differences between growth and development should be emphasized."], "parentId": 21, "subLabels": []}, {"id": 24, "text": "Heart", "descriptions": ["The three different types of muscles should be discussed in relation to their functions.", "Emphasis should be on synovial joint.", "Location of the different types of joint should be identified.", "Specific examples should be used to illustrate the classes of levers."], "parentId": 23, "subLabels": []}, {"id": 26, "text": "Candidates should examine the heart of a dissected mammal", "descriptions": [], "parentId": 25, "subLabels": [{"id": 27, "text": "(i)          blood and lymph", "descriptions": ["Pulse rate should be counted.  The web of a toad/frog should be examined with a hand lens to observe the capillaries.  The importance of lymph nodes should be mentioned."], "parentId": 26, "subLabels": []}]}, {"id": 28, "text": "Circulation", "descriptions": [], "parentId": 25, "subLabels": [{"id": 29, "text": "Process of blood clotting", "descriptions": ["Prepared slides of blood should be observed under microscope. Pulmonary and systemic circulation should be emphasized."], "parentId": 28, "subLabels": []}, {"id": 30, "text": "Blood groups, rhesus factors hemoglobin, genotype", "descriptions": ["The relevance of these factors in relation to blood transfusion should be mentioned."], "parentId": 28, "subLabels": []}, {"id": 31, "text": "Diseases disorder of the circulatory system and their causes; sickle cell anaemia, leukaemia, haemophilia arteriosclerosis, hypertension, coronary thrombosis and stroke", "descriptions": ["Heredity aspect of sickle cell andhaemophilia should be discussed.", "Prevention of anaemia and arteriosclerosis should be discussed."], "parentId": 28, "subLabels": [{"id": 32, "text": "(c)    digestive system", "descriptions": [], "parentId": 31, "subLabels": []}]}, {"id": 33, "text": "Organs of the digestive system and their functions", "descriptions": ["Candidates should examine the alimentary canal of a dissected mammal.The location and function of accessory organs of digestion should be emphasized."], "parentId": 28, "subLabels": []}, {"id": 34, "text": "Process of digestion", "descriptions": ["Digestive enzymes should be discussed in relation to substrates and end-product."], "parentId": 28, "subLabels": []}]}, {"id": 36, "text": "Absorption, assimilation and metabolism", "descriptions": [], "parentId": 35, "subLabels": []}, {"id": 38, "text": "Mentioned should be made of tissue respiration in relation to metabolism. osmosis and diffusion should be demonstrated and their importance in absorption should be emphasized", "descriptions": [], "parentId": 37, "subLabels": [{"id": 39, "text": "(d)  excretory system", "descriptions": [], "parentId": 38, "subLabels": []}, {"id": 40, "text": "Structure and functions of the kidney and skin", "descriptions": [], "parentId": 38, "subLabels": []}, {"id": 41, "text": "Process of urine formation", "descriptions": [], "parentId": 38, "subLabels": [{"id": 42, "text": "(e)  respiratory system", "descriptions": [], "parentId": 41, "subLabels": []}]}, {"id": 43, "text": "Structure and functions of the respiratory system", "descriptions": [], "parentId": 38, "subLabels": []}, {"id": 44, "text": "Process of respiration", "descriptions": [], "parentId": 38, "subLabels": []}, {"id": 45, "text": "Mechanism of breathing", "descriptions": [], "parentId": 38, "subLabels": []}, {"id": 46, "text": "Gaseous exchange", "descriptions": [], "parentId": 38, "subLabels": []}]}, {"id": 48, "text": "Tissue/cellular", "descriptions": ["respiration."], "parentId": 47, "subLabels": []}, {"id": 50, "text": "The brain, spinal cord and nerves should be discussed", "descriptions": [], "parentId": 49, "subLabels": [{"id": 51, "text": "(f)    nervous system", "descriptions": [], "parentId": 50, "subLabels": []}, {"id": 52, "text": "Structure and functions of the components of the nervous system", "descriptions": [], "parentId": 50, "subLabels": []}, {"id": 53, "text": "Voluntary and involuntary actions", "descriptions": [], "parentId": 50, "subLabels": []}, {"id": 54, "text": "Diseases/disorders of the nervous system", "descriptions": [], "parentId": 50, "subLabels": []}, {"id": 55, "text": "Endocrine system", "descriptions": ["Body temperature, blood sugar level, water balance, electrolytes balance, pH and blood pressure should be highlighted. Candidates should test urine with litmus paper and also, count pulse rate. Mention should be made of the positive and negative feed back control system."], "parentId": 50, "subLabels": []}]}, {"id": 56, "text": "Location of the different endocrine glands, the hormones produced and their functions", "descriptions": [], "parentId": 49, "subLabels": [{"id": 57, "text": "Homeostasis", "descriptions": ["Posture should be related to the following: sitting; standing; walking and lifting."], "parentId": 56, "subLabels": [{"id": 58, "text": "Physiological factors affecting homeostatis", "descriptions": ["The roles of nutrition and exercise as determinants of correct posture should be discussed."], "parentId": 57, "subLabels": []}]}, {"id": 59, "text": "4.     posture and postural defects", "descriptions": ["The causes of postural defects e.g. habits, accidents, heredity and diseases should be discussed."], "parentId": 56, "subLabels": [{"id": 60, "text": "Definition", "descriptions": [], "parentId": 59, "subLabels": []}, {"id": 61, "text": "(ii)     characteristics of correct posture", "descriptions": [], "parentId": 59, "subLabels": [{"id": 62, "text": "(iii)      determination of correct postures", "descriptions": [], "parentId": 61, "subLabels": []}, {"id": 63, "text": "(iv)     types of postural defects", "descriptions": [], "parentId": 61, "subLabels": [{"id": 64, "text": "Flat foot; scoliosis, kyphosis and lordosis", "descriptions": [], "parentId": 63, "subLabels": []}]}]}]}]}, {"id": 66, "text": "(v)     effects of incorrect posture on", "descriptions": [], "parentId": 65, "subLabels": []}, {"id": 67, "text": "Physical appearance, position and functions of body organs", "descriptions": [], "parentId": 65, "subLabels": []}, {"id": 70, "text": "Structure and functions of the different types of teeth should be discussed", "descriptions": [], "parentId": 69, "subLabels": []}, {"id": 72, "text": "Dental caries and gingivitis should be mentioned", "descriptions": [], "parentId": 71, "subLabels": []}, {"id": 73, "text": "Goals and objectives. linkages for promotion (initiatives)", "descriptions": [], "parentId": 71, "subLabels": []}, {"id": 75, "text": "Meaning different aspects of family health", "descriptions": [], "parentId": 74, "subLabels": [{"id": 76, "text": "(i)       birth rate", "descriptions": [], "parentId": 75, "subLabels": []}, {"id": 77, "text": "(ii)     mortality rate", "descriptions": [], "parentId": 75, "subLabels": []}]}, {"id": 78, "text": "Morbidity rate", "descriptions": [], "parentId": 74, "subLabels": []}, {"id": 80, "text": "Housing", "descriptions": ["Effects of poor sanitation and pest infestation in home should be discussed."], "parentId": 79, "subLabels": [{"id": 81, "text": "(i)   refuse", "descriptions": [], "parentId": 80, "subLabels": []}, {"id": 82, "text": "(ii)  sewage", "descriptions": [], "parentId": 80, "subLabels": []}]}, {"id": 83, "text": "Methods", "descriptions": [], "parentId": 79, "subLabels": []}, {"id": 90, "text": "Mention should include drug abuse, drug dependence, drug misuse, drug addiction, self medication, alcoholism, rehabilitation this should include oral, injection, inhalation, topical and anal. prevention of drug abuse should be highlighted", "descriptions": [], "parentId": 89, "subLabels": []}, {"id": 91, "text": "Causative agent", "descriptions": [], "parentId": 89, "subLabels": [{"id": 92, "text": "Mode of transmission", "descriptions": [], "parentId": 91, "subLabels": []}, {"id": 93, "text": "Signs and symptoms", "descriptions": [], "parentId": 91, "subLabels": []}, {"id": 94, "text": "Prevention and control", "descriptions": ["The need for health insurance schemes should be stressed. Students  should be able to identify to differentiate between pests and vectors."], "parentId": 91, "subLabels": []}]}, {"id": 97, "text": "Drug education", "descriptions": ["Tests for starch, simple and complex sugars, proteins and fats should be carried out. Local example of sources of food nutrients should be mentioned."], "parentId": 96, "subLabels": [{"id": 98, "text": "(i)  components", "descriptions": [], "parentId": 97, "subLabels": [{"id": 99, "text": "(ii)   effects of smoking on health", "descriptions": ["Negative and positive effects should be stressed.  Nutritional value of non- alcoholic beverages should be stressed."], "parentId": 98, "subLabels": []}]}, {"id": 100, "text": "Alcohol on health", "descriptions": [], "parentId": 97, "subLabels": []}, {"id": 101, "text": "Effects of alcohol on health", "descriptions": ["Charts should be used to show diets for the different groups of people."], "parentId": 97, "subLabels": []}, {"id": 102, "text": "Drugs", "descriptions": [], "parentId": 97, "subLabels": []}, {"id": 103, "text": "Effects of drug on health", "descriptions": [], "parentId": 97, "subLabels": []}, {"id": 104, "text": "Communicable and non communicable", "descriptions": [], "parentId": 97, "subLabels": []}, {"id": 105, "text": "Diseases", "descriptions": [], "parentId": 97, "subLabels": []}, {"id": 106, "text": "Diseases", "descriptions": [], "parentId": 97, "subLabels": []}]}, {"id": 107, "text": "Meaning and classes of diseases", "descriptions": [], "parentId": 96, "subLabels": [{"id": 108, "text": "Communicable diseases", "descriptions": [], "parentId": 107, "subLabels": []}, {"id": 109, "text": "Definition", "descriptions": [], "parentId": 107, "subLabels": []}, {"id": 110, "text": "Classification of communicable diseases", "descriptions": [], "parentId": 107, "subLabels": []}]}, {"id": 116, "text": "Birth control methods safe motherhood", "descriptions": ["Candidates should be able to distinguish between family planning and safe motherhood.", "Candidates should be able to distinguish between population and census."], "parentId": 115, "subLabels": [{"id": 117, "text": "5.     population education", "descriptions": ["Advantages of accurate census should be discussed."], "parentId": 116, "subLabels": [{"id": 118, "text": "(a)   meaning of population and population", "descriptions": [], "parentId": 117, "subLabels": []}]}]}, {"id": 119, "text": "Education", "descriptions": [], "parentId": 115, "subLabels": [{"id": 120, "text": "(b)    census and its problems", "descriptions": ["Meaning and the interrelationship between emotional health and social health should be discussed."], "parentId": 119, "subLabels": []}, {"id": 121, "text": "(c)     small and large population", "descriptions": [], "parentId": 119, "subLabels": []}]}, {"id": 123, "text": "Interrelationship attributes", "descriptions": ["The attributes of emotional and social health should be discussed.", "Candidates should be able to identify personal problems and proffer solutions."], "parentId": 122, "subLabels": []}, {"id": 125, "text": "Consumer health products and services laws protecting the consumer", "descriptions": ["Various agencies promoting consumers health should be discussed.", "Mention features of genuine products and services", "The importance of checking label expiry dates on products before purchase should be highlighted."], "parentId": 124, "subLabels": []}, {"id": 126, "text": "Factors influencing choice of consumer products; authencity; cost; availability; accessibility; availability and advertisement. consumer health care services", "descriptions": ["Various types of health services: traditional medicine, orthodox medicine, alternative methods of healing (acupuncture, yoga and faith healing) should be discussed.", "Different types of quackery such as mechanical, electrical, drug and cosmetic and medical quackery should be discussed"], "parentId": 124, "subLabels": []}, {"id": 127, "text": "Materials needed in health education laboratory/examination", "descriptions": [], "parentId": 124, "subLabels": [{"id": 128, "text": "Models of various organs of the body", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 129, "text": "Models of various parts of the body e.g. tooth", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 130, "text": "Human skeleton", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 131, "text": "Bones of the body", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 132, "text": "Contraceptive devices", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 133, "text": "Reagents for testing of starch, protein, fat", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 134, "text": "Road safety signs", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 135, "text": "Different types of safety elements", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 136, "text": "Posters/charts of systems of the body e.g. reproductive, digestive, excretory", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 137, "text": "First aid box and kits", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 138, "text": "Fire extinguisher", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 139, "text": "Sand bucket", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 140, "text": "Photographs of health facilities and  workers e.g. doctors , nurses, dentist at work", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 141, "text": "Photographs of methods of sewage and refuse disposals", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 142, "text": "Microscope", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 143, "text": "Stethoscope", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 144, "text": "Preserved worms", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 145, "text": "Preserved pests and vectors", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 146, "text": "Photographs/posters of various types of communicable and non-communicable diseases", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 147, "text": "Model/poster showing parts of the body", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 148, "text": "Materials for personal hygiene e.g. toothpaste, comb, toothbrush", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 149, "text": "Dissecting set", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 150, "text": "Photographs/posters of accident scenes", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 151, "text": "Photographs/posters showing methods of food preservation", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 152, "text": "Photographs/posters showing disaster scenes", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 153, "text": "Safety", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 154, "text": "Photographs/posters of drugs commonly misused/abused", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 155, "text": "Tobacco products", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 156, "text": "Hand lens", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 157, "text": "Real objects/photographs/poster/charts of classes of food", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 158, "text": "Photographs/posters showing correct postures", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 159, "text": "Photographs/posters showing postural abnormalities", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 160, "text": "Poster/real object of sphygmomanometer, thermometer, litmus paper snellen chart", "descriptions": [], "parentId": 127, "subLabels": []}]}, {"id": 16, "text": "(ii)         meiosis", "descriptions": [], "parentId": 15, "subLabels": []}, {"id": 18, "text": "Formation of tissues, organs and systems", "descriptions": [], "parentId": 17, "subLabels": []}, {"id": 27, "text": "(i)          blood and lymph", "descriptions": ["Pulse rate should be counted.  The web of a toad/frog should be examined with a hand lens to observe the capillaries.  The importance of lymph nodes should be mentioned."], "parentId": 26, "subLabels": []}, {"id": 29, "text": "Process of blood clotting", "descriptions": ["Prepared slides of blood should be observed under microscope. Pulmonary and systemic circulation should be emphasized."], "parentId": 28, "subLabels": []}, {"id": 30, "text": "Blood groups, rhesus factors hemoglobin, genotype", "descriptions": ["The relevance of these factors in relation to blood transfusion should be mentioned."], "parentId": 28, "subLabels": []}, {"id": 31, "text": "Diseases disorder of the circulatory system and their causes; sickle cell anaemia, leukaemia, haemophilia arteriosclerosis, hypertension, coronary thrombosis and stroke", "descriptions": ["Heredity aspect of sickle cell andhaemophilia should be discussed.", "Prevention of anaemia and arteriosclerosis should be discussed."], "parentId": 28, "subLabels": [{"id": 32, "text": "(c)    digestive system", "descriptions": [], "parentId": 31, "subLabels": []}]}, {"id": 33, "text": "Organs of the digestive system and their functions", "descriptions": ["Candidates should examine the alimentary canal of a dissected mammal.The location and function of accessory organs of digestion should be emphasized."], "parentId": 28, "subLabels": []}, {"id": 34, "text": "Process of digestion", "descriptions": ["Digestive enzymes should be discussed in relation to substrates and end-product."], "parentId": 28, "subLabels": []}, {"id": 39, "text": "(d)  excretory system", "descriptions": [], "parentId": 38, "subLabels": []}, {"id": 40, "text": "Structure and functions of the kidney and skin", "descriptions": [], "parentId": 38, "subLabels": []}, {"id": 41, "text": "Process of urine formation", "descriptions": [], "parentId": 38, "subLabels": [{"id": 42, "text": "(e)  respiratory system", "descriptions": [], "parentId": 41, "subLabels": []}]}, {"id": 43, "text": "Structure and functions of the respiratory system", "descriptions": [], "parentId": 38, "subLabels": []}, {"id": 44, "text": "Process of respiration", "descriptions": [], "parentId": 38, "subLabels": []}, {"id": 45, "text": "Mechanism of breathing", "descriptions": [], "parentId": 38, "subLabels": []}, {"id": 46, "text": "Gaseous exchange", "descriptions": [], "parentId": 38, "subLabels": []}, {"id": 51, "text": "(f)    nervous system", "descriptions": [], "parentId": 50, "subLabels": []}, {"id": 52, "text": "Structure and functions of the components of the nervous system", "descriptions": [], "parentId": 50, "subLabels": []}, {"id": 53, "text": "Voluntary and involuntary actions", "descriptions": [], "parentId": 50, "subLabels": []}, {"id": 54, "text": "Diseases/disorders of the nervous system", "descriptions": [], "parentId": 50, "subLabels": []}, {"id": 55, "text": "Endocrine system", "descriptions": ["Body temperature, blood sugar level, water balance, electrolytes balance, pH and blood pressure should be highlighted. Candidates should test urine with litmus paper and also, count pulse rate. Mention should be made of the positive and negative feed back control system."], "parentId": 50, "subLabels": []}, {"id": 57, "text": "Homeostasis", "descriptions": ["Posture should be related to the following: sitting; standing; walking and lifting."], "parentId": 56, "subLabels": [{"id": 58, "text": "Physiological factors affecting homeostatis", "descriptions": ["The roles of nutrition and exercise as determinants of correct posture should be discussed."], "parentId": 57, "subLabels": []}]}, {"id": 59, "text": "4.     posture and postural defects", "descriptions": ["The causes of postural defects e.g. habits, accidents, heredity and diseases should be discussed."], "parentId": 56, "subLabels": [{"id": 60, "text": "Definition", "descriptions": [], "parentId": 59, "subLabels": []}, {"id": 61, "text": "(ii)     characteristics of correct posture", "descriptions": [], "parentId": 59, "subLabels": [{"id": 62, "text": "(iii)      determination of correct postures", "descriptions": [], "parentId": 61, "subLabels": []}, {"id": 63, "text": "(iv)     types of postural defects", "descriptions": [], "parentId": 61, "subLabels": [{"id": 64, "text": "Flat foot; scoliosis, kyphosis and lordosis", "descriptions": [], "parentId": 63, "subLabels": []}]}]}]}, {"id": 76, "text": "(i)       birth rate", "descriptions": [], "parentId": 75, "subLabels": []}, {"id": 77, "text": "(ii)     mortality rate", "descriptions": [], "parentId": 75, "subLabels": []}, {"id": 81, "text": "(i)   refuse", "descriptions": [], "parentId": 80, "subLabels": []}, {"id": 82, "text": "(ii)  sewage", "descriptions": [], "parentId": 80, "subLabels": []}, {"id": 92, "text": "Mode of transmission", "descriptions": [], "parentId": 91, "subLabels": []}, {"id": 93, "text": "Signs and symptoms", "descriptions": [], "parentId": 91, "subLabels": []}, {"id": 94, "text": "Prevention and control", "descriptions": ["The need for health insurance schemes should be stressed. Students  should be able to identify to differentiate between pests and vectors."], "parentId": 91, "subLabels": []}, {"id": 98, "text": "(i)  components", "descriptions": [], "parentId": 97, "subLabels": [{"id": 99, "text": "(ii)   effects of smoking on health", "descriptions": ["Negative and positive effects should be stressed.  Nutritional value of non- alcoholic beverages should be stressed."], "parentId": 98, "subLabels": []}]}, {"id": 100, "text": "Alcohol on health", "descriptions": [], "parentId": 97, "subLabels": []}, {"id": 101, "text": "Effects of alcohol on health", "descriptions": ["Charts should be used to show diets for the different groups of people."], "parentId": 97, "subLabels": []}, {"id": 102, "text": "Drugs", "descriptions": [], "parentId": 97, "subLabels": []}, {"id": 103, "text": "Effects of drug on health", "descriptions": [], "parentId": 97, "subLabels": []}, {"id": 104, "text": "Communicable and non communicable", "descriptions": [], "parentId": 97, "subLabels": []}, {"id": 105, "text": "Diseases", "descriptions": [], "parentId": 97, "subLabels": []}, {"id": 106, "text": "Diseases", "descriptions": [], "parentId": 97, "subLabels": []}, {"id": 108, "text": "Communicable diseases", "descriptions": [], "parentId": 107, "subLabels": []}, {"id": 109, "text": "Definition", "descriptions": [], "parentId": 107, "subLabels": []}, {"id": 110, "text": "Classification of communicable diseases", "descriptions": [], "parentId": 107, "subLabels": []}, {"id": 117, "text": "5.     population education", "descriptions": ["Advantages of accurate census should be discussed."], "parentId": 116, "subLabels": [{"id": 118, "text": "(a)   meaning of population and population", "descriptions": [], "parentId": 117, "subLabels": []}]}, {"id": 120, "text": "(b)    census and its problems", "descriptions": ["Meaning and the interrelationship between emotional health and social health should be discussed."], "parentId": 119, "subLabels": []}, {"id": 121, "text": "(c)     small and large population", "descriptions": [], "parentId": 119, "subLabels": []}, {"id": 128, "text": "Models of various organs of the body", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 129, "text": "Models of various parts of the body e.g. tooth", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 130, "text": "Human skeleton", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 131, "text": "Bones of the body", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 132, "text": "Contraceptive devices", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 133, "text": "Reagents for testing of starch, protein, fat", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 134, "text": "Road safety signs", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 135, "text": "Different types of safety elements", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 136, "text": "Posters/charts of systems of the body e.g. reproductive, digestive, excretory", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 137, "text": "First aid box and kits", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 138, "text": "Fire extinguisher", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 139, "text": "Sand bucket", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 140, "text": "Photographs of health facilities and  workers e.g. doctors , nurses, dentist at work", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 141, "text": "Photographs of methods of sewage and refuse disposals", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 142, "text": "Microscope", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 143, "text": "Stethoscope", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 144, "text": "Preserved worms", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 145, "text": "Preserved pests and vectors", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 146, "text": "Photographs/posters of various types of communicable and non-communicable diseases", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 147, "text": "Model/poster showing parts of the body", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 148, "text": "Materials for personal hygiene e.g. toothpaste, comb, toothbrush", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 149, "text": "Dissecting set", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 150, "text": "Photographs/posters of accident scenes", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 151, "text": "Photographs/posters showing methods of food preservation", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 152, "text": "Photographs/posters showing disaster scenes", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 153, "text": "Safety", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 154, "text": "Photographs/posters of drugs commonly misused/abused", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 155, "text": "Tobacco products", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 156, "text": "Hand lens", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 157, "text": "Real objects/photographs/poster/charts of classes of food", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 158, "text": "Photographs/posters showing correct postures", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 159, "text": "Photographs/posters showing postural abnormalities", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 160, "text": "Poster/real object of sphygmomanometer, thermometer, litmus paper snellen chart", "descriptions": [], "parentId": 127, "subLabels": []}, {"id": 32, "text": "(c)    digestive system", "descriptions": [], "parentId": 31, "subLabels": []}, {"id": 42, "text": "(e)  respiratory system", "descriptions": [], "parentId": 41, "subLabels": []}, {"id": 58, "text": "Physiological factors affecting homeostatis", "descriptions": ["The roles of nutrition and exercise as determinants of correct posture should be discussed."], "parentId": 57, "subLabels": []}, {"id": 60, "text": "Definition", "descriptions": [], "parentId": 59, "subLabels": []}, {"id": 61, "text": "(ii)     characteristics of correct posture", "descriptions": [], "parentId": 59, "subLabels": [{"id": 62, "text": "(iii)      determination of correct postures", "descriptions": [], "parentId": 61, "subLabels": []}, {"id": 63, "text": "(iv)     types of postural defects", "descriptions": [], "parentId": 61, "subLabels": [{"id": 64, "text": "Flat foot; scoliosis, kyphosis and lordosis", "descriptions": [], "parentId": 63, "subLabels": []}]}]}, {"id": 99, "text": "(ii)   effects of smoking on health", "descriptions": ["Negative and positive effects should be stressed.  Nutritional value of non- alcoholic beverages should be stressed."], "parentId": 98, "subLabels": []}, {"id": 118, "text": "(a)   meaning of population and population", "descriptions": [], "parentId": 117, "subLabels": []}, {"id": 62, "text": "(iii)      determination of correct postures", "descriptions": [], "parentId": 61, "subLabels": []}, {"id": 63, "text": "(iv)     types of postural defects", "descriptions": [], "parentId": 61, "subLabels": [{"id": 64, "text": "Flat foot; scoliosis, kyphosis and lordosis", "descriptions": [], "parentId": 63, "subLabels": []}]}, {"id": 64, "text": "Flat foot; scoliosis, kyphosis and lordosis", "descriptions": [], "parentId": 63, "subLabels": []}]}
+{
+ "subject": "History",
+ "Grade": "None",
+ "Curriculum": "test",
+ "labelsTree": [],
+ "labels": [
+  {
+   "id": 3,
+   "text": "Detailed syllabus",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 4,
+     "text": "Contents",
+     "descriptions": [
+      "NOTES"
+     ],
+     "parentId": 3,
+     "subLabels": []
+    },
+    {
+     "id": 5,
+     "text": "History and development of",
+     "descriptions": [],
+     "parentId": 3,
+     "subLabels": []
+    },
+    {
+     "id": 6,
+     "text": "Health education",
+     "descriptions": [],
+     "parentId": 3,
+     "subLabels": []
+    },
+    {
+     "id": 7,
+     "text": "Meaning and setting for health education",
+     "descriptions": [],
+     "parentId": 3,
+     "subLabels": []
+    },
+    {
+     "id": 8,
+     "text": "Meaning",
+     "descriptions": [],
+     "parentId": 3,
+     "subLabels": []
+    },
+    {
+     "id": 9,
+     "text": "Setting",
+     "descriptions": [],
+     "parentId": 3,
+     "subLabels": []
+    },
+    {
+     "id": 10,
+     "text": "Meaning of health promotion",
+     "descriptions": [],
+     "parentId": 3,
+     "subLabels": []
+    },
+    {
+     "id": 11,
+     "text": "Human anatomy and physiology",
+     "descriptions": [],
+     "parentId": 3,
+     "subLabels": []
+    },
+    {
+     "id": 12,
+     "text": "Cells and tissues of human body",
+     "descriptions": [],
+     "parentId": 3,
+     "subLabels": []
+    },
+    {
+     "id": 13,
+     "text": "Types of cell",
+     "descriptions": [],
+     "parentId": 3,
+     "subLabels": []
+    },
+    {
+     "id": 14,
+     "text": "Cell division",
+     "descriptions": [],
+     "parentId": 3,
+     "subLabels": []
+    },
+    {
+     "id": 15,
+     "text": "Mitosis",
+     "descriptions": [],
+     "parentId": 3,
+     "subLabels": [
+      {
+       "id": 16,
+       "text": "(ii)         meiosis",
+       "descriptions": [],
+       "parentId": 15,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 17,
+     "text": "Cell differentiation",
+     "descriptions": [],
+     "parentId": 3,
+     "subLabels": [
+      {
+       "id": 18,
+       "text": "Formation of tissues, organs and systems",
+       "descriptions": [],
+       "parentId": 17,
+       "subLabels": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "text": "Contents",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 20,
+     "text": "Growth and development",
+     "descriptions": [
+      "Students should visit to observe community, health facility and work place base, health education programmes and services."
+     ],
+     "parentId": 19,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "text": "Notes",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 22,
+     "text": "Functions of the skeletal system",
+     "descriptions": [
+      "Differences between growth and development should be emphasized."
+     ],
+     "parentId": 21,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "text": "Contents",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 24,
+     "text": "Heart",
+     "descriptions": [
+      "The three different types of muscles should be discussed in relation to their functions.",
+      "Emphasis should be on synovial joint.",
+      "Location of the different types of joint should be identified.",
+      "Specific examples should be used to illustrate the classes of levers."
+     ],
+     "parentId": 23,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "text": "Notes",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 26,
+     "text": "Candidates should examine the heart of a dissected mammal",
+     "descriptions": [],
+     "parentId": 25,
+     "subLabels": [
+      {
+       "id": 27,
+       "text": "(i)          blood and lymph",
+       "descriptions": [
+        "Pulse rate should be counted.  The web of a toad/frog should be examined with a hand lens to observe the capillaries.  The importance of lymph nodes should be mentioned."
+       ],
+       "parentId": 26,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 28,
+     "text": "Circulation",
+     "descriptions": [],
+     "parentId": 25,
+     "subLabels": [
+      {
+       "id": 29,
+       "text": "Process of blood clotting",
+       "descriptions": [
+        "Prepared slides of blood should be observed under microscope. Pulmonary and systemic circulation should be emphasized."
+       ],
+       "parentId": 28,
+       "subLabels": []
+      },
+      {
+       "id": 30,
+       "text": "Blood groups, rhesus factors hemoglobin, genotype",
+       "descriptions": [
+        "The relevance of these factors in relation to blood transfusion should be mentioned."
+       ],
+       "parentId": 28,
+       "subLabels": []
+      },
+      {
+       "id": 31,
+       "text": "Diseases disorder of the circulatory system and their causes; sickle cell anaemia, leukaemia, haemophilia arteriosclerosis, hypertension, coronary thrombosis and stroke",
+       "descriptions": [
+        "Heredity aspect of sickle cell andhaemophilia should be discussed.",
+        "Prevention of anaemia and arteriosclerosis should be discussed."
+       ],
+       "parentId": 28,
+       "subLabels": [
+        {
+         "id": 32,
+         "text": "(c)    digestive system",
+         "descriptions": [],
+         "parentId": 31,
+         "subLabels": []
+        }
+       ]
+      },
+      {
+       "id": 33,
+       "text": "Organs of the digestive system and their functions",
+       "descriptions": [
+        "Candidates should examine the alimentary canal of a dissected mammal.The location and function of accessory organs of digestion should be emphasized."
+       ],
+       "parentId": 28,
+       "subLabels": []
+      },
+      {
+       "id": 34,
+       "text": "Process of digestion",
+       "descriptions": [
+        "Digestive enzymes should be discussed in relation to substrates and end-product."
+       ],
+       "parentId": 28,
+       "subLabels": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 35,
+   "text": "Contents",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 36,
+     "text": "Absorption, assimilation and metabolism",
+     "descriptions": [],
+     "parentId": 35,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 37,
+   "text": "Notes",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 38,
+     "text": "Mentioned should be made of tissue respiration in relation to metabolism. osmosis and diffusion should be demonstrated and their importance in absorption should be emphasized",
+     "descriptions": [],
+     "parentId": 37,
+     "subLabels": [
+      {
+       "id": 39,
+       "text": "(d)  excretory system",
+       "descriptions": [],
+       "parentId": 38,
+       "subLabels": []
+      },
+      {
+       "id": 40,
+       "text": "Structure and functions of the kidney and skin",
+       "descriptions": [],
+       "parentId": 38,
+       "subLabels": []
+      },
+      {
+       "id": 41,
+       "text": "Process of urine formation",
+       "descriptions": [],
+       "parentId": 38,
+       "subLabels": [
+        {
+         "id": 42,
+         "text": "(e)  respiratory system",
+         "descriptions": [],
+         "parentId": 41,
+         "subLabels": []
+        }
+       ]
+      },
+      {
+       "id": 43,
+       "text": "Structure and functions of the respiratory system",
+       "descriptions": [],
+       "parentId": 38,
+       "subLabels": []
+      },
+      {
+       "id": 44,
+       "text": "Process of respiration",
+       "descriptions": [],
+       "parentId": 38,
+       "subLabels": []
+      },
+      {
+       "id": 45,
+       "text": "Mechanism of breathing",
+       "descriptions": [],
+       "parentId": 38,
+       "subLabels": []
+      },
+      {
+       "id": 46,
+       "text": "Gaseous exchange",
+       "descriptions": [],
+       "parentId": 38,
+       "subLabels": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 47,
+   "text": "Contents",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 48,
+     "text": "Tissue/cellular",
+     "descriptions": [
+      "respiration."
+     ],
+     "parentId": 47,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 49,
+   "text": "Notes",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 50,
+     "text": "The brain, spinal cord and nerves should be discussed",
+     "descriptions": [],
+     "parentId": 49,
+     "subLabels": [
+      {
+       "id": 51,
+       "text": "(f)    nervous system",
+       "descriptions": [],
+       "parentId": 50,
+       "subLabels": []
+      },
+      {
+       "id": 52,
+       "text": "Structure and functions of the components of the nervous system",
+       "descriptions": [],
+       "parentId": 50,
+       "subLabels": []
+      },
+      {
+       "id": 53,
+       "text": "Voluntary and involuntary actions",
+       "descriptions": [],
+       "parentId": 50,
+       "subLabels": []
+      },
+      {
+       "id": 54,
+       "text": "Diseases/disorders of the nervous system",
+       "descriptions": [],
+       "parentId": 50,
+       "subLabels": []
+      },
+      {
+       "id": 55,
+       "text": "Endocrine system",
+       "descriptions": [
+        "Body temperature, blood sugar level, water balance, electrolytes balance, pH and blood pressure should be highlighted. Candidates should test urine with litmus paper and also, count pulse rate. Mention should be made of the positive and negative feed back control system."
+       ],
+       "parentId": 50,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 56,
+     "text": "Location of the different endocrine glands, the hormones produced and their functions",
+     "descriptions": [],
+     "parentId": 49,
+     "subLabels": [
+      {
+       "id": 57,
+       "text": "Homeostasis",
+       "descriptions": [
+        "Posture should be related to the following: sitting; standing; walking and lifting."
+       ],
+       "parentId": 56,
+       "subLabels": [
+        {
+         "id": 58,
+         "text": "Physiological factors affecting homeostatis",
+         "descriptions": [
+          "The roles of nutrition and exercise as determinants of correct posture should be discussed."
+         ],
+         "parentId": 57,
+         "subLabels": []
+        }
+       ]
+      },
+      {
+       "id": 59,
+       "text": "4.     posture and postural defects",
+       "descriptions": [
+        "The causes of postural defects e.g. habits, accidents, heredity and diseases should be discussed."
+       ],
+       "parentId": 56,
+       "subLabels": [
+        {
+         "id": 60,
+         "text": "Definition",
+         "descriptions": [],
+         "parentId": 59,
+         "subLabels": []
+        },
+        {
+         "id": 61,
+         "text": "(ii)     characteristics of correct posture",
+         "descriptions": [],
+         "parentId": 59,
+         "subLabels": [
+          {
+           "id": 62,
+           "text": "(iii)      determination of correct postures",
+           "descriptions": [],
+           "parentId": 61,
+           "subLabels": []
+          },
+          {
+           "id": 63,
+           "text": "(iv)     types of postural defects",
+           "descriptions": [],
+           "parentId": 61,
+           "subLabels": [
+            {
+             "id": 64,
+             "text": "Flat foot; scoliosis, kyphosis and lordosis",
+             "descriptions": [],
+             "parentId": 63,
+             "subLabels": []
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 65,
+   "text": "Contents",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 66,
+     "text": "(v)     effects of incorrect posture on",
+     "descriptions": [],
+     "parentId": 65,
+     "subLabels": []
+    },
+    {
+     "id": 67,
+     "text": "Physical appearance, position and functions of body organs",
+     "descriptions": [],
+     "parentId": 65,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 69,
+   "text": "Notes",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 70,
+     "text": "Structure and functions of the different types of teeth should be discussed",
+     "descriptions": [],
+     "parentId": 69,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 71,
+   "text": "Contents",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 72,
+     "text": "Dental caries and gingivitis should be mentioned",
+     "descriptions": [],
+     "parentId": 71,
+     "subLabels": []
+    },
+    {
+     "id": 73,
+     "text": "Goals and objectives. linkages for promotion (initiatives)",
+     "descriptions": [],
+     "parentId": 71,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 74,
+   "text": "Contentsnotes",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 75,
+     "text": "Meaning different aspects of family health",
+     "descriptions": [],
+     "parentId": 74,
+     "subLabels": [
+      {
+       "id": 76,
+       "text": "(i)       birth rate",
+       "descriptions": [],
+       "parentId": 75,
+       "subLabels": []
+      },
+      {
+       "id": 77,
+       "text": "(ii)     mortality rate",
+       "descriptions": [],
+       "parentId": 75,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 78,
+     "text": "Morbidity rate",
+     "descriptions": [],
+     "parentId": 74,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 79,
+   "text": "Environmental health",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 80,
+     "text": "Housing",
+     "descriptions": [
+      "Effects of poor sanitation and pest infestation in home should be discussed."
+     ],
+     "parentId": 79,
+     "subLabels": [
+      {
+       "id": 81,
+       "text": "(i)   refuse",
+       "descriptions": [],
+       "parentId": 80,
+       "subLabels": []
+      },
+      {
+       "id": 82,
+       "text": "(ii)  sewage",
+       "descriptions": [],
+       "parentId": 80,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 83,
+     "text": "Methods",
+     "descriptions": [],
+     "parentId": 79,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 89,
+   "text": "Notes",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 90,
+     "text": "Mention should include drug abuse, drug dependence, drug misuse, drug addiction, self medication, alcoholism, rehabilitation this should include oral, injection, inhalation, topical and anal. prevention of drug abuse should be highlighted",
+     "descriptions": [],
+     "parentId": 89,
+     "subLabels": []
+    },
+    {
+     "id": 91,
+     "text": "Causative agent",
+     "descriptions": [],
+     "parentId": 89,
+     "subLabels": [
+      {
+       "id": 92,
+       "text": "Mode of transmission",
+       "descriptions": [],
+       "parentId": 91,
+       "subLabels": []
+      },
+      {
+       "id": 93,
+       "text": "Signs and symptoms",
+       "descriptions": [],
+       "parentId": 91,
+       "subLabels": []
+      },
+      {
+       "id": 94,
+       "text": "Prevention and control",
+       "descriptions": [
+        "The need for health insurance schemes should be stressed. Students  should be able to identify to differentiate between pests and vectors."
+       ],
+       "parentId": 91,
+       "subLabels": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 96,
+   "text": "Education",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 97,
+     "text": "Drug education",
+     "descriptions": [
+      "Tests for starch, simple and complex sugars, proteins and fats should be carried out. Local example of sources of food nutrients should be mentioned."
+     ],
+     "parentId": 96,
+     "subLabels": [
+      {
+       "id": 98,
+       "text": "(i)  components",
+       "descriptions": [],
+       "parentId": 97,
+       "subLabels": [
+        {
+         "id": 99,
+         "text": "(ii)   effects of smoking on health",
+         "descriptions": [
+          "Negative and positive effects should be stressed.  Nutritional value of non- alcoholic beverages should be stressed."
+         ],
+         "parentId": 98,
+         "subLabels": []
+        }
+       ]
+      },
+      {
+       "id": 100,
+       "text": "Alcohol on health",
+       "descriptions": [],
+       "parentId": 97,
+       "subLabels": []
+      },
+      {
+       "id": 101,
+       "text": "Effects of alcohol on health",
+       "descriptions": [
+        "Charts should be used to show diets for the different groups of people."
+       ],
+       "parentId": 97,
+       "subLabels": []
+      },
+      {
+       "id": 102,
+       "text": "Drugs",
+       "descriptions": [],
+       "parentId": 97,
+       "subLabels": []
+      },
+      {
+       "id": 103,
+       "text": "Effects of drug on health",
+       "descriptions": [],
+       "parentId": 97,
+       "subLabels": []
+      },
+      {
+       "id": 104,
+       "text": "Communicable and non communicable",
+       "descriptions": [],
+       "parentId": 97,
+       "subLabels": []
+      },
+      {
+       "id": 105,
+       "text": "Diseases",
+       "descriptions": [],
+       "parentId": 97,
+       "subLabels": []
+      },
+      {
+       "id": 106,
+       "text": "Diseases",
+       "descriptions": [],
+       "parentId": 97,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 107,
+     "text": "Meaning and classes of diseases",
+     "descriptions": [],
+     "parentId": 96,
+     "subLabels": [
+      {
+       "id": 108,
+       "text": "Communicable diseases",
+       "descriptions": [],
+       "parentId": 107,
+       "subLabels": []
+      },
+      {
+       "id": 109,
+       "text": "Definition",
+       "descriptions": [],
+       "parentId": 107,
+       "subLabels": []
+      },
+      {
+       "id": 110,
+       "text": "Classification of communicable diseases",
+       "descriptions": [],
+       "parentId": 107,
+       "subLabels": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 115,
+   "text": "Human reproduction",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 116,
+     "text": "Birth control methods safe motherhood",
+     "descriptions": [
+      "Candidates should be able to distinguish between family planning and safe motherhood.",
+      "Candidates should be able to distinguish between population and census."
+     ],
+     "parentId": 115,
+     "subLabels": [
+      {
+       "id": 117,
+       "text": "5.     population education",
+       "descriptions": [
+        "Advantages of accurate census should be discussed."
+       ],
+       "parentId": 116,
+       "subLabels": [
+        {
+         "id": 118,
+         "text": "(a)   meaning of population and population",
+         "descriptions": [],
+         "parentId": 117,
+         "subLabels": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": 119,
+     "text": "Education",
+     "descriptions": [],
+     "parentId": 115,
+     "subLabels": [
+      {
+       "id": 120,
+       "text": "(b)    census and its problems",
+       "descriptions": [
+        "Meaning and the interrelationship between emotional health and social health should be discussed."
+       ],
+       "parentId": 119,
+       "subLabels": []
+      },
+      {
+       "id": 121,
+       "text": "(c)     small and large population",
+       "descriptions": [],
+       "parentId": 119,
+       "subLabels": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 122,
+   "text": "Emotional and social health",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 123,
+     "text": "Interrelationship attributes",
+     "descriptions": [
+      "The attributes of emotional and social health should be discussed.",
+      "Candidates should be able to identify personal problems and proffer solutions."
+     ],
+     "parentId": 122,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 124,
+   "text": "Consumer health education",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 125,
+     "text": "Consumer health products and services laws protecting the consumer",
+     "descriptions": [
+      "Various agencies promoting consumers health should be discussed.",
+      "Mention features of genuine products and services",
+      "The importance of checking label expiry dates on products before purchase should be highlighted."
+     ],
+     "parentId": 124,
+     "subLabels": []
+    },
+    {
+     "id": 126,
+     "text": "Factors influencing choice of consumer products; authencity; cost; availability; accessibility; availability and advertisement. consumer health care services",
+     "descriptions": [
+      "Various types of health services: traditional medicine, orthodox medicine, alternative methods of healing (acupuncture, yoga and faith healing) should be discussed.",
+      "Different types of quackery such as mechanical, electrical, drug and cosmetic and medical quackery should be discussed"
+     ],
+     "parentId": 124,
+     "subLabels": []
+    },
+    {
+     "id": 127,
+     "text": "Materials needed in health education laboratory/examination",
+     "descriptions": [],
+     "parentId": 124,
+     "subLabels": [
+      {
+       "id": 128,
+       "text": "Models of various organs of the body",
+       "descriptions": [],
+       "parentId": 127,
+       "subLabels": []
+      },
+      {
+       "id": 129,
+       "text": "Models of various parts of the body e.g. tooth",
+       "descriptions": [],
+       "parentId": 127,
+       "subLabels": []
+      },
+      {
+       "id": 130,
+       "text": "Human skeleton",
+       "descriptions": [],
+       "parentId": 127,
+       "subLabels": []
+      },
+      {
+       "id": 131,
+       "text": "Bones of the body",
+       "descriptions": [],
+       "parentId": 127,
+       "subLabels": []
+      },
+      {
+       "id": 132,
+       "text": "Contraceptive devices",
+       "descriptions": [],
+       "parentId": 127,
+       "subLabels": []
+      },
+      {
+       "id": 133,
+       "text": "Reagents for testing of starch, protein, fat",
+       "descriptions": [],
+       "parentId": 127,
+       "subLabels": []
+      },
+      {
+       "id": 134,
+       "text": "Road safety signs",
+       "descriptions": [],
+       "parentId": 127,
+       "subLabels": []
+      },
+      {
+       "id": 135,
+       "text": "Different types of safety elements",
+       "descriptions": [],
+       "parentId": 127,
+       "subLabels": []
+      },
+      {
+       "id": 136,
+       "text": "Posters/charts of systems of the body e.g. reproductive, digestive, excretory",
+       "descriptions": [],
+       "parentId": 127,
+       "subLabels": []
+      },
+      {
+       "id": 137,
+       "text": "First aid box and kits",
+       "descriptions": [],
+       "parentId": 127,
+       "subLabels": []
+      },
+      {
+       "id": 138,
+       "text": "Fire extinguisher",
+       "descriptions": [],
+       "parentId": 127,
+       "subLabels": []
+      },
+      {
+       "id": 139,
+       "text": "Sand bucket",
+       "descriptions": [],
+       "parentId": 127,
+       "subLabels": []
+      },
+      {
+       "id": 140,
+       "text": "Photographs of health facilities and  workers e.g. doctors , nurses, dentist at work",
+       "descriptions": [],
+       "parentId": 127,
+       "subLabels": []
+      },
+      {
+       "id": 141,
+       "text": "Photographs of methods of sewage and refuse disposals",
+       "descriptions": [],
+       "parentId": 127,
+       "subLabels": []
+      },
+      {
+       "id": 142,
+       "text": "Microscope",
+       "descriptions": [],
+       "parentId": 127,
+       "subLabels": []
+      },
+      {
+       "id": 143,
+       "text": "Stethoscope",
+       "descriptions": [],
+       "parentId": 127,
+       "subLabels": []
+      },
+      {
+       "id": 144,
+       "text": "Preserved worms",
+       "descriptions": [],
+       "parentId": 127,
+       "subLabels": []
+      },
+      {
+       "id": 145,
+       "text": "Preserved pests and vectors",
+       "descriptions": [],
+       "parentId": 127,
+       "subLabels": []
+      },
+      {
+       "id": 146,
+       "text": "Photographs/posters of various types of communicable and non-communicable diseases",
+       "descriptions": [],
+       "parentId": 127,
+       "subLabels": []
+      },
+      {
+       "id": 147,
+       "text": "Model/poster showing parts of the body",
+       "descriptions": [],
+       "parentId": 127,
+       "subLabels": []
+      },
+      {
+       "id": 148,
+       "text": "Materials for personal hygiene e.g. toothpaste, comb, toothbrush",
+       "descriptions": [],
+       "parentId": 127,
+       "subLabels": []
+      },
+      {
+       "id": 149,
+       "text": "Dissecting set",
+       "descriptions": [],
+       "parentId": 127,
+       "subLabels": []
+      },
+      {
+       "id": 150,
+       "text": "Photographs/posters of accident scenes",
+       "descriptions": [],
+       "parentId": 127,
+       "subLabels": []
+      },
+      {
+       "id": 151,
+       "text": "Photographs/posters showing methods of food preservation",
+       "descriptions": [],
+       "parentId": 127,
+       "subLabels": []
+      },
+      {
+       "id": 152,
+       "text": "Photographs/posters showing disaster scenes",
+       "descriptions": [],
+       "parentId": 127,
+       "subLabels": []
+      },
+      {
+       "id": 153,
+       "text": "Safety",
+       "descriptions": [],
+       "parentId": 127,
+       "subLabels": []
+      },
+      {
+       "id": 154,
+       "text": "Photographs/posters of drugs commonly misused/abused",
+       "descriptions": [],
+       "parentId": 127,
+       "subLabels": []
+      },
+      {
+       "id": 155,
+       "text": "Tobacco products",
+       "descriptions": [],
+       "parentId": 127,
+       "subLabels": []
+      },
+      {
+       "id": 156,
+       "text": "Hand lens",
+       "descriptions": [],
+       "parentId": 127,
+       "subLabels": []
+      },
+      {
+       "id": 157,
+       "text": "Real objects/photographs/poster/charts of classes of food",
+       "descriptions": [],
+       "parentId": 127,
+       "subLabels": []
+      },
+      {
+       "id": 158,
+       "text": "Photographs/posters showing correct postures",
+       "descriptions": [],
+       "parentId": 127,
+       "subLabels": []
+      },
+      {
+       "id": 159,
+       "text": "Photographs/posters showing postural abnormalities",
+       "descriptions": [],
+       "parentId": 127,
+       "subLabels": []
+      },
+      {
+       "id": 160,
+       "text": "Poster/real object of sphygmomanometer, thermometer, litmus paper snellen chart",
+       "descriptions": [],
+       "parentId": 127,
+       "subLabels": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "text": "Contents",
+   "descriptions": [
+    "NOTES"
+   ],
+   "parentId": 3,
+   "subLabels": []
+  },
+  {
+   "id": 5,
+   "text": "History and development of",
+   "descriptions": [],
+   "parentId": 3,
+   "subLabels": []
+  },
+  {
+   "id": 6,
+   "text": "Health education",
+   "descriptions": [],
+   "parentId": 3,
+   "subLabels": []
+  },
+  {
+   "id": 7,
+   "text": "Meaning and setting for health education",
+   "descriptions": [],
+   "parentId": 3,
+   "subLabels": []
+  },
+  {
+   "id": 8,
+   "text": "Meaning",
+   "descriptions": [],
+   "parentId": 3,
+   "subLabels": []
+  },
+  {
+   "id": 9,
+   "text": "Setting",
+   "descriptions": [],
+   "parentId": 3,
+   "subLabels": []
+  },
+  {
+   "id": 10,
+   "text": "Meaning of health promotion",
+   "descriptions": [],
+   "parentId": 3,
+   "subLabels": []
+  },
+  {
+   "id": 11,
+   "text": "Human anatomy and physiology",
+   "descriptions": [],
+   "parentId": 3,
+   "subLabels": []
+  },
+  {
+   "id": 12,
+   "text": "Cells and tissues of human body",
+   "descriptions": [],
+   "parentId": 3,
+   "subLabels": []
+  },
+  {
+   "id": 13,
+   "text": "Types of cell",
+   "descriptions": [],
+   "parentId": 3,
+   "subLabels": []
+  },
+  {
+   "id": 14,
+   "text": "Cell division",
+   "descriptions": [],
+   "parentId": 3,
+   "subLabels": []
+  },
+  {
+   "id": 15,
+   "text": "Mitosis",
+   "descriptions": [],
+   "parentId": 3,
+   "subLabels": [
+    {
+     "id": 16,
+     "text": "(ii)         meiosis",
+     "descriptions": [],
+     "parentId": 15,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "text": "Cell differentiation",
+   "descriptions": [],
+   "parentId": 3,
+   "subLabels": [
+    {
+     "id": 18,
+     "text": "Formation of tissues, organs and systems",
+     "descriptions": [],
+     "parentId": 17,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "text": "Growth and development",
+   "descriptions": [
+    "Students should visit to observe community, health facility and work place base, health education programmes and services."
+   ],
+   "parentId": 19,
+   "subLabels": []
+  },
+  {
+   "id": 22,
+   "text": "Functions of the skeletal system",
+   "descriptions": [
+    "Differences between growth and development should be emphasized."
+   ],
+   "parentId": 21,
+   "subLabels": []
+  },
+  {
+   "id": 24,
+   "text": "Heart",
+   "descriptions": [
+    "The three different types of muscles should be discussed in relation to their functions.",
+    "Emphasis should be on synovial joint.",
+    "Location of the different types of joint should be identified.",
+    "Specific examples should be used to illustrate the classes of levers."
+   ],
+   "parentId": 23,
+   "subLabels": []
+  },
+  {
+   "id": 26,
+   "text": "Candidates should examine the heart of a dissected mammal",
+   "descriptions": [],
+   "parentId": 25,
+   "subLabels": [
+    {
+     "id": 27,
+     "text": "(i)          blood and lymph",
+     "descriptions": [
+      "Pulse rate should be counted.  The web of a toad/frog should be examined with a hand lens to observe the capillaries.  The importance of lymph nodes should be mentioned."
+     ],
+     "parentId": 26,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 28,
+   "text": "Circulation",
+   "descriptions": [],
+   "parentId": 25,
+   "subLabels": [
+    {
+     "id": 29,
+     "text": "Process of blood clotting",
+     "descriptions": [
+      "Prepared slides of blood should be observed under microscope. Pulmonary and systemic circulation should be emphasized."
+     ],
+     "parentId": 28,
+     "subLabels": []
+    },
+    {
+     "id": 30,
+     "text": "Blood groups, rhesus factors hemoglobin, genotype",
+     "descriptions": [
+      "The relevance of these factors in relation to blood transfusion should be mentioned."
+     ],
+     "parentId": 28,
+     "subLabels": []
+    },
+    {
+     "id": 31,
+     "text": "Diseases disorder of the circulatory system and their causes; sickle cell anaemia, leukaemia, haemophilia arteriosclerosis, hypertension, coronary thrombosis and stroke",
+     "descriptions": [
+      "Heredity aspect of sickle cell andhaemophilia should be discussed.",
+      "Prevention of anaemia and arteriosclerosis should be discussed."
+     ],
+     "parentId": 28,
+     "subLabels": [
+      {
+       "id": 32,
+       "text": "(c)    digestive system",
+       "descriptions": [],
+       "parentId": 31,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 33,
+     "text": "Organs of the digestive system and their functions",
+     "descriptions": [
+      "Candidates should examine the alimentary canal of a dissected mammal.The location and function of accessory organs of digestion should be emphasized."
+     ],
+     "parentId": 28,
+     "subLabels": []
+    },
+    {
+     "id": 34,
+     "text": "Process of digestion",
+     "descriptions": [
+      "Digestive enzymes should be discussed in relation to substrates and end-product."
+     ],
+     "parentId": 28,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 36,
+   "text": "Absorption, assimilation and metabolism",
+   "descriptions": [],
+   "parentId": 35,
+   "subLabels": []
+  },
+  {
+   "id": 38,
+   "text": "Mentioned should be made of tissue respiration in relation to metabolism. osmosis and diffusion should be demonstrated and their importance in absorption should be emphasized",
+   "descriptions": [],
+   "parentId": 37,
+   "subLabels": [
+    {
+     "id": 39,
+     "text": "(d)  excretory system",
+     "descriptions": [],
+     "parentId": 38,
+     "subLabels": []
+    },
+    {
+     "id": 40,
+     "text": "Structure and functions of the kidney and skin",
+     "descriptions": [],
+     "parentId": 38,
+     "subLabels": []
+    },
+    {
+     "id": 41,
+     "text": "Process of urine formation",
+     "descriptions": [],
+     "parentId": 38,
+     "subLabels": [
+      {
+       "id": 42,
+       "text": "(e)  respiratory system",
+       "descriptions": [],
+       "parentId": 41,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 43,
+     "text": "Structure and functions of the respiratory system",
+     "descriptions": [],
+     "parentId": 38,
+     "subLabels": []
+    },
+    {
+     "id": 44,
+     "text": "Process of respiration",
+     "descriptions": [],
+     "parentId": 38,
+     "subLabels": []
+    },
+    {
+     "id": 45,
+     "text": "Mechanism of breathing",
+     "descriptions": [],
+     "parentId": 38,
+     "subLabels": []
+    },
+    {
+     "id": 46,
+     "text": "Gaseous exchange",
+     "descriptions": [],
+     "parentId": 38,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 48,
+   "text": "Tissue/cellular",
+   "descriptions": [
+    "respiration."
+   ],
+   "parentId": 47,
+   "subLabels": []
+  },
+  {
+   "id": 50,
+   "text": "The brain, spinal cord and nerves should be discussed",
+   "descriptions": [],
+   "parentId": 49,
+   "subLabels": [
+    {
+     "id": 51,
+     "text": "(f)    nervous system",
+     "descriptions": [],
+     "parentId": 50,
+     "subLabels": []
+    },
+    {
+     "id": 52,
+     "text": "Structure and functions of the components of the nervous system",
+     "descriptions": [],
+     "parentId": 50,
+     "subLabels": []
+    },
+    {
+     "id": 53,
+     "text": "Voluntary and involuntary actions",
+     "descriptions": [],
+     "parentId": 50,
+     "subLabels": []
+    },
+    {
+     "id": 54,
+     "text": "Diseases/disorders of the nervous system",
+     "descriptions": [],
+     "parentId": 50,
+     "subLabels": []
+    },
+    {
+     "id": 55,
+     "text": "Endocrine system",
+     "descriptions": [
+      "Body temperature, blood sugar level, water balance, electrolytes balance, pH and blood pressure should be highlighted. Candidates should test urine with litmus paper and also, count pulse rate. Mention should be made of the positive and negative feed back control system."
+     ],
+     "parentId": 50,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 56,
+   "text": "Location of the different endocrine glands, the hormones produced and their functions",
+   "descriptions": [],
+   "parentId": 49,
+   "subLabels": [
+    {
+     "id": 57,
+     "text": "Homeostasis",
+     "descriptions": [
+      "Posture should be related to the following: sitting; standing; walking and lifting."
+     ],
+     "parentId": 56,
+     "subLabels": [
+      {
+       "id": 58,
+       "text": "Physiological factors affecting homeostatis",
+       "descriptions": [
+        "The roles of nutrition and exercise as determinants of correct posture should be discussed."
+       ],
+       "parentId": 57,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 59,
+     "text": "4.     posture and postural defects",
+     "descriptions": [
+      "The causes of postural defects e.g. habits, accidents, heredity and diseases should be discussed."
+     ],
+     "parentId": 56,
+     "subLabels": [
+      {
+       "id": 60,
+       "text": "Definition",
+       "descriptions": [],
+       "parentId": 59,
+       "subLabels": []
+      },
+      {
+       "id": 61,
+       "text": "(ii)     characteristics of correct posture",
+       "descriptions": [],
+       "parentId": 59,
+       "subLabels": [
+        {
+         "id": 62,
+         "text": "(iii)      determination of correct postures",
+         "descriptions": [],
+         "parentId": 61,
+         "subLabels": []
+        },
+        {
+         "id": 63,
+         "text": "(iv)     types of postural defects",
+         "descriptions": [],
+         "parentId": 61,
+         "subLabels": [
+          {
+           "id": 64,
+           "text": "Flat foot; scoliosis, kyphosis and lordosis",
+           "descriptions": [],
+           "parentId": 63,
+           "subLabels": []
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 66,
+   "text": "(v)     effects of incorrect posture on",
+   "descriptions": [],
+   "parentId": 65,
+   "subLabels": []
+  },
+  {
+   "id": 67,
+   "text": "Physical appearance, position and functions of body organs",
+   "descriptions": [],
+   "parentId": 65,
+   "subLabels": []
+  },
+  {
+   "id": 70,
+   "text": "Structure and functions of the different types of teeth should be discussed",
+   "descriptions": [],
+   "parentId": 69,
+   "subLabels": []
+  },
+  {
+   "id": 72,
+   "text": "Dental caries and gingivitis should be mentioned",
+   "descriptions": [],
+   "parentId": 71,
+   "subLabels": []
+  },
+  {
+   "id": 73,
+   "text": "Goals and objectives. linkages for promotion (initiatives)",
+   "descriptions": [],
+   "parentId": 71,
+   "subLabels": []
+  },
+  {
+   "id": 75,
+   "text": "Meaning different aspects of family health",
+   "descriptions": [],
+   "parentId": 74,
+   "subLabels": [
+    {
+     "id": 76,
+     "text": "(i)       birth rate",
+     "descriptions": [],
+     "parentId": 75,
+     "subLabels": []
+    },
+    {
+     "id": 77,
+     "text": "(ii)     mortality rate",
+     "descriptions": [],
+     "parentId": 75,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 78,
+   "text": "Morbidity rate",
+   "descriptions": [],
+   "parentId": 74,
+   "subLabels": []
+  },
+  {
+   "id": 80,
+   "text": "Housing",
+   "descriptions": [
+    "Effects of poor sanitation and pest infestation in home should be discussed."
+   ],
+   "parentId": 79,
+   "subLabels": [
+    {
+     "id": 81,
+     "text": "(i)   refuse",
+     "descriptions": [],
+     "parentId": 80,
+     "subLabels": []
+    },
+    {
+     "id": 82,
+     "text": "(ii)  sewage",
+     "descriptions": [],
+     "parentId": 80,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 83,
+   "text": "Methods",
+   "descriptions": [],
+   "parentId": 79,
+   "subLabels": []
+  },
+  {
+   "id": 90,
+   "text": "Mention should include drug abuse, drug dependence, drug misuse, drug addiction, self medication, alcoholism, rehabilitation this should include oral, injection, inhalation, topical and anal. prevention of drug abuse should be highlighted",
+   "descriptions": [],
+   "parentId": 89,
+   "subLabels": []
+  },
+  {
+   "id": 91,
+   "text": "Causative agent",
+   "descriptions": [],
+   "parentId": 89,
+   "subLabels": [
+    {
+     "id": 92,
+     "text": "Mode of transmission",
+     "descriptions": [],
+     "parentId": 91,
+     "subLabels": []
+    },
+    {
+     "id": 93,
+     "text": "Signs and symptoms",
+     "descriptions": [],
+     "parentId": 91,
+     "subLabels": []
+    },
+    {
+     "id": 94,
+     "text": "Prevention and control",
+     "descriptions": [
+      "The need for health insurance schemes should be stressed. Students  should be able to identify to differentiate between pests and vectors."
+     ],
+     "parentId": 91,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 97,
+   "text": "Drug education",
+   "descriptions": [
+    "Tests for starch, simple and complex sugars, proteins and fats should be carried out. Local example of sources of food nutrients should be mentioned."
+   ],
+   "parentId": 96,
+   "subLabels": [
+    {
+     "id": 98,
+     "text": "(i)  components",
+     "descriptions": [],
+     "parentId": 97,
+     "subLabels": [
+      {
+       "id": 99,
+       "text": "(ii)   effects of smoking on health",
+       "descriptions": [
+        "Negative and positive effects should be stressed.  Nutritional value of non- alcoholic beverages should be stressed."
+       ],
+       "parentId": 98,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 100,
+     "text": "Alcohol on health",
+     "descriptions": [],
+     "parentId": 97,
+     "subLabels": []
+    },
+    {
+     "id": 101,
+     "text": "Effects of alcohol on health",
+     "descriptions": [
+      "Charts should be used to show diets for the different groups of people."
+     ],
+     "parentId": 97,
+     "subLabels": []
+    },
+    {
+     "id": 102,
+     "text": "Drugs",
+     "descriptions": [],
+     "parentId": 97,
+     "subLabels": []
+    },
+    {
+     "id": 103,
+     "text": "Effects of drug on health",
+     "descriptions": [],
+     "parentId": 97,
+     "subLabels": []
+    },
+    {
+     "id": 104,
+     "text": "Communicable and non communicable",
+     "descriptions": [],
+     "parentId": 97,
+     "subLabels": []
+    },
+    {
+     "id": 105,
+     "text": "Diseases",
+     "descriptions": [],
+     "parentId": 97,
+     "subLabels": []
+    },
+    {
+     "id": 106,
+     "text": "Diseases",
+     "descriptions": [],
+     "parentId": 97,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 107,
+   "text": "Meaning and classes of diseases",
+   "descriptions": [],
+   "parentId": 96,
+   "subLabels": [
+    {
+     "id": 108,
+     "text": "Communicable diseases",
+     "descriptions": [],
+     "parentId": 107,
+     "subLabels": []
+    },
+    {
+     "id": 109,
+     "text": "Definition",
+     "descriptions": [],
+     "parentId": 107,
+     "subLabels": []
+    },
+    {
+     "id": 110,
+     "text": "Classification of communicable diseases",
+     "descriptions": [],
+     "parentId": 107,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 116,
+   "text": "Birth control methods safe motherhood",
+   "descriptions": [
+    "Candidates should be able to distinguish between family planning and safe motherhood.",
+    "Candidates should be able to distinguish between population and census."
+   ],
+   "parentId": 115,
+   "subLabels": [
+    {
+     "id": 117,
+     "text": "5.     population education",
+     "descriptions": [
+      "Advantages of accurate census should be discussed."
+     ],
+     "parentId": 116,
+     "subLabels": [
+      {
+       "id": 118,
+       "text": "(a)   meaning of population and population",
+       "descriptions": [],
+       "parentId": 117,
+       "subLabels": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 119,
+   "text": "Education",
+   "descriptions": [],
+   "parentId": 115,
+   "subLabels": [
+    {
+     "id": 120,
+     "text": "(b)    census and its problems",
+     "descriptions": [
+      "Meaning and the interrelationship between emotional health and social health should be discussed."
+     ],
+     "parentId": 119,
+     "subLabels": []
+    },
+    {
+     "id": 121,
+     "text": "(c)     small and large population",
+     "descriptions": [],
+     "parentId": 119,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 123,
+   "text": "Interrelationship attributes",
+   "descriptions": [
+    "The attributes of emotional and social health should be discussed.",
+    "Candidates should be able to identify personal problems and proffer solutions."
+   ],
+   "parentId": 122,
+   "subLabels": []
+  },
+  {
+   "id": 125,
+   "text": "Consumer health products and services laws protecting the consumer",
+   "descriptions": [
+    "Various agencies promoting consumers health should be discussed.",
+    "Mention features of genuine products and services",
+    "The importance of checking label expiry dates on products before purchase should be highlighted."
+   ],
+   "parentId": 124,
+   "subLabels": []
+  },
+  {
+   "id": 126,
+   "text": "Factors influencing choice of consumer products; authencity; cost; availability; accessibility; availability and advertisement. consumer health care services",
+   "descriptions": [
+    "Various types of health services: traditional medicine, orthodox medicine, alternative methods of healing (acupuncture, yoga and faith healing) should be discussed.",
+    "Different types of quackery such as mechanical, electrical, drug and cosmetic and medical quackery should be discussed"
+   ],
+   "parentId": 124,
+   "subLabels": []
+  },
+  {
+   "id": 127,
+   "text": "Materials needed in health education laboratory/examination",
+   "descriptions": [],
+   "parentId": 124,
+   "subLabels": [
+    {
+     "id": 128,
+     "text": "Models of various organs of the body",
+     "descriptions": [],
+     "parentId": 127,
+     "subLabels": []
+    },
+    {
+     "id": 129,
+     "text": "Models of various parts of the body e.g. tooth",
+     "descriptions": [],
+     "parentId": 127,
+     "subLabels": []
+    },
+    {
+     "id": 130,
+     "text": "Human skeleton",
+     "descriptions": [],
+     "parentId": 127,
+     "subLabels": []
+    },
+    {
+     "id": 131,
+     "text": "Bones of the body",
+     "descriptions": [],
+     "parentId": 127,
+     "subLabels": []
+    },
+    {
+     "id": 132,
+     "text": "Contraceptive devices",
+     "descriptions": [],
+     "parentId": 127,
+     "subLabels": []
+    },
+    {
+     "id": 133,
+     "text": "Reagents for testing of starch, protein, fat",
+     "descriptions": [],
+     "parentId": 127,
+     "subLabels": []
+    },
+    {
+     "id": 134,
+     "text": "Road safety signs",
+     "descriptions": [],
+     "parentId": 127,
+     "subLabels": []
+    },
+    {
+     "id": 135,
+     "text": "Different types of safety elements",
+     "descriptions": [],
+     "parentId": 127,
+     "subLabels": []
+    },
+    {
+     "id": 136,
+     "text": "Posters/charts of systems of the body e.g. reproductive, digestive, excretory",
+     "descriptions": [],
+     "parentId": 127,
+     "subLabels": []
+    },
+    {
+     "id": 137,
+     "text": "First aid box and kits",
+     "descriptions": [],
+     "parentId": 127,
+     "subLabels": []
+    },
+    {
+     "id": 138,
+     "text": "Fire extinguisher",
+     "descriptions": [],
+     "parentId": 127,
+     "subLabels": []
+    },
+    {
+     "id": 139,
+     "text": "Sand bucket",
+     "descriptions": [],
+     "parentId": 127,
+     "subLabels": []
+    },
+    {
+     "id": 140,
+     "text": "Photographs of health facilities and  workers e.g. doctors , nurses, dentist at work",
+     "descriptions": [],
+     "parentId": 127,
+     "subLabels": []
+    },
+    {
+     "id": 141,
+     "text": "Photographs of methods of sewage and refuse disposals",
+     "descriptions": [],
+     "parentId": 127,
+     "subLabels": []
+    },
+    {
+     "id": 142,
+     "text": "Microscope",
+     "descriptions": [],
+     "parentId": 127,
+     "subLabels": []
+    },
+    {
+     "id": 143,
+     "text": "Stethoscope",
+     "descriptions": [],
+     "parentId": 127,
+     "subLabels": []
+    },
+    {
+     "id": 144,
+     "text": "Preserved worms",
+     "descriptions": [],
+     "parentId": 127,
+     "subLabels": []
+    },
+    {
+     "id": 145,
+     "text": "Preserved pests and vectors",
+     "descriptions": [],
+     "parentId": 127,
+     "subLabels": []
+    },
+    {
+     "id": 146,
+     "text": "Photographs/posters of various types of communicable and non-communicable diseases",
+     "descriptions": [],
+     "parentId": 127,
+     "subLabels": []
+    },
+    {
+     "id": 147,
+     "text": "Model/poster showing parts of the body",
+     "descriptions": [],
+     "parentId": 127,
+     "subLabels": []
+    },
+    {
+     "id": 148,
+     "text": "Materials for personal hygiene e.g. toothpaste, comb, toothbrush",
+     "descriptions": [],
+     "parentId": 127,
+     "subLabels": []
+    },
+    {
+     "id": 149,
+     "text": "Dissecting set",
+     "descriptions": [],
+     "parentId": 127,
+     "subLabels": []
+    },
+    {
+     "id": 150,
+     "text": "Photographs/posters of accident scenes",
+     "descriptions": [],
+     "parentId": 127,
+     "subLabels": []
+    },
+    {
+     "id": 151,
+     "text": "Photographs/posters showing methods of food preservation",
+     "descriptions": [],
+     "parentId": 127,
+     "subLabels": []
+    },
+    {
+     "id": 152,
+     "text": "Photographs/posters showing disaster scenes",
+     "descriptions": [],
+     "parentId": 127,
+     "subLabels": []
+    },
+    {
+     "id": 153,
+     "text": "Safety",
+     "descriptions": [],
+     "parentId": 127,
+     "subLabels": []
+    },
+    {
+     "id": 154,
+     "text": "Photographs/posters of drugs commonly misused/abused",
+     "descriptions": [],
+     "parentId": 127,
+     "subLabels": []
+    },
+    {
+     "id": 155,
+     "text": "Tobacco products",
+     "descriptions": [],
+     "parentId": 127,
+     "subLabels": []
+    },
+    {
+     "id": 156,
+     "text": "Hand lens",
+     "descriptions": [],
+     "parentId": 127,
+     "subLabels": []
+    },
+    {
+     "id": 157,
+     "text": "Real objects/photographs/poster/charts of classes of food",
+     "descriptions": [],
+     "parentId": 127,
+     "subLabels": []
+    },
+    {
+     "id": 158,
+     "text": "Photographs/posters showing correct postures",
+     "descriptions": [],
+     "parentId": 127,
+     "subLabels": []
+    },
+    {
+     "id": 159,
+     "text": "Photographs/posters showing postural abnormalities",
+     "descriptions": [],
+     "parentId": 127,
+     "subLabels": []
+    },
+    {
+     "id": 160,
+     "text": "Poster/real object of sphygmomanometer, thermometer, litmus paper snellen chart",
+     "descriptions": [],
+     "parentId": 127,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "text": "(ii)         meiosis",
+   "descriptions": [],
+   "parentId": 15,
+   "subLabels": []
+  },
+  {
+   "id": 18,
+   "text": "Formation of tissues, organs and systems",
+   "descriptions": [],
+   "parentId": 17,
+   "subLabels": []
+  },
+  {
+   "id": 27,
+   "text": "(i)          blood and lymph",
+   "descriptions": [
+    "Pulse rate should be counted.  The web of a toad/frog should be examined with a hand lens to observe the capillaries.  The importance of lymph nodes should be mentioned."
+   ],
+   "parentId": 26,
+   "subLabels": []
+  },
+  {
+   "id": 29,
+   "text": "Process of blood clotting",
+   "descriptions": [
+    "Prepared slides of blood should be observed under microscope. Pulmonary and systemic circulation should be emphasized."
+   ],
+   "parentId": 28,
+   "subLabels": []
+  },
+  {
+   "id": 30,
+   "text": "Blood groups, rhesus factors hemoglobin, genotype",
+   "descriptions": [
+    "The relevance of these factors in relation to blood transfusion should be mentioned."
+   ],
+   "parentId": 28,
+   "subLabels": []
+  },
+  {
+   "id": 31,
+   "text": "Diseases disorder of the circulatory system and their causes; sickle cell anaemia, leukaemia, haemophilia arteriosclerosis, hypertension, coronary thrombosis and stroke",
+   "descriptions": [
+    "Heredity aspect of sickle cell andhaemophilia should be discussed.",
+    "Prevention of anaemia and arteriosclerosis should be discussed."
+   ],
+   "parentId": 28,
+   "subLabels": [
+    {
+     "id": 32,
+     "text": "(c)    digestive system",
+     "descriptions": [],
+     "parentId": 31,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 33,
+   "text": "Organs of the digestive system and their functions",
+   "descriptions": [
+    "Candidates should examine the alimentary canal of a dissected mammal.The location and function of accessory organs of digestion should be emphasized."
+   ],
+   "parentId": 28,
+   "subLabels": []
+  },
+  {
+   "id": 34,
+   "text": "Process of digestion",
+   "descriptions": [
+    "Digestive enzymes should be discussed in relation to substrates and end-product."
+   ],
+   "parentId": 28,
+   "subLabels": []
+  },
+  {
+   "id": 39,
+   "text": "(d)  excretory system",
+   "descriptions": [],
+   "parentId": 38,
+   "subLabels": []
+  },
+  {
+   "id": 40,
+   "text": "Structure and functions of the kidney and skin",
+   "descriptions": [],
+   "parentId": 38,
+   "subLabels": []
+  },
+  {
+   "id": 41,
+   "text": "Process of urine formation",
+   "descriptions": [],
+   "parentId": 38,
+   "subLabels": [
+    {
+     "id": 42,
+     "text": "(e)  respiratory system",
+     "descriptions": [],
+     "parentId": 41,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 43,
+   "text": "Structure and functions of the respiratory system",
+   "descriptions": [],
+   "parentId": 38,
+   "subLabels": []
+  },
+  {
+   "id": 44,
+   "text": "Process of respiration",
+   "descriptions": [],
+   "parentId": 38,
+   "subLabels": []
+  },
+  {
+   "id": 45,
+   "text": "Mechanism of breathing",
+   "descriptions": [],
+   "parentId": 38,
+   "subLabels": []
+  },
+  {
+   "id": 46,
+   "text": "Gaseous exchange",
+   "descriptions": [],
+   "parentId": 38,
+   "subLabels": []
+  },
+  {
+   "id": 51,
+   "text": "(f)    nervous system",
+   "descriptions": [],
+   "parentId": 50,
+   "subLabels": []
+  },
+  {
+   "id": 52,
+   "text": "Structure and functions of the components of the nervous system",
+   "descriptions": [],
+   "parentId": 50,
+   "subLabels": []
+  },
+  {
+   "id": 53,
+   "text": "Voluntary and involuntary actions",
+   "descriptions": [],
+   "parentId": 50,
+   "subLabels": []
+  },
+  {
+   "id": 54,
+   "text": "Diseases/disorders of the nervous system",
+   "descriptions": [],
+   "parentId": 50,
+   "subLabels": []
+  },
+  {
+   "id": 55,
+   "text": "Endocrine system",
+   "descriptions": [
+    "Body temperature, blood sugar level, water balance, electrolytes balance, pH and blood pressure should be highlighted. Candidates should test urine with litmus paper and also, count pulse rate. Mention should be made of the positive and negative feed back control system."
+   ],
+   "parentId": 50,
+   "subLabels": []
+  },
+  {
+   "id": 57,
+   "text": "Homeostasis",
+   "descriptions": [
+    "Posture should be related to the following: sitting; standing; walking and lifting."
+   ],
+   "parentId": 56,
+   "subLabels": [
+    {
+     "id": 58,
+     "text": "Physiological factors affecting homeostatis",
+     "descriptions": [
+      "The roles of nutrition and exercise as determinants of correct posture should be discussed."
+     ],
+     "parentId": 57,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 59,
+   "text": "4.     posture and postural defects",
+   "descriptions": [
+    "The causes of postural defects e.g. habits, accidents, heredity and diseases should be discussed."
+   ],
+   "parentId": 56,
+   "subLabels": [
+    {
+     "id": 60,
+     "text": "Definition",
+     "descriptions": [],
+     "parentId": 59,
+     "subLabels": []
+    },
+    {
+     "id": 61,
+     "text": "(ii)     characteristics of correct posture",
+     "descriptions": [],
+     "parentId": 59,
+     "subLabels": [
+      {
+       "id": 62,
+       "text": "(iii)      determination of correct postures",
+       "descriptions": [],
+       "parentId": 61,
+       "subLabels": []
+      },
+      {
+       "id": 63,
+       "text": "(iv)     types of postural defects",
+       "descriptions": [],
+       "parentId": 61,
+       "subLabels": [
+        {
+         "id": 64,
+         "text": "Flat foot; scoliosis, kyphosis and lordosis",
+         "descriptions": [],
+         "parentId": 63,
+         "subLabels": []
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 76,
+   "text": "(i)       birth rate",
+   "descriptions": [],
+   "parentId": 75,
+   "subLabels": []
+  },
+  {
+   "id": 77,
+   "text": "(ii)     mortality rate",
+   "descriptions": [],
+   "parentId": 75,
+   "subLabels": []
+  },
+  {
+   "id": 81,
+   "text": "(i)   refuse",
+   "descriptions": [],
+   "parentId": 80,
+   "subLabels": []
+  },
+  {
+   "id": 82,
+   "text": "(ii)  sewage",
+   "descriptions": [],
+   "parentId": 80,
+   "subLabels": []
+  },
+  {
+   "id": 92,
+   "text": "Mode of transmission",
+   "descriptions": [],
+   "parentId": 91,
+   "subLabels": []
+  },
+  {
+   "id": 93,
+   "text": "Signs and symptoms",
+   "descriptions": [],
+   "parentId": 91,
+   "subLabels": []
+  },
+  {
+   "id": 94,
+   "text": "Prevention and control",
+   "descriptions": [
+    "The need for health insurance schemes should be stressed. Students  should be able to identify to differentiate between pests and vectors."
+   ],
+   "parentId": 91,
+   "subLabels": []
+  },
+  {
+   "id": 98,
+   "text": "(i)  components",
+   "descriptions": [],
+   "parentId": 97,
+   "subLabels": [
+    {
+     "id": 99,
+     "text": "(ii)   effects of smoking on health",
+     "descriptions": [
+      "Negative and positive effects should be stressed.  Nutritional value of non- alcoholic beverages should be stressed."
+     ],
+     "parentId": 98,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 100,
+   "text": "Alcohol on health",
+   "descriptions": [],
+   "parentId": 97,
+   "subLabels": []
+  },
+  {
+   "id": 101,
+   "text": "Effects of alcohol on health",
+   "descriptions": [
+    "Charts should be used to show diets for the different groups of people."
+   ],
+   "parentId": 97,
+   "subLabels": []
+  },
+  {
+   "id": 102,
+   "text": "Drugs",
+   "descriptions": [],
+   "parentId": 97,
+   "subLabels": []
+  },
+  {
+   "id": 103,
+   "text": "Effects of drug on health",
+   "descriptions": [],
+   "parentId": 97,
+   "subLabels": []
+  },
+  {
+   "id": 104,
+   "text": "Communicable and non communicable",
+   "descriptions": [],
+   "parentId": 97,
+   "subLabels": []
+  },
+  {
+   "id": 105,
+   "text": "Diseases",
+   "descriptions": [],
+   "parentId": 97,
+   "subLabels": []
+  },
+  {
+   "id": 106,
+   "text": "Diseases",
+   "descriptions": [],
+   "parentId": 97,
+   "subLabels": []
+  },
+  {
+   "id": 108,
+   "text": "Communicable diseases",
+   "descriptions": [],
+   "parentId": 107,
+   "subLabels": []
+  },
+  {
+   "id": 109,
+   "text": "Definition",
+   "descriptions": [],
+   "parentId": 107,
+   "subLabels": []
+  },
+  {
+   "id": 110,
+   "text": "Classification of communicable diseases",
+   "descriptions": [],
+   "parentId": 107,
+   "subLabels": []
+  },
+  {
+   "id": 117,
+   "text": "5.     population education",
+   "descriptions": [
+    "Advantages of accurate census should be discussed."
+   ],
+   "parentId": 116,
+   "subLabels": [
+    {
+     "id": 118,
+     "text": "(a)   meaning of population and population",
+     "descriptions": [],
+     "parentId": 117,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 120,
+   "text": "(b)    census and its problems",
+   "descriptions": [
+    "Meaning and the interrelationship between emotional health and social health should be discussed."
+   ],
+   "parentId": 119,
+   "subLabels": []
+  },
+  {
+   "id": 121,
+   "text": "(c)     small and large population",
+   "descriptions": [],
+   "parentId": 119,
+   "subLabels": []
+  },
+  {
+   "id": 128,
+   "text": "Models of various organs of the body",
+   "descriptions": [],
+   "parentId": 127,
+   "subLabels": []
+  },
+  {
+   "id": 129,
+   "text": "Models of various parts of the body e.g. tooth",
+   "descriptions": [],
+   "parentId": 127,
+   "subLabels": []
+  },
+  {
+   "id": 130,
+   "text": "Human skeleton",
+   "descriptions": [],
+   "parentId": 127,
+   "subLabels": []
+  },
+  {
+   "id": 131,
+   "text": "Bones of the body",
+   "descriptions": [],
+   "parentId": 127,
+   "subLabels": []
+  },
+  {
+   "id": 132,
+   "text": "Contraceptive devices",
+   "descriptions": [],
+   "parentId": 127,
+   "subLabels": []
+  },
+  {
+   "id": 133,
+   "text": "Reagents for testing of starch, protein, fat",
+   "descriptions": [],
+   "parentId": 127,
+   "subLabels": []
+  },
+  {
+   "id": 134,
+   "text": "Road safety signs",
+   "descriptions": [],
+   "parentId": 127,
+   "subLabels": []
+  },
+  {
+   "id": 135,
+   "text": "Different types of safety elements",
+   "descriptions": [],
+   "parentId": 127,
+   "subLabels": []
+  },
+  {
+   "id": 136,
+   "text": "Posters/charts of systems of the body e.g. reproductive, digestive, excretory",
+   "descriptions": [],
+   "parentId": 127,
+   "subLabels": []
+  },
+  {
+   "id": 137,
+   "text": "First aid box and kits",
+   "descriptions": [],
+   "parentId": 127,
+   "subLabels": []
+  },
+  {
+   "id": 138,
+   "text": "Fire extinguisher",
+   "descriptions": [],
+   "parentId": 127,
+   "subLabels": []
+  },
+  {
+   "id": 139,
+   "text": "Sand bucket",
+   "descriptions": [],
+   "parentId": 127,
+   "subLabels": []
+  },
+  {
+   "id": 140,
+   "text": "Photographs of health facilities and  workers e.g. doctors , nurses, dentist at work",
+   "descriptions": [],
+   "parentId": 127,
+   "subLabels": []
+  },
+  {
+   "id": 141,
+   "text": "Photographs of methods of sewage and refuse disposals",
+   "descriptions": [],
+   "parentId": 127,
+   "subLabels": []
+  },
+  {
+   "id": 142,
+   "text": "Microscope",
+   "descriptions": [],
+   "parentId": 127,
+   "subLabels": []
+  },
+  {
+   "id": 143,
+   "text": "Stethoscope",
+   "descriptions": [],
+   "parentId": 127,
+   "subLabels": []
+  },
+  {
+   "id": 144,
+   "text": "Preserved worms",
+   "descriptions": [],
+   "parentId": 127,
+   "subLabels": []
+  },
+  {
+   "id": 145,
+   "text": "Preserved pests and vectors",
+   "descriptions": [],
+   "parentId": 127,
+   "subLabels": []
+  },
+  {
+   "id": 146,
+   "text": "Photographs/posters of various types of communicable and non-communicable diseases",
+   "descriptions": [],
+   "parentId": 127,
+   "subLabels": []
+  },
+  {
+   "id": 147,
+   "text": "Model/poster showing parts of the body",
+   "descriptions": [],
+   "parentId": 127,
+   "subLabels": []
+  },
+  {
+   "id": 148,
+   "text": "Materials for personal hygiene e.g. toothpaste, comb, toothbrush",
+   "descriptions": [],
+   "parentId": 127,
+   "subLabels": []
+  },
+  {
+   "id": 149,
+   "text": "Dissecting set",
+   "descriptions": [],
+   "parentId": 127,
+   "subLabels": []
+  },
+  {
+   "id": 150,
+   "text": "Photographs/posters of accident scenes",
+   "descriptions": [],
+   "parentId": 127,
+   "subLabels": []
+  },
+  {
+   "id": 151,
+   "text": "Photographs/posters showing methods of food preservation",
+   "descriptions": [],
+   "parentId": 127,
+   "subLabels": []
+  },
+  {
+   "id": 152,
+   "text": "Photographs/posters showing disaster scenes",
+   "descriptions": [],
+   "parentId": 127,
+   "subLabels": []
+  },
+  {
+   "id": 153,
+   "text": "Safety",
+   "descriptions": [],
+   "parentId": 127,
+   "subLabels": []
+  },
+  {
+   "id": 154,
+   "text": "Photographs/posters of drugs commonly misused/abused",
+   "descriptions": [],
+   "parentId": 127,
+   "subLabels": []
+  },
+  {
+   "id": 155,
+   "text": "Tobacco products",
+   "descriptions": [],
+   "parentId": 127,
+   "subLabels": []
+  },
+  {
+   "id": 156,
+   "text": "Hand lens",
+   "descriptions": [],
+   "parentId": 127,
+   "subLabels": []
+  },
+  {
+   "id": 157,
+   "text": "Real objects/photographs/poster/charts of classes of food",
+   "descriptions": [],
+   "parentId": 127,
+   "subLabels": []
+  },
+  {
+   "id": 158,
+   "text": "Photographs/posters showing correct postures",
+   "descriptions": [],
+   "parentId": 127,
+   "subLabels": []
+  },
+  {
+   "id": 159,
+   "text": "Photographs/posters showing postural abnormalities",
+   "descriptions": [],
+   "parentId": 127,
+   "subLabels": []
+  },
+  {
+   "id": 160,
+   "text": "Poster/real object of sphygmomanometer, thermometer, litmus paper snellen chart",
+   "descriptions": [],
+   "parentId": 127,
+   "subLabels": []
+  },
+  {
+   "id": 32,
+   "text": "(c)    digestive system",
+   "descriptions": [],
+   "parentId": 31,
+   "subLabels": []
+  },
+  {
+   "id": 42,
+   "text": "(e)  respiratory system",
+   "descriptions": [],
+   "parentId": 41,
+   "subLabels": []
+  },
+  {
+   "id": 58,
+   "text": "Physiological factors affecting homeostatis",
+   "descriptions": [
+    "The roles of nutrition and exercise as determinants of correct posture should be discussed."
+   ],
+   "parentId": 57,
+   "subLabels": []
+  },
+  {
+   "id": 60,
+   "text": "Definition",
+   "descriptions": [],
+   "parentId": 59,
+   "subLabels": []
+  },
+  {
+   "id": 61,
+   "text": "(ii)     characteristics of correct posture",
+   "descriptions": [],
+   "parentId": 59,
+   "subLabels": [
+    {
+     "id": 62,
+     "text": "(iii)      determination of correct postures",
+     "descriptions": [],
+     "parentId": 61,
+     "subLabels": []
+    },
+    {
+     "id": 63,
+     "text": "(iv)     types of postural defects",
+     "descriptions": [],
+     "parentId": 61,
+     "subLabels": [
+      {
+       "id": 64,
+       "text": "Flat foot; scoliosis, kyphosis and lordosis",
+       "descriptions": [],
+       "parentId": 63,
+       "subLabels": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 99,
+   "text": "(ii)   effects of smoking on health",
+   "descriptions": [
+    "Negative and positive effects should be stressed.  Nutritional value of non- alcoholic beverages should be stressed."
+   ],
+   "parentId": 98,
+   "subLabels": []
+  },
+  {
+   "id": 118,
+   "text": "(a)   meaning of population and population",
+   "descriptions": [],
+   "parentId": 117,
+   "subLabels": []
+  },
+  {
+   "id": 62,
+   "text": "(iii)      determination of correct postures",
+   "descriptions": [],
+   "parentId": 61,
+   "subLabels": []
+  },
+  {
+   "id": 63,
+   "text": "(iv)     types of postural defects",
+   "descriptions": [],
+   "parentId": 61,
+   "subLabels": [
+    {
+     "id": 64,
+     "text": "Flat foot; scoliosis, kyphosis and lordosis",
+     "descriptions": [],
+     "parentId": 63,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 64,
+   "text": "Flat foot; scoliosis, kyphosis and lordosis",
+   "descriptions": [],
+   "parentId": 63,
+   "subLabels": []
+  }
+ ]
+}

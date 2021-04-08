@@ -1,5 +1,5 @@
 Traceback (most recent call last):
-  File "\main.py", line 253, in analyse
+  File "\main.py", line 260, in analyse
     result = analyse_syllabus(parser_result, analyse_props)
   File "\src\analyser.py", line 550, in analyse_syllabus
     Analyser.combine_rows_in_section(section)
@@ -12,8 +12,7 @@ AttributeError: 'NoneType' object has no attribute 'is_empty'
 		\WASSCE\2021-03-19\Business Management/BUSINESS_MANAGEMENT.pdf
 
 Traceback (most recent call last):
-  File "\main.py", line 253, in analyse
-    result = analyse_syllabus(parser_result, analyse_props)
+  File "\main.py", line 260, in analyse
   File "\src\analyser.py", line 550, in analyse_syllabus
     Analyser.combine_rows_in_section(section)
   File "\src\analyser.py", line 165, in combine_rows_in_section
@@ -25,8 +24,7 @@ AttributeError: 'NoneType' object has no attribute 'is_empty'
 		\WASSCE\2021-03-19\General Mathematics or Mathematics Core/GENERAL_MATHEMATICS_OR_MATHEMATICS_CORE.pdf
 
 Traceback (most recent call last):
-  File "\main.py", line 253, in analyse
-    result = analyse_syllabus(parser_result, analyse_props)
+  File "\main.py", line 260, in analyse
   File "\src\analyser.py", line 550, in analyse_syllabus
     Analyser.combine_rows_in_section(section)
   File "\src\analyser.py", line 157, in combine_rows_in_section

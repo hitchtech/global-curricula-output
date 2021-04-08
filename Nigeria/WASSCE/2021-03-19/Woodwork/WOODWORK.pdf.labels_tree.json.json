@@ -1,1 +1,375 @@
-{"subject": "subject", "Grade": "SS3", "Curriculum": "WASSCE", "labelsTree": [{"id": 4, "text": "Theory and design", "descriptions": null, "parentId": -1, "subLabels": [{"id": 5, "text": "1", "descriptions": ["General Workshop Safety"], "parentId": 4, "subLabels": []}, {"id": 6, "text": "2", "descriptions": ["Hand tools"], "parentId": 4, "subLabels": []}, {"id": 7, "text": "3", "descriptions": ["Special Purpose Hand tools."], "parentId": 4, "subLabels": []}, {"id": 8, "text": "4", "descriptions": ["Portable Power tools."], "parentId": 4, "subLabels": []}, {"id": 9, "text": "5", "descriptions": ["Woodworking machines."], "parentId": 4, "subLabels": []}, {"id": 10, "text": "6", "descriptions": ["Maintenance"], "parentId": 4, "subLabels": []}, {"id": 11, "text": "7", "descriptions": ["West African Timbers in common use."], "parentId": 4, "subLabels": []}, {"id": 12, "text": "8", "descriptions": ["Timber Conversion"], "parentId": 4, "subLabels": []}, {"id": 13, "text": "9", "descriptions": ["Timber seasoning"], "parentId": 4, "subLabels": []}, {"id": 14, "text": "10", "descriptions": ["Timber defects"], "parentId": 4, "subLabels": []}, {"id": 15, "text": "11", "descriptions": ["Timber preservation"], "parentId": 4, "subLabels": []}, {"id": 16, "text": "12", "descriptions": ["Manufactured boards"], "parentId": 4, "subLabels": []}, {"id": 17, "text": "13", "descriptions": ["Timber Preparation"], "parentId": 4, "subLabels": []}, {"id": 18, "text": "14", "descriptions": ["Woodwork joints"], "parentId": 4, "subLabels": []}, {"id": 19, "text": "15", "descriptions": ["Wood finishes and finishing."], "parentId": 4, "subLabels": []}, {"id": 20, "text": "16", "descriptions": ["Wood abrasives"], "parentId": 4, "subLabels": []}, {"id": 21, "text": "17", "descriptions": ["Wood adhesives"], "parentId": 4, "subLabels": []}, {"id": 22, "text": "18", "descriptions": ["Wood fittings and fasteners"], "parentId": 4, "subLabels": []}, {"id": 23, "text": "19", "descriptions": ["Non-wood materials"], "parentId": 4, "subLabels": []}, {"id": 24, "text": "20", "descriptions": ["Veneers and Veneering"], "parentId": 4, "subLabels": []}, {"id": 25, "text": "20", "descriptions": ["Veneers and Veneering"], "parentId": 4, "subLabels": []}, {"id": 26, "text": "21", "descriptions": ["Wood shaping and bending."], "parentId": 4, "subLabels": []}, {"id": 27, "text": "22", "descriptions": ["Design and Drawing"], "parentId": 4, "subLabels": []}, {"id": 28, "text": "23", "descriptions": ["Project Design and Construction."], "parentId": 4, "subLabels": []}, {"id": 29, "text": "24", "descriptions": ["Upholstery"], "parentId": 4, "subLabels": []}, {"id": 30, "text": "25", "descriptions": ["Wood turning"], "parentId": 4, "subLabels": []}, {"id": 31, "text": "26", "descriptions": ["Wood carving and sculpture"], "parentId": 4, "subLabels": []}, {"id": 32, "text": "27", "descriptions": ["Surface Decoration"], "parentId": 4, "subLabels": []}, {"id": 33, "text": "28", "descriptions": ["Mass Production"], "parentId": 4, "subLabels": []}]}, {"id": 38, "text": "Gambia only", "descriptions": null, "parentId": -1, "subLabels": [{"id": 39, "text": "29. entrepreneurship in", "descriptions": ["(a)   Types of business organisation e.g. sole proprietorship, partnership,", "cooperatives etc.", "(b)   Business", "opportunities in", "Woodworking: e.g. merchandizing, spray painting, upholstery work, wood turning."], "parentId": 38, "subLabels": [{"id": 40, "text": "Woodworking", "descriptions": ["(c)    Business plans:", "format and content.", "(d)    Sources of fund e.g. gifts, personal savings,", "loans, inheritance, cooperatives etc."], "parentId": 39, "subLabels": []}]}]}], "labels": [{"id": 8, "text": "19. religion and reproductive health in west african traditional religion.", "descriptions": null, "parentId": -1, "subLabels": [{"id": 9, "text": "(a)  west african traditional religion and reproductive", "descriptions": ["Health Features:"], "parentId": 8, "subLabels": []}, {"id": 10, "text": "Issues of hygiene, sexuality and  promiscuity/abortion", "descriptions": [], "parentId": 8, "subLabels": [{"id": 11, "text": "(b)  circumcision rites and reproductive health", "descriptions": [], "parentId": 10, "subLabels": []}]}]}, {"id": 9, "text": "(a)  west african traditional religion and reproductive", "descriptions": ["Health Features:"], "parentId": 8, "subLabels": []}, {"id": 10, "text": "Issues of hygiene, sexuality and  promiscuity/abortion", "descriptions": [], "parentId": 8, "subLabels": [{"id": 11, "text": "(b)  circumcision rites and reproductive health", "descriptions": [], "parentId": 10, "subLabels": []}]}, {"id": 11, "text": "(b)  circumcision rites and reproductive health", "descriptions": [], "parentId": 10, "subLabels": []}]}
+{
+ "subject": "Woodwork",
+ "Grade": "None",
+ "Curriculum": "test",
+ "labelsTree": [
+  {
+   "id": 4,
+   "text": "Theory and design",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 5,
+     "text": "1",
+     "descriptions": [
+      "General Workshop Safety"
+     ],
+     "parentId": 4,
+     "subLabels": []
+    },
+    {
+     "id": 6,
+     "text": "2",
+     "descriptions": [
+      "Hand tools"
+     ],
+     "parentId": 4,
+     "subLabels": []
+    },
+    {
+     "id": 7,
+     "text": "3",
+     "descriptions": [
+      "Special Purpose Hand tools."
+     ],
+     "parentId": 4,
+     "subLabels": []
+    },
+    {
+     "id": 8,
+     "text": "4",
+     "descriptions": [
+      "Portable Power tools."
+     ],
+     "parentId": 4,
+     "subLabels": []
+    },
+    {
+     "id": 9,
+     "text": "5",
+     "descriptions": [
+      "Woodworking machines."
+     ],
+     "parentId": 4,
+     "subLabels": []
+    },
+    {
+     "id": 10,
+     "text": "6",
+     "descriptions": [
+      "Maintenance"
+     ],
+     "parentId": 4,
+     "subLabels": []
+    },
+    {
+     "id": 11,
+     "text": "7",
+     "descriptions": [
+      "West African Timbers in common use."
+     ],
+     "parentId": 4,
+     "subLabels": []
+    },
+    {
+     "id": 12,
+     "text": "8",
+     "descriptions": [
+      "Timber Conversion"
+     ],
+     "parentId": 4,
+     "subLabels": []
+    },
+    {
+     "id": 13,
+     "text": "9",
+     "descriptions": [
+      "Timber seasoning"
+     ],
+     "parentId": 4,
+     "subLabels": []
+    },
+    {
+     "id": 14,
+     "text": "10",
+     "descriptions": [
+      "Timber defects"
+     ],
+     "parentId": 4,
+     "subLabels": []
+    },
+    {
+     "id": 15,
+     "text": "11",
+     "descriptions": [
+      "Timber preservation"
+     ],
+     "parentId": 4,
+     "subLabels": []
+    },
+    {
+     "id": 16,
+     "text": "12",
+     "descriptions": [
+      "Manufactured boards"
+     ],
+     "parentId": 4,
+     "subLabels": []
+    },
+    {
+     "id": 17,
+     "text": "13",
+     "descriptions": [
+      "Timber Preparation"
+     ],
+     "parentId": 4,
+     "subLabels": []
+    },
+    {
+     "id": 18,
+     "text": "14",
+     "descriptions": [
+      "Woodwork joints"
+     ],
+     "parentId": 4,
+     "subLabels": []
+    },
+    {
+     "id": 19,
+     "text": "15",
+     "descriptions": [
+      "Wood finishes and finishing."
+     ],
+     "parentId": 4,
+     "subLabels": []
+    },
+    {
+     "id": 20,
+     "text": "16",
+     "descriptions": [
+      "Wood abrasives"
+     ],
+     "parentId": 4,
+     "subLabels": []
+    },
+    {
+     "id": 21,
+     "text": "17",
+     "descriptions": [
+      "Wood adhesives"
+     ],
+     "parentId": 4,
+     "subLabels": []
+    },
+    {
+     "id": 22,
+     "text": "18",
+     "descriptions": [
+      "Wood fittings and fasteners"
+     ],
+     "parentId": 4,
+     "subLabels": []
+    },
+    {
+     "id": 23,
+     "text": "19",
+     "descriptions": [
+      "Non-wood materials"
+     ],
+     "parentId": 4,
+     "subLabels": []
+    },
+    {
+     "id": 24,
+     "text": "20",
+     "descriptions": [
+      "Veneers and Veneering"
+     ],
+     "parentId": 4,
+     "subLabels": []
+    },
+    {
+     "id": 25,
+     "text": "20",
+     "descriptions": [
+      "Veneers and Veneering"
+     ],
+     "parentId": 4,
+     "subLabels": []
+    },
+    {
+     "id": 26,
+     "text": "21",
+     "descriptions": [
+      "Wood shaping and bending."
+     ],
+     "parentId": 4,
+     "subLabels": []
+    },
+    {
+     "id": 27,
+     "text": "22",
+     "descriptions": [
+      "Design and Drawing"
+     ],
+     "parentId": 4,
+     "subLabels": []
+    },
+    {
+     "id": 28,
+     "text": "23",
+     "descriptions": [
+      "Project Design and Construction."
+     ],
+     "parentId": 4,
+     "subLabels": []
+    },
+    {
+     "id": 29,
+     "text": "24",
+     "descriptions": [
+      "Upholstery"
+     ],
+     "parentId": 4,
+     "subLabels": []
+    },
+    {
+     "id": 30,
+     "text": "25",
+     "descriptions": [
+      "Wood turning"
+     ],
+     "parentId": 4,
+     "subLabels": []
+    },
+    {
+     "id": 31,
+     "text": "26",
+     "descriptions": [
+      "Wood carving and sculpture"
+     ],
+     "parentId": 4,
+     "subLabels": []
+    },
+    {
+     "id": 32,
+     "text": "27",
+     "descriptions": [
+      "Surface Decoration"
+     ],
+     "parentId": 4,
+     "subLabels": []
+    },
+    {
+     "id": 33,
+     "text": "28",
+     "descriptions": [
+      "Mass Production"
+     ],
+     "parentId": 4,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 38,
+   "text": "Gambia only",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 39,
+     "text": "29. entrepreneurship in",
+     "descriptions": [
+      "(a)   Types of business organisation e.g. sole proprietorship, partnership,",
+      "cooperatives etc.",
+      "(b)   Business",
+      "opportunities in",
+      "Woodworking: e.g. merchandizing, spray painting, upholstery work, wood turning."
+     ],
+     "parentId": 38,
+     "subLabels": [
+      {
+       "id": 40,
+       "text": "Woodworking",
+       "descriptions": [
+        "(c)    Business plans:",
+        "format and content.",
+        "(d)    Sources of fund e.g. gifts, personal savings,",
+        "loans, inheritance, cooperatives etc."
+       ],
+       "parentId": 39,
+       "subLabels": []
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "labels": [
+  {
+   "id": 8,
+   "text": "19. religion and reproductive health in west african traditional religion.",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 9,
+     "text": "(a)  west african traditional religion and reproductive",
+     "descriptions": [
+      "Health Features:"
+     ],
+     "parentId": 8,
+     "subLabels": []
+    },
+    {
+     "id": 10,
+     "text": "Issues of hygiene, sexuality and  promiscuity/abortion",
+     "descriptions": [],
+     "parentId": 8,
+     "subLabels": [
+      {
+       "id": 11,
+       "text": "(b)  circumcision rites and reproductive health",
+       "descriptions": [],
+       "parentId": 10,
+       "subLabels": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "text": "(a)  west african traditional religion and reproductive",
+   "descriptions": [
+    "Health Features:"
+   ],
+   "parentId": 8,
+   "subLabels": []
+  },
+  {
+   "id": 10,
+   "text": "Issues of hygiene, sexuality and  promiscuity/abortion",
+   "descriptions": [],
+   "parentId": 8,
+   "subLabels": [
+    {
+     "id": 11,
+     "text": "(b)  circumcision rites and reproductive health",
+     "descriptions": [],
+     "parentId": 10,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "text": "(b)  circumcision rites and reproductive health",
+   "descriptions": [],
+   "parentId": 10,
+   "subLabels": []
+  }
+ ]
+}

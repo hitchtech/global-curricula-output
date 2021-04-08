@@ -1,1 +1,969 @@
-{"subject": "subject", "Grade": "SS3", "Curriculum": "WASSCE", "labelsTree": [{"id": 4, "text": "Detailed syllabus", "descriptions": null, "parentId": -1, "subLabels": [{"id": 5, "text": "1. introduction to garment", "descriptions": [], "parentId": 4, "subLabels": []}]}, {"id": 6, "text": "Making", "descriptions": null, "parentId": -1, "subLabels": [{"id": 7, "text": "(a) the importance of clothes/garments", "descriptions": ["i.    Reasons for wearing clothes/ garment", "ii.   Identification of clothing items", "iii.   Identification of clothes/garments for different occasions"], "parentId": 6, "subLabels": []}, {"id": 8, "text": "(b) the concept of garment designing", "descriptions": ["i.    Definition of garment designing", "ii.   Principles of design", "iii.  Element of design", "iv.   Factors that influence garment designing", "e.g. age, figure type, etc"], "parentId": 6, "subLabels": []}, {"id": 9, "text": "(c) economic importance of garment", "descriptions": ["i.  Importance of garment designing to the individual, the family"], "parentId": 6, "subLabels": [{"id": 10, "text": "Designing", "descriptions": ["ii.  Economic value of garment making"], "parentId": 9, "subLabels": []}]}, {"id": 11, "text": "(d) entrepreneurship in garment making", "descriptions": ["i.  Entrepreneurship /small business management", "ii.  Qualities of an entrepreneur", "iii.  Advantages of entrepreneurship", "iv.  Factors to be considered when going into garment making business"], "parentId": 6, "subLabels": []}, {"id": 12, "text": "2. sewing tools and equipment", "descriptions": [], "parentId": 6, "subLabels": [{"id": 13, "text": "Simple sewing tools and equipment", "descriptions": ["i.  Identification of various types of sewing tools and equipment", "ii.  Classification of sewing tools and equipment according to functions viz:", "Measuring", "Marking", "Cutting", "Joining", "Pressing", "Fitting", "Storing"], "parentId": 12, "subLabels": []}]}, {"id": 14, "text": "The sewing machine", "descriptions": [], "parentId": 6, "subLabels": []}, {"id": 15, "text": "Care of sewing tools and iii.   points to consider in choosing sewing tools and equipment", "descriptions": [], "parentId": 6, "subLabels": [{"id": 16, "text": "I.   types of sewing machine", "descriptions": [], "parentId": 15, "subLabels": []}, {"id": 17, "text": "Ii.   use of different types of sewing machines", "descriptions": [], "parentId": 15, "subLabels": []}, {"id": 18, "text": "Iii.  parts of a sewing machine and their functions", "descriptions": [], "parentId": 15, "subLabels": []}, {"id": 19, "text": "I.   importance of care and maintenance of care of sewing tools and equipment", "descriptions": [], "parentId": 15, "subLabels": []}]}, {"id": 20, "text": "Common machine faults and remedies or solutions sewing tools and equipment", "descriptions": [], "parentId": 6, "subLabels": [{"id": 21, "text": "Ii.   care of simple sewing tools and equipment", "descriptions": [], "parentId": 20, "subLabels": []}, {"id": 22, "text": "Iii.  care and maintenance of a sewing machine", "descriptions": [], "parentId": 20, "subLabels": []}, {"id": 23, "text": "I.   common machine faults /problems", "descriptions": [], "parentId": 20, "subLabels": []}, {"id": 24, "text": "Ii.   solutions / remedies to the machine problems", "descriptions": [], "parentId": 20, "subLabels": []}, {"id": 25, "text": "Iii.  improper use of machine parts", "descriptions": [], "parentId": 20, "subLabels": []}]}]}, {"id": 26, "text": "3.  basic sewing processes", "descriptions": null, "parentId": -1, "subLabels": [{"id": 27, "text": "Basic stitches", "descriptions": ["i.   Types of stitches: temporary and permanent", "ii.  Uses of various stitches", "iii.  Procedures for making stitches"], "parentId": 26, "subLabels": []}, {"id": 28, "text": "Seams and seam finishes", "descriptions": ["i.   Seams", "ii.  Types of seams and where they are used", "iii. Types of seam finishes"], "parentId": 26, "subLabels": []}, {"id": 29, "text": "Disposal of fullness", "descriptions": ["iv.   Points to consider when choosing a seam", "i.  Methods of disposing fullness e.g. dart, pleats, gathers, etc", "ii.  Procedures for making darts, pleats, gather, etc."], "parentId": 26, "subLabels": []}, {"id": 30, "text": "Facing and interfacings", "descriptions": ["i.   Types of facings", "ii.   Functions of facing", "iii.  Types and functions of interfacings"], "parentId": 26, "subLabels": []}, {"id": 31, "text": "Facings and inter facings", "descriptions": ["iv.  Other edge finishes", "i.  Types of openings", "ii.  Types of fastenings", "iii. Functions of openings and fastenings"], "parentId": 26, "subLabels": []}]}, {"id": 32, "text": "4. the concept of patterns", "descriptions": null, "parentId": -1, "subLabels": [{"id": 33, "text": "Patterns", "descriptions": ["i.    Pattern drafting", "ii.   Advantages of the use of patterns", "iii.  Tools and equipment for pattern drafting", "iv.  Pattern markings and symbols"], "parentId": 32, "subLabels": []}, {"id": 34, "text": "Ways of obtaining patterns", "descriptions": ["Different ways of obtaining patterns e.g. draping, flat pattern method, and computer aided design, etc."], "parentId": 32, "subLabels": []}, {"id": 35, "text": "The freehand method", "descriptions": ["i.   Freehand method of cutting", "ii.  Techniques involved in freehand method of cutting"], "parentId": 32, "subLabels": []}, {"id": 36, "text": "Body measurements", "descriptions": ["i.   Importance of taking accurate body measurements", "ii.  Essential body parts to be measured", "iii.  Procedure for taking body measurements"], "parentId": 32, "subLabels": []}, {"id": 37, "text": "Drafting of bodice block", "descriptions": ["i.  Measurements for drafting bodice block", "ii.  Drafting  bodice blocks"], "parentId": 32, "subLabels": []}, {"id": 38, "text": "Drafting of shirt block", "descriptions": ["i.  Measurement for drafting skirt block", "ii. Drafting of skirt block", "ii. Drafting of skirt block"], "parentId": 32, "subLabels": []}, {"id": 39, "text": "Drafting of basic sleeve blocks", "descriptions": ["i.   Measurements for drafting the sleeve blocks", "ii.  Drafting the sleeve block"], "parentId": 32, "subLabels": []}, {"id": 40, "text": "Drafting of basic collar", "descriptions": ["i.   Measurements for drafting the basic collars", "ii.  Drafting of basic collars e.g. peter-pan/ flat collars, tie collars,"], "parentId": 32, "subLabels": [{"id": 41, "text": "I.  drafting basic skirt blocks", "descriptions": ["i.    Measurements for drafting skirt blocks", "ii.   Drafting of skirt blocks", "iii.   Adaptation of skirt patterns", "iv.   Techniques of pattern adaptation viz: darts manipulation, slash  and spreading methods"], "parentId": 40, "subLabels": []}, {"id": 42, "text": "J.  drafting of basic trouser blocks", "descriptions": ["v.    Adaptation of skirt styles from the skirt blocks", "i.  Measurement for drafting trouser blocks", "ii. Drafting of trouser blocks", "iii. Adaptation of trouser and knicker patterns", "iv.  Adaptation of different trouser styles from trouser blocks"], "parentId": 40, "subLabels": []}]}, {"id": 43, "text": "K.  adaptation of other outfits, e.g. gowns, jumpers, e.t.c", "descriptions": ["i.  Adaptation of gowns from bodice / blouse patterns", "ii.  Adaptation of jumpers from the shirt / trouser block of patterns"], "parentId": 32, "subLabels": []}]}, {"id": 45, "text": "Making", "descriptions": null, "parentId": -1, "subLabels": [{"id": 46, "text": "Figure types", "descriptions": ["i.  The three main figure types", "ii.  Variations of the main figure types"], "parentId": 45, "subLabels": []}, {"id": 47, "text": "Fabric selections for the various figure types", "descriptions": ["i.  Colour suitable for the various figure types", "ii.  Texture appropriate for the various figure types", "iii. Design / pattern suitable for the various figure", "iv. Design / pattern suitable for the various figure types", "e.g. lines, prints, e.t.c."], "parentId": 45, "subLabels": []}, {"id": 48, "text": "Choice of styles", "descriptions": ["i.   Styles suitable for various figure types e.g. figure with large burst, figures with large hips, figures with thin waist, e.t.c.", "ii.   Solving figure problems using styles features"], "parentId": 45, "subLabels": []}, {"id": 49, "text": "6. adaptation of patterns", "descriptions": [], "parentId": 45, "subLabels": [{"id": 50, "text": "Adaptation of blouse patterns", "descriptions": ["i.  Meaning of pattern adaptation", "ii. Techniques of pattern adaptation e.g. darts manipulating, slashing, and spreading, e.t.c."], "parentId": 49, "subLabels": []}, {"id": 51, "text": "Adaptation of skirt pattern", "descriptions": ["iii. Adaptation of blouse patterns using the bodice blocks", "i. Techniques of pattern adaptation (continue)"], "parentId": 49, "subLabels": []}]}, {"id": 52, "text": "Adaptation of sleeves", "descriptions": ["ii. Adaptation of skirt styles using the skirt blocks", "i.  Techniques of pattern adaptation with emphases on slashing and spreading method"], "parentId": 45, "subLabels": []}, {"id": 53, "text": "Adaptation of collars", "descriptions": ["ii.  Adaptation of sleeve styles using the basic sleeve blocks", "i.   Adaptation of collar styles using the basic collar blocks", "ii.  Adaptation of some collars from necklines of blouse/  skirts"], "parentId": 45, "subLabels": []}]}, {"id": 54, "text": "7. sewing of blouses /shirts", "descriptions": null, "parentId": -1, "subLabels": [{"id": 55, "text": "Practical construction of blouse / skirt", "descriptions": ["i.  The unit method of sewing", "ii.  Application of the unit method and basic sewing processes in making blouse and skirts"], "parentId": 54, "subLabels": []}, {"id": 56, "text": "Practical construction of skirt, trousers, gowns and jumpers", "descriptions": ["i.  Revisions of the unit method of garment making business", "ii.  Application of the basic garment making processes in sewing skirts, trousers, gowns and jumpers"], "parentId": 54, "subLabels": []}]}, {"id": 58, "text": "Business", "descriptions": null, "parentId": -1, "subLabels": [{"id": 59, "text": "Minimum requirements for setting up a garment making business", "descriptions": ["i.  Basic requirement for garment making business", "ii.  Estimate of the cost of the minimum requirements"], "parentId": 58, "subLabels": []}, {"id": 60, "text": "Factors that can affect small business", "descriptions": ["i.  Factors that contribute to success of small businesses"], "parentId": 58, "subLabels": []}, {"id": 61, "text": "Financing a business", "descriptions": ["ii. Factors that contribute to failure of small businesses", "i.  Finance", "ii.  Sources of finance for a small business"], "parentId": 58, "subLabels": []}, {"id": 62, "text": "Profit / price fixing", "descriptions": ["iii.  Managing finance", "i.  Determination of profit margin", "ii.  Factors to consider in fixing a price"], "parentId": 58, "subLabels": []}, {"id": 63, "text": "Customer relationship", "descriptions": ["i.  Maintaining healthy customer relationship", "ii.  Customer credit"], "parentId": 58, "subLabels": []}, {"id": 64, "text": "Record keeping", "descriptions": ["i.  Types of records necessary for small businesses"], "parentId": 58, "subLabels": []}, {"id": 65, "text": "Promoting a business", "descriptions": ["ii. Importance if record keeping.", "i.  Meaning of business promotion", "ii.  Types of promotion activities", "iii. Importance of business promotion"], "parentId": 58, "subLabels": []}]}], "labels": [{"id": 4, "text": "Key:", "descriptions": null, "parentId": -1, "subLabels": [{"id": 5, "text": "I . pure mathematics", "descriptions": ["(i) Idea of a set", "defined by a property, Set notations and their meanings.", "(ii) Disjoint sets,", "Universal set and complement of set", "(iii) Venn diagrams,", "Use of sets", "And Venn", "diagrams to solve problems.", "(iv) Commutative", "and Associative laws, Distributive properties over union and intersection.", "Surds of the form  , a and a+b where a is rational, b is a positive integer and n is not a perfect square."], "parentId": 4, "subLabels": [{"id": 6, "text": "Sets", "descriptions": ["Properties: Closure, Commutativity, Associativity and Distributivity, Identity elements and inverses.", "(i) Rule of syntax: true or false", "statements, rule of logic applied to      arguments, implications and deductions.", "(ii) The truth table"], "parentId": 5, "subLabels": []}]}, {"id": 7, "text": "Surds", "descriptions": ["(i) Domain and co-", "domain of a function.", "(ii) One-to-one,", "onto, identity and constant mapping;"], "parentId": 4, "subLabels": []}, {"id": 8, "text": "Binary", "descriptions": [], "parentId": 4, "subLabels": []}, {"id": 9, "text": "Operations", "descriptions": ["(iii) Inverse of a", "function."], "parentId": 4, "subLabels": []}, {"id": 10, "text": "Logical", "descriptions": [], "parentId": 4, "subLabels": []}, {"id": 11, "text": "Reasoning", "descriptions": ["(iv) Composite of functions.", "(i) Linear Functions,", "Equations and Inequality"], "parentId": 4, "subLabels": []}, {"id": 12, "text": "Functions", "descriptions": ["(ii) Quadratic", "Functions, Equations and Inequalities"], "parentId": 4, "subLabels": []}, {"id": 13, "text": "Polynomial", "descriptions": [], "parentId": 4, "subLabels": []}, {"id": 14, "text": "Functions", "descriptions": ["(ii) Cubic Functions", "and Equations", "(i) Rational functions", "of the form", "Q(x) =  ,g(x)  0. where g(x) and", "f(x) are", "polynomials. e.g. f:x", "(ii) Resolution of"], "parentId": 4, "subLabels": []}]}, {"id": 21, "text": "( 5) currencies", "descriptions": null, "parentId": -1, "subLabels": [{"id": 22, "text": "The gambia", "descriptions": ["\u2013 - - 100 cents (c) = 1 Liberian Dollar (LD) - 100 kobo (k) = 1 Naira (N) - 100 cents (c) = 1 Leone (Le) 100 pence (p) = 1 pound (\u00a3) 100 cents (c) = 1 dollar ($)"], "parentId": 21, "subLabels": []}, {"id": 23, "text": "Ghana", "descriptions": [], "parentId": 21, "subLabels": []}, {"id": 24, "text": "Liberia", "descriptions": [], "parentId": 21, "subLabels": []}, {"id": 25, "text": "Nigeria", "descriptions": [], "parentId": 21, "subLabels": []}, {"id": 26, "text": "Sierra leone", "descriptions": [], "parentId": 21, "subLabels": []}, {"id": 27, "text": "Uk ", "descriptions": [], "parentId": 21, "subLabels": []}, {"id": 28, "text": "Usa ", "descriptions": [], "parentId": 21, "subLabels": []}, {"id": 29, "text": "French speaking territories 100 centimes (c) = 1 franc (fr)", "descriptions": [], "parentId": 21, "subLabels": []}, {"id": 30, "text": "Any other units used will be defined", "descriptions": [], "parentId": 21, "subLabels": []}]}, {"id": 5, "text": "I . pure mathematics", "descriptions": ["(i) Idea of a set", "defined by a property, Set notations and their meanings.", "(ii) Disjoint sets,", "Universal set and complement of set", "(iii) Venn diagrams,", "Use of sets", "And Venn", "diagrams to solve problems.", "(iv) Commutative", "and Associative laws, Distributive properties over union and intersection.", "Surds of the form  , a and a+b where a is rational, b is a positive integer and n is not a perfect square."], "parentId": 4, "subLabels": [{"id": 6, "text": "Sets", "descriptions": ["Properties: Closure, Commutativity, Associativity and Distributivity, Identity elements and inverses.", "(i) Rule of syntax: true or false", "statements, rule of logic applied to      arguments, implications and deductions.", "(ii) The truth table"], "parentId": 5, "subLabels": []}]}, {"id": 7, "text": "Surds", "descriptions": ["(i) Domain and co-", "domain of a function.", "(ii) One-to-one,", "onto, identity and constant mapping;"], "parentId": 4, "subLabels": []}, {"id": 8, "text": "Binary", "descriptions": [], "parentId": 4, "subLabels": []}, {"id": 9, "text": "Operations", "descriptions": ["(iii) Inverse of a", "function."], "parentId": 4, "subLabels": []}, {"id": 10, "text": "Logical", "descriptions": [], "parentId": 4, "subLabels": []}, {"id": 11, "text": "Reasoning", "descriptions": ["(iv) Composite of functions.", "(i) Linear Functions,", "Equations and Inequality"], "parentId": 4, "subLabels": []}, {"id": 12, "text": "Functions", "descriptions": ["(ii) Quadratic", "Functions, Equations and Inequalities"], "parentId": 4, "subLabels": []}, {"id": 13, "text": "Polynomial", "descriptions": [], "parentId": 4, "subLabels": []}, {"id": 14, "text": "Functions", "descriptions": ["(ii) Cubic Functions", "and Equations", "(i) Rational functions", "of the form", "Q(x) =  ,g(x)  0. where g(x) and", "f(x) are", "polynomials. e.g. f:x", "(ii) Resolution of"], "parentId": 4, "subLabels": []}, {"id": 22, "text": "The gambia", "descriptions": ["\u2013 - - 100 cents (c) = 1 Liberian Dollar (LD) - 100 kobo (k) = 1 Naira (N) - 100 cents (c) = 1 Leone (Le) 100 pence (p) = 1 pound (\u00a3) 100 cents (c) = 1 dollar ($)"], "parentId": 21, "subLabels": []}, {"id": 23, "text": "Ghana", "descriptions": [], "parentId": 21, "subLabels": []}, {"id": 24, "text": "Liberia", "descriptions": [], "parentId": 21, "subLabels": []}, {"id": 25, "text": "Nigeria", "descriptions": [], "parentId": 21, "subLabels": []}, {"id": 26, "text": "Sierra leone", "descriptions": [], "parentId": 21, "subLabels": []}, {"id": 27, "text": "Uk ", "descriptions": [], "parentId": 21, "subLabels": []}, {"id": 28, "text": "Usa ", "descriptions": [], "parentId": 21, "subLabels": []}, {"id": 29, "text": "French speaking territories 100 centimes (c) = 1 franc (fr)", "descriptions": [], "parentId": 21, "subLabels": []}, {"id": 30, "text": "Any other units used will be defined", "descriptions": [], "parentId": 21, "subLabels": []}, {"id": 6, "text": "Sets", "descriptions": ["Properties: Closure, Commutativity, Associativity and Distributivity, Identity elements and inverses.", "(i) Rule of syntax: true or false", "statements, rule of logic applied to      arguments, implications and deductions.", "(ii) The truth table"], "parentId": 5, "subLabels": []}]}
+{
+ "subject": "Garment Making",
+ "Grade": "None",
+ "Curriculum": "test",
+ "labelsTree": [
+  {
+   "id": 4,
+   "text": "Detailed syllabus",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 5,
+     "text": "1. introduction to garment",
+     "descriptions": [],
+     "parentId": 4,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "text": "Making",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 7,
+     "text": "(a) the importance of clothes/garments",
+     "descriptions": [
+      "i.    Reasons for wearing clothes/ garment",
+      "ii.   Identification of clothing items",
+      "iii.   Identification of clothes/garments for different occasions"
+     ],
+     "parentId": 6,
+     "subLabels": []
+    },
+    {
+     "id": 8,
+     "text": "(b) the concept of garment designing",
+     "descriptions": [
+      "i.    Definition of garment designing",
+      "ii.   Principles of design",
+      "iii.  Element of design",
+      "iv.   Factors that influence garment designing",
+      "e.g. age, figure type, etc"
+     ],
+     "parentId": 6,
+     "subLabels": []
+    },
+    {
+     "id": 9,
+     "text": "(c) economic importance of garment",
+     "descriptions": [
+      "i.  Importance of garment designing to the individual, the family"
+     ],
+     "parentId": 6,
+     "subLabels": [
+      {
+       "id": 10,
+       "text": "Designing",
+       "descriptions": [
+        "ii.  Economic value of garment making"
+       ],
+       "parentId": 9,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 11,
+     "text": "(d) entrepreneurship in garment making",
+     "descriptions": [
+      "i.  Entrepreneurship /small business management",
+      "ii.  Qualities of an entrepreneur",
+      "iii.  Advantages of entrepreneurship",
+      "iv.  Factors to be considered when going into garment making business"
+     ],
+     "parentId": 6,
+     "subLabels": []
+    },
+    {
+     "id": 12,
+     "text": "2. sewing tools and equipment",
+     "descriptions": [],
+     "parentId": 6,
+     "subLabels": [
+      {
+       "id": 13,
+       "text": "Simple sewing tools and equipment",
+       "descriptions": [
+        "i.  Identification of various types of sewing tools and equipment",
+        "ii.  Classification of sewing tools and equipment according to functions viz:",
+        "Measuring",
+        "Marking",
+        "Cutting",
+        "Joining",
+        "Pressing",
+        "Fitting",
+        "Storing"
+       ],
+       "parentId": 12,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 14,
+     "text": "The sewing machine",
+     "descriptions": [],
+     "parentId": 6,
+     "subLabels": []
+    },
+    {
+     "id": 15,
+     "text": "Care of sewing tools and iii.   points to consider in choosing sewing tools and equipment",
+     "descriptions": [],
+     "parentId": 6,
+     "subLabels": [
+      {
+       "id": 16,
+       "text": "I.   types of sewing machine",
+       "descriptions": [],
+       "parentId": 15,
+       "subLabels": []
+      },
+      {
+       "id": 17,
+       "text": "Ii.   use of different types of sewing machines",
+       "descriptions": [],
+       "parentId": 15,
+       "subLabels": []
+      },
+      {
+       "id": 18,
+       "text": "Iii.  parts of a sewing machine and their functions",
+       "descriptions": [],
+       "parentId": 15,
+       "subLabels": []
+      },
+      {
+       "id": 19,
+       "text": "I.   importance of care and maintenance of care of sewing tools and equipment",
+       "descriptions": [],
+       "parentId": 15,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 20,
+     "text": "Common machine faults and remedies or solutions sewing tools and equipment",
+     "descriptions": [],
+     "parentId": 6,
+     "subLabels": [
+      {
+       "id": 21,
+       "text": "Ii.   care of simple sewing tools and equipment",
+       "descriptions": [],
+       "parentId": 20,
+       "subLabels": []
+      },
+      {
+       "id": 22,
+       "text": "Iii.  care and maintenance of a sewing machine",
+       "descriptions": [],
+       "parentId": 20,
+       "subLabels": []
+      },
+      {
+       "id": 23,
+       "text": "I.   common machine faults /problems",
+       "descriptions": [],
+       "parentId": 20,
+       "subLabels": []
+      },
+      {
+       "id": 24,
+       "text": "Ii.   solutions / remedies to the machine problems",
+       "descriptions": [],
+       "parentId": 20,
+       "subLabels": []
+      },
+      {
+       "id": 25,
+       "text": "Iii.  improper use of machine parts",
+       "descriptions": [],
+       "parentId": 20,
+       "subLabels": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "text": "3.  basic sewing processes",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 27,
+     "text": "Basic stitches",
+     "descriptions": [
+      "i.   Types of stitches: temporary and permanent",
+      "ii.  Uses of various stitches",
+      "iii.  Procedures for making stitches"
+     ],
+     "parentId": 26,
+     "subLabels": []
+    },
+    {
+     "id": 28,
+     "text": "Seams and seam finishes",
+     "descriptions": [
+      "i.   Seams",
+      "ii.  Types of seams and where they are used",
+      "iii. Types of seam finishes"
+     ],
+     "parentId": 26,
+     "subLabels": []
+    },
+    {
+     "id": 29,
+     "text": "Disposal of fullness",
+     "descriptions": [
+      "iv.   Points to consider when choosing a seam",
+      "i.  Methods of disposing fullness e.g. dart, pleats, gathers, etc",
+      "ii.  Procedures for making darts, pleats, gather, etc."
+     ],
+     "parentId": 26,
+     "subLabels": []
+    },
+    {
+     "id": 30,
+     "text": "Facing and interfacings",
+     "descriptions": [
+      "i.   Types of facings",
+      "ii.   Functions of facing",
+      "iii.  Types and functions of interfacings"
+     ],
+     "parentId": 26,
+     "subLabels": []
+    },
+    {
+     "id": 31,
+     "text": "Facings and inter facings",
+     "descriptions": [
+      "iv.  Other edge finishes",
+      "i.  Types of openings",
+      "ii.  Types of fastenings",
+      "iii. Functions of openings and fastenings"
+     ],
+     "parentId": 26,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 32,
+   "text": "4. the concept of patterns",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 33,
+     "text": "Patterns",
+     "descriptions": [
+      "i.    Pattern drafting",
+      "ii.   Advantages of the use of patterns",
+      "iii.  Tools and equipment for pattern drafting",
+      "iv.  Pattern markings and symbols"
+     ],
+     "parentId": 32,
+     "subLabels": []
+    },
+    {
+     "id": 34,
+     "text": "Ways of obtaining patterns",
+     "descriptions": [
+      "Different ways of obtaining patterns e.g. draping, flat pattern method, and computer aided design, etc."
+     ],
+     "parentId": 32,
+     "subLabels": []
+    },
+    {
+     "id": 35,
+     "text": "The freehand method",
+     "descriptions": [
+      "i.   Freehand method of cutting",
+      "ii.  Techniques involved in freehand method of cutting"
+     ],
+     "parentId": 32,
+     "subLabels": []
+    },
+    {
+     "id": 36,
+     "text": "Body measurements",
+     "descriptions": [
+      "i.   Importance of taking accurate body measurements",
+      "ii.  Essential body parts to be measured",
+      "iii.  Procedure for taking body measurements"
+     ],
+     "parentId": 32,
+     "subLabels": []
+    },
+    {
+     "id": 37,
+     "text": "Drafting of bodice block",
+     "descriptions": [
+      "i.  Measurements for drafting bodice block",
+      "ii.  Drafting  bodice blocks"
+     ],
+     "parentId": 32,
+     "subLabels": []
+    },
+    {
+     "id": 38,
+     "text": "Drafting of shirt block",
+     "descriptions": [
+      "i.  Measurement for drafting skirt block",
+      "ii. Drafting of skirt block",
+      "ii. Drafting of skirt block"
+     ],
+     "parentId": 32,
+     "subLabels": []
+    },
+    {
+     "id": 39,
+     "text": "Drafting of basic sleeve blocks",
+     "descriptions": [
+      "i.   Measurements for drafting the sleeve blocks",
+      "ii.  Drafting the sleeve block"
+     ],
+     "parentId": 32,
+     "subLabels": []
+    },
+    {
+     "id": 40,
+     "text": "Drafting of basic collar",
+     "descriptions": [
+      "i.   Measurements for drafting the basic collars",
+      "ii.  Drafting of basic collars e.g. peter-pan/ flat collars, tie collars,"
+     ],
+     "parentId": 32,
+     "subLabels": [
+      {
+       "id": 41,
+       "text": "I.  drafting basic skirt blocks",
+       "descriptions": [
+        "i.    Measurements for drafting skirt blocks",
+        "ii.   Drafting of skirt blocks",
+        "iii.   Adaptation of skirt patterns",
+        "iv.   Techniques of pattern adaptation viz: darts manipulation, slash  and spreading methods"
+       ],
+       "parentId": 40,
+       "subLabels": []
+      },
+      {
+       "id": 42,
+       "text": "J.  drafting of basic trouser blocks",
+       "descriptions": [
+        "v.    Adaptation of skirt styles from the skirt blocks",
+        "i.  Measurement for drafting trouser blocks",
+        "ii. Drafting of trouser blocks",
+        "iii. Adaptation of trouser and knicker patterns",
+        "iv.  Adaptation of different trouser styles from trouser blocks"
+       ],
+       "parentId": 40,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 43,
+     "text": "K.  adaptation of other outfits, e.g. gowns, jumpers, e.t.c",
+     "descriptions": [
+      "i.  Adaptation of gowns from bodice / blouse patterns",
+      "ii.  Adaptation of jumpers from the shirt / trouser block of patterns"
+     ],
+     "parentId": 32,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 45,
+   "text": "Making",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 46,
+     "text": "Figure types",
+     "descriptions": [
+      "i.  The three main figure types",
+      "ii.  Variations of the main figure types"
+     ],
+     "parentId": 45,
+     "subLabels": []
+    },
+    {
+     "id": 47,
+     "text": "Fabric selections for the various figure types",
+     "descriptions": [
+      "i.  Colour suitable for the various figure types",
+      "ii.  Texture appropriate for the various figure types",
+      "iii. Design / pattern suitable for the various figure",
+      "iv. Design / pattern suitable for the various figure types",
+      "e.g. lines, prints, e.t.c."
+     ],
+     "parentId": 45,
+     "subLabels": []
+    },
+    {
+     "id": 48,
+     "text": "Choice of styles",
+     "descriptions": [
+      "i.   Styles suitable for various figure types e.g. figure with large burst, figures with large hips, figures with thin waist, e.t.c.",
+      "ii.   Solving figure problems using styles features"
+     ],
+     "parentId": 45,
+     "subLabels": []
+    },
+    {
+     "id": 49,
+     "text": "6. adaptation of patterns",
+     "descriptions": [],
+     "parentId": 45,
+     "subLabels": [
+      {
+       "id": 50,
+       "text": "Adaptation of blouse patterns",
+       "descriptions": [
+        "i.  Meaning of pattern adaptation",
+        "ii. Techniques of pattern adaptation e.g. darts manipulating, slashing, and spreading, e.t.c."
+       ],
+       "parentId": 49,
+       "subLabels": []
+      },
+      {
+       "id": 51,
+       "text": "Adaptation of skirt pattern",
+       "descriptions": [
+        "iii. Adaptation of blouse patterns using the bodice blocks",
+        "i. Techniques of pattern adaptation (continue)"
+       ],
+       "parentId": 49,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 52,
+     "text": "Adaptation of sleeves",
+     "descriptions": [
+      "ii. Adaptation of skirt styles using the skirt blocks",
+      "i.  Techniques of pattern adaptation with emphases on slashing and spreading method"
+     ],
+     "parentId": 45,
+     "subLabels": []
+    },
+    {
+     "id": 53,
+     "text": "Adaptation of collars",
+     "descriptions": [
+      "ii.  Adaptation of sleeve styles using the basic sleeve blocks",
+      "i.   Adaptation of collar styles using the basic collar blocks",
+      "ii.  Adaptation of some collars from necklines of blouse/  skirts"
+     ],
+     "parentId": 45,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 54,
+   "text": "7. sewing of blouses /shirts",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 55,
+     "text": "Practical construction of blouse / skirt",
+     "descriptions": [
+      "i.  The unit method of sewing",
+      "ii.  Application of the unit method and basic sewing processes in making blouse and skirts"
+     ],
+     "parentId": 54,
+     "subLabels": []
+    },
+    {
+     "id": 56,
+     "text": "Practical construction of skirt, trousers, gowns and jumpers",
+     "descriptions": [
+      "i.  Revisions of the unit method of garment making business",
+      "ii.  Application of the basic garment making processes in sewing skirts, trousers, gowns and jumpers"
+     ],
+     "parentId": 54,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 58,
+   "text": "Business",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 59,
+     "text": "Minimum requirements for setting up a garment making business",
+     "descriptions": [
+      "i.  Basic requirement for garment making business",
+      "ii.  Estimate of the cost of the minimum requirements"
+     ],
+     "parentId": 58,
+     "subLabels": []
+    },
+    {
+     "id": 60,
+     "text": "Factors that can affect small business",
+     "descriptions": [
+      "i.  Factors that contribute to success of small businesses"
+     ],
+     "parentId": 58,
+     "subLabels": []
+    },
+    {
+     "id": 61,
+     "text": "Financing a business",
+     "descriptions": [
+      "ii. Factors that contribute to failure of small businesses",
+      "i.  Finance",
+      "ii.  Sources of finance for a small business"
+     ],
+     "parentId": 58,
+     "subLabels": []
+    },
+    {
+     "id": 62,
+     "text": "Profit / price fixing",
+     "descriptions": [
+      "iii.  Managing finance",
+      "i.  Determination of profit margin",
+      "ii.  Factors to consider in fixing a price"
+     ],
+     "parentId": 58,
+     "subLabels": []
+    },
+    {
+     "id": 63,
+     "text": "Customer relationship",
+     "descriptions": [
+      "i.  Maintaining healthy customer relationship",
+      "ii.  Customer credit"
+     ],
+     "parentId": 58,
+     "subLabels": []
+    },
+    {
+     "id": 64,
+     "text": "Record keeping",
+     "descriptions": [
+      "i.  Types of records necessary for small businesses"
+     ],
+     "parentId": 58,
+     "subLabels": []
+    },
+    {
+     "id": 65,
+     "text": "Promoting a business",
+     "descriptions": [
+      "ii. Importance if record keeping.",
+      "i.  Meaning of business promotion",
+      "ii.  Types of promotion activities",
+      "iii. Importance of business promotion"
+     ],
+     "parentId": 58,
+     "subLabels": []
+    }
+   ]
+  }
+ ],
+ "labels": [
+  {
+   "id": 4,
+   "text": "Key:",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 5,
+     "text": "I . pure mathematics",
+     "descriptions": [
+      "(i) Idea of a set",
+      "defined by a property, Set notations and their meanings.",
+      "(ii) Disjoint sets,",
+      "Universal set and complement of set",
+      "(iii) Venn diagrams,",
+      "Use of sets",
+      "And Venn",
+      "diagrams to solve problems.",
+      "(iv) Commutative",
+      "and Associative laws, Distributive properties over union and intersection.",
+      "Surds of the form  , a and a+b where a is rational, b is a positive integer and n is not a perfect square."
+     ],
+     "parentId": 4,
+     "subLabels": [
+      {
+       "id": 6,
+       "text": "Sets",
+       "descriptions": [
+        "Properties: Closure, Commutativity, Associativity and Distributivity, Identity elements and inverses.",
+        "(i) Rule of syntax: true or false",
+        "statements, rule of logic applied to      arguments, implications and deductions.",
+        "(ii) The truth table"
+       ],
+       "parentId": 5,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 7,
+     "text": "Surds",
+     "descriptions": [
+      "(i) Domain and co-",
+      "domain of a function.",
+      "(ii) One-to-one,",
+      "onto, identity and constant mapping;"
+     ],
+     "parentId": 4,
+     "subLabels": []
+    },
+    {
+     "id": 8,
+     "text": "Binary",
+     "descriptions": [],
+     "parentId": 4,
+     "subLabels": []
+    },
+    {
+     "id": 9,
+     "text": "Operations",
+     "descriptions": [
+      "(iii) Inverse of a",
+      "function."
+     ],
+     "parentId": 4,
+     "subLabels": []
+    },
+    {
+     "id": 10,
+     "text": "Logical",
+     "descriptions": [],
+     "parentId": 4,
+     "subLabels": []
+    },
+    {
+     "id": 11,
+     "text": "Reasoning",
+     "descriptions": [
+      "(iv) Composite of functions.",
+      "(i) Linear Functions,",
+      "Equations and Inequality"
+     ],
+     "parentId": 4,
+     "subLabels": []
+    },
+    {
+     "id": 12,
+     "text": "Functions",
+     "descriptions": [
+      "(ii) Quadratic",
+      "Functions, Equations and Inequalities"
+     ],
+     "parentId": 4,
+     "subLabels": []
+    },
+    {
+     "id": 13,
+     "text": "Polynomial",
+     "descriptions": [],
+     "parentId": 4,
+     "subLabels": []
+    },
+    {
+     "id": 14,
+     "text": "Functions",
+     "descriptions": [
+      "(ii) Cubic Functions",
+      "and Equations",
+      "(i) Rational functions",
+      "of the form",
+      "Q(x) =  ,g(x)  0. where g(x) and",
+      "f(x) are",
+      "polynomials. e.g. f:x",
+      "(ii) Resolution of"
+     ],
+     "parentId": 4,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "text": "( 5) currencies",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 22,
+     "text": "The gambia",
+     "descriptions": [
+      "\u2013 - - 100 cents (c) = 1 Liberian Dollar (LD) - 100 kobo (k) = 1 Naira (N) - 100 cents (c) = 1 Leone (Le) 100 pence (p) = 1 pound (\u00a3) 100 cents (c) = 1 dollar ($)"
+     ],
+     "parentId": 21,
+     "subLabels": []
+    },
+    {
+     "id": 23,
+     "text": "Ghana",
+     "descriptions": [],
+     "parentId": 21,
+     "subLabels": []
+    },
+    {
+     "id": 24,
+     "text": "Liberia",
+     "descriptions": [],
+     "parentId": 21,
+     "subLabels": []
+    },
+    {
+     "id": 25,
+     "text": "Nigeria",
+     "descriptions": [],
+     "parentId": 21,
+     "subLabels": []
+    },
+    {
+     "id": 26,
+     "text": "Sierra leone",
+     "descriptions": [],
+     "parentId": 21,
+     "subLabels": []
+    },
+    {
+     "id": 27,
+     "text": "Uk ",
+     "descriptions": [],
+     "parentId": 21,
+     "subLabels": []
+    },
+    {
+     "id": 28,
+     "text": "Usa ",
+     "descriptions": [],
+     "parentId": 21,
+     "subLabels": []
+    },
+    {
+     "id": 29,
+     "text": "French speaking territories 100 centimes (c) = 1 franc (fr)",
+     "descriptions": [],
+     "parentId": 21,
+     "subLabels": []
+    },
+    {
+     "id": 30,
+     "text": "Any other units used will be defined",
+     "descriptions": [],
+     "parentId": 21,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "text": "I . pure mathematics",
+   "descriptions": [
+    "(i) Idea of a set",
+    "defined by a property, Set notations and their meanings.",
+    "(ii) Disjoint sets,",
+    "Universal set and complement of set",
+    "(iii) Venn diagrams,",
+    "Use of sets",
+    "And Venn",
+    "diagrams to solve problems.",
+    "(iv) Commutative",
+    "and Associative laws, Distributive properties over union and intersection.",
+    "Surds of the form  , a and a+b where a is rational, b is a positive integer and n is not a perfect square."
+   ],
+   "parentId": 4,
+   "subLabels": [
+    {
+     "id": 6,
+     "text": "Sets",
+     "descriptions": [
+      "Properties: Closure, Commutativity, Associativity and Distributivity, Identity elements and inverses.",
+      "(i) Rule of syntax: true or false",
+      "statements, rule of logic applied to      arguments, implications and deductions.",
+      "(ii) The truth table"
+     ],
+     "parentId": 5,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "text": "Surds",
+   "descriptions": [
+    "(i) Domain and co-",
+    "domain of a function.",
+    "(ii) One-to-one,",
+    "onto, identity and constant mapping;"
+   ],
+   "parentId": 4,
+   "subLabels": []
+  },
+  {
+   "id": 8,
+   "text": "Binary",
+   "descriptions": [],
+   "parentId": 4,
+   "subLabels": []
+  },
+  {
+   "id": 9,
+   "text": "Operations",
+   "descriptions": [
+    "(iii) Inverse of a",
+    "function."
+   ],
+   "parentId": 4,
+   "subLabels": []
+  },
+  {
+   "id": 10,
+   "text": "Logical",
+   "descriptions": [],
+   "parentId": 4,
+   "subLabels": []
+  },
+  {
+   "id": 11,
+   "text": "Reasoning",
+   "descriptions": [
+    "(iv) Composite of functions.",
+    "(i) Linear Functions,",
+    "Equations and Inequality"
+   ],
+   "parentId": 4,
+   "subLabels": []
+  },
+  {
+   "id": 12,
+   "text": "Functions",
+   "descriptions": [
+    "(ii) Quadratic",
+    "Functions, Equations and Inequalities"
+   ],
+   "parentId": 4,
+   "subLabels": []
+  },
+  {
+   "id": 13,
+   "text": "Polynomial",
+   "descriptions": [],
+   "parentId": 4,
+   "subLabels": []
+  },
+  {
+   "id": 14,
+   "text": "Functions",
+   "descriptions": [
+    "(ii) Cubic Functions",
+    "and Equations",
+    "(i) Rational functions",
+    "of the form",
+    "Q(x) =  ,g(x)  0. where g(x) and",
+    "f(x) are",
+    "polynomials. e.g. f:x",
+    "(ii) Resolution of"
+   ],
+   "parentId": 4,
+   "subLabels": []
+  },
+  {
+   "id": 22,
+   "text": "The gambia",
+   "descriptions": [
+    "\u2013 - - 100 cents (c) = 1 Liberian Dollar (LD) - 100 kobo (k) = 1 Naira (N) - 100 cents (c) = 1 Leone (Le) 100 pence (p) = 1 pound (\u00a3) 100 cents (c) = 1 dollar ($)"
+   ],
+   "parentId": 21,
+   "subLabels": []
+  },
+  {
+   "id": 23,
+   "text": "Ghana",
+   "descriptions": [],
+   "parentId": 21,
+   "subLabels": []
+  },
+  {
+   "id": 24,
+   "text": "Liberia",
+   "descriptions": [],
+   "parentId": 21,
+   "subLabels": []
+  },
+  {
+   "id": 25,
+   "text": "Nigeria",
+   "descriptions": [],
+   "parentId": 21,
+   "subLabels": []
+  },
+  {
+   "id": 26,
+   "text": "Sierra leone",
+   "descriptions": [],
+   "parentId": 21,
+   "subLabels": []
+  },
+  {
+   "id": 27,
+   "text": "Uk ",
+   "descriptions": [],
+   "parentId": 21,
+   "subLabels": []
+  },
+  {
+   "id": 28,
+   "text": "Usa ",
+   "descriptions": [],
+   "parentId": 21,
+   "subLabels": []
+  },
+  {
+   "id": 29,
+   "text": "French speaking territories 100 centimes (c) = 1 franc (fr)",
+   "descriptions": [],
+   "parentId": 21,
+   "subLabels": []
+  },
+  {
+   "id": 30,
+   "text": "Any other units used will be defined",
+   "descriptions": [],
+   "parentId": 21,
+   "subLabels": []
+  },
+  {
+   "id": 6,
+   "text": "Sets",
+   "descriptions": [
+    "Properties: Closure, Commutativity, Associativity and Distributivity, Identity elements and inverses.",
+    "(i) Rule of syntax: true or false",
+    "statements, rule of logic applied to      arguments, implications and deductions.",
+    "(ii) The truth table"
+   ],
+   "parentId": 5,
+   "subLabels": []
+  }
+ ]
+}

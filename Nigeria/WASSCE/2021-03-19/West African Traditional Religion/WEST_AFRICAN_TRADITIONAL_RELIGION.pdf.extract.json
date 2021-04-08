@@ -1,1 +1,104 @@
-{"subject": "subject", "Grade": "SS3", "Curriculum": "WASSCE", "labelsTree": [{"id": 8, "text": "19. religion and reproductive health in west african traditional religion.", "descriptions": null, "parentId": -1, "subLabels": [{"id": 9, "text": "(a)  west african traditional religion and reproductive", "descriptions": ["Health Features:"], "parentId": 8, "subLabels": []}, {"id": 10, "text": "Issues of hygiene, sexuality and  promiscuity/abortion", "descriptions": [], "parentId": 8, "subLabels": [{"id": 11, "text": "(b)  circumcision rites and reproductive health", "descriptions": [], "parentId": 10, "subLabels": []}]}]}], "labels": [{"id": 8, "text": "19. religion and reproductive health in west african traditional religion.", "descriptions": null, "parentId": -1, "subLabels": [{"id": 9, "text": "(a)  west african traditional religion and reproductive", "descriptions": ["Health Features:"], "parentId": 8, "subLabels": []}, {"id": 10, "text": "Issues of hygiene, sexuality and  promiscuity/abortion", "descriptions": [], "parentId": 8, "subLabels": [{"id": 11, "text": "(b)  circumcision rites and reproductive health", "descriptions": [], "parentId": 10, "subLabels": []}]}]}, {"id": 9, "text": "(a)  west african traditional religion and reproductive", "descriptions": ["Health Features:"], "parentId": 8, "subLabels": []}, {"id": 10, "text": "Issues of hygiene, sexuality and  promiscuity/abortion", "descriptions": [], "parentId": 8, "subLabels": [{"id": 11, "text": "(b)  circumcision rites and reproductive health", "descriptions": [], "parentId": 10, "subLabels": []}]}, {"id": 11, "text": "(b)  circumcision rites and reproductive health", "descriptions": [], "parentId": 10, "subLabels": []}]}
+{
+ "subject": "West African Traditional Religion",
+ "Grade": "None",
+ "Curriculum": "test",
+ "labelsTree": [
+  {
+   "id": 8,
+   "text": "19. religion and reproductive health in west african traditional religion.",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 9,
+     "text": "(a)  west african traditional religion and reproductive",
+     "descriptions": [
+      "Health Features:"
+     ],
+     "parentId": 8,
+     "subLabels": []
+    },
+    {
+     "id": 10,
+     "text": "Issues of hygiene, sexuality and  promiscuity/abortion",
+     "descriptions": [],
+     "parentId": 8,
+     "subLabels": [
+      {
+       "id": 11,
+       "text": "(b)  circumcision rites and reproductive health",
+       "descriptions": [],
+       "parentId": 10,
+       "subLabels": []
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "labels": [
+  {
+   "id": 8,
+   "text": "19. religion and reproductive health in west african traditional religion.",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 9,
+     "text": "(a)  west african traditional religion and reproductive",
+     "descriptions": [
+      "Health Features:"
+     ],
+     "parentId": 8,
+     "subLabels": []
+    },
+    {
+     "id": 10,
+     "text": "Issues of hygiene, sexuality and  promiscuity/abortion",
+     "descriptions": [],
+     "parentId": 8,
+     "subLabels": [
+      {
+       "id": 11,
+       "text": "(b)  circumcision rites and reproductive health",
+       "descriptions": [],
+       "parentId": 10,
+       "subLabels": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "text": "(a)  west african traditional religion and reproductive",
+   "descriptions": [
+    "Health Features:"
+   ],
+   "parentId": 8,
+   "subLabels": []
+  },
+  {
+   "id": 10,
+   "text": "Issues of hygiene, sexuality and  promiscuity/abortion",
+   "descriptions": [],
+   "parentId": 8,
+   "subLabels": [
+    {
+     "id": 11,
+     "text": "(b)  circumcision rites and reproductive health",
+     "descriptions": [],
+     "parentId": 10,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "text": "(b)  circumcision rites and reproductive health",
+   "descriptions": [],
+   "parentId": 10,
+   "subLabels": []
+  }
+ ]
+}

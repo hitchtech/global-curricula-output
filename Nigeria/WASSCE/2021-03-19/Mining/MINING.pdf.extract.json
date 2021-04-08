@@ -1,1 +1,537 @@
-{"subject": "subject", "Grade": "SS3", "Curriculum": "WASSCE", "labelsTree": [{"id": 5, "text": "Detailed syllabus", "descriptions": null, "parentId": -1, "subLabels": [{"id": 6, "text": "(a)  introduction to mining (a) meaning and branches of mining", "descriptions": [], "parentId": 5, "subLabels": [{"id": 7, "text": "(b) terminology used in mining", "descriptions": [], "parentId": 6, "subLabels": []}, {"id": 8, "text": "(c) classification and importance of minerals", "descriptions": [], "parentId": 6, "subLabels": []}, {"id": 9, "text": "(d) distribution of minerals in nigeria", "descriptions": [], "parentId": 6, "subLabels": []}, {"id": 10, "text": "(e) history of mining", "descriptions": [], "parentId": 6, "subLabels": []}, {"id": 11, "text": "(f) mining activities in nigeria", "descriptions": [], "parentId": 6, "subLabels": []}, {"id": 12, "text": "(g) importance of minerals to man and national economy", "descriptions": [], "parentId": 6, "subLabels": []}]}]}, {"id": 17, "text": "Processing", "descriptions": null, "parentId": -1, "subLabels": [{"id": 18, "text": "(g) health, safety and environment (a) health hazards in mining", "descriptions": [], "parentId": 17, "subLabels": [{"id": 19, "text": "(b) safety requirements/measures in mining", "descriptions": [], "parentId": 18, "subLabels": []}, {"id": 20, "text": "(c) impacts of mining on the environment", "descriptions": [], "parentId": 18, "subLabels": []}, {"id": 21, "text": "(d) safety equipment and apparels used in mining - personal protective equipment (ppe)", "descriptions": [], "parentId": 18, "subLabels": []}, {"id": 22, "text": "(e) common diseases associated with mining industry", "descriptions": [], "parentId": 18, "subLabels": []}, {"id": 23, "text": "(f) administering simple first aid, drugs/ dressing material", "descriptions": [], "parentId": 18, "subLabels": []}, {"id": 24, "text": "(g) guidelines for accident reporting, steps for environmental control", "descriptions": [], "parentId": 18, "subLabels": []}, {"id": 25, "text": "(h) basic issues in national policy on mineral development", "descriptions": [], "parentId": 18, "subLabels": []}, {"id": 26, "text": "(i) mining laws and regulations", "descriptions": [], "parentId": 18, "subLabels": []}, {"id": 27, "text": "(j) environmental protection laws", "descriptions": [], "parentId": 18, "subLabels": []}, {"id": 28, "text": "(k) national policy on the environment", "descriptions": [], "parentId": 18, "subLabels": []}]}]}], "labels": [{"id": 5, "text": "Detailed syllabus", "descriptions": null, "parentId": -1, "subLabels": [{"id": 6, "text": "(a)  introduction to mining (a) meaning and branches of mining", "descriptions": [], "parentId": 5, "subLabels": [{"id": 7, "text": "(b) terminology used in mining", "descriptions": [], "parentId": 6, "subLabels": []}, {"id": 8, "text": "(c) classification and importance of minerals", "descriptions": [], "parentId": 6, "subLabels": []}, {"id": 9, "text": "(d) distribution of minerals in nigeria", "descriptions": [], "parentId": 6, "subLabels": []}, {"id": 10, "text": "(e) history of mining", "descriptions": [], "parentId": 6, "subLabels": []}, {"id": 11, "text": "(f) mining activities in nigeria", "descriptions": [], "parentId": 6, "subLabels": []}, {"id": 12, "text": "(g) importance of minerals to man and national economy", "descriptions": [], "parentId": 6, "subLabels": []}]}]}, {"id": 17, "text": "Processing", "descriptions": null, "parentId": -1, "subLabels": [{"id": 18, "text": "(g) health, safety and environment (a) health hazards in mining", "descriptions": [], "parentId": 17, "subLabels": [{"id": 19, "text": "(b) safety requirements/measures in mining", "descriptions": [], "parentId": 18, "subLabels": []}, {"id": 20, "text": "(c) impacts of mining on the environment", "descriptions": [], "parentId": 18, "subLabels": []}, {"id": 21, "text": "(d) safety equipment and apparels used in mining - personal protective equipment (ppe)", "descriptions": [], "parentId": 18, "subLabels": []}, {"id": 22, "text": "(e) common diseases associated with mining industry", "descriptions": [], "parentId": 18, "subLabels": []}, {"id": 23, "text": "(f) administering simple first aid, drugs/ dressing material", "descriptions": [], "parentId": 18, "subLabels": []}, {"id": 24, "text": "(g) guidelines for accident reporting, steps for environmental control", "descriptions": [], "parentId": 18, "subLabels": []}, {"id": 25, "text": "(h) basic issues in national policy on mineral development", "descriptions": [], "parentId": 18, "subLabels": []}, {"id": 26, "text": "(i) mining laws and regulations", "descriptions": [], "parentId": 18, "subLabels": []}, {"id": 27, "text": "(j) environmental protection laws", "descriptions": [], "parentId": 18, "subLabels": []}, {"id": 28, "text": "(k) national policy on the environment", "descriptions": [], "parentId": 18, "subLabels": []}]}]}, {"id": 6, "text": "(a)  introduction to mining (a) meaning and branches of mining", "descriptions": [], "parentId": 5, "subLabels": [{"id": 7, "text": "(b) terminology used in mining", "descriptions": [], "parentId": 6, "subLabels": []}, {"id": 8, "text": "(c) classification and importance of minerals", "descriptions": [], "parentId": 6, "subLabels": []}, {"id": 9, "text": "(d) distribution of minerals in nigeria", "descriptions": [], "parentId": 6, "subLabels": []}, {"id": 10, "text": "(e) history of mining", "descriptions": [], "parentId": 6, "subLabels": []}, {"id": 11, "text": "(f) mining activities in nigeria", "descriptions": [], "parentId": 6, "subLabels": []}, {"id": 12, "text": "(g) importance of minerals to man and national economy", "descriptions": [], "parentId": 6, "subLabels": []}]}, {"id": 18, "text": "(g) health, safety and environment (a) health hazards in mining", "descriptions": [], "parentId": 17, "subLabels": [{"id": 19, "text": "(b) safety requirements/measures in mining", "descriptions": [], "parentId": 18, "subLabels": []}, {"id": 20, "text": "(c) impacts of mining on the environment", "descriptions": [], "parentId": 18, "subLabels": []}, {"id": 21, "text": "(d) safety equipment and apparels used in mining - personal protective equipment (ppe)", "descriptions": [], "parentId": 18, "subLabels": []}, {"id": 22, "text": "(e) common diseases associated with mining industry", "descriptions": [], "parentId": 18, "subLabels": []}, {"id": 23, "text": "(f) administering simple first aid, drugs/ dressing material", "descriptions": [], "parentId": 18, "subLabels": []}, {"id": 24, "text": "(g) guidelines for accident reporting, steps for environmental control", "descriptions": [], "parentId": 18, "subLabels": []}, {"id": 25, "text": "(h) basic issues in national policy on mineral development", "descriptions": [], "parentId": 18, "subLabels": []}, {"id": 26, "text": "(i) mining laws and regulations", "descriptions": [], "parentId": 18, "subLabels": []}, {"id": 27, "text": "(j) environmental protection laws", "descriptions": [], "parentId": 18, "subLabels": []}, {"id": 28, "text": "(k) national policy on the environment", "descriptions": [], "parentId": 18, "subLabels": []}]}, {"id": 7, "text": "(b) terminology used in mining", "descriptions": [], "parentId": 6, "subLabels": []}, {"id": 8, "text": "(c) classification and importance of minerals", "descriptions": [], "parentId": 6, "subLabels": []}, {"id": 9, "text": "(d) distribution of minerals in nigeria", "descriptions": [], "parentId": 6, "subLabels": []}, {"id": 10, "text": "(e) history of mining", "descriptions": [], "parentId": 6, "subLabels": []}, {"id": 11, "text": "(f) mining activities in nigeria", "descriptions": [], "parentId": 6, "subLabels": []}, {"id": 12, "text": "(g) importance of minerals to man and national economy", "descriptions": [], "parentId": 6, "subLabels": []}, {"id": 19, "text": "(b) safety requirements/measures in mining", "descriptions": [], "parentId": 18, "subLabels": []}, {"id": 20, "text": "(c) impacts of mining on the environment", "descriptions": [], "parentId": 18, "subLabels": []}, {"id": 21, "text": "(d) safety equipment and apparels used in mining - personal protective equipment (ppe)", "descriptions": [], "parentId": 18, "subLabels": []}, {"id": 22, "text": "(e) common diseases associated with mining industry", "descriptions": [], "parentId": 18, "subLabels": []}, {"id": 23, "text": "(f) administering simple first aid, drugs/ dressing material", "descriptions": [], "parentId": 18, "subLabels": []}, {"id": 24, "text": "(g) guidelines for accident reporting, steps for environmental control", "descriptions": [], "parentId": 18, "subLabels": []}, {"id": 25, "text": "(h) basic issues in national policy on mineral development", "descriptions": [], "parentId": 18, "subLabels": []}, {"id": 26, "text": "(i) mining laws and regulations", "descriptions": [], "parentId": 18, "subLabels": []}, {"id": 27, "text": "(j) environmental protection laws", "descriptions": [], "parentId": 18, "subLabels": []}, {"id": 28, "text": "(k) national policy on the environment", "descriptions": [], "parentId": 18, "subLabels": []}]}
+{
+ "subject": "Mining",
+ "Grade": "None",
+ "Curriculum": "test",
+ "labelsTree": [
+  {
+   "id": 5,
+   "text": "Detailed syllabus",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 6,
+     "text": "(a)  introduction to mining (a) meaning and branches of mining",
+     "descriptions": [],
+     "parentId": 5,
+     "subLabels": [
+      {
+       "id": 7,
+       "text": "(b) terminology used in mining",
+       "descriptions": [],
+       "parentId": 6,
+       "subLabels": []
+      },
+      {
+       "id": 8,
+       "text": "(c) classification and importance of minerals",
+       "descriptions": [],
+       "parentId": 6,
+       "subLabels": []
+      },
+      {
+       "id": 9,
+       "text": "(d) distribution of minerals in nigeria",
+       "descriptions": [],
+       "parentId": 6,
+       "subLabels": []
+      },
+      {
+       "id": 10,
+       "text": "(e) history of mining",
+       "descriptions": [],
+       "parentId": 6,
+       "subLabels": []
+      },
+      {
+       "id": 11,
+       "text": "(f) mining activities in nigeria",
+       "descriptions": [],
+       "parentId": 6,
+       "subLabels": []
+      },
+      {
+       "id": 12,
+       "text": "(g) importance of minerals to man and national economy",
+       "descriptions": [],
+       "parentId": 6,
+       "subLabels": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "text": "Processing",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 18,
+     "text": "(g) health, safety and environment (a) health hazards in mining",
+     "descriptions": [],
+     "parentId": 17,
+     "subLabels": [
+      {
+       "id": 19,
+       "text": "(b) safety requirements/measures in mining",
+       "descriptions": [],
+       "parentId": 18,
+       "subLabels": []
+      },
+      {
+       "id": 20,
+       "text": "(c) impacts of mining on the environment",
+       "descriptions": [],
+       "parentId": 18,
+       "subLabels": []
+      },
+      {
+       "id": 21,
+       "text": "(d) safety equipment and apparels used in mining - personal protective equipment (ppe)",
+       "descriptions": [],
+       "parentId": 18,
+       "subLabels": []
+      },
+      {
+       "id": 22,
+       "text": "(e) common diseases associated with mining industry",
+       "descriptions": [],
+       "parentId": 18,
+       "subLabels": []
+      },
+      {
+       "id": 23,
+       "text": "(f) administering simple first aid, drugs/ dressing material",
+       "descriptions": [],
+       "parentId": 18,
+       "subLabels": []
+      },
+      {
+       "id": 24,
+       "text": "(g) guidelines for accident reporting, steps for environmental control",
+       "descriptions": [],
+       "parentId": 18,
+       "subLabels": []
+      },
+      {
+       "id": 25,
+       "text": "(h) basic issues in national policy on mineral development",
+       "descriptions": [],
+       "parentId": 18,
+       "subLabels": []
+      },
+      {
+       "id": 26,
+       "text": "(i) mining laws and regulations",
+       "descriptions": [],
+       "parentId": 18,
+       "subLabels": []
+      },
+      {
+       "id": 27,
+       "text": "(j) environmental protection laws",
+       "descriptions": [],
+       "parentId": 18,
+       "subLabels": []
+      },
+      {
+       "id": 28,
+       "text": "(k) national policy on the environment",
+       "descriptions": [],
+       "parentId": 18,
+       "subLabels": []
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "labels": [
+  {
+   "id": 5,
+   "text": "Detailed syllabus",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 6,
+     "text": "(a)  introduction to mining (a) meaning and branches of mining",
+     "descriptions": [],
+     "parentId": 5,
+     "subLabels": [
+      {
+       "id": 7,
+       "text": "(b) terminology used in mining",
+       "descriptions": [],
+       "parentId": 6,
+       "subLabels": []
+      },
+      {
+       "id": 8,
+       "text": "(c) classification and importance of minerals",
+       "descriptions": [],
+       "parentId": 6,
+       "subLabels": []
+      },
+      {
+       "id": 9,
+       "text": "(d) distribution of minerals in nigeria",
+       "descriptions": [],
+       "parentId": 6,
+       "subLabels": []
+      },
+      {
+       "id": 10,
+       "text": "(e) history of mining",
+       "descriptions": [],
+       "parentId": 6,
+       "subLabels": []
+      },
+      {
+       "id": 11,
+       "text": "(f) mining activities in nigeria",
+       "descriptions": [],
+       "parentId": 6,
+       "subLabels": []
+      },
+      {
+       "id": 12,
+       "text": "(g) importance of minerals to man and national economy",
+       "descriptions": [],
+       "parentId": 6,
+       "subLabels": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "text": "Processing",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 18,
+     "text": "(g) health, safety and environment (a) health hazards in mining",
+     "descriptions": [],
+     "parentId": 17,
+     "subLabels": [
+      {
+       "id": 19,
+       "text": "(b) safety requirements/measures in mining",
+       "descriptions": [],
+       "parentId": 18,
+       "subLabels": []
+      },
+      {
+       "id": 20,
+       "text": "(c) impacts of mining on the environment",
+       "descriptions": [],
+       "parentId": 18,
+       "subLabels": []
+      },
+      {
+       "id": 21,
+       "text": "(d) safety equipment and apparels used in mining - personal protective equipment (ppe)",
+       "descriptions": [],
+       "parentId": 18,
+       "subLabels": []
+      },
+      {
+       "id": 22,
+       "text": "(e) common diseases associated with mining industry",
+       "descriptions": [],
+       "parentId": 18,
+       "subLabels": []
+      },
+      {
+       "id": 23,
+       "text": "(f) administering simple first aid, drugs/ dressing material",
+       "descriptions": [],
+       "parentId": 18,
+       "subLabels": []
+      },
+      {
+       "id": 24,
+       "text": "(g) guidelines for accident reporting, steps for environmental control",
+       "descriptions": [],
+       "parentId": 18,
+       "subLabels": []
+      },
+      {
+       "id": 25,
+       "text": "(h) basic issues in national policy on mineral development",
+       "descriptions": [],
+       "parentId": 18,
+       "subLabels": []
+      },
+      {
+       "id": 26,
+       "text": "(i) mining laws and regulations",
+       "descriptions": [],
+       "parentId": 18,
+       "subLabels": []
+      },
+      {
+       "id": 27,
+       "text": "(j) environmental protection laws",
+       "descriptions": [],
+       "parentId": 18,
+       "subLabels": []
+      },
+      {
+       "id": 28,
+       "text": "(k) national policy on the environment",
+       "descriptions": [],
+       "parentId": 18,
+       "subLabels": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "text": "(a)  introduction to mining (a) meaning and branches of mining",
+   "descriptions": [],
+   "parentId": 5,
+   "subLabels": [
+    {
+     "id": 7,
+     "text": "(b) terminology used in mining",
+     "descriptions": [],
+     "parentId": 6,
+     "subLabels": []
+    },
+    {
+     "id": 8,
+     "text": "(c) classification and importance of minerals",
+     "descriptions": [],
+     "parentId": 6,
+     "subLabels": []
+    },
+    {
+     "id": 9,
+     "text": "(d) distribution of minerals in nigeria",
+     "descriptions": [],
+     "parentId": 6,
+     "subLabels": []
+    },
+    {
+     "id": 10,
+     "text": "(e) history of mining",
+     "descriptions": [],
+     "parentId": 6,
+     "subLabels": []
+    },
+    {
+     "id": 11,
+     "text": "(f) mining activities in nigeria",
+     "descriptions": [],
+     "parentId": 6,
+     "subLabels": []
+    },
+    {
+     "id": 12,
+     "text": "(g) importance of minerals to man and national economy",
+     "descriptions": [],
+     "parentId": 6,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "text": "(g) health, safety and environment (a) health hazards in mining",
+   "descriptions": [],
+   "parentId": 17,
+   "subLabels": [
+    {
+     "id": 19,
+     "text": "(b) safety requirements/measures in mining",
+     "descriptions": [],
+     "parentId": 18,
+     "subLabels": []
+    },
+    {
+     "id": 20,
+     "text": "(c) impacts of mining on the environment",
+     "descriptions": [],
+     "parentId": 18,
+     "subLabels": []
+    },
+    {
+     "id": 21,
+     "text": "(d) safety equipment and apparels used in mining - personal protective equipment (ppe)",
+     "descriptions": [],
+     "parentId": 18,
+     "subLabels": []
+    },
+    {
+     "id": 22,
+     "text": "(e) common diseases associated with mining industry",
+     "descriptions": [],
+     "parentId": 18,
+     "subLabels": []
+    },
+    {
+     "id": 23,
+     "text": "(f) administering simple first aid, drugs/ dressing material",
+     "descriptions": [],
+     "parentId": 18,
+     "subLabels": []
+    },
+    {
+     "id": 24,
+     "text": "(g) guidelines for accident reporting, steps for environmental control",
+     "descriptions": [],
+     "parentId": 18,
+     "subLabels": []
+    },
+    {
+     "id": 25,
+     "text": "(h) basic issues in national policy on mineral development",
+     "descriptions": [],
+     "parentId": 18,
+     "subLabels": []
+    },
+    {
+     "id": 26,
+     "text": "(i) mining laws and regulations",
+     "descriptions": [],
+     "parentId": 18,
+     "subLabels": []
+    },
+    {
+     "id": 27,
+     "text": "(j) environmental protection laws",
+     "descriptions": [],
+     "parentId": 18,
+     "subLabels": []
+    },
+    {
+     "id": 28,
+     "text": "(k) national policy on the environment",
+     "descriptions": [],
+     "parentId": 18,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "text": "(b) terminology used in mining",
+   "descriptions": [],
+   "parentId": 6,
+   "subLabels": []
+  },
+  {
+   "id": 8,
+   "text": "(c) classification and importance of minerals",
+   "descriptions": [],
+   "parentId": 6,
+   "subLabels": []
+  },
+  {
+   "id": 9,
+   "text": "(d) distribution of minerals in nigeria",
+   "descriptions": [],
+   "parentId": 6,
+   "subLabels": []
+  },
+  {
+   "id": 10,
+   "text": "(e) history of mining",
+   "descriptions": [],
+   "parentId": 6,
+   "subLabels": []
+  },
+  {
+   "id": 11,
+   "text": "(f) mining activities in nigeria",
+   "descriptions": [],
+   "parentId": 6,
+   "subLabels": []
+  },
+  {
+   "id": 12,
+   "text": "(g) importance of minerals to man and national economy",
+   "descriptions": [],
+   "parentId": 6,
+   "subLabels": []
+  },
+  {
+   "id": 19,
+   "text": "(b) safety requirements/measures in mining",
+   "descriptions": [],
+   "parentId": 18,
+   "subLabels": []
+  },
+  {
+   "id": 20,
+   "text": "(c) impacts of mining on the environment",
+   "descriptions": [],
+   "parentId": 18,
+   "subLabels": []
+  },
+  {
+   "id": 21,
+   "text": "(d) safety equipment and apparels used in mining - personal protective equipment (ppe)",
+   "descriptions": [],
+   "parentId": 18,
+   "subLabels": []
+  },
+  {
+   "id": 22,
+   "text": "(e) common diseases associated with mining industry",
+   "descriptions": [],
+   "parentId": 18,
+   "subLabels": []
+  },
+  {
+   "id": 23,
+   "text": "(f) administering simple first aid, drugs/ dressing material",
+   "descriptions": [],
+   "parentId": 18,
+   "subLabels": []
+  },
+  {
+   "id": 24,
+   "text": "(g) guidelines for accident reporting, steps for environmental control",
+   "descriptions": [],
+   "parentId": 18,
+   "subLabels": []
+  },
+  {
+   "id": 25,
+   "text": "(h) basic issues in national policy on mineral development",
+   "descriptions": [],
+   "parentId": 18,
+   "subLabels": []
+  },
+  {
+   "id": 26,
+   "text": "(i) mining laws and regulations",
+   "descriptions": [],
+   "parentId": 18,
+   "subLabels": []
+  },
+  {
+   "id": 27,
+   "text": "(j) environmental protection laws",
+   "descriptions": [],
+   "parentId": 18,
+   "subLabels": []
+  },
+  {
+   "id": 28,
+   "text": "(k) national policy on the environment",
+   "descriptions": [],
+   "parentId": 18,
+   "subLabels": []
+  }
+ ]
+}

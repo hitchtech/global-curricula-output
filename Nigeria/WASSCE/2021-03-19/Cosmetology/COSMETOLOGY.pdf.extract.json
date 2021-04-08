@@ -1,1 +1,578 @@
-{"subject": "subject", "Grade": "SS3", "Curriculum": "WASSCE", "labelsTree": [{"id": 19, "text": "Types of hair", "descriptions": null, "parentId": -1, "subLabels": [{"id": 20, "text": "Types of hair general hair care", "descriptions": ["Different aspects of cosmetology.", "General professional ethics."], "parentId": 19, "subLabels": []}]}, {"id": 21, "text": "General hair treatment", "descriptions": null, "parentId": -1, "subLabels": [{"id": 22, "text": "Types of hair treatment \u2013 shampooing, conditioning, steaming etc. stages of hair treatment", "descriptions": ["Candidates should be able to correctly outline various safety measures to be taken."], "parentId": 21, "subLabels": []}]}, {"id": 23, "text": "Scalp treatment", "descriptions": null, "parentId": -1, "subLabels": [{"id": 24, "text": "Scalp disorders", "descriptions": ["Cleanliness of the body and oral hygiene. Characteristics of grooming ( posture, exercise relaxation and balanced diet.)", "Physical agents: moist heat, boiling water , steaming, dry heat, ultra violet rays. Chemical agents: antiseptics and disinfectants."], "parentId": 23, "subLabels": []}]}, {"id": 25, "text": "Treatment of hair loss", "descriptions": null, "parentId": -1, "subLabels": [{"id": 26, "text": "Hair loss\u2014causes, prevention and treatment", "descriptions": ["Candidates should be able to describe how the various tools, equipment and materials are used. Manicure and pedicure tools, barbing clippers, facial implements e.t.c."], "parentId": 25, "subLabels": []}]}, {"id": 27, "text": "Tinting and colouring of hair", "descriptions": null, "parentId": -1, "subLabels": [{"id": 28, "text": "Definition of hair", "descriptions": ["Normal, dry, oily hair etc. should be studied. Combing, washing, brushing, cutting, trimming etc."], "parentId": 27, "subLabels": []}, {"id": 29, "text": "Definition of hair colouring/tinting. types of hair colouring", "descriptions": ["Appropriate treatment for dry hair, normal hair, oily hair and hair with dandruff should be studied. Shampooing, conditioning, steaming, trimming, drying and styling should be studied."], "parentId": 27, "subLabels": []}]}, {"id": 30, "text": "Chemical hair relaxers", "descriptions": null, "parentId": -1, "subLabels": [{"id": 31, "text": "Definition of hair relaxer types of hair relaxer\u2014cold waves, texturizers etc. tools and materials for hair relaxing. procedure for chemical hair relaxing. safety precautions in applying chemical hair relaxers", "descriptions": ["practical activities on scalp treatment.", "Temporary, semi-permanent and permanent hair colouring should be studied. Candidates are expected to have carried out practical activities on hair colouring/tinting."], "parentId": 30, "subLabels": []}]}, {"id": 32, "text": "Artificial hair", "descriptions": null, "parentId": -1, "subLabels": [{"id": 33, "text": "Difference between hair pieces and wigs. types of hair pieces and wigs. reasons for wearing wigs. caring for wigs and hair pieces. tips for buying hair pieces and wigs", "descriptions": ["Candidates are expected to carry out practical activities on hair relaxing."], "parentId": 32, "subLabels": []}]}, {"id": 34, "text": "Hair weaving", "descriptions": null, "parentId": -1, "subLabels": [{"id": 35, "text": "Hair weaving\u2014reasons for", "descriptions": ["Candidates are expected to have carried out practical activities on weaving."], "parentId": 34, "subLabels": []}, {"id": 36, "text": "Hair weaving\u2014reasons for weaving,  tools and materials. types of hair pieces for weaving. brand names of hair pieces", "descriptions": ["Bumps, lice, hair shaft damage etc.", "HIV transmission, ringworm etc."], "parentId": 34, "subLabels": []}]}, {"id": 37, "text": "Hair barbering", "descriptions": null, "parentId": -1, "subLabels": [{"id": 38, "text": "Definition of barbering. common hair diseases associated with barbering. risks associated with barbering and safety measures. barbering tools, materials and their maintenance", "descriptions": ["Candidate should be able to define shampoos and conditioners and be able to select the right type of shampoos and conditioners for different textures of hair. Candidates are expected to have carried out practical activities of shampooing and conditioning."], "parentId": 37, "subLabels": []}]}, {"id": 40, "text": "Conditioners", "descriptions": null, "parentId": -1, "subLabels": [{"id": 41, "text": "Shampoos and conditioners. reasons for hair shampooing and conditioning", "descriptions": ["Moisturizers, cleansers, lotions, toners, creamse.t.c.", "Acne, eczema, ringworm, inflammation of the skin e.t.c."], "parentId": 40, "subLabels": []}]}, {"id": 43, "text": "Skin", "descriptions": null, "parentId": -1, "subLabels": [{"id": 44, "text": "Skin\u2014definition and types of skin skin care types of skin care products and their usage", "descriptions": ["Wrinkles, acne, pimples etc. Facial creams, nutrition, facial aerobics etc"], "parentId": 43, "subLabels": []}, {"id": 45, "text": "Abuse of skin care products. common skin problems and treatments", "descriptions": ["Candidates are expected to have carried out practical activities on application of lipsticks"], "parentId": 43, "subLabels": []}]}], "labels": [{"id": 19, "text": "Types of hair", "descriptions": null, "parentId": -1, "subLabels": [{"id": 20, "text": "Types of hair general hair care", "descriptions": ["Different aspects of cosmetology.", "General professional ethics."], "parentId": 19, "subLabels": []}]}, {"id": 21, "text": "General hair treatment", "descriptions": null, "parentId": -1, "subLabels": [{"id": 22, "text": "Types of hair treatment \u2013 shampooing, conditioning, steaming etc. stages of hair treatment", "descriptions": ["Candidates should be able to correctly outline various safety measures to be taken."], "parentId": 21, "subLabels": []}]}, {"id": 23, "text": "Scalp treatment", "descriptions": null, "parentId": -1, "subLabels": [{"id": 24, "text": "Scalp disorders", "descriptions": ["Cleanliness of the body and oral hygiene. Characteristics of grooming ( posture, exercise relaxation and balanced diet.)", "Physical agents: moist heat, boiling water , steaming, dry heat, ultra violet rays. Chemical agents: antiseptics and disinfectants."], "parentId": 23, "subLabels": []}]}, {"id": 25, "text": "Treatment of hair loss", "descriptions": null, "parentId": -1, "subLabels": [{"id": 26, "text": "Hair loss\u2014causes, prevention and treatment", "descriptions": ["Candidates should be able to describe how the various tools, equipment and materials are used. Manicure and pedicure tools, barbing clippers, facial implements e.t.c."], "parentId": 25, "subLabels": []}]}, {"id": 27, "text": "Tinting and colouring of hair", "descriptions": null, "parentId": -1, "subLabels": [{"id": 28, "text": "Definition of hair", "descriptions": ["Normal, dry, oily hair etc. should be studied. Combing, washing, brushing, cutting, trimming etc."], "parentId": 27, "subLabels": []}, {"id": 29, "text": "Definition of hair colouring/tinting. types of hair colouring", "descriptions": ["Appropriate treatment for dry hair, normal hair, oily hair and hair with dandruff should be studied. Shampooing, conditioning, steaming, trimming, drying and styling should be studied."], "parentId": 27, "subLabels": []}]}, {"id": 30, "text": "Chemical hair relaxers", "descriptions": null, "parentId": -1, "subLabels": [{"id": 31, "text": "Definition of hair relaxer types of hair relaxer\u2014cold waves, texturizers etc. tools and materials for hair relaxing. procedure for chemical hair relaxing. safety precautions in applying chemical hair relaxers", "descriptions": ["practical activities on scalp treatment.", "Temporary, semi-permanent and permanent hair colouring should be studied. Candidates are expected to have carried out practical activities on hair colouring/tinting."], "parentId": 30, "subLabels": []}]}, {"id": 32, "text": "Artificial hair", "descriptions": null, "parentId": -1, "subLabels": [{"id": 33, "text": "Difference between hair pieces and wigs. types of hair pieces and wigs. reasons for wearing wigs. caring for wigs and hair pieces. tips for buying hair pieces and wigs", "descriptions": ["Candidates are expected to carry out practical activities on hair relaxing."], "parentId": 32, "subLabels": []}]}, {"id": 34, "text": "Hair weaving", "descriptions": null, "parentId": -1, "subLabels": [{"id": 35, "text": "Hair weaving\u2014reasons for", "descriptions": ["Candidates are expected to have carried out practical activities on weaving."], "parentId": 34, "subLabels": []}, {"id": 36, "text": "Hair weaving\u2014reasons for weaving,  tools and materials. types of hair pieces for weaving. brand names of hair pieces", "descriptions": ["Bumps, lice, hair shaft damage etc.", "HIV transmission, ringworm etc."], "parentId": 34, "subLabels": []}]}, {"id": 37, "text": "Hair barbering", "descriptions": null, "parentId": -1, "subLabels": [{"id": 38, "text": "Definition of barbering. common hair diseases associated with barbering. risks associated with barbering and safety measures. barbering tools, materials and their maintenance", "descriptions": ["Candidate should be able to define shampoos and conditioners and be able to select the right type of shampoos and conditioners for different textures of hair. Candidates are expected to have carried out practical activities of shampooing and conditioning."], "parentId": 37, "subLabels": []}]}, {"id": 40, "text": "Conditioners", "descriptions": null, "parentId": -1, "subLabels": [{"id": 41, "text": "Shampoos and conditioners. reasons for hair shampooing and conditioning", "descriptions": ["Moisturizers, cleansers, lotions, toners, creamse.t.c.", "Acne, eczema, ringworm, inflammation of the skin e.t.c."], "parentId": 40, "subLabels": []}]}, {"id": 43, "text": "Skin", "descriptions": null, "parentId": -1, "subLabels": [{"id": 44, "text": "Skin\u2014definition and types of skin skin care types of skin care products and their usage", "descriptions": ["Wrinkles, acne, pimples etc. Facial creams, nutrition, facial aerobics etc"], "parentId": 43, "subLabels": []}, {"id": 45, "text": "Abuse of skin care products. common skin problems and treatments", "descriptions": ["Candidates are expected to have carried out practical activities on application of lipsticks"], "parentId": 43, "subLabels": []}]}, {"id": 20, "text": "Types of hair general hair care", "descriptions": ["Different aspects of cosmetology.", "General professional ethics."], "parentId": 19, "subLabels": []}, {"id": 22, "text": "Types of hair treatment \u2013 shampooing, conditioning, steaming etc. stages of hair treatment", "descriptions": ["Candidates should be able to correctly outline various safety measures to be taken."], "parentId": 21, "subLabels": []}, {"id": 24, "text": "Scalp disorders", "descriptions": ["Cleanliness of the body and oral hygiene. Characteristics of grooming ( posture, exercise relaxation and balanced diet.)", "Physical agents: moist heat, boiling water , steaming, dry heat, ultra violet rays. Chemical agents: antiseptics and disinfectants."], "parentId": 23, "subLabels": []}, {"id": 26, "text": "Hair loss\u2014causes, prevention and treatment", "descriptions": ["Candidates should be able to describe how the various tools, equipment and materials are used. Manicure and pedicure tools, barbing clippers, facial implements e.t.c."], "parentId": 25, "subLabels": []}, {"id": 28, "text": "Definition of hair", "descriptions": ["Normal, dry, oily hair etc. should be studied. Combing, washing, brushing, cutting, trimming etc."], "parentId": 27, "subLabels": []}, {"id": 29, "text": "Definition of hair colouring/tinting. types of hair colouring", "descriptions": ["Appropriate treatment for dry hair, normal hair, oily hair and hair with dandruff should be studied. Shampooing, conditioning, steaming, trimming, drying and styling should be studied."], "parentId": 27, "subLabels": []}, {"id": 31, "text": "Definition of hair relaxer types of hair relaxer\u2014cold waves, texturizers etc. tools and materials for hair relaxing. procedure for chemical hair relaxing. safety precautions in applying chemical hair relaxers", "descriptions": ["practical activities on scalp treatment.", "Temporary, semi-permanent and permanent hair colouring should be studied. Candidates are expected to have carried out practical activities on hair colouring/tinting."], "parentId": 30, "subLabels": []}, {"id": 33, "text": "Difference between hair pieces and wigs. types of hair pieces and wigs. reasons for wearing wigs. caring for wigs and hair pieces. tips for buying hair pieces and wigs", "descriptions": ["Candidates are expected to carry out practical activities on hair relaxing."], "parentId": 32, "subLabels": []}, {"id": 35, "text": "Hair weaving\u2014reasons for", "descriptions": ["Candidates are expected to have carried out practical activities on weaving."], "parentId": 34, "subLabels": []}, {"id": 36, "text": "Hair weaving\u2014reasons for weaving,  tools and materials. types of hair pieces for weaving. brand names of hair pieces", "descriptions": ["Bumps, lice, hair shaft damage etc.", "HIV transmission, ringworm etc."], "parentId": 34, "subLabels": []}, {"id": 38, "text": "Definition of barbering. common hair diseases associated with barbering. risks associated with barbering and safety measures. barbering tools, materials and their maintenance", "descriptions": ["Candidate should be able to define shampoos and conditioners and be able to select the right type of shampoos and conditioners for different textures of hair. Candidates are expected to have carried out practical activities of shampooing and conditioning."], "parentId": 37, "subLabels": []}, {"id": 41, "text": "Shampoos and conditioners. reasons for hair shampooing and conditioning", "descriptions": ["Moisturizers, cleansers, lotions, toners, creamse.t.c.", "Acne, eczema, ringworm, inflammation of the skin e.t.c."], "parentId": 40, "subLabels": []}, {"id": 44, "text": "Skin\u2014definition and types of skin skin care types of skin care products and their usage", "descriptions": ["Wrinkles, acne, pimples etc. Facial creams, nutrition, facial aerobics etc"], "parentId": 43, "subLabels": []}, {"id": 45, "text": "Abuse of skin care products. common skin problems and treatments", "descriptions": ["Candidates are expected to have carried out practical activities on application of lipsticks"], "parentId": 43, "subLabels": []}]}
+{
+ "subject": "Cosmetology",
+ "Grade": "None",
+ "Curriculum": "test",
+ "labelsTree": [
+  {
+   "id": 19,
+   "text": "Types of hair",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 20,
+     "text": "Types of hair general hair care",
+     "descriptions": [
+      "Different aspects of cosmetology.",
+      "General professional ethics."
+     ],
+     "parentId": 19,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "text": "General hair treatment",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 22,
+     "text": "Types of hair treatment \u2013 shampooing, conditioning, steaming etc. stages of hair treatment",
+     "descriptions": [
+      "Candidates should be able to correctly outline various safety measures to be taken."
+     ],
+     "parentId": 21,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "text": "Scalp treatment",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 24,
+     "text": "Scalp disorders",
+     "descriptions": [
+      "Cleanliness of the body and oral hygiene. Characteristics of grooming ( posture, exercise relaxation and balanced diet.)",
+      "Physical agents: moist heat, boiling water , steaming, dry heat, ultra violet rays. Chemical agents: antiseptics and disinfectants."
+     ],
+     "parentId": 23,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "text": "Treatment of hair loss",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 26,
+     "text": "Hair loss\u2014causes, prevention and treatment",
+     "descriptions": [
+      "Candidates should be able to describe how the various tools, equipment and materials are used. Manicure and pedicure tools, barbing clippers, facial implements e.t.c."
+     ],
+     "parentId": 25,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "text": "Tinting and colouring of hair",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 28,
+     "text": "Definition of hair",
+     "descriptions": [
+      "Normal, dry, oily hair etc. should be studied. Combing, washing, brushing, cutting, trimming etc."
+     ],
+     "parentId": 27,
+     "subLabels": []
+    },
+    {
+     "id": 29,
+     "text": "Definition of hair colouring/tinting. types of hair colouring",
+     "descriptions": [
+      "Appropriate treatment for dry hair, normal hair, oily hair and hair with dandruff should be studied. Shampooing, conditioning, steaming, trimming, drying and styling should be studied."
+     ],
+     "parentId": 27,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 30,
+   "text": "Chemical hair relaxers",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 31,
+     "text": "Definition of hair relaxer types of hair relaxer\u2014cold waves, texturizers etc. tools and materials for hair relaxing. procedure for chemical hair relaxing. safety precautions in applying chemical hair relaxers",
+     "descriptions": [
+      "practical activities on scalp treatment.",
+      "Temporary, semi-permanent and permanent hair colouring should be studied. Candidates are expected to have carried out practical activities on hair colouring/tinting."
+     ],
+     "parentId": 30,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 32,
+   "text": "Artificial hair",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 33,
+     "text": "Difference between hair pieces and wigs. types of hair pieces and wigs. reasons for wearing wigs. caring for wigs and hair pieces. tips for buying hair pieces and wigs",
+     "descriptions": [
+      "Candidates are expected to carry out practical activities on hair relaxing."
+     ],
+     "parentId": 32,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 34,
+   "text": "Hair weaving",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 35,
+     "text": "Hair weaving\u2014reasons for",
+     "descriptions": [
+      "Candidates are expected to have carried out practical activities on weaving."
+     ],
+     "parentId": 34,
+     "subLabels": []
+    },
+    {
+     "id": 36,
+     "text": "Hair weaving\u2014reasons for weaving,  tools and materials. types of hair pieces for weaving. brand names of hair pieces",
+     "descriptions": [
+      "Bumps, lice, hair shaft damage etc.",
+      "HIV transmission, ringworm etc."
+     ],
+     "parentId": 34,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 37,
+   "text": "Hair barbering",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 38,
+     "text": "Definition of barbering. common hair diseases associated with barbering. risks associated with barbering and safety measures. barbering tools, materials and their maintenance",
+     "descriptions": [
+      "Candidate should be able to define shampoos and conditioners and be able to select the right type of shampoos and conditioners for different textures of hair. Candidates are expected to have carried out practical activities of shampooing and conditioning."
+     ],
+     "parentId": 37,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 40,
+   "text": "Conditioners",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 41,
+     "text": "Shampoos and conditioners. reasons for hair shampooing and conditioning",
+     "descriptions": [
+      "Moisturizers, cleansers, lotions, toners, creamse.t.c.",
+      "Acne, eczema, ringworm, inflammation of the skin e.t.c."
+     ],
+     "parentId": 40,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 43,
+   "text": "Skin",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 44,
+     "text": "Skin\u2014definition and types of skin skin care types of skin care products and their usage",
+     "descriptions": [
+      "Wrinkles, acne, pimples etc. Facial creams, nutrition, facial aerobics etc"
+     ],
+     "parentId": 43,
+     "subLabels": []
+    },
+    {
+     "id": 45,
+     "text": "Abuse of skin care products. common skin problems and treatments",
+     "descriptions": [
+      "Candidates are expected to have carried out practical activities on application of lipsticks"
+     ],
+     "parentId": 43,
+     "subLabels": []
+    }
+   ]
+  }
+ ],
+ "labels": [
+  {
+   "id": 19,
+   "text": "Types of hair",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 20,
+     "text": "Types of hair general hair care",
+     "descriptions": [
+      "Different aspects of cosmetology.",
+      "General professional ethics."
+     ],
+     "parentId": 19,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "text": "General hair treatment",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 22,
+     "text": "Types of hair treatment \u2013 shampooing, conditioning, steaming etc. stages of hair treatment",
+     "descriptions": [
+      "Candidates should be able to correctly outline various safety measures to be taken."
+     ],
+     "parentId": 21,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "text": "Scalp treatment",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 24,
+     "text": "Scalp disorders",
+     "descriptions": [
+      "Cleanliness of the body and oral hygiene. Characteristics of grooming ( posture, exercise relaxation and balanced diet.)",
+      "Physical agents: moist heat, boiling water , steaming, dry heat, ultra violet rays. Chemical agents: antiseptics and disinfectants."
+     ],
+     "parentId": 23,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "text": "Treatment of hair loss",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 26,
+     "text": "Hair loss\u2014causes, prevention and treatment",
+     "descriptions": [
+      "Candidates should be able to describe how the various tools, equipment and materials are used. Manicure and pedicure tools, barbing clippers, facial implements e.t.c."
+     ],
+     "parentId": 25,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "text": "Tinting and colouring of hair",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 28,
+     "text": "Definition of hair",
+     "descriptions": [
+      "Normal, dry, oily hair etc. should be studied. Combing, washing, brushing, cutting, trimming etc."
+     ],
+     "parentId": 27,
+     "subLabels": []
+    },
+    {
+     "id": 29,
+     "text": "Definition of hair colouring/tinting. types of hair colouring",
+     "descriptions": [
+      "Appropriate treatment for dry hair, normal hair, oily hair and hair with dandruff should be studied. Shampooing, conditioning, steaming, trimming, drying and styling should be studied."
+     ],
+     "parentId": 27,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 30,
+   "text": "Chemical hair relaxers",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 31,
+     "text": "Definition of hair relaxer types of hair relaxer\u2014cold waves, texturizers etc. tools and materials for hair relaxing. procedure for chemical hair relaxing. safety precautions in applying chemical hair relaxers",
+     "descriptions": [
+      "practical activities on scalp treatment.",
+      "Temporary, semi-permanent and permanent hair colouring should be studied. Candidates are expected to have carried out practical activities on hair colouring/tinting."
+     ],
+     "parentId": 30,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 32,
+   "text": "Artificial hair",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 33,
+     "text": "Difference between hair pieces and wigs. types of hair pieces and wigs. reasons for wearing wigs. caring for wigs and hair pieces. tips for buying hair pieces and wigs",
+     "descriptions": [
+      "Candidates are expected to carry out practical activities on hair relaxing."
+     ],
+     "parentId": 32,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 34,
+   "text": "Hair weaving",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 35,
+     "text": "Hair weaving\u2014reasons for",
+     "descriptions": [
+      "Candidates are expected to have carried out practical activities on weaving."
+     ],
+     "parentId": 34,
+     "subLabels": []
+    },
+    {
+     "id": 36,
+     "text": "Hair weaving\u2014reasons for weaving,  tools and materials. types of hair pieces for weaving. brand names of hair pieces",
+     "descriptions": [
+      "Bumps, lice, hair shaft damage etc.",
+      "HIV transmission, ringworm etc."
+     ],
+     "parentId": 34,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 37,
+   "text": "Hair barbering",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 38,
+     "text": "Definition of barbering. common hair diseases associated with barbering. risks associated with barbering and safety measures. barbering tools, materials and their maintenance",
+     "descriptions": [
+      "Candidate should be able to define shampoos and conditioners and be able to select the right type of shampoos and conditioners for different textures of hair. Candidates are expected to have carried out practical activities of shampooing and conditioning."
+     ],
+     "parentId": 37,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 40,
+   "text": "Conditioners",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 41,
+     "text": "Shampoos and conditioners. reasons for hair shampooing and conditioning",
+     "descriptions": [
+      "Moisturizers, cleansers, lotions, toners, creamse.t.c.",
+      "Acne, eczema, ringworm, inflammation of the skin e.t.c."
+     ],
+     "parentId": 40,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 43,
+   "text": "Skin",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 44,
+     "text": "Skin\u2014definition and types of skin skin care types of skin care products and their usage",
+     "descriptions": [
+      "Wrinkles, acne, pimples etc. Facial creams, nutrition, facial aerobics etc"
+     ],
+     "parentId": 43,
+     "subLabels": []
+    },
+    {
+     "id": 45,
+     "text": "Abuse of skin care products. common skin problems and treatments",
+     "descriptions": [
+      "Candidates are expected to have carried out practical activities on application of lipsticks"
+     ],
+     "parentId": 43,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "text": "Types of hair general hair care",
+   "descriptions": [
+    "Different aspects of cosmetology.",
+    "General professional ethics."
+   ],
+   "parentId": 19,
+   "subLabels": []
+  },
+  {
+   "id": 22,
+   "text": "Types of hair treatment \u2013 shampooing, conditioning, steaming etc. stages of hair treatment",
+   "descriptions": [
+    "Candidates should be able to correctly outline various safety measures to be taken."
+   ],
+   "parentId": 21,
+   "subLabels": []
+  },
+  {
+   "id": 24,
+   "text": "Scalp disorders",
+   "descriptions": [
+    "Cleanliness of the body and oral hygiene. Characteristics of grooming ( posture, exercise relaxation and balanced diet.)",
+    "Physical agents: moist heat, boiling water , steaming, dry heat, ultra violet rays. Chemical agents: antiseptics and disinfectants."
+   ],
+   "parentId": 23,
+   "subLabels": []
+  },
+  {
+   "id": 26,
+   "text": "Hair loss\u2014causes, prevention and treatment",
+   "descriptions": [
+    "Candidates should be able to describe how the various tools, equipment and materials are used. Manicure and pedicure tools, barbing clippers, facial implements e.t.c."
+   ],
+   "parentId": 25,
+   "subLabels": []
+  },
+  {
+   "id": 28,
+   "text": "Definition of hair",
+   "descriptions": [
+    "Normal, dry, oily hair etc. should be studied. Combing, washing, brushing, cutting, trimming etc."
+   ],
+   "parentId": 27,
+   "subLabels": []
+  },
+  {
+   "id": 29,
+   "text": "Definition of hair colouring/tinting. types of hair colouring",
+   "descriptions": [
+    "Appropriate treatment for dry hair, normal hair, oily hair and hair with dandruff should be studied. Shampooing, conditioning, steaming, trimming, drying and styling should be studied."
+   ],
+   "parentId": 27,
+   "subLabels": []
+  },
+  {
+   "id": 31,
+   "text": "Definition of hair relaxer types of hair relaxer\u2014cold waves, texturizers etc. tools and materials for hair relaxing. procedure for chemical hair relaxing. safety precautions in applying chemical hair relaxers",
+   "descriptions": [
+    "practical activities on scalp treatment.",
+    "Temporary, semi-permanent and permanent hair colouring should be studied. Candidates are expected to have carried out practical activities on hair colouring/tinting."
+   ],
+   "parentId": 30,
+   "subLabels": []
+  },
+  {
+   "id": 33,
+   "text": "Difference between hair pieces and wigs. types of hair pieces and wigs. reasons for wearing wigs. caring for wigs and hair pieces. tips for buying hair pieces and wigs",
+   "descriptions": [
+    "Candidates are expected to carry out practical activities on hair relaxing."
+   ],
+   "parentId": 32,
+   "subLabels": []
+  },
+  {
+   "id": 35,
+   "text": "Hair weaving\u2014reasons for",
+   "descriptions": [
+    "Candidates are expected to have carried out practical activities on weaving."
+   ],
+   "parentId": 34,
+   "subLabels": []
+  },
+  {
+   "id": 36,
+   "text": "Hair weaving\u2014reasons for weaving,  tools and materials. types of hair pieces for weaving. brand names of hair pieces",
+   "descriptions": [
+    "Bumps, lice, hair shaft damage etc.",
+    "HIV transmission, ringworm etc."
+   ],
+   "parentId": 34,
+   "subLabels": []
+  },
+  {
+   "id": 38,
+   "text": "Definition of barbering. common hair diseases associated with barbering. risks associated with barbering and safety measures. barbering tools, materials and their maintenance",
+   "descriptions": [
+    "Candidate should be able to define shampoos and conditioners and be able to select the right type of shampoos and conditioners for different textures of hair. Candidates are expected to have carried out practical activities of shampooing and conditioning."
+   ],
+   "parentId": 37,
+   "subLabels": []
+  },
+  {
+   "id": 41,
+   "text": "Shampoos and conditioners. reasons for hair shampooing and conditioning",
+   "descriptions": [
+    "Moisturizers, cleansers, lotions, toners, creamse.t.c.",
+    "Acne, eczema, ringworm, inflammation of the skin e.t.c."
+   ],
+   "parentId": 40,
+   "subLabels": []
+  },
+  {
+   "id": 44,
+   "text": "Skin\u2014definition and types of skin skin care types of skin care products and their usage",
+   "descriptions": [
+    "Wrinkles, acne, pimples etc. Facial creams, nutrition, facial aerobics etc"
+   ],
+   "parentId": 43,
+   "subLabels": []
+  },
+  {
+   "id": 45,
+   "text": "Abuse of skin care products. common skin problems and treatments",
+   "descriptions": [
+    "Candidates are expected to have carried out practical activities on application of lipsticks"
+   ],
+   "parentId": 43,
+   "subLabels": []
+  }
+ ]
+}

@@ -1,1 +1,440 @@
-{"subject": "subject", "Grade": "SS3", "Curriculum": "WASSCE", "labelsTree": [{"id": 4, "text": "African prose", "descriptions": null, "parentId": -1, "subLabels": [{"id": 5, "text": "Ammadarko", "descriptions": ["- Faceless - Lonely Days"], "parentId": 4, "subLabels": []}, {"id": 6, "text": "Bayoadebowale", "descriptions": [], "parentId": 4, "subLabels": []}]}, {"id": 7, "text": "Non-african prose", "descriptions": null, "parentId": -1, "subLabels": [{"id": 8, "text": "Richard wright", "descriptions": ["- -"], "parentId": 7, "subLabels": []}, {"id": 9, "text": "Patience swift", "descriptions": [], "parentId": 7, "subLabels": []}, {"id": 10, "text": "* william shakespeare : othello", "descriptions": [], "parentId": 7, "subLabels": []}]}, {"id": 11, "text": "Non-african drama", "descriptions": null, "parentId": -1, "subLabels": [{"id": 12, "text": "Oliver goldsmith", "descriptions": ["- -"], "parentId": 11, "subLabels": []}, {"id": 13, "text": "Lorraine hansberry", "descriptions": [], "parentId": 11, "subLabels": []}]}, {"id": 14, "text": "African drama", "descriptions": null, "parentId": -1, "subLabels": [{"id": 15, "text": "Frank ogodo ogbeche   ", "descriptions": ["Harvest of Corruption"], "parentId": 14, "subLabels": []}, {"id": 16, "text": "Dele charley ", "descriptions": ["The Blood of a Stranger"], "parentId": 14, "subLabels": []}]}, {"id": 17, "text": "African poetry", "descriptions": null, "parentId": -1, "subLabels": [{"id": 18, "text": "Birago drop", "descriptions": ["- -"], "parentId": 17, "subLabels": []}, {"id": 19, "text": "Gbemisolaadeoti", "descriptions": [], "parentId": 17, "subLabels": []}, {"id": 20, "text": "Gabriel okara - piano and drums", "descriptions": [], "parentId": 17, "subLabels": []}, {"id": 21, "text": "Gbanabam hallowell - the dinning table", "descriptions": [], "parentId": 17, "subLabels": []}, {"id": 22, "text": "Lenrie peter - the panic of growing older", "descriptions": [], "parentId": 17, "subLabels": []}, {"id": 23, "text": "Kofi awoonor - the anvil and the hammer", "descriptions": [], "parentId": 17, "subLabels": []}]}], "labels": [{"id": 4, "text": "African prose", "descriptions": null, "parentId": -1, "subLabels": [{"id": 5, "text": "Ammadarko", "descriptions": ["- Faceless - Lonely Days"], "parentId": 4, "subLabels": []}, {"id": 6, "text": "Bayoadebowale", "descriptions": [], "parentId": 4, "subLabels": []}]}, {"id": 7, "text": "Non-african prose", "descriptions": null, "parentId": -1, "subLabels": [{"id": 8, "text": "Richard wright", "descriptions": ["- -"], "parentId": 7, "subLabels": []}, {"id": 9, "text": "Patience swift", "descriptions": [], "parentId": 7, "subLabels": []}, {"id": 10, "text": "* william shakespeare : othello", "descriptions": [], "parentId": 7, "subLabels": []}]}, {"id": 11, "text": "Non-african drama", "descriptions": null, "parentId": -1, "subLabels": [{"id": 12, "text": "Oliver goldsmith", "descriptions": ["- -"], "parentId": 11, "subLabels": []}, {"id": 13, "text": "Lorraine hansberry", "descriptions": [], "parentId": 11, "subLabels": []}]}, {"id": 14, "text": "African drama", "descriptions": null, "parentId": -1, "subLabels": [{"id": 15, "text": "Frank ogodo ogbeche   ", "descriptions": ["Harvest of Corruption"], "parentId": 14, "subLabels": []}, {"id": 16, "text": "Dele charley ", "descriptions": ["The Blood of a Stranger"], "parentId": 14, "subLabels": []}]}, {"id": 17, "text": "African poetry", "descriptions": null, "parentId": -1, "subLabels": [{"id": 18, "text": "Birago drop", "descriptions": ["- -"], "parentId": 17, "subLabels": []}, {"id": 19, "text": "Gbemisolaadeoti", "descriptions": [], "parentId": 17, "subLabels": []}, {"id": 20, "text": "Gabriel okara - piano and drums", "descriptions": [], "parentId": 17, "subLabels": []}, {"id": 21, "text": "Gbanabam hallowell - the dinning table", "descriptions": [], "parentId": 17, "subLabels": []}, {"id": 22, "text": "Lenrie peter - the panic of growing older", "descriptions": [], "parentId": 17, "subLabels": []}, {"id": 23, "text": "Kofi awoonor - the anvil and the hammer", "descriptions": [], "parentId": 17, "subLabels": []}]}, {"id": 5, "text": "Ammadarko", "descriptions": ["- Faceless - Lonely Days"], "parentId": 4, "subLabels": []}, {"id": 6, "text": "Bayoadebowale", "descriptions": [], "parentId": 4, "subLabels": []}, {"id": 8, "text": "Richard wright", "descriptions": ["- -"], "parentId": 7, "subLabels": []}, {"id": 9, "text": "Patience swift", "descriptions": [], "parentId": 7, "subLabels": []}, {"id": 10, "text": "* william shakespeare : othello", "descriptions": [], "parentId": 7, "subLabels": []}, {"id": 12, "text": "Oliver goldsmith", "descriptions": ["- -"], "parentId": 11, "subLabels": []}, {"id": 13, "text": "Lorraine hansberry", "descriptions": [], "parentId": 11, "subLabels": []}, {"id": 15, "text": "Frank ogodo ogbeche   ", "descriptions": ["Harvest of Corruption"], "parentId": 14, "subLabels": []}, {"id": 16, "text": "Dele charley ", "descriptions": ["The Blood of a Stranger"], "parentId": 14, "subLabels": []}, {"id": 18, "text": "Birago drop", "descriptions": ["- -"], "parentId": 17, "subLabels": []}, {"id": 19, "text": "Gbemisolaadeoti", "descriptions": [], "parentId": 17, "subLabels": []}, {"id": 20, "text": "Gabriel okara - piano and drums", "descriptions": [], "parentId": 17, "subLabels": []}, {"id": 21, "text": "Gbanabam hallowell - the dinning table", "descriptions": [], "parentId": 17, "subLabels": []}, {"id": 22, "text": "Lenrie peter - the panic of growing older", "descriptions": [], "parentId": 17, "subLabels": []}, {"id": 23, "text": "Kofi awoonor - the anvil and the hammer", "descriptions": [], "parentId": 17, "subLabels": []}]}
+{
+ "subject": "Literature In English",
+ "Grade": "None",
+ "Curriculum": "test",
+ "labelsTree": [
+  {
+   "id": 4,
+   "text": "African prose",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 5,
+     "text": "Ammadarko",
+     "descriptions": [
+      "- Faceless - Lonely Days"
+     ],
+     "parentId": 4,
+     "subLabels": []
+    },
+    {
+     "id": 6,
+     "text": "Bayoadebowale",
+     "descriptions": [],
+     "parentId": 4,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "text": "Non-african prose",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 8,
+     "text": "Richard wright",
+     "descriptions": [
+      "- -"
+     ],
+     "parentId": 7,
+     "subLabels": []
+    },
+    {
+     "id": 9,
+     "text": "Patience swift",
+     "descriptions": [],
+     "parentId": 7,
+     "subLabels": []
+    },
+    {
+     "id": 10,
+     "text": "* william shakespeare : othello",
+     "descriptions": [],
+     "parentId": 7,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "text": "Non-african drama",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 12,
+     "text": "Oliver goldsmith",
+     "descriptions": [
+      "- -"
+     ],
+     "parentId": 11,
+     "subLabels": []
+    },
+    {
+     "id": 13,
+     "text": "Lorraine hansberry",
+     "descriptions": [],
+     "parentId": 11,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "text": "African drama",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 15,
+     "text": "Frank ogodo ogbeche   ",
+     "descriptions": [
+      "Harvest of Corruption"
+     ],
+     "parentId": 14,
+     "subLabels": []
+    },
+    {
+     "id": 16,
+     "text": "Dele charley ",
+     "descriptions": [
+      "The Blood of a Stranger"
+     ],
+     "parentId": 14,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "text": "African poetry",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 18,
+     "text": "Birago drop",
+     "descriptions": [
+      "- -"
+     ],
+     "parentId": 17,
+     "subLabels": []
+    },
+    {
+     "id": 19,
+     "text": "Gbemisolaadeoti",
+     "descriptions": [],
+     "parentId": 17,
+     "subLabels": []
+    },
+    {
+     "id": 20,
+     "text": "Gabriel okara - piano and drums",
+     "descriptions": [],
+     "parentId": 17,
+     "subLabels": []
+    },
+    {
+     "id": 21,
+     "text": "Gbanabam hallowell - the dinning table",
+     "descriptions": [],
+     "parentId": 17,
+     "subLabels": []
+    },
+    {
+     "id": 22,
+     "text": "Lenrie peter - the panic of growing older",
+     "descriptions": [],
+     "parentId": 17,
+     "subLabels": []
+    },
+    {
+     "id": 23,
+     "text": "Kofi awoonor - the anvil and the hammer",
+     "descriptions": [],
+     "parentId": 17,
+     "subLabels": []
+    }
+   ]
+  }
+ ],
+ "labels": [
+  {
+   "id": 4,
+   "text": "African prose",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 5,
+     "text": "Ammadarko",
+     "descriptions": [
+      "- Faceless - Lonely Days"
+     ],
+     "parentId": 4,
+     "subLabels": []
+    },
+    {
+     "id": 6,
+     "text": "Bayoadebowale",
+     "descriptions": [],
+     "parentId": 4,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "text": "Non-african prose",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 8,
+     "text": "Richard wright",
+     "descriptions": [
+      "- -"
+     ],
+     "parentId": 7,
+     "subLabels": []
+    },
+    {
+     "id": 9,
+     "text": "Patience swift",
+     "descriptions": [],
+     "parentId": 7,
+     "subLabels": []
+    },
+    {
+     "id": 10,
+     "text": "* william shakespeare : othello",
+     "descriptions": [],
+     "parentId": 7,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "text": "Non-african drama",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 12,
+     "text": "Oliver goldsmith",
+     "descriptions": [
+      "- -"
+     ],
+     "parentId": 11,
+     "subLabels": []
+    },
+    {
+     "id": 13,
+     "text": "Lorraine hansberry",
+     "descriptions": [],
+     "parentId": 11,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "text": "African drama",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 15,
+     "text": "Frank ogodo ogbeche   ",
+     "descriptions": [
+      "Harvest of Corruption"
+     ],
+     "parentId": 14,
+     "subLabels": []
+    },
+    {
+     "id": 16,
+     "text": "Dele charley ",
+     "descriptions": [
+      "The Blood of a Stranger"
+     ],
+     "parentId": 14,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "text": "African poetry",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 18,
+     "text": "Birago drop",
+     "descriptions": [
+      "- -"
+     ],
+     "parentId": 17,
+     "subLabels": []
+    },
+    {
+     "id": 19,
+     "text": "Gbemisolaadeoti",
+     "descriptions": [],
+     "parentId": 17,
+     "subLabels": []
+    },
+    {
+     "id": 20,
+     "text": "Gabriel okara - piano and drums",
+     "descriptions": [],
+     "parentId": 17,
+     "subLabels": []
+    },
+    {
+     "id": 21,
+     "text": "Gbanabam hallowell - the dinning table",
+     "descriptions": [],
+     "parentId": 17,
+     "subLabels": []
+    },
+    {
+     "id": 22,
+     "text": "Lenrie peter - the panic of growing older",
+     "descriptions": [],
+     "parentId": 17,
+     "subLabels": []
+    },
+    {
+     "id": 23,
+     "text": "Kofi awoonor - the anvil and the hammer",
+     "descriptions": [],
+     "parentId": 17,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "text": "Ammadarko",
+   "descriptions": [
+    "- Faceless - Lonely Days"
+   ],
+   "parentId": 4,
+   "subLabels": []
+  },
+  {
+   "id": 6,
+   "text": "Bayoadebowale",
+   "descriptions": [],
+   "parentId": 4,
+   "subLabels": []
+  },
+  {
+   "id": 8,
+   "text": "Richard wright",
+   "descriptions": [
+    "- -"
+   ],
+   "parentId": 7,
+   "subLabels": []
+  },
+  {
+   "id": 9,
+   "text": "Patience swift",
+   "descriptions": [],
+   "parentId": 7,
+   "subLabels": []
+  },
+  {
+   "id": 10,
+   "text": "* william shakespeare : othello",
+   "descriptions": [],
+   "parentId": 7,
+   "subLabels": []
+  },
+  {
+   "id": 12,
+   "text": "Oliver goldsmith",
+   "descriptions": [
+    "- -"
+   ],
+   "parentId": 11,
+   "subLabels": []
+  },
+  {
+   "id": 13,
+   "text": "Lorraine hansberry",
+   "descriptions": [],
+   "parentId": 11,
+   "subLabels": []
+  },
+  {
+   "id": 15,
+   "text": "Frank ogodo ogbeche   ",
+   "descriptions": [
+    "Harvest of Corruption"
+   ],
+   "parentId": 14,
+   "subLabels": []
+  },
+  {
+   "id": 16,
+   "text": "Dele charley ",
+   "descriptions": [
+    "The Blood of a Stranger"
+   ],
+   "parentId": 14,
+   "subLabels": []
+  },
+  {
+   "id": 18,
+   "text": "Birago drop",
+   "descriptions": [
+    "- -"
+   ],
+   "parentId": 17,
+   "subLabels": []
+  },
+  {
+   "id": 19,
+   "text": "Gbemisolaadeoti",
+   "descriptions": [],
+   "parentId": 17,
+   "subLabels": []
+  },
+  {
+   "id": 20,
+   "text": "Gabriel okara - piano and drums",
+   "descriptions": [],
+   "parentId": 17,
+   "subLabels": []
+  },
+  {
+   "id": 21,
+   "text": "Gbanabam hallowell - the dinning table",
+   "descriptions": [],
+   "parentId": 17,
+   "subLabels": []
+  },
+  {
+   "id": 22,
+   "text": "Lenrie peter - the panic of growing older",
+   "descriptions": [],
+   "parentId": 17,
+   "subLabels": []
+  },
+  {
+   "id": 23,
+   "text": "Kofi awoonor - the anvil and the hammer",
+   "descriptions": [],
+   "parentId": 17,
+   "subLabels": []
+  }
+ ]
+}

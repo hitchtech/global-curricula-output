@@ -1,1 +1,3510 @@
-{"subject": "subject", "Grade": "SS3", "Curriculum": "WASSCE", "labelsTree": [{"id": 7, "text": "Interaction of matter, space & time", "descriptions": null, "parentId": -1, "subLabels": [{"id": 8, "text": "7.     motion", "descriptions": [], "parentId": 7, "subLabels": [{"id": 9, "text": "Types of motion", "descriptions": [], "parentId": 8, "subLabels": []}, {"id": 10, "text": "Random, rectilinear, translational, rotational, circular, orbital, spin, oscillatory", "descriptions": [], "parentId": 8, "subLabels": []}, {"id": 11, "text": "Relative motion", "descriptions": ["Only qualitative treatment is required. Illustration should be given for the various types of motion."], "parentId": 8, "subLabels": []}, {"id": 12, "text": "Cause of motion", "descriptions": ["Numerical problems on co-linear motion may be set.", "Force as cause of motion."], "parentId": 8, "subLabels": []}, {"id": 13, "text": "Types of force", "descriptions": [], "parentId": 8, "subLabels": []}, {"id": 14, "text": "(i)   contact force", "descriptions": ["Push and pull These are field forces namely; electric and magnetic attractions and repulsions; gravitational pull."], "parentId": 8, "subLabels": []}]}, {"id": 15, "text": "(ii)   non-contact", "descriptions": [], "parentId": 7, "subLabels": []}, {"id": 16, "text": "Force(field force)", "descriptions": ["Frictional force between two stationary bodies (static) and between two bodies in relative motion (dynamic).  Coefficients of limiting friction and their determinations. Advantages of friction e.g. in locomotion, friction belt, grindstone.  Disadvantages of friction e.g reduction of efficiency, wear and tear of machines. Methods of reducing friction; e.g. use of ball bearings, rollers, streamlining and lubrication."], "parentId": 7, "subLabels": [{"id": 17, "text": "Solid friction", "descriptions": ["Definition and effects.  Simple explanation as extension of friction in fluids.  Fluid friction and its application in lubrication should be treated qualitatively.  Terminal velocity and its determination.", "Experiments with a string tied to a stone at one end and whirled around should be carried out to", "(i)  demonstrate motion in a", "Vertical/horizontal circle."], "parentId": 16, "subLabels": []}, {"id": 18, "text": "Viscosity (friction in fluids)", "descriptions": [], "parentId": 16, "subLabels": []}, {"id": 19, "text": "Simple ideas of circular motion", "descriptions": [], "parentId": 16, "subLabels": []}, {"id": 20, "text": "8.   speed and velocity", "descriptions": [], "parentId": 16, "subLabels": [{"id": 21, "text": "Concept of speed as change of", "descriptions": ["(i)   show the difference between angular speed and velocity."], "parentId": 20, "subLabels": []}, {"id": 22, "text": "Concept of velocity as change of displacement with time", "descriptions": [], "parentId": 20, "subLabels": []}, {"id": 23, "text": "Uniform/non-uniform speed/velocity", "descriptions": ["Metre per second (ms -1 ) as unit of speed/velocity.", "Ticker-timer or similar devices should be used to determine speed/velocity.  Definition of velocity as s    t."], "parentId": 20, "subLabels": []}, {"id": 24, "text": "Distance/displacement-time graph", "descriptions": ["Determination of instantaneous speed/velocity from distance/displacement-time graph and by calculation."], "parentId": 20, "subLabels": []}]}, {"id": 25, "text": "9.    rectilinear acceleration", "descriptions": [], "parentId": 16, "subLabels": [{"id": 26, "text": "Concept of", "descriptions": ["Unit of acceleration as ms -2"], "parentId": 25, "subLabels": []}, {"id": 27, "text": "Uniform/non-uniform acceleration", "descriptions": ["Ticker timer or similar devices should be used to determine acceleration.  Definition of acceleration as v    t .", "Determination of acceleration and displacement from velocity-time", "graph"], "parentId": 25, "subLabels": []}]}, {"id": 28, "text": "Velocity-time graph", "descriptions": ["Use of equations to solve numerical problems."], "parentId": 16, "subLabels": []}, {"id": 29, "text": "Equations of motion with constant acceleration", "descriptions": [], "parentId": 16, "subLabels": []}, {"id": 30, "text": "Motion under gravity as a special case", "descriptions": [], "parentId": 16, "subLabels": []}, {"id": 31, "text": "10.   scalars and vectors", "descriptions": [], "parentId": 16, "subLabels": [{"id": 32, "text": "Concept of scalars as physical", "descriptions": [], "parentId": 31, "subLabels": []}, {"id": 33, "text": "Concept of vectors as physical  quantities with both magnitude and direction", "descriptions": [], "parentId": 31, "subLabels": []}, {"id": 34, "text": "Vector representation", "descriptions": ["Mass, distance, speed and time as examples of scalars."], "parentId": 31, "subLabels": []}, {"id": 35, "text": "Addition of vectors", "descriptions": ["Weight, displacement, velocity and acceleration as examples of vectors."], "parentId": 31, "subLabels": []}, {"id": 36, "text": "Resolution of vectors", "descriptions": ["Use of force board to determine the resultant of two forces."], "parentId": 31, "subLabels": []}, {"id": 37, "text": "Resultant velocity using vector representation", "descriptions": ["Obtain the resultant of two velocities analytically and graphically."], "parentId": 31, "subLabels": []}]}, {"id": 38, "text": "11.    equilibrium of forces", "descriptions": ["Torque/Moment of force.  Simple treatment of a couple, e.g. turning of water tap, corkscrew and steering wheel.)"], "parentId": 16, "subLabels": [{"id": 39, "text": "Principle of moments", "descriptions": ["Use of force board to determine resultant and equilibrant forces.", "Treatment should include resolution of forces into two perpendicular directions and composition of forces", "Parallelogram of forces.  Triangle of forces.", "Should ne treated experimentally.  Treatment should include stable, unstable and neutral equilibra."], "parentId": 38, "subLabels": []}, {"id": 40, "text": "Conditions for equilibrium of rigid bodies under the action of parallel and non-parallel forces", "descriptions": ["Use of a loaded test-tube oscillating vertically in a liquid, simple pendulum, spiral spring and bifilar suspension to demonstrate simple harmonic motion."], "parentId": 38, "subLabels": []}, {"id": 41, "text": "Centre of gravity and stability", "descriptions": [], "parentId": 38, "subLabels": []}]}, {"id": 42, "text": "12.    simple harmonic motion", "descriptions": [], "parentId": 16, "subLabels": [{"id": 43, "text": "Illustration, explanation and definition of simple harmonic motion (s.h.m)", "descriptions": [], "parentId": 42, "subLabels": []}]}]}, {"id": 44, "text": "Speed and acceleration of", "descriptions": [], "parentId": 7, "subLabels": []}, {"id": 45, "text": "S.h.m", "descriptions": [], "parentId": 7, "subLabels": []}, {"id": 46, "text": "Period, frequency and amplitude of a body executing s.h.m", "descriptions": [], "parentId": 7, "subLabels": []}, {"id": 47, "text": "Energy of s.h.m", "descriptions": ["Relate linear and angular speeds, linear and angular accelerations.", "Experimental determination of \u2018g\u2019 with the simple pendulum and helical spring.  The theory of the principles should be treated but derivation of the formula for \u2018g\u2019 is not required"], "parentId": 7, "subLabels": []}, {"id": 48, "text": "Forced vibration and", "descriptions": [], "parentId": 7, "subLabels": []}, {"id": 49, "text": "Resonance", "descriptions": ["Simple problems may be set on simple harmonic motion.", "Mathematical proof of simple harmonic motion in respect of spiral spring, bifilar suspension and loaded test-tube is not required."], "parentId": 7, "subLabels": [{"id": 50, "text": "13.    newton\u2019s laws of motion", "descriptions": ["Distinction between inertia mass and weight"], "parentId": 49, "subLabels": [{"id": 51, "text": "First law", "descriptions": [], "parentId": 50, "subLabels": []}, {"id": 52, "text": "Inertia of rest and inertia of motion", "descriptions": ["Use of timing devices e.g. ticker-timer to determine the acceleration of a falling body and the relationship when the accelerating force is constant."], "parentId": 50, "subLabels": []}, {"id": 53, "text": "Second law", "descriptions": ["Linear momentum and its conservation.", "Collision of elastic bodies in a straight line."], "parentId": 50, "subLabels": []}, {"id": 54, "text": "Force, acceleration, momentum and impulse", "descriptions": ["Applications: recoil of a gun, jet and rocket propulsions."], "parentId": 50, "subLabels": []}, {"id": 55, "text": "Third law", "descriptions": [], "parentId": 50, "subLabels": []}, {"id": 56, "text": "Action and reaction", "descriptions": [], "parentId": 50, "subLabels": []}]}]}]}, {"id": 58, "text": "Energy: mechanical and heat", "descriptions": null, "parentId": -1, "subLabels": [{"id": 59, "text": "14.   energy", "descriptions": [], "parentId": 58, "subLabels": [{"id": 60, "text": "(a)   forms of energy", "descriptions": [], "parentId": 59, "subLabels": []}, {"id": 61, "text": "(b)   world energy", "descriptions": [], "parentId": 59, "subLabels": []}]}, {"id": 62, "text": "Resources", "descriptions": [], "parentId": 58, "subLabels": [{"id": 63, "text": "(c)   conservation of energy", "descriptions": [], "parentId": 62, "subLabels": []}, {"id": 64, "text": "15.    work, energy and power", "descriptions": ["Examples of various forms of energy should be mentioned e.g. mechanical (potential and kinetic), heat chemical, electrical, light, sound, nuclear."], "parentId": 62, "subLabels": [{"id": 65, "text": "Concept of work as a measure of energy transfer", "descriptions": ["Renewable (e.g. solar, wind, tides, hydro, ocean waves) and non-renewable (e.g. petroleum, coal, nuclear, biomass) sources of energy should be discussed briefly.", "Statement of the principle of conservation of energy and its use in explaining energy transformations."], "parentId": 64, "subLabels": []}, {"id": 66, "text": "Concept of energy as capability to do work", "descriptions": ["Unit of energy as the joule (J)", "Unit of energy as the joule (J) while unit of electrical consumption is KWh."], "parentId": 64, "subLabels": []}, {"id": 67, "text": "Work done in a gravitational field", "descriptions": ["Work done in lifting a body and by falling bodies", "Derivation of P.E and K.E are expected to be known.  Identification of types of energy possessed by a body under given conditions."], "parentId": 64, "subLabels": []}, {"id": 68, "text": "Types of mechanical energy", "descriptions": ["Verification of the principle.", "Verification of the principle."], "parentId": 64, "subLabels": []}]}, {"id": 69, "text": "(i)   potential energy (p.e.)", "descriptions": [], "parentId": 62, "subLabels": []}, {"id": 70, "text": "(ii)  kinetic energy", "descriptions": [], "parentId": 62, "subLabels": []}, {"id": 71, "text": "(k.e)", "descriptions": [], "parentId": 62, "subLabels": []}, {"id": 72, "text": "Conservation of mechanical energy", "descriptions": [], "parentId": 62, "subLabels": []}]}, {"id": 73, "text": "Concept of power as time rate of doing work", "descriptions": [], "parentId": 58, "subLabels": [{"id": 74, "text": "16.   heat energy", "descriptions": [], "parentId": 73, "subLabels": [{"id": 75, "text": "Temperature", "descriptions": [], "parentId": 74, "subLabels": []}]}]}, {"id": 76, "text": "And its measurement", "descriptions": ["Concept of temperature as degree of hotness or coldness of a body.  Construction and graduation of a simple thermometer. Properties of thermometric liquids.  The following thermometer, should be treated: Constant \u2013 volume gas thermometer, resistance thermometer, thermocouple, liquid-in- glass thermometer including maximum and minimum thermometer and clinical thermometer, pyrometer should be mentioned.  Celsius and Absolute scales of temperature. Kelvin and degree Celsius as units of temperature.", "Use of the Kinetic theory to explain effects of heat.", "Mention should be made of the following effects: Change of colour Thermionic emission Change in chemical properties"], "parentId": 58, "subLabels": [{"id": 77, "text": "Effects of heat on matter e.g", "descriptions": ["Qualitative and quantitative treatment Consequences and application of expansions. Expansion in buildings and bridges, bimetallic strips, thermostat, over-head cables causing sagging nd in railway lines causing buckling. Real and apparent expansion of liquids.  Anomalous expansion of water."], "parentId": 76, "subLabels": []}, {"id": 78, "text": "(i)     rise in temperature", "descriptions": [], "parentId": 76, "subLabels": []}, {"id": 79, "text": "(ii)   change of phase state", "descriptions": [], "parentId": 76, "subLabels": []}, {"id": 80, "text": "(iii)", "descriptions": [], "parentId": 76, "subLabels": []}, {"id": 81, "text": "Expansion", "descriptions": [], "parentId": 76, "subLabels": []}, {"id": 82, "text": "(iv)  change of resistance", "descriptions": [], "parentId": 76, "subLabels": []}, {"id": 83, "text": "Thermal expansion \u2013", "descriptions": [], "parentId": 76, "subLabels": []}, {"id": 84, "text": "Linear, area and volume expansivities", "descriptions": [], "parentId": 76, "subLabels": []}]}, {"id": 85, "text": "Heat transfer \u2013", "descriptions": [], "parentId": 58, "subLabels": [{"id": 86, "text": "(i)   concept", "descriptions": [], "parentId": 85, "subLabels": []}]}, {"id": 87, "text": "Of heat capacity", "descriptions": ["Determination of the melting point of solid and the boiling point of a liquid.  Effects of impurities and pressure on melting and boiling points.  Application in pressure cooker."], "parentId": 58, "subLabels": [{"id": 88, "text": "(ii)  specific", "descriptions": [], "parentId": 87, "subLabels": []}]}, {"id": 89, "text": "Heat capacity", "descriptions": ["Use of the method of mixtures and the electrical method to determine the specific latent heats of fusion of ice and of vaporization of steam.  Applications in refrigerators and air conditioners."], "parentId": 58, "subLabels": [{"id": 90, "text": "(i)    concept", "descriptions": [], "parentId": 89, "subLabels": []}]}, {"id": 91, "text": "Of latent heat", "descriptions": [], "parentId": 58, "subLabels": [{"id": 92, "text": "(ii)   melting", "descriptions": [], "parentId": 91, "subLabels": []}]}, {"id": 93, "text": "Point and boiling", "descriptions": [], "parentId": 58, "subLabels": [{"id": 94, "text": "Point", "descriptions": [], "parentId": 93, "subLabels": [{"id": 95, "text": "(iii)  specific", "descriptions": [], "parentId": 94, "subLabels": []}]}]}, {"id": 96, "text": "Latent heat of fusion and of vaporization", "descriptions": [], "parentId": 58, "subLabels": []}, {"id": 97, "text": "Evaporation and boiling", "descriptions": [], "parentId": 58, "subLabels": []}]}, {"id": 99, "text": "Waves", "descriptions": null, "parentId": -1, "subLabels": [{"id": 100, "text": "17.   production and propagation of waves", "descriptions": [], "parentId": 99, "subLabels": []}, {"id": 101, "text": "Production and propagation of mechanical waves", "descriptions": [], "parentId": 99, "subLabels": []}, {"id": 102, "text": "Pulsating system", "descriptions": [], "parentId": 99, "subLabels": []}, {"id": 103, "text": "Energy transmitted with definite speed, frequency and wavelength", "descriptions": ["Use of ropes and springs (slinky) to generate mechanical waves"], "parentId": 99, "subLabels": []}, {"id": 104, "text": "Waveform", "descriptions": ["Use of ripple tank to show water waves and to demonstrate energy propagation by waves. Hertz(Hz) as unit of frequency.", "Description and graphical representation. Amplitude, wave length, frequency and period. Sound and light as wave phenomena."], "parentId": 99, "subLabels": []}, {"id": 105, "text": "Mathematical relationship connecting frequency (f), wavelength( \ud835\udecc ), period", "descriptions": ["V= f \ud835\udecc and T =   simple problems may be set."], "parentId": 99, "subLabels": []}, {"id": 106, "text": "(t) and velocity (v)", "descriptions": [], "parentId": 99, "subLabels": []}, {"id": 107, "text": "18.   types of waves", "descriptions": [], "parentId": 99, "subLabels": [{"id": 108, "text": "Transverse and longitudinal", "descriptions": ["Examples to be given", "Equation y = A sin (wt ) to be explained Questions on phase difference will not be set."], "parentId": 107, "subLabels": []}, {"id": 109, "text": "Mathematical representation of wave motion", "descriptions": ["Ripple tank should be extensively used to demonstrate these properties with plane and circular waves.  Explanation of the properties."], "parentId": 107, "subLabels": []}]}, {"id": 110, "text": "19.    properties of waves", "descriptions": [], "parentId": 99, "subLabels": [{"id": 111, "text": "Reflection, refraction, diffraction, interference, superposition of progressive waves producing standing stationary waves", "descriptions": ["Natural and artificial. Luminous and non-luminous bodies."], "parentId": 110, "subLabels": []}]}, {"id": 112, "text": "20.  light waves", "descriptions": [], "parentId": 99, "subLabels": [{"id": 113, "text": "Sources of light", "descriptions": [], "parentId": 112, "subLabels": []}]}, {"id": 114, "text": "Rectilinear propagation of light", "descriptions": [], "parentId": 99, "subLabels": []}, {"id": 115, "text": "Refraction of light at curved surfaces", "descriptions": [], "parentId": 99, "subLabels": []}, {"id": 116, "text": "Application of lenses in optical instruments", "descriptions": [], "parentId": 99, "subLabels": [{"id": 117, "text": "21.    electromagnetic", "descriptions": [], "parentId": 116, "subLabels": []}]}, {"id": 118, "text": "Waves", "descriptions": [], "parentId": 99, "subLabels": [{"id": 119, "text": "Types of radiation in", "descriptions": ["Production of pure spectrum of a white light. Recombination of the components of the spectrum.  Colours of objects.  Mixing coloured lights."], "parentId": 118, "subLabels": []}]}, {"id": 120, "text": "Electromagnetic", "descriptions": [], "parentId": 99, "subLabels": [{"id": 121, "text": "Spectrum", "descriptions": ["Elementary description and uses of various types of radiation: Radio, infrared, visible light, ultra-violet, X-rays, gamma rays. light, ultra-violet, X-rays, gamma rays."], "parentId": 120, "subLabels": []}, {"id": 122, "text": "22.    sound waves", "descriptions": [], "parentId": 120, "subLabels": []}, {"id": 123, "text": "22.    sound waves", "descriptions": [], "parentId": 120, "subLabels": [{"id": 124, "text": "Sources of sound", "descriptions": [], "parentId": 123, "subLabels": []}, {"id": 125, "text": "Transmission of sound waves", "descriptions": ["Experiment to show that a material medium is required.", "To be compared.  Dependence of velocity of sound on temperature and pressure to be considered."], "parentId": 123, "subLabels": []}, {"id": 126, "text": "Speed of sound in solid, liquid and air", "descriptions": ["Use of echoes in mineral exploration, and determination of ocean depth.  Thunder and multiple reflections in a large room as examples of reverberation.", "Pitch, loudness and quality."], "parentId": 123, "subLabels": []}, {"id": 127, "text": "Echoes and reverberation", "descriptions": [], "parentId": 123, "subLabels": []}, {"id": 128, "text": "Noise and music", "descriptions": [], "parentId": 123, "subLabels": []}, {"id": 129, "text": "Characteristics of sound", "descriptions": [], "parentId": 123, "subLabels": []}]}]}, {"id": 130, "text": "Vibration in strings", "descriptions": ["The use of sonometer to demonstrate the dependence of frequency (f) on length (1), tension (T) and mass per unit length (liner density) (m) of string should be treated.  Use of the formula:", "o = In solving simple numerical problems. Applications in stringed instruments: e.g. guitar, piano, harp and violin."], "parentId": 99, "subLabels": [{"id": 131, "text": "(i)", "descriptions": ["Use of overtones to explain the quality of a musical note.  Applications in percussion instruments: e.g drum, bell, cymbals, xylophone."], "parentId": 130, "subLabels": []}]}, {"id": 132, "text": "Resonance", "descriptions": [], "parentId": 99, "subLabels": [{"id": 133, "text": "(ii)", "descriptions": ["Measurement of velocity of sound in air or frequency of tuning fork using the resonance tube.  Use of the relationship v = \ud835\udecc in solving numerical problems.  End correction is expected to be mentioned.  Applications in wind instruments e.g. organ, flute, trumpet, horn, clarinet and saxophone."], "parentId": 132, "subLabels": []}]}, {"id": 134, "text": "Harmonies and overtones", "descriptions": [], "parentId": 99, "subLabels": []}]}, {"id": 136, "text": "Fields", "descriptions": null, "parentId": -1, "subLabels": [{"id": 137, "text": "23.   description property of fields", "descriptions": [], "parentId": 136, "subLabels": [{"id": 138, "text": "Concept of fields", "descriptions": [], "parentId": 137, "subLabels": []}, {"id": 139, "text": "Gravitational, electric and magnetic", "descriptions": [], "parentId": 137, "subLabels": []}, {"id": 140, "text": "Properties of a force field", "descriptions": [], "parentId": 137, "subLabels": []}]}, {"id": 141, "text": "24.    gravitational field", "descriptions": [], "parentId": 136, "subLabels": [{"id": 142, "text": "Acceleration due to gravity", "descriptions": [], "parentId": 141, "subLabels": []}, {"id": 143, "text": "(g)", "descriptions": ["Use of compass needle and iron filings to show magnetic field lines."], "parentId": 141, "subLabels": []}, {"id": 144, "text": "Gravitational force between two masses", "descriptions": ["G as gravitational field intensity should be mentioned, g = F/m.", "Masses include protons, electrons and planets"], "parentId": 141, "subLabels": []}, {"id": 145, "text": "Newton\u2019s law of gravitation", "descriptions": ["Universal gravitational constant (G) Relationship between \u2018G\u2019 and \u2018g\u2019"], "parentId": 141, "subLabels": []}, {"id": 146, "text": "Gravitational potential and escape velocity", "descriptions": ["Calculation of the escape velocity of a rocket from the earth\u2019s gravitational field."], "parentId": 141, "subLabels": []}]}, {"id": 147, "text": "25.    electric field", "descriptions": ["Production by friction, induction and contact."], "parentId": 136, "subLabels": [{"id": 148, "text": "Electrostatics", "descriptions": ["A simple electroscope should be used to detect and compare charges on differently-shaped bodies."], "parentId": 147, "subLabels": []}, {"id": 149, "text": "Production of electric charges", "descriptions": ["Application in light conductors.", "Determination, properties and field patterns of charges."], "parentId": 147, "subLabels": []}, {"id": 150, "text": "Types of distribution of", "descriptions": [], "parentId": 147, "subLabels": []}]}, {"id": 151, "text": "Charges", "descriptions": [], "parentId": 136, "subLabels": [{"id": 152, "text": "Storage of charges", "descriptions": [], "parentId": 151, "subLabels": []}, {"id": 153, "text": "Electric lines of force", "descriptions": [], "parentId": 151, "subLabels": []}]}, {"id": 154, "text": "Electric force between point charges:  coulomb\u2019s law", "descriptions": [], "parentId": 136, "subLabels": []}, {"id": 155, "text": "Shunt and multiplier", "descriptions": [], "parentId": 136, "subLabels": [{"id": 156, "text": "26.     magnetic field", "descriptions": ["Factors affecting the electrical resistance of a material should be treated.  Simple problems may be set."], "parentId": 155, "subLabels": []}, {"id": 157, "text": "Properties of magnets and magnetic materials", "descriptions": ["Principle of operation and use of ammeter, voltmeter, potentiometer. The wheatstone bridge and metre bridge."], "parentId": 155, "subLabels": []}, {"id": 158, "text": "Magnetization and demagnetization", "descriptions": ["Practical examples such as soft iron, steel and alloys."], "parentId": 155, "subLabels": []}, {"id": 159, "text": "Concept of magnetic field", "descriptions": ["Temporary and permanent magnets.  Comparison of iron and steel as magnetic materials.", "Magnetic flux and magnetic flux density. Magnetic field around a permanent magnet, a current-carrying conductor and a solenoid. Plotting of line of force to locate neutral points Units of magnetic flux and magnetic flux density as weber (Wb) and tesla (T) respectively."], "parentId": 155, "subLabels": []}, {"id": 160, "text": "Magnetic force on", "descriptions": ["Qualitative treatment only.  Applications:  electric motor and moving- coil galvanometer."], "parentId": 155, "subLabels": []}, {"id": 161, "text": "(i)  a current-carrying conductor placed in a magnetic field", "descriptions": [], "parentId": 155, "subLabels": []}, {"id": 162, "text": "(ii)  between two parallel current-carrying conductors", "descriptions": ["Examples in electric bell, telephone earpiece etc.", "Mariner\u2019s compass.  Angles of dip and declination.", "Solving simple problems involving the motion of a charged particle in a magnetic field, using       F=qvB sin"], "parentId": 155, "subLabels": []}, {"id": 163, "text": "Use of electromagnets", "descriptions": ["Identifying the directions of current, magnetic field and force in an electromagnetic field (Fleming\u2019s left-hand rule)."], "parentId": 155, "subLabels": []}, {"id": 164, "text": "The earth\u2019s magnetic field", "descriptions": [], "parentId": 155, "subLabels": []}, {"id": 165, "text": "Magnetic force on a moving charged particle", "descriptions": [], "parentId": 155, "subLabels": []}, {"id": 166, "text": "27.   electromagnetic field", "descriptions": [], "parentId": 155, "subLabels": [{"id": 167, "text": "Concept of electromagnetic field", "descriptions": [], "parentId": 166, "subLabels": []}]}]}, {"id": 168, "text": "Shunt and multiplier", "descriptions": [], "parentId": 136, "subLabels": [{"id": 169, "text": "26.     magnetic field", "descriptions": ["Factors affecting the electrical resistance of a material should be treated.  Simple problems may be set."], "parentId": 168, "subLabels": []}, {"id": 170, "text": "Properties of magnets and magnetic materials", "descriptions": ["Principle of operation and use of ammeter, voltmeter, potentiometer. The wheatstone bridge and metre bridge."], "parentId": 168, "subLabels": []}, {"id": 171, "text": "Magnetization and demagnetization", "descriptions": ["Practical examples such as soft iron, steel and alloys.", "Temporary and permanent magnets.  Comparison of iron and steel as magnetic materials."], "parentId": 168, "subLabels": []}, {"id": 172, "text": "Concept of magnetic field", "descriptions": ["Magnetic flux and magnetic flux density. Magnetic field around a permanent magnet, a current-carrying conductor and a solenoid. Plotting of line of force to locate neutral points Units of magnetic flux and magnetic flux density as weber (Wb) and tesla (T) respectively."], "parentId": 168, "subLabels": []}, {"id": 173, "text": "Magnetic force on", "descriptions": ["Qualitative treatment only.  Applications:  electric motor and moving- coil galvanometer."], "parentId": 168, "subLabels": []}, {"id": 174, "text": "(i)  a current-carrying conductor placed in a magnetic field", "descriptions": ["Examples in electric bell, telephone earpiece etc."], "parentId": 168, "subLabels": []}, {"id": 175, "text": "(ii)  between two parallel current-carrying", "descriptions": ["Mariner\u2019s compass.  Angles of dip and declination."], "parentId": 168, "subLabels": []}]}, {"id": 176, "text": "Conductors", "descriptions": ["Solving simple problems involving the motion of a charged particle in", "Solving simple problems involving the motion of a charged particle in a magnetic field, using F=qvB sin"], "parentId": 136, "subLabels": [{"id": 177, "text": "Use of electromagnets", "descriptions": ["Identifying the directions of current, magnetic field and force in an electromagnetic field (Fleming\u2019s left-hand rule)."], "parentId": 176, "subLabels": []}, {"id": 178, "text": "The earth\u2019s magnetic field", "descriptions": [], "parentId": 176, "subLabels": []}, {"id": 179, "text": "Magnetic force on a moving charged particle", "descriptions": [], "parentId": 176, "subLabels": []}, {"id": 180, "text": "27.   electromagnetic field", "descriptions": [], "parentId": 176, "subLabels": [{"id": 181, "text": "Concept of electromagnetic field", "descriptions": [], "parentId": 180, "subLabels": []}]}, {"id": 182, "text": "Topic", "descriptions": ["NOTES"], "parentId": 176, "subLabels": []}, {"id": 183, "text": "Electromagnetic induction", "descriptions": [], "parentId": 176, "subLabels": []}, {"id": 184, "text": "Faraday\u2019s law ,lenz\u2019s law and motor-generator effect", "descriptions": [], "parentId": 176, "subLabels": []}, {"id": 185, "text": "Inductance", "descriptions": ["Applications:  Generator (d.c.and a.c.) induction coil and transformer. The principles underlying the production of direct and alternating currents should be treated.  Equation E = E o sinwt should be explained."], "parentId": 176, "subLabels": []}, {"id": 186, "text": "Eddy currents", "descriptions": ["Qualitative explanation of self and mutual inductance.  The unit of inductance is henry (H).", "(E =  LI 2 )"], "parentId": 176, "subLabels": []}, {"id": 187, "text": "Power transmission and distribution", "descriptions": [], "parentId": 176, "subLabels": []}, {"id": 188, "text": "28.  simple a.c. circuits", "descriptions": [], "parentId": 176, "subLabels": [{"id": 189, "text": "Graphical representation of", "descriptions": [], "parentId": 188, "subLabels": []}, {"id": 190, "text": "E.m.f", "descriptions": [], "parentId": 188, "subLabels": []}, {"id": 191, "text": "Peak and r..m.s. values", "descriptions": [], "parentId": 188, "subLabels": [{"id": 192, "text": "Topic application in radio,t.v., transformer. (derivation of formula is not required)", "descriptions": [], "parentId": 191, "subLabels": [{"id": 193, "text": "A method of reducing eddy current losses should be treated", "descriptions": [], "parentId": 192, "subLabels": []}, {"id": 194, "text": "Applications in induction furnace, speedometer, etc", "descriptions": [], "parentId": 192, "subLabels": []}, {"id": 195, "text": "Reduction of power losses in high-tension transmission lines", "descriptions": [], "parentId": 192, "subLabels": []}, {"id": 196, "text": "Household wiring system should be discussed", "descriptions": [], "parentId": 192, "subLabels": []}, {"id": 197, "text": "Graphs of equation i \u2013 io sin wt and\\e = e o sinwt should be treated", "descriptions": [], "parentId": 192, "subLabels": []}, {"id": 198, "text": "Phase relationship between voltage and current in the circuit elements; resistor, inductor and capacitor", "descriptions": [], "parentId": 192, "subLabels": []}]}]}]}]}]}, {"id": 203, "text": ".", "descriptions": null, "parentId": -1, "subLabels": [{"id": 204, "text": "29.   structure of the", "descriptions": [], "parentId": 203, "subLabels": []}, {"id": 205, "text": "Atom", "descriptions": [], "parentId": 203, "subLabels": [{"id": 206, "text": "Models of the atom", "descriptions": [], "parentId": 205, "subLabels": []}, {"id": 207, "text": "Energy quantization", "descriptions": ["NOTES", "Thomson, Rutherford, Bohr and electron-cloud (wave-mechanical) models should be discussed qualitatively.  Limitations of each model.  Quantization of angular momentum (Bohr)", "Energy levels in the atom.  Colour and light frequency.  Treatment should include the following:  Frank-Hertz experiment, Line spectra from hot bodies, absorption spectra and spectra of discharge lamps."], "parentId": 205, "subLabels": []}, {"id": 208, "text": "Photoelectric effect", "descriptions": ["Explanation of photoelectric effect. Dual nature of light.  Work function and threshold frequency.  Einstein\u2019s photoelectric equation and its explanation.  Application in T.V., camera, etc. Simple problems may be set.", "Explanation and applications."], "parentId": 205, "subLabels": []}, {"id": 209, "text": "Thermionic emission", "descriptions": ["Production of X-rays and structure of X-ray tube. Types, characteristics, properties, uses and hazards of X-rays.  Safety precautions", "Protons and neutrons.  Nucleon number (A), proton number (Z), neutron number (N) and the equation:  A-Z + N to be treated.  Nuclides and their notation. Isotopes."], "parentId": 205, "subLabels": []}, {"id": 210, "text": "X-rays", "descriptions": [], "parentId": 205, "subLabels": []}, {"id": 211, "text": "30.   structure of the", "descriptions": [], "parentId": 205, "subLabels": []}]}, {"id": 212, "text": "Nucleus", "descriptions": [], "parentId": 203, "subLabels": [{"id": 213, "text": "Composition of the nucleus", "descriptions": [], "parentId": 212, "subLabels": []}]}]}, {"id": 214, "text": "Topics", "descriptions": null, "parentId": -1, "subLabels": [{"id": 215, "text": "Radioactivity \u2013", "descriptions": [], "parentId": 214, "subLabels": [{"id": 216, "text": "31.   wave-particle", "descriptions": ["Simple illustration of the dual nature of light."], "parentId": 215, "subLabels": []}]}, {"id": 217, "text": "Paradox", "descriptions": [], "parentId": 214, "subLabels": [{"id": 218, "text": "Electron diffraction", "descriptions": [], "parentId": 217, "subLabels": []}, {"id": 219, "text": "Duality of matter", "descriptions": [], "parentId": 217, "subLabels": []}]}]}, {"id": 221, "text": "Member countries", "descriptions": null, "parentId": -1, "subLabels": [{"id": 222, "text": "1.   derived quantities", "descriptions": [], "parentId": 221, "subLabels": []}, {"id": 223, "text": "And dimensional", "descriptions": [], "parentId": 221, "subLabels": [{"id": 224, "text": "Analysis", "descriptions": ["Fundamental quantities and units e.g. Length, mass, time, electric current, luminous intensity e.t.c., m, kg,s, A, cd, e.t.c. as their respective units Derived quantities and units. e.g. volume, density, speed e.t.c. m 3 , kgm -3 , ms -1", "e.t.c.", "as their respective unit Explanation of dimensions in terms of fundamental and derived quantities.  Uses of dimensions -   to verity dimensional correctness of a given equation -   to derive the relationship between quantities -   to obtain derived units."], "parentId": 223, "subLabels": []}, {"id": 225, "text": "2.    projectile motion", "descriptions": [], "parentId": 223, "subLabels": []}]}, {"id": 226, "text": "Concept of projectiles as an object thrown/release into space", "descriptions": ["Applications of projectiles in warfare, sports etc. Simple problems involving range, maximum height and time of flight may be set."], "parentId": 221, "subLabels": [{"id": 227, "text": "3.    satellites and rockets", "descriptions": ["Meaning of a satellite comparison of natural and artificial satellites parking orbits, Geostationary satellites and period of revolution and speed of a satellite. Uses of satellites and rockets", "Behaviour of elastic materials under stress \u2013 features of load \u2013 extension graph Simple calculations on Hook\u2019s law and Young\u2019s modulus."], "parentId": 226, "subLabels": []}, {"id": 228, "text": "4.    elastic properties", "descriptions": [], "parentId": 226, "subLabels": []}]}, {"id": 229, "text": "Of solid", "descriptions": [], "parentId": 221, "subLabels": [{"id": 230, "text": "Hooke\u2019s law", "descriptions": [], "parentId": 229, "subLabels": []}]}, {"id": 231, "text": "Young\u2019s modules and work done in springs and string springs and string", "descriptions": ["Solar energy; solar panel for heat energy supply. Explanation of a blackbody.  Variation of intensity of black body radiation with wavelength at different temperatures.", "Explanation of concept of fibre optics. Principle of transmission of light through an optical fibre Applications of fibre optics e.g. local area Networks (LAN) medicine, rensing devices, carrying laser beams e.t.c."], "parentId": 221, "subLabels": [{"id": 232, "text": "Thermal", "descriptions": [], "parentId": 231, "subLabels": []}]}, {"id": 233, "text": "Conductivity", "descriptions": [], "parentId": 221, "subLabels": [{"id": 234, "text": "Solar energy", "descriptions": [], "parentId": 233, "subLabels": []}]}, {"id": 235, "text": "Collector and black body", "descriptions": [], "parentId": 221, "subLabels": [{"id": 236, "text": "Radiation", "descriptions": [], "parentId": 235, "subLabels": []}, {"id": 237, "text": "5.   fibre optics", "descriptions": [], "parentId": 235, "subLabels": []}, {"id": 238, "text": "6.    introduction to laser", "descriptions": ["Meaning of LASER Types of LASERS (Solid state, gas, liquid and semi-conductor LASERS Application of LASERS (in Scientific research, communication, medicine military technology, Holograms", "e.t.c.", "Dangers involved in using LASERS."], "parentId": 235, "subLabels": []}, {"id": 239, "text": "7.   magnetic materials", "descriptions": ["Uses of magnets and ferromagnetic materials."], "parentId": 235, "subLabels": []}, {"id": 240, "text": "8.    electrical", "descriptions": [], "parentId": 235, "subLabels": []}]}, {"id": 241, "text": "Conduction through materials [electronic]", "descriptions": ["Distinction between conductors, semiconductors and insulators in term of band theory. Semi conductor materials (silicon and germanium) Meaning of intrinsic semiconductors.  (Example of materials silicon and germanium).  Charge carriers Doping production of p-type and n-type extrinsic semi conductors. Junction diode \u2013 forward and reverse biasing, voltage characteristics.  Uses of diodes Half and full wave rectification.", "Use of kinetic theory to explain diffusion."], "parentId": 221, "subLabels": [{"id": 242, "text": "9.    structure of matter", "descriptions": ["Electron diffraction", "Duality of matter Simple illustrations of dual nature of light."], "parentId": 241, "subLabels": []}, {"id": 243, "text": "10.   wave \u2013 particle", "descriptions": [], "parentId": 241, "subLabels": []}]}, {"id": 244, "text": "Paradox", "descriptions": [], "parentId": 221, "subLabels": []}]}], "labels": [{"id": 8, "text": "Education", "descriptions": null, "parentId": -1, "subLabels": [{"id": 9, "text": "(a)  principles and philosophies  of founding fathers", "descriptions": [], "parentId": 8, "subLabels": []}, {"id": 10, "text": "(b) changes in concept of physical", "descriptions": [], "parentId": 8, "subLabels": [{"id": 11, "text": "Education", "descriptions": [], "parentId": 10, "subLabels": []}]}, {"id": 12, "text": "(c)  education of the physical", "descriptions": [], "parentId": 8, "subLabels": []}, {"id": 13, "text": "And education through the physical", "descriptions": [], "parentId": 8, "subLabels": [{"id": 14, "text": "2. physical education", "descriptions": ["Emphases should be on Hetherington, Dudley Sergent, Thomas Wood and"], "parentId": 13, "subLabels": []}]}]}, {"id": 15, "text": "Ideologies", "descriptions": null, "parentId": -1, "subLabels": [{"id": 16, "text": "(a)   nationalism and patriotism in physical education and sport", "descriptions": ["Emphases should be on Hetherington, Dudley Sergent, Thomas Wood and John Dewey"], "parentId": 15, "subLabels": []}, {"id": 17, "text": "(b)   national ideologies", "descriptions": ["Students should be taught on how physical education and sports will enhance achievement of nationalism, patriotism and  national ideologies."], "parentId": 15, "subLabels": []}, {"id": 18, "text": "3. recreation", "descriptions": [], "parentId": 15, "subLabels": [{"id": 19, "text": "(a)  definition and importance", "descriptions": [], "parentId": 18, "subLabels": []}, {"id": 20, "text": "(b)   types of recreational", "descriptions": ["Differences between work, rest, recreation, leisure and sports should be emphasized"], "parentId": 18, "subLabels": []}]}, {"id": 21, "text": "Activities", "descriptions": [], "parentId": 15, "subLabels": [{"id": 22, "text": "(i)  indoor", "descriptions": ["Candidates should be able to differentiate between indoor and outdoor recreation."], "parentId": 21, "subLabels": []}, {"id": 23, "text": "(ii)  outdoor", "descriptions": [], "parentId": 21, "subLabels": []}, {"id": 24, "text": "(c)  recreational activities", "descriptions": ["The role of recreational activities in the life of an individual and the society should be emphasized. Safety in recreational activities should be mentioned."], "parentId": 21, "subLabels": [{"id": 25, "text": "Walking, jogging", "descriptions": [], "parentId": 24, "subLabels": []}]}]}, {"id": 26, "text": "Swimming, cycling, playing musical instruments, table tennis, camping etc", "descriptions": [], "parentId": 15, "subLabels": [{"id": 27, "text": "(d)  differences between recreational activities and lifetime", "descriptions": [], "parentId": 26, "subLabels": []}]}, {"id": 28, "text": "Sports", "descriptions": ["Differences between intramural and extramural activities, minor and major games and sports should be emphasized."], "parentId": 15, "subLabels": [{"id": 29, "text": "4. intramural and", "descriptions": [], "parentId": 28, "subLabels": []}, {"id": 30, "text": "4. intramural and", "descriptions": [], "parentId": 28, "subLabels": []}]}]}, {"id": 32, "text": "And tournament", "descriptions": null, "parentId": -1, "subLabels": [{"id": 33, "text": "(a)  definitions of", "descriptions": ["The role of lead up games and games of low organization should be mentioned. Advantages and disadvantages of each type of tournament."], "parentId": 32, "subLabels": [{"id": 34, "text": "(i)   intramural", "descriptions": [], "parentId": 33, "subLabels": []}]}, {"id": 35, "text": "Activities", "descriptions": [], "parentId": 32, "subLabels": [{"id": 36, "text": "(ii)   extramural", "descriptions": [], "parentId": 35, "subLabels": []}]}, {"id": 37, "text": "Activities", "descriptions": [], "parentId": 32, "subLabels": [{"id": 38, "text": "(b)   benefit of intramural", "descriptions": [], "parentId": 37, "subLabels": []}]}, {"id": 39, "text": "And extramural activities", "descriptions": [], "parentId": 32, "subLabels": [{"id": 40, "text": "(c)   (i)  definition of tournament", "descriptions": [], "parentId": 39, "subLabels": [{"id": 41, "text": "(ii)  types of tournament", "descriptions": [], "parentId": 40, "subLabels": []}]}]}, {"id": 42, "text": "5 .   traditional sports in", "descriptions": [], "parentId": 32, "subLabels": []}]}, {"id": 49, "text": "Competitions", "descriptions": null, "parentId": -1, "subLabels": [{"id": 50, "text": "Sports championship at national level", "descriptions": ["Reference should be made to the origin and significance of these festivals. The origin and importance of the Olympic Games to the social and political life of the ancient Greek should be discussed. Emphasis to be placed on Sparta and Athens."], "parentId": 49, "subLabels": []}, {"id": 51, "text": "Types of championship", "descriptions": [], "parentId": 49, "subLabels": []}]}, {"id": 54, "text": "Games", "descriptions": null, "parentId": -1, "subLabels": [{"id": 55, "text": "History of all africa games reasons for disparity in the timing of the games history and activities of supreme council of sports in african (scsa)", "descriptions": [], "parentId": 54, "subLabels": []}, {"id": 56, "text": "International competitions", "descriptions": [], "parentId": 54, "subLabels": [{"id": 57, "text": "C. basic human", "descriptions": [], "parentId": 56, "subLabels": []}]}]}, {"id": 60, "text": "Skeletal system", "descriptions": null, "parentId": -1, "subLabels": [{"id": 61, "text": "Main parts and functions of the human skeleton", "descriptions": ["Emphasis should be on history, organization and the governing body of each of the competition. It should be noted that all sports federation have their own international competition and should be stated"], "parentId": 60, "subLabels": []}]}, {"id": 62, "text": "Nervous system", "descriptions": null, "parentId": -1, "subLabels": [{"id": 63, "text": "The brain the spinal cord the nerves", "descriptions": ["Candidates should be able to name the main parts of the human skeleton", "Candidates should be able to list the main bones involved in movement of all the joints. Joints that permit different kinds of movement should be discussed.", "The parts and functions of each organ listed should be discussed.  The simple reflex action should be discussed."], "parentId": 62, "subLabels": []}]}, {"id": 64, "text": "Circulatory system", "descriptions": null, "parentId": -1, "subLabels": [{"id": 65, "text": "The hearts muscle effects of exercise on the heart the blood circulation function of blood types of blood circulation", "descriptions": ["Internal and external respiration should be emphasized", "Aerobic and anaerobic activities in relation to respiration should be discussed.", "Name and locations of major muscles should be emphasized"], "parentId": 64, "subLabels": []}]}, {"id": 66, "text": "Respiratory system", "descriptions": null, "parentId": -1, "subLabels": [{"id": 67, "text": "The trachea, lungs and nose the functions types of respiration aerobic and anaerobic sports", "descriptions": ["Isotonic and isometric contraction should be emphasized."], "parentId": 66, "subLabels": []}]}, {"id": 69, "text": "Somatotype", "descriptions": null, "parentId": -1, "subLabels": [{"id": 70, "text": "Description of the various body type relationship between body type and physical activities and sports", "descriptions": [], "parentId": 69, "subLabels": []}]}, {"id": 73, "text": "And dance", "descriptions": null, "parentId": -1, "subLabels": [{"id": 74, "text": "3. racket games", "descriptions": [], "parentId": 73, "subLabels": []}, {"id": 75, "text": "(1) (a) tennis", "descriptions": [], "parentId": 73, "subLabels": [{"id": 76, "text": "(b) table tennis", "descriptions": [], "parentId": 75, "subLabels": []}, {"id": 77, "text": "(c)   badminton", "descriptions": [], "parentId": 75, "subLabels": []}]}, {"id": 78, "text": "(i)   specification of court/table", "descriptions": [], "parentId": 73, "subLabels": []}, {"id": 79, "text": "Of all games", "descriptions": [], "parentId": 73, "subLabels": [{"id": 80, "text": "(ii)   types of equipment used", "descriptions": [], "parentId": 79, "subLabels": []}, {"id": 81, "text": "(iii)  skills involved in each", "descriptions": [], "parentId": 79, "subLabels": []}]}, {"id": 82, "text": "Game", "descriptions": [], "parentId": 73, "subLabels": [{"id": 83, "text": "(iv)  rules and regulations", "descriptions": [], "parentId": 82, "subLabels": []}, {"id": 84, "text": "(v)   officiating", "descriptions": [], "parentId": 82, "subLabels": []}, {"id": 85, "text": "4. traditional dances", "descriptions": ["Safety precaution involved in each game should be discussed."], "parentId": 82, "subLabels": [{"id": 86, "text": "(a)  dances from the regions", "descriptions": [], "parentId": 85, "subLabels": []}]}]}, {"id": 87, "text": "Of each country", "descriptions": ["Candidates should be able to draw and label standard courts/playing areas and equipment. terminologies in each game should be explained."], "parentId": 73, "subLabels": [{"id": 88, "text": "(b)  costumes for various", "descriptions": [], "parentId": 87, "subLabels": []}]}, {"id": 89, "text": "Dances", "descriptions": [], "parentId": 73, "subLabels": [{"id": 90, "text": "(c)   types of traditional dance", "descriptions": [], "parentId": 89, "subLabels": []}]}, {"id": 91, "text": "And dance step", "descriptions": ["Duties of officials in each game should be discussed. The application of the rules and regulations should be discussed Skills in each game should demonstrate and practised"], "parentId": 73, "subLabels": [{"id": 92, "text": "E. physical fitness", "descriptions": [], "parentId": 91, "subLabels": []}]}]}, {"id": 94, "text": "Physical fitness", "descriptions": null, "parentId": -1, "subLabels": [{"id": 95, "text": "Definition of physical fitness components of physical fitness physical fitness examples of health related and performance/skill related components of physical fitness benefits of physical activity, exercise and physical fitness", "descriptions": ["Candidates should be able to draw and label standard court and playing areas and demonstrated the skills involved in each game.", "The application of the rules and regulations should be discussed. Teachers should demonstrate coaching points emphasized. Pupils should practice. Game situation should be encouraged."], "parentId": 94, "subLabels": []}]}, {"id": 97, "text": "Hygiene", "descriptions": null, "parentId": -1, "subLabels": [{"id": 98, "text": "Importance of health in physical education care of the body sportswear", "descriptions": ["Qualities of good health should be mentioned.", "The importance of keeping the body clean before, during and after exercise should be emphasized.", "The importance of selecting appropriate sportswear for difference sports and games should be emphasized.", "Reference should be made to the effect of good and bad sportswear on the body."], "parentId": 97, "subLabels": [{"id": 99, "text": "F. nutrition, drug and", "descriptions": ["Emphasis should be on pre-game nutrition role of carbohydrate in sports"], "parentId": 98, "subLabels": []}]}]}, {"id": 101, "text": "Nutrition", "descriptions": null, "parentId": -1, "subLabels": [{"id": 102, "text": "Classes of food nutrients balanced diet dietary consideration in sports", "descriptions": ["Emphasis should be placed on: Stimulants, narcotics, hallucinogen, sedatives and ergogenic aids."], "parentId": 101, "subLabels": []}]}, {"id": 103, "text": "Drug in sports", "descriptions": null, "parentId": -1, "subLabels": [{"id": 104, "text": "Meaning of drug types of drug drug use and misuse the effect of drug on sports performance", "descriptions": [], "parentId": 103, "subLabels": []}]}, {"id": 105, "text": "Sports injuries", "descriptions": null, "parentId": -1, "subLabels": [{"id": 106, "text": "Common sports injuries", "descriptions": [], "parentId": 105, "subLabels": [{"id": 107, "text": "(i) special conditions", "descriptions": [], "parentId": 106, "subLabels": []}]}, {"id": 108, "text": "And solutions that require first aid", "descriptions": ["Candidates should be able to identify kinds of sports injuries and explain the causes, symptoms, management and prevention of each injury."], "parentId": 105, "subLabels": [{"id": 109, "text": "(ii)sportswear", "descriptions": ["Candidates should be able to define and apply first aid to sports injury.  They should also be able to list the contents of a first aid box."], "parentId": 108, "subLabels": []}]}]}, {"id": 111, "text": "Education programme", "descriptions": null, "parentId": -1, "subLabels": [{"id": 112, "text": "Definitions categories of people with special needs corrective exercise activities for the special needs social and emotional problems of the special needs", "descriptions": ["Pupils should be made aware of the use, care and maintenance of sportswear. The role of sportswear in regulating body temperature before, during and after exercise should be discussed.", "The management for each of these should be discussed.", "The different types and application of artificial respiration should be discussed.", "The need for safety precautions in physical education should be discussed."], "parentId": 111, "subLabels": [{"id": 113, "text": "G. sports", "descriptions": ["Administrative chart and organogram at different institutional levels should be emphasized."], "parentId": 112, "subLabels": []}]}]}, {"id": 114, "text": "Administration", "descriptions": null, "parentId": -1, "subLabels": [{"id": 115, "text": "Administrative", "descriptions": [], "parentId": 114, "subLabels": []}, {"id": 116, "text": "Structure/functions of sports at national, regional/state and local government level", "descriptions": [], "parentId": 114, "subLabels": [{"id": 117, "text": "Administrative structure/function of sports at institution level", "descriptions": [], "parentId": 116, "subLabels": []}]}]}, {"id": 9, "text": "(a)  principles and philosophies  of founding fathers", "descriptions": [], "parentId": 8, "subLabels": []}, {"id": 10, "text": "(b) changes in concept of physical", "descriptions": [], "parentId": 8, "subLabels": [{"id": 11, "text": "Education", "descriptions": [], "parentId": 10, "subLabels": []}]}, {"id": 12, "text": "(c)  education of the physical", "descriptions": [], "parentId": 8, "subLabels": []}, {"id": 13, "text": "And education through the physical", "descriptions": [], "parentId": 8, "subLabels": [{"id": 14, "text": "2. physical education", "descriptions": ["Emphases should be on Hetherington, Dudley Sergent, Thomas Wood and"], "parentId": 13, "subLabels": []}]}, {"id": 16, "text": "(a)   nationalism and patriotism in physical education and sport", "descriptions": ["Emphases should be on Hetherington, Dudley Sergent, Thomas Wood and John Dewey"], "parentId": 15, "subLabels": []}, {"id": 17, "text": "(b)   national ideologies", "descriptions": ["Students should be taught on how physical education and sports will enhance achievement of nationalism, patriotism and  national ideologies."], "parentId": 15, "subLabels": []}, {"id": 18, "text": "3. recreation", "descriptions": [], "parentId": 15, "subLabels": [{"id": 19, "text": "(a)  definition and importance", "descriptions": [], "parentId": 18, "subLabels": []}, {"id": 20, "text": "(b)   types of recreational", "descriptions": ["Differences between work, rest, recreation, leisure and sports should be emphasized"], "parentId": 18, "subLabels": []}]}, {"id": 21, "text": "Activities", "descriptions": [], "parentId": 15, "subLabels": [{"id": 22, "text": "(i)  indoor", "descriptions": ["Candidates should be able to differentiate between indoor and outdoor recreation."], "parentId": 21, "subLabels": []}, {"id": 23, "text": "(ii)  outdoor", "descriptions": [], "parentId": 21, "subLabels": []}, {"id": 24, "text": "(c)  recreational activities", "descriptions": ["The role of recreational activities in the life of an individual and the society should be emphasized. Safety in recreational activities should be mentioned."], "parentId": 21, "subLabels": [{"id": 25, "text": "Walking, jogging", "descriptions": [], "parentId": 24, "subLabels": []}]}]}, {"id": 26, "text": "Swimming, cycling, playing musical instruments, table tennis, camping etc", "descriptions": [], "parentId": 15, "subLabels": [{"id": 27, "text": "(d)  differences between recreational activities and lifetime", "descriptions": [], "parentId": 26, "subLabels": []}]}, {"id": 28, "text": "Sports", "descriptions": ["Differences between intramural and extramural activities, minor and major games and sports should be emphasized."], "parentId": 15, "subLabels": [{"id": 29, "text": "4. intramural and", "descriptions": [], "parentId": 28, "subLabels": []}, {"id": 30, "text": "4. intramural and", "descriptions": [], "parentId": 28, "subLabels": []}]}, {"id": 33, "text": "(a)  definitions of", "descriptions": ["The role of lead up games and games of low organization should be mentioned. Advantages and disadvantages of each type of tournament."], "parentId": 32, "subLabels": [{"id": 34, "text": "(i)   intramural", "descriptions": [], "parentId": 33, "subLabels": []}]}, {"id": 35, "text": "Activities", "descriptions": [], "parentId": 32, "subLabels": [{"id": 36, "text": "(ii)   extramural", "descriptions": [], "parentId": 35, "subLabels": []}]}, {"id": 37, "text": "Activities", "descriptions": [], "parentId": 32, "subLabels": [{"id": 38, "text": "(b)   benefit of intramural", "descriptions": [], "parentId": 37, "subLabels": []}]}, {"id": 39, "text": "And extramural activities", "descriptions": [], "parentId": 32, "subLabels": [{"id": 40, "text": "(c)   (i)  definition of tournament", "descriptions": [], "parentId": 39, "subLabels": [{"id": 41, "text": "(ii)  types of tournament", "descriptions": [], "parentId": 40, "subLabels": []}]}]}, {"id": 42, "text": "5 .   traditional sports in", "descriptions": [], "parentId": 32, "subLabels": []}, {"id": 50, "text": "Sports championship at national level", "descriptions": ["Reference should be made to the origin and significance of these festivals. The origin and importance of the Olympic Games to the social and political life of the ancient Greek should be discussed. Emphasis to be placed on Sparta and Athens."], "parentId": 49, "subLabels": []}, {"id": 51, "text": "Types of championship", "descriptions": [], "parentId": 49, "subLabels": []}, {"id": 55, "text": "History of all africa games reasons for disparity in the timing of the games history and activities of supreme council of sports in african (scsa)", "descriptions": [], "parentId": 54, "subLabels": []}, {"id": 56, "text": "International competitions", "descriptions": [], "parentId": 54, "subLabels": [{"id": 57, "text": "C. basic human", "descriptions": [], "parentId": 56, "subLabels": []}]}, {"id": 61, "text": "Main parts and functions of the human skeleton", "descriptions": ["Emphasis should be on history, organization and the governing body of each of the competition. It should be noted that all sports federation have their own international competition and should be stated"], "parentId": 60, "subLabels": []}, {"id": 63, "text": "The brain the spinal cord the nerves", "descriptions": ["Candidates should be able to name the main parts of the human skeleton", "Candidates should be able to list the main bones involved in movement of all the joints. Joints that permit different kinds of movement should be discussed.", "The parts and functions of each organ listed should be discussed.  The simple reflex action should be discussed."], "parentId": 62, "subLabels": []}, {"id": 65, "text": "The hearts muscle effects of exercise on the heart the blood circulation function of blood types of blood circulation", "descriptions": ["Internal and external respiration should be emphasized", "Aerobic and anaerobic activities in relation to respiration should be discussed.", "Name and locations of major muscles should be emphasized"], "parentId": 64, "subLabels": []}, {"id": 67, "text": "The trachea, lungs and nose the functions types of respiration aerobic and anaerobic sports", "descriptions": ["Isotonic and isometric contraction should be emphasized."], "parentId": 66, "subLabels": []}, {"id": 70, "text": "Description of the various body type relationship between body type and physical activities and sports", "descriptions": [], "parentId": 69, "subLabels": []}, {"id": 74, "text": "3. racket games", "descriptions": [], "parentId": 73, "subLabels": []}, {"id": 75, "text": "(1) (a) tennis", "descriptions": [], "parentId": 73, "subLabels": [{"id": 76, "text": "(b) table tennis", "descriptions": [], "parentId": 75, "subLabels": []}, {"id": 77, "text": "(c)   badminton", "descriptions": [], "parentId": 75, "subLabels": []}]}, {"id": 78, "text": "(i)   specification of court/table", "descriptions": [], "parentId": 73, "subLabels": []}, {"id": 79, "text": "Of all games", "descriptions": [], "parentId": 73, "subLabels": [{"id": 80, "text": "(ii)   types of equipment used", "descriptions": [], "parentId": 79, "subLabels": []}, {"id": 81, "text": "(iii)  skills involved in each", "descriptions": [], "parentId": 79, "subLabels": []}]}, {"id": 82, "text": "Game", "descriptions": [], "parentId": 73, "subLabels": [{"id": 83, "text": "(iv)  rules and regulations", "descriptions": [], "parentId": 82, "subLabels": []}, {"id": 84, "text": "(v)   officiating", "descriptions": [], "parentId": 82, "subLabels": []}, {"id": 85, "text": "4. traditional dances", "descriptions": ["Safety precaution involved in each game should be discussed."], "parentId": 82, "subLabels": [{"id": 86, "text": "(a)  dances from the regions", "descriptions": [], "parentId": 85, "subLabels": []}]}]}, {"id": 87, "text": "Of each country", "descriptions": ["Candidates should be able to draw and label standard courts/playing areas and equipment. terminologies in each game should be explained."], "parentId": 73, "subLabels": [{"id": 88, "text": "(b)  costumes for various", "descriptions": [], "parentId": 87, "subLabels": []}]}, {"id": 89, "text": "Dances", "descriptions": [], "parentId": 73, "subLabels": [{"id": 90, "text": "(c)   types of traditional dance", "descriptions": [], "parentId": 89, "subLabels": []}]}, {"id": 91, "text": "And dance step", "descriptions": ["Duties of officials in each game should be discussed. The application of the rules and regulations should be discussed Skills in each game should demonstrate and practised"], "parentId": 73, "subLabels": [{"id": 92, "text": "E. physical fitness", "descriptions": [], "parentId": 91, "subLabels": []}]}, {"id": 95, "text": "Definition of physical fitness components of physical fitness physical fitness examples of health related and performance/skill related components of physical fitness benefits of physical activity, exercise and physical fitness", "descriptions": ["Candidates should be able to draw and label standard court and playing areas and demonstrated the skills involved in each game.", "The application of the rules and regulations should be discussed. Teachers should demonstrate coaching points emphasized. Pupils should practice. Game situation should be encouraged."], "parentId": 94, "subLabels": []}, {"id": 98, "text": "Importance of health in physical education care of the body sportswear", "descriptions": ["Qualities of good health should be mentioned.", "The importance of keeping the body clean before, during and after exercise should be emphasized.", "The importance of selecting appropriate sportswear for difference sports and games should be emphasized.", "Reference should be made to the effect of good and bad sportswear on the body."], "parentId": 97, "subLabels": [{"id": 99, "text": "F. nutrition, drug and", "descriptions": ["Emphasis should be on pre-game nutrition role of carbohydrate in sports"], "parentId": 98, "subLabels": []}]}, {"id": 102, "text": "Classes of food nutrients balanced diet dietary consideration in sports", "descriptions": ["Emphasis should be placed on: Stimulants, narcotics, hallucinogen, sedatives and ergogenic aids."], "parentId": 101, "subLabels": []}, {"id": 104, "text": "Meaning of drug types of drug drug use and misuse the effect of drug on sports performance", "descriptions": [], "parentId": 103, "subLabels": []}, {"id": 106, "text": "Common sports injuries", "descriptions": [], "parentId": 105, "subLabels": [{"id": 107, "text": "(i) special conditions", "descriptions": [], "parentId": 106, "subLabels": []}]}, {"id": 108, "text": "And solutions that require first aid", "descriptions": ["Candidates should be able to identify kinds of sports injuries and explain the causes, symptoms, management and prevention of each injury."], "parentId": 105, "subLabels": [{"id": 109, "text": "(ii)sportswear", "descriptions": ["Candidates should be able to define and apply first aid to sports injury.  They should also be able to list the contents of a first aid box."], "parentId": 108, "subLabels": []}]}, {"id": 112, "text": "Definitions categories of people with special needs corrective exercise activities for the special needs social and emotional problems of the special needs", "descriptions": ["Pupils should be made aware of the use, care and maintenance of sportswear. The role of sportswear in regulating body temperature before, during and after exercise should be discussed.", "The management for each of these should be discussed.", "The different types and application of artificial respiration should be discussed.", "The need for safety precautions in physical education should be discussed."], "parentId": 111, "subLabels": [{"id": 113, "text": "G. sports", "descriptions": ["Administrative chart and organogram at different institutional levels should be emphasized."], "parentId": 112, "subLabels": []}]}, {"id": 115, "text": "Administrative", "descriptions": [], "parentId": 114, "subLabels": []}, {"id": 116, "text": "Structure/functions of sports at national, regional/state and local government level", "descriptions": [], "parentId": 114, "subLabels": [{"id": 117, "text": "Administrative structure/function of sports at institution level", "descriptions": [], "parentId": 116, "subLabels": []}]}, {"id": 11, "text": "Education", "descriptions": [], "parentId": 10, "subLabels": []}, {"id": 14, "text": "2. physical education", "descriptions": ["Emphases should be on Hetherington, Dudley Sergent, Thomas Wood and"], "parentId": 13, "subLabels": []}, {"id": 19, "text": "(a)  definition and importance", "descriptions": [], "parentId": 18, "subLabels": []}, {"id": 20, "text": "(b)   types of recreational", "descriptions": ["Differences between work, rest, recreation, leisure and sports should be emphasized"], "parentId": 18, "subLabels": []}, {"id": 22, "text": "(i)  indoor", "descriptions": ["Candidates should be able to differentiate between indoor and outdoor recreation."], "parentId": 21, "subLabels": []}, {"id": 23, "text": "(ii)  outdoor", "descriptions": [], "parentId": 21, "subLabels": []}, {"id": 24, "text": "(c)  recreational activities", "descriptions": ["The role of recreational activities in the life of an individual and the society should be emphasized. Safety in recreational activities should be mentioned."], "parentId": 21, "subLabels": [{"id": 25, "text": "Walking, jogging", "descriptions": [], "parentId": 24, "subLabels": []}]}, {"id": 27, "text": "(d)  differences between recreational activities and lifetime", "descriptions": [], "parentId": 26, "subLabels": []}, {"id": 29, "text": "4. intramural and", "descriptions": [], "parentId": 28, "subLabels": []}, {"id": 30, "text": "4. intramural and", "descriptions": [], "parentId": 28, "subLabels": []}, {"id": 34, "text": "(i)   intramural", "descriptions": [], "parentId": 33, "subLabels": []}, {"id": 36, "text": "(ii)   extramural", "descriptions": [], "parentId": 35, "subLabels": []}, {"id": 38, "text": "(b)   benefit of intramural", "descriptions": [], "parentId": 37, "subLabels": []}, {"id": 40, "text": "(c)   (i)  definition of tournament", "descriptions": [], "parentId": 39, "subLabels": [{"id": 41, "text": "(ii)  types of tournament", "descriptions": [], "parentId": 40, "subLabels": []}]}, {"id": 57, "text": "C. basic human", "descriptions": [], "parentId": 56, "subLabels": []}, {"id": 76, "text": "(b) table tennis", "descriptions": [], "parentId": 75, "subLabels": []}, {"id": 77, "text": "(c)   badminton", "descriptions": [], "parentId": 75, "subLabels": []}, {"id": 80, "text": "(ii)   types of equipment used", "descriptions": [], "parentId": 79, "subLabels": []}, {"id": 81, "text": "(iii)  skills involved in each", "descriptions": [], "parentId": 79, "subLabels": []}, {"id": 83, "text": "(iv)  rules and regulations", "descriptions": [], "parentId": 82, "subLabels": []}, {"id": 84, "text": "(v)   officiating", "descriptions": [], "parentId": 82, "subLabels": []}, {"id": 85, "text": "4. traditional dances", "descriptions": ["Safety precaution involved in each game should be discussed."], "parentId": 82, "subLabels": [{"id": 86, "text": "(a)  dances from the regions", "descriptions": [], "parentId": 85, "subLabels": []}]}, {"id": 88, "text": "(b)  costumes for various", "descriptions": [], "parentId": 87, "subLabels": []}, {"id": 90, "text": "(c)   types of traditional dance", "descriptions": [], "parentId": 89, "subLabels": []}, {"id": 92, "text": "E. physical fitness", "descriptions": [], "parentId": 91, "subLabels": []}, {"id": 99, "text": "F. nutrition, drug and", "descriptions": ["Emphasis should be on pre-game nutrition role of carbohydrate in sports"], "parentId": 98, "subLabels": []}, {"id": 107, "text": "(i) special conditions", "descriptions": [], "parentId": 106, "subLabels": []}, {"id": 109, "text": "(ii)sportswear", "descriptions": ["Candidates should be able to define and apply first aid to sports injury.  They should also be able to list the contents of a first aid box."], "parentId": 108, "subLabels": []}, {"id": 113, "text": "G. sports", "descriptions": ["Administrative chart and organogram at different institutional levels should be emphasized."], "parentId": 112, "subLabels": []}, {"id": 117, "text": "Administrative structure/function of sports at institution level", "descriptions": [], "parentId": 116, "subLabels": []}, {"id": 25, "text": "Walking, jogging", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 41, "text": "(ii)  types of tournament", "descriptions": [], "parentId": 40, "subLabels": []}, {"id": 86, "text": "(a)  dances from the regions", "descriptions": [], "parentId": 85, "subLabels": []}]}
+{
+ "subject": "Physics",
+ "Grade": "None",
+ "Curriculum": "test",
+ "labelsTree": [
+  {
+   "id": 7,
+   "text": "Interaction of matter, space & time",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 8,
+     "text": "7.     motion",
+     "descriptions": [],
+     "parentId": 7,
+     "subLabels": [
+      {
+       "id": 9,
+       "text": "Types of motion",
+       "descriptions": [],
+       "parentId": 8,
+       "subLabels": []
+      },
+      {
+       "id": 10,
+       "text": "Random, rectilinear, translational, rotational, circular, orbital, spin, oscillatory",
+       "descriptions": [],
+       "parentId": 8,
+       "subLabels": []
+      },
+      {
+       "id": 11,
+       "text": "Relative motion",
+       "descriptions": [
+        "Only qualitative treatment is required. Illustration should be given for the various types of motion."
+       ],
+       "parentId": 8,
+       "subLabels": []
+      },
+      {
+       "id": 12,
+       "text": "Cause of motion",
+       "descriptions": [
+        "Numerical problems on co-linear motion may be set.",
+        "Force as cause of motion."
+       ],
+       "parentId": 8,
+       "subLabels": []
+      },
+      {
+       "id": 13,
+       "text": "Types of force",
+       "descriptions": [],
+       "parentId": 8,
+       "subLabels": []
+      },
+      {
+       "id": 14,
+       "text": "(i)   contact force",
+       "descriptions": [
+        "Push and pull These are field forces namely; electric and magnetic attractions and repulsions; gravitational pull."
+       ],
+       "parentId": 8,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 15,
+     "text": "(ii)   non-contact",
+     "descriptions": [],
+     "parentId": 7,
+     "subLabels": []
+    },
+    {
+     "id": 16,
+     "text": "Force(field force)",
+     "descriptions": [
+      "Frictional force between two stationary bodies (static) and between two bodies in relative motion (dynamic).  Coefficients of limiting friction and their determinations. Advantages of friction e.g. in locomotion, friction belt, grindstone.  Disadvantages of friction e.g reduction of efficiency, wear and tear of machines. Methods of reducing friction; e.g. use of ball bearings, rollers, streamlining and lubrication."
+     ],
+     "parentId": 7,
+     "subLabels": [
+      {
+       "id": 17,
+       "text": "Solid friction",
+       "descriptions": [
+        "Definition and effects.  Simple explanation as extension of friction in fluids.  Fluid friction and its application in lubrication should be treated qualitatively.  Terminal velocity and its determination.",
+        "Experiments with a string tied to a stone at one end and whirled around should be carried out to",
+        "(i)  demonstrate motion in a",
+        "Vertical/horizontal circle."
+       ],
+       "parentId": 16,
+       "subLabels": []
+      },
+      {
+       "id": 18,
+       "text": "Viscosity (friction in fluids)",
+       "descriptions": [],
+       "parentId": 16,
+       "subLabels": []
+      },
+      {
+       "id": 19,
+       "text": "Simple ideas of circular motion",
+       "descriptions": [],
+       "parentId": 16,
+       "subLabels": []
+      },
+      {
+       "id": 20,
+       "text": "8.   speed and velocity",
+       "descriptions": [],
+       "parentId": 16,
+       "subLabels": [
+        {
+         "id": 21,
+         "text": "Concept of speed as change of",
+         "descriptions": [
+          "(i)   show the difference between angular speed and velocity."
+         ],
+         "parentId": 20,
+         "subLabels": []
+        },
+        {
+         "id": 22,
+         "text": "Concept of velocity as change of displacement with time",
+         "descriptions": [],
+         "parentId": 20,
+         "subLabels": []
+        },
+        {
+         "id": 23,
+         "text": "Uniform/non-uniform speed/velocity",
+         "descriptions": [
+          "Metre per second (ms -1 ) as unit of speed/velocity.",
+          "Ticker-timer or similar devices should be used to determine speed/velocity.  Definition of velocity as s    t."
+         ],
+         "parentId": 20,
+         "subLabels": []
+        },
+        {
+         "id": 24,
+         "text": "Distance/displacement-time graph",
+         "descriptions": [
+          "Determination of instantaneous speed/velocity from distance/displacement-time graph and by calculation."
+         ],
+         "parentId": 20,
+         "subLabels": []
+        }
+       ]
+      },
+      {
+       "id": 25,
+       "text": "9.    rectilinear acceleration",
+       "descriptions": [],
+       "parentId": 16,
+       "subLabels": [
+        {
+         "id": 26,
+         "text": "Concept of",
+         "descriptions": [
+          "Unit of acceleration as ms -2"
+         ],
+         "parentId": 25,
+         "subLabels": []
+        },
+        {
+         "id": 27,
+         "text": "Uniform/non-uniform acceleration",
+         "descriptions": [
+          "Ticker timer or similar devices should be used to determine acceleration.  Definition of acceleration as v    t .",
+          "Determination of acceleration and displacement from velocity-time",
+          "graph"
+         ],
+         "parentId": 25,
+         "subLabels": []
+        }
+       ]
+      },
+      {
+       "id": 28,
+       "text": "Velocity-time graph",
+       "descriptions": [
+        "Use of equations to solve numerical problems."
+       ],
+       "parentId": 16,
+       "subLabels": []
+      },
+      {
+       "id": 29,
+       "text": "Equations of motion with constant acceleration",
+       "descriptions": [],
+       "parentId": 16,
+       "subLabels": []
+      },
+      {
+       "id": 30,
+       "text": "Motion under gravity as a special case",
+       "descriptions": [],
+       "parentId": 16,
+       "subLabels": []
+      },
+      {
+       "id": 31,
+       "text": "10.   scalars and vectors",
+       "descriptions": [],
+       "parentId": 16,
+       "subLabels": [
+        {
+         "id": 32,
+         "text": "Concept of scalars as physical",
+         "descriptions": [],
+         "parentId": 31,
+         "subLabels": []
+        },
+        {
+         "id": 33,
+         "text": "Concept of vectors as physical  quantities with both magnitude and direction",
+         "descriptions": [],
+         "parentId": 31,
+         "subLabels": []
+        },
+        {
+         "id": 34,
+         "text": "Vector representation",
+         "descriptions": [
+          "Mass, distance, speed and time as examples of scalars."
+         ],
+         "parentId": 31,
+         "subLabels": []
+        },
+        {
+         "id": 35,
+         "text": "Addition of vectors",
+         "descriptions": [
+          "Weight, displacement, velocity and acceleration as examples of vectors."
+         ],
+         "parentId": 31,
+         "subLabels": []
+        },
+        {
+         "id": 36,
+         "text": "Resolution of vectors",
+         "descriptions": [
+          "Use of force board to determine the resultant of two forces."
+         ],
+         "parentId": 31,
+         "subLabels": []
+        },
+        {
+         "id": 37,
+         "text": "Resultant velocity using vector representation",
+         "descriptions": [
+          "Obtain the resultant of two velocities analytically and graphically."
+         ],
+         "parentId": 31,
+         "subLabels": []
+        }
+       ]
+      },
+      {
+       "id": 38,
+       "text": "11.    equilibrium of forces",
+       "descriptions": [
+        "Torque/Moment of force.  Simple treatment of a couple, e.g. turning of water tap, corkscrew and steering wheel.)"
+       ],
+       "parentId": 16,
+       "subLabels": [
+        {
+         "id": 39,
+         "text": "Principle of moments",
+         "descriptions": [
+          "Use of force board to determine resultant and equilibrant forces.",
+          "Treatment should include resolution of forces into two perpendicular directions and composition of forces",
+          "Parallelogram of forces.  Triangle of forces.",
+          "Should ne treated experimentally.  Treatment should include stable, unstable and neutral equilibra."
+         ],
+         "parentId": 38,
+         "subLabels": []
+        },
+        {
+         "id": 40,
+         "text": "Conditions for equilibrium of rigid bodies under the action of parallel and non-parallel forces",
+         "descriptions": [
+          "Use of a loaded test-tube oscillating vertically in a liquid, simple pendulum, spiral spring and bifilar suspension to demonstrate simple harmonic motion."
+         ],
+         "parentId": 38,
+         "subLabels": []
+        },
+        {
+         "id": 41,
+         "text": "Centre of gravity and stability",
+         "descriptions": [],
+         "parentId": 38,
+         "subLabels": []
+        }
+       ]
+      },
+      {
+       "id": 42,
+       "text": "12.    simple harmonic motion",
+       "descriptions": [],
+       "parentId": 16,
+       "subLabels": [
+        {
+         "id": 43,
+         "text": "Illustration, explanation and definition of simple harmonic motion (s.h.m)",
+         "descriptions": [],
+         "parentId": 42,
+         "subLabels": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": 44,
+     "text": "Speed and acceleration of",
+     "descriptions": [],
+     "parentId": 7,
+     "subLabels": []
+    },
+    {
+     "id": 45,
+     "text": "S.h.m",
+     "descriptions": [],
+     "parentId": 7,
+     "subLabels": []
+    },
+    {
+     "id": 46,
+     "text": "Period, frequency and amplitude of a body executing s.h.m",
+     "descriptions": [],
+     "parentId": 7,
+     "subLabels": []
+    },
+    {
+     "id": 47,
+     "text": "Energy of s.h.m",
+     "descriptions": [
+      "Relate linear and angular speeds, linear and angular accelerations.",
+      "Experimental determination of \u2018g\u2019 with the simple pendulum and helical spring.  The theory of the principles should be treated but derivation of the formula for \u2018g\u2019 is not required"
+     ],
+     "parentId": 7,
+     "subLabels": []
+    },
+    {
+     "id": 48,
+     "text": "Forced vibration and",
+     "descriptions": [],
+     "parentId": 7,
+     "subLabels": []
+    },
+    {
+     "id": 49,
+     "text": "Resonance",
+     "descriptions": [
+      "Simple problems may be set on simple harmonic motion.",
+      "Mathematical proof of simple harmonic motion in respect of spiral spring, bifilar suspension and loaded test-tube is not required."
+     ],
+     "parentId": 7,
+     "subLabels": [
+      {
+       "id": 50,
+       "text": "13.    newton\u2019s laws of motion",
+       "descriptions": [
+        "Distinction between inertia mass and weight"
+       ],
+       "parentId": 49,
+       "subLabels": [
+        {
+         "id": 51,
+         "text": "First law",
+         "descriptions": [],
+         "parentId": 50,
+         "subLabels": []
+        },
+        {
+         "id": 52,
+         "text": "Inertia of rest and inertia of motion",
+         "descriptions": [
+          "Use of timing devices e.g. ticker-timer to determine the acceleration of a falling body and the relationship when the accelerating force is constant."
+         ],
+         "parentId": 50,
+         "subLabels": []
+        },
+        {
+         "id": 53,
+         "text": "Second law",
+         "descriptions": [
+          "Linear momentum and its conservation.",
+          "Collision of elastic bodies in a straight line."
+         ],
+         "parentId": 50,
+         "subLabels": []
+        },
+        {
+         "id": 54,
+         "text": "Force, acceleration, momentum and impulse",
+         "descriptions": [
+          "Applications: recoil of a gun, jet and rocket propulsions."
+         ],
+         "parentId": 50,
+         "subLabels": []
+        },
+        {
+         "id": 55,
+         "text": "Third law",
+         "descriptions": [],
+         "parentId": 50,
+         "subLabels": []
+        },
+        {
+         "id": 56,
+         "text": "Action and reaction",
+         "descriptions": [],
+         "parentId": 50,
+         "subLabels": []
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 58,
+   "text": "Energy: mechanical and heat",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 59,
+     "text": "14.   energy",
+     "descriptions": [],
+     "parentId": 58,
+     "subLabels": [
+      {
+       "id": 60,
+       "text": "(a)   forms of energy",
+       "descriptions": [],
+       "parentId": 59,
+       "subLabels": []
+      },
+      {
+       "id": 61,
+       "text": "(b)   world energy",
+       "descriptions": [],
+       "parentId": 59,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 62,
+     "text": "Resources",
+     "descriptions": [],
+     "parentId": 58,
+     "subLabels": [
+      {
+       "id": 63,
+       "text": "(c)   conservation of energy",
+       "descriptions": [],
+       "parentId": 62,
+       "subLabels": []
+      },
+      {
+       "id": 64,
+       "text": "15.    work, energy and power",
+       "descriptions": [
+        "Examples of various forms of energy should be mentioned e.g. mechanical (potential and kinetic), heat chemical, electrical, light, sound, nuclear."
+       ],
+       "parentId": 62,
+       "subLabels": [
+        {
+         "id": 65,
+         "text": "Concept of work as a measure of energy transfer",
+         "descriptions": [
+          "Renewable (e.g. solar, wind, tides, hydro, ocean waves) and non-renewable (e.g. petroleum, coal, nuclear, biomass) sources of energy should be discussed briefly.",
+          "Statement of the principle of conservation of energy and its use in explaining energy transformations."
+         ],
+         "parentId": 64,
+         "subLabels": []
+        },
+        {
+         "id": 66,
+         "text": "Concept of energy as capability to do work",
+         "descriptions": [
+          "Unit of energy as the joule (J)",
+          "Unit of energy as the joule (J) while unit of electrical consumption is KWh."
+         ],
+         "parentId": 64,
+         "subLabels": []
+        },
+        {
+         "id": 67,
+         "text": "Work done in a gravitational field",
+         "descriptions": [
+          "Work done in lifting a body and by falling bodies",
+          "Derivation of P.E and K.E are expected to be known.  Identification of types of energy possessed by a body under given conditions."
+         ],
+         "parentId": 64,
+         "subLabels": []
+        },
+        {
+         "id": 68,
+         "text": "Types of mechanical energy",
+         "descriptions": [
+          "Verification of the principle.",
+          "Verification of the principle."
+         ],
+         "parentId": 64,
+         "subLabels": []
+        }
+       ]
+      },
+      {
+       "id": 69,
+       "text": "(i)   potential energy (p.e.)",
+       "descriptions": [],
+       "parentId": 62,
+       "subLabels": []
+      },
+      {
+       "id": 70,
+       "text": "(ii)  kinetic energy",
+       "descriptions": [],
+       "parentId": 62,
+       "subLabels": []
+      },
+      {
+       "id": 71,
+       "text": "(k.e)",
+       "descriptions": [],
+       "parentId": 62,
+       "subLabels": []
+      },
+      {
+       "id": 72,
+       "text": "Conservation of mechanical energy",
+       "descriptions": [],
+       "parentId": 62,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 73,
+     "text": "Concept of power as time rate of doing work",
+     "descriptions": [],
+     "parentId": 58,
+     "subLabels": [
+      {
+       "id": 74,
+       "text": "16.   heat energy",
+       "descriptions": [],
+       "parentId": 73,
+       "subLabels": [
+        {
+         "id": 75,
+         "text": "Temperature",
+         "descriptions": [],
+         "parentId": 74,
+         "subLabels": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": 76,
+     "text": "And its measurement",
+     "descriptions": [
+      "Concept of temperature as degree of hotness or coldness of a body.  Construction and graduation of a simple thermometer. Properties of thermometric liquids.  The following thermometer, should be treated: Constant \u2013 volume gas thermometer, resistance thermometer, thermocouple, liquid-in- glass thermometer including maximum and minimum thermometer and clinical thermometer, pyrometer should be mentioned.  Celsius and Absolute scales of temperature. Kelvin and degree Celsius as units of temperature.",
+      "Use of the Kinetic theory to explain effects of heat.",
+      "Mention should be made of the following effects: Change of colour Thermionic emission Change in chemical properties"
+     ],
+     "parentId": 58,
+     "subLabels": [
+      {
+       "id": 77,
+       "text": "Effects of heat on matter e.g",
+       "descriptions": [
+        "Qualitative and quantitative treatment Consequences and application of expansions. Expansion in buildings and bridges, bimetallic strips, thermostat, over-head cables causing sagging nd in railway lines causing buckling. Real and apparent expansion of liquids.  Anomalous expansion of water."
+       ],
+       "parentId": 76,
+       "subLabels": []
+      },
+      {
+       "id": 78,
+       "text": "(i)     rise in temperature",
+       "descriptions": [],
+       "parentId": 76,
+       "subLabels": []
+      },
+      {
+       "id": 79,
+       "text": "(ii)   change of phase state",
+       "descriptions": [],
+       "parentId": 76,
+       "subLabels": []
+      },
+      {
+       "id": 80,
+       "text": "(iii)",
+       "descriptions": [],
+       "parentId": 76,
+       "subLabels": []
+      },
+      {
+       "id": 81,
+       "text": "Expansion",
+       "descriptions": [],
+       "parentId": 76,
+       "subLabels": []
+      },
+      {
+       "id": 82,
+       "text": "(iv)  change of resistance",
+       "descriptions": [],
+       "parentId": 76,
+       "subLabels": []
+      },
+      {
+       "id": 83,
+       "text": "Thermal expansion \u2013",
+       "descriptions": [],
+       "parentId": 76,
+       "subLabels": []
+      },
+      {
+       "id": 84,
+       "text": "Linear, area and volume expansivities",
+       "descriptions": [],
+       "parentId": 76,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 85,
+     "text": "Heat transfer \u2013",
+     "descriptions": [],
+     "parentId": 58,
+     "subLabels": [
+      {
+       "id": 86,
+       "text": "(i)   concept",
+       "descriptions": [],
+       "parentId": 85,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 87,
+     "text": "Of heat capacity",
+     "descriptions": [
+      "Determination of the melting point of solid and the boiling point of a liquid.  Effects of impurities and pressure on melting and boiling points.  Application in pressure cooker."
+     ],
+     "parentId": 58,
+     "subLabels": [
+      {
+       "id": 88,
+       "text": "(ii)  specific",
+       "descriptions": [],
+       "parentId": 87,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 89,
+     "text": "Heat capacity",
+     "descriptions": [
+      "Use of the method of mixtures and the electrical method to determine the specific latent heats of fusion of ice and of vaporization of steam.  Applications in refrigerators and air conditioners."
+     ],
+     "parentId": 58,
+     "subLabels": [
+      {
+       "id": 90,
+       "text": "(i)    concept",
+       "descriptions": [],
+       "parentId": 89,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 91,
+     "text": "Of latent heat",
+     "descriptions": [],
+     "parentId": 58,
+     "subLabels": [
+      {
+       "id": 92,
+       "text": "(ii)   melting",
+       "descriptions": [],
+       "parentId": 91,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 93,
+     "text": "Point and boiling",
+     "descriptions": [],
+     "parentId": 58,
+     "subLabels": [
+      {
+       "id": 94,
+       "text": "Point",
+       "descriptions": [],
+       "parentId": 93,
+       "subLabels": [
+        {
+         "id": 95,
+         "text": "(iii)  specific",
+         "descriptions": [],
+         "parentId": 94,
+         "subLabels": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": 96,
+     "text": "Latent heat of fusion and of vaporization",
+     "descriptions": [],
+     "parentId": 58,
+     "subLabels": []
+    },
+    {
+     "id": 97,
+     "text": "Evaporation and boiling",
+     "descriptions": [],
+     "parentId": 58,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 99,
+   "text": "Waves",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 100,
+     "text": "17.   production and propagation of waves",
+     "descriptions": [],
+     "parentId": 99,
+     "subLabels": []
+    },
+    {
+     "id": 101,
+     "text": "Production and propagation of mechanical waves",
+     "descriptions": [],
+     "parentId": 99,
+     "subLabels": []
+    },
+    {
+     "id": 102,
+     "text": "Pulsating system",
+     "descriptions": [],
+     "parentId": 99,
+     "subLabels": []
+    },
+    {
+     "id": 103,
+     "text": "Energy transmitted with definite speed, frequency and wavelength",
+     "descriptions": [
+      "Use of ropes and springs (slinky) to generate mechanical waves"
+     ],
+     "parentId": 99,
+     "subLabels": []
+    },
+    {
+     "id": 104,
+     "text": "Waveform",
+     "descriptions": [
+      "Use of ripple tank to show water waves and to demonstrate energy propagation by waves. Hertz(Hz) as unit of frequency.",
+      "Description and graphical representation. Amplitude, wave length, frequency and period. Sound and light as wave phenomena."
+     ],
+     "parentId": 99,
+     "subLabels": []
+    },
+    {
+     "id": 105,
+     "text": "Mathematical relationship connecting frequency (f), wavelength( \ud835\udecc ), period",
+     "descriptions": [
+      "V= f \ud835\udecc and T =   simple problems may be set."
+     ],
+     "parentId": 99,
+     "subLabels": []
+    },
+    {
+     "id": 106,
+     "text": "(t) and velocity (v)",
+     "descriptions": [],
+     "parentId": 99,
+     "subLabels": []
+    },
+    {
+     "id": 107,
+     "text": "18.   types of waves",
+     "descriptions": [],
+     "parentId": 99,
+     "subLabels": [
+      {
+       "id": 108,
+       "text": "Transverse and longitudinal",
+       "descriptions": [
+        "Examples to be given",
+        "Equation y = A sin (wt ) to be explained Questions on phase difference will not be set."
+       ],
+       "parentId": 107,
+       "subLabels": []
+      },
+      {
+       "id": 109,
+       "text": "Mathematical representation of wave motion",
+       "descriptions": [
+        "Ripple tank should be extensively used to demonstrate these properties with plane and circular waves.  Explanation of the properties."
+       ],
+       "parentId": 107,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 110,
+     "text": "19.    properties of waves",
+     "descriptions": [],
+     "parentId": 99,
+     "subLabels": [
+      {
+       "id": 111,
+       "text": "Reflection, refraction, diffraction, interference, superposition of progressive waves producing standing stationary waves",
+       "descriptions": [
+        "Natural and artificial. Luminous and non-luminous bodies."
+       ],
+       "parentId": 110,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 112,
+     "text": "20.  light waves",
+     "descriptions": [],
+     "parentId": 99,
+     "subLabels": [
+      {
+       "id": 113,
+       "text": "Sources of light",
+       "descriptions": [],
+       "parentId": 112,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 114,
+     "text": "Rectilinear propagation of light",
+     "descriptions": [],
+     "parentId": 99,
+     "subLabels": []
+    },
+    {
+     "id": 115,
+     "text": "Refraction of light at curved surfaces",
+     "descriptions": [],
+     "parentId": 99,
+     "subLabels": []
+    },
+    {
+     "id": 116,
+     "text": "Application of lenses in optical instruments",
+     "descriptions": [],
+     "parentId": 99,
+     "subLabels": [
+      {
+       "id": 117,
+       "text": "21.    electromagnetic",
+       "descriptions": [],
+       "parentId": 116,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 118,
+     "text": "Waves",
+     "descriptions": [],
+     "parentId": 99,
+     "subLabels": [
+      {
+       "id": 119,
+       "text": "Types of radiation in",
+       "descriptions": [
+        "Production of pure spectrum of a white light. Recombination of the components of the spectrum.  Colours of objects.  Mixing coloured lights."
+       ],
+       "parentId": 118,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 120,
+     "text": "Electromagnetic",
+     "descriptions": [],
+     "parentId": 99,
+     "subLabels": [
+      {
+       "id": 121,
+       "text": "Spectrum",
+       "descriptions": [
+        "Elementary description and uses of various types of radiation: Radio, infrared, visible light, ultra-violet, X-rays, gamma rays. light, ultra-violet, X-rays, gamma rays."
+       ],
+       "parentId": 120,
+       "subLabels": []
+      },
+      {
+       "id": 122,
+       "text": "22.    sound waves",
+       "descriptions": [],
+       "parentId": 120,
+       "subLabels": []
+      },
+      {
+       "id": 123,
+       "text": "22.    sound waves",
+       "descriptions": [],
+       "parentId": 120,
+       "subLabels": [
+        {
+         "id": 124,
+         "text": "Sources of sound",
+         "descriptions": [],
+         "parentId": 123,
+         "subLabels": []
+        },
+        {
+         "id": 125,
+         "text": "Transmission of sound waves",
+         "descriptions": [
+          "Experiment to show that a material medium is required.",
+          "To be compared.  Dependence of velocity of sound on temperature and pressure to be considered."
+         ],
+         "parentId": 123,
+         "subLabels": []
+        },
+        {
+         "id": 126,
+         "text": "Speed of sound in solid, liquid and air",
+         "descriptions": [
+          "Use of echoes in mineral exploration, and determination of ocean depth.  Thunder and multiple reflections in a large room as examples of reverberation.",
+          "Pitch, loudness and quality."
+         ],
+         "parentId": 123,
+         "subLabels": []
+        },
+        {
+         "id": 127,
+         "text": "Echoes and reverberation",
+         "descriptions": [],
+         "parentId": 123,
+         "subLabels": []
+        },
+        {
+         "id": 128,
+         "text": "Noise and music",
+         "descriptions": [],
+         "parentId": 123,
+         "subLabels": []
+        },
+        {
+         "id": 129,
+         "text": "Characteristics of sound",
+         "descriptions": [],
+         "parentId": 123,
+         "subLabels": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": 130,
+     "text": "Vibration in strings",
+     "descriptions": [
+      "The use of sonometer to demonstrate the dependence of frequency (f) on length (1), tension (T) and mass per unit length (liner density) (m) of string should be treated.  Use of the formula:",
+      "o = In solving simple numerical problems. Applications in stringed instruments: e.g. guitar, piano, harp and violin."
+     ],
+     "parentId": 99,
+     "subLabels": [
+      {
+       "id": 131,
+       "text": "(i)",
+       "descriptions": [
+        "Use of overtones to explain the quality of a musical note.  Applications in percussion instruments: e.g drum, bell, cymbals, xylophone."
+       ],
+       "parentId": 130,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 132,
+     "text": "Resonance",
+     "descriptions": [],
+     "parentId": 99,
+     "subLabels": [
+      {
+       "id": 133,
+       "text": "(ii)",
+       "descriptions": [
+        "Measurement of velocity of sound in air or frequency of tuning fork using the resonance tube.  Use of the relationship v = \ud835\udecc in solving numerical problems.  End correction is expected to be mentioned.  Applications in wind instruments e.g. organ, flute, trumpet, horn, clarinet and saxophone."
+       ],
+       "parentId": 132,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 134,
+     "text": "Harmonies and overtones",
+     "descriptions": [],
+     "parentId": 99,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 136,
+   "text": "Fields",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 137,
+     "text": "23.   description property of fields",
+     "descriptions": [],
+     "parentId": 136,
+     "subLabels": [
+      {
+       "id": 138,
+       "text": "Concept of fields",
+       "descriptions": [],
+       "parentId": 137,
+       "subLabels": []
+      },
+      {
+       "id": 139,
+       "text": "Gravitational, electric and magnetic",
+       "descriptions": [],
+       "parentId": 137,
+       "subLabels": []
+      },
+      {
+       "id": 140,
+       "text": "Properties of a force field",
+       "descriptions": [],
+       "parentId": 137,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 141,
+     "text": "24.    gravitational field",
+     "descriptions": [],
+     "parentId": 136,
+     "subLabels": [
+      {
+       "id": 142,
+       "text": "Acceleration due to gravity",
+       "descriptions": [],
+       "parentId": 141,
+       "subLabels": []
+      },
+      {
+       "id": 143,
+       "text": "(g)",
+       "descriptions": [
+        "Use of compass needle and iron filings to show magnetic field lines."
+       ],
+       "parentId": 141,
+       "subLabels": []
+      },
+      {
+       "id": 144,
+       "text": "Gravitational force between two masses",
+       "descriptions": [
+        "G as gravitational field intensity should be mentioned, g = F/m.",
+        "Masses include protons, electrons and planets"
+       ],
+       "parentId": 141,
+       "subLabels": []
+      },
+      {
+       "id": 145,
+       "text": "Newton\u2019s law of gravitation",
+       "descriptions": [
+        "Universal gravitational constant (G) Relationship between \u2018G\u2019 and \u2018g\u2019"
+       ],
+       "parentId": 141,
+       "subLabels": []
+      },
+      {
+       "id": 146,
+       "text": "Gravitational potential and escape velocity",
+       "descriptions": [
+        "Calculation of the escape velocity of a rocket from the earth\u2019s gravitational field."
+       ],
+       "parentId": 141,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 147,
+     "text": "25.    electric field",
+     "descriptions": [
+      "Production by friction, induction and contact."
+     ],
+     "parentId": 136,
+     "subLabels": [
+      {
+       "id": 148,
+       "text": "Electrostatics",
+       "descriptions": [
+        "A simple electroscope should be used to detect and compare charges on differently-shaped bodies."
+       ],
+       "parentId": 147,
+       "subLabels": []
+      },
+      {
+       "id": 149,
+       "text": "Production of electric charges",
+       "descriptions": [
+        "Application in light conductors.",
+        "Determination, properties and field patterns of charges."
+       ],
+       "parentId": 147,
+       "subLabels": []
+      },
+      {
+       "id": 150,
+       "text": "Types of distribution of",
+       "descriptions": [],
+       "parentId": 147,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 151,
+     "text": "Charges",
+     "descriptions": [],
+     "parentId": 136,
+     "subLabels": [
+      {
+       "id": 152,
+       "text": "Storage of charges",
+       "descriptions": [],
+       "parentId": 151,
+       "subLabels": []
+      },
+      {
+       "id": 153,
+       "text": "Electric lines of force",
+       "descriptions": [],
+       "parentId": 151,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 154,
+     "text": "Electric force between point charges:  coulomb\u2019s law",
+     "descriptions": [],
+     "parentId": 136,
+     "subLabels": []
+    },
+    {
+     "id": 155,
+     "text": "Shunt and multiplier",
+     "descriptions": [],
+     "parentId": 136,
+     "subLabels": [
+      {
+       "id": 156,
+       "text": "26.     magnetic field",
+       "descriptions": [
+        "Factors affecting the electrical resistance of a material should be treated.  Simple problems may be set."
+       ],
+       "parentId": 155,
+       "subLabels": []
+      },
+      {
+       "id": 157,
+       "text": "Properties of magnets and magnetic materials",
+       "descriptions": [
+        "Principle of operation and use of ammeter, voltmeter, potentiometer. The wheatstone bridge and metre bridge."
+       ],
+       "parentId": 155,
+       "subLabels": []
+      },
+      {
+       "id": 158,
+       "text": "Magnetization and demagnetization",
+       "descriptions": [
+        "Practical examples such as soft iron, steel and alloys."
+       ],
+       "parentId": 155,
+       "subLabels": []
+      },
+      {
+       "id": 159,
+       "text": "Concept of magnetic field",
+       "descriptions": [
+        "Temporary and permanent magnets.  Comparison of iron and steel as magnetic materials.",
+        "Magnetic flux and magnetic flux density. Magnetic field around a permanent magnet, a current-carrying conductor and a solenoid. Plotting of line of force to locate neutral points Units of magnetic flux and magnetic flux density as weber (Wb) and tesla (T) respectively."
+       ],
+       "parentId": 155,
+       "subLabels": []
+      },
+      {
+       "id": 160,
+       "text": "Magnetic force on",
+       "descriptions": [
+        "Qualitative treatment only.  Applications:  electric motor and moving- coil galvanometer."
+       ],
+       "parentId": 155,
+       "subLabels": []
+      },
+      {
+       "id": 161,
+       "text": "(i)  a current-carrying conductor placed in a magnetic field",
+       "descriptions": [],
+       "parentId": 155,
+       "subLabels": []
+      },
+      {
+       "id": 162,
+       "text": "(ii)  between two parallel current-carrying conductors",
+       "descriptions": [
+        "Examples in electric bell, telephone earpiece etc.",
+        "Mariner\u2019s compass.  Angles of dip and declination.",
+        "Solving simple problems involving the motion of a charged particle in a magnetic field, using       F=qvB sin"
+       ],
+       "parentId": 155,
+       "subLabels": []
+      },
+      {
+       "id": 163,
+       "text": "Use of electromagnets",
+       "descriptions": [
+        "Identifying the directions of current, magnetic field and force in an electromagnetic field (Fleming\u2019s left-hand rule)."
+       ],
+       "parentId": 155,
+       "subLabels": []
+      },
+      {
+       "id": 164,
+       "text": "The earth\u2019s magnetic field",
+       "descriptions": [],
+       "parentId": 155,
+       "subLabels": []
+      },
+      {
+       "id": 165,
+       "text": "Magnetic force on a moving charged particle",
+       "descriptions": [],
+       "parentId": 155,
+       "subLabels": []
+      },
+      {
+       "id": 166,
+       "text": "27.   electromagnetic field",
+       "descriptions": [],
+       "parentId": 155,
+       "subLabels": [
+        {
+         "id": 167,
+         "text": "Concept of electromagnetic field",
+         "descriptions": [],
+         "parentId": 166,
+         "subLabels": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": 168,
+     "text": "Shunt and multiplier",
+     "descriptions": [],
+     "parentId": 136,
+     "subLabels": [
+      {
+       "id": 169,
+       "text": "26.     magnetic field",
+       "descriptions": [
+        "Factors affecting the electrical resistance of a material should be treated.  Simple problems may be set."
+       ],
+       "parentId": 168,
+       "subLabels": []
+      },
+      {
+       "id": 170,
+       "text": "Properties of magnets and magnetic materials",
+       "descriptions": [
+        "Principle of operation and use of ammeter, voltmeter, potentiometer. The wheatstone bridge and metre bridge."
+       ],
+       "parentId": 168,
+       "subLabels": []
+      },
+      {
+       "id": 171,
+       "text": "Magnetization and demagnetization",
+       "descriptions": [
+        "Practical examples such as soft iron, steel and alloys.",
+        "Temporary and permanent magnets.  Comparison of iron and steel as magnetic materials."
+       ],
+       "parentId": 168,
+       "subLabels": []
+      },
+      {
+       "id": 172,
+       "text": "Concept of magnetic field",
+       "descriptions": [
+        "Magnetic flux and magnetic flux density. Magnetic field around a permanent magnet, a current-carrying conductor and a solenoid. Plotting of line of force to locate neutral points Units of magnetic flux and magnetic flux density as weber (Wb) and tesla (T) respectively."
+       ],
+       "parentId": 168,
+       "subLabels": []
+      },
+      {
+       "id": 173,
+       "text": "Magnetic force on",
+       "descriptions": [
+        "Qualitative treatment only.  Applications:  electric motor and moving- coil galvanometer."
+       ],
+       "parentId": 168,
+       "subLabels": []
+      },
+      {
+       "id": 174,
+       "text": "(i)  a current-carrying conductor placed in a magnetic field",
+       "descriptions": [
+        "Examples in electric bell, telephone earpiece etc."
+       ],
+       "parentId": 168,
+       "subLabels": []
+      },
+      {
+       "id": 175,
+       "text": "(ii)  between two parallel current-carrying",
+       "descriptions": [
+        "Mariner\u2019s compass.  Angles of dip and declination."
+       ],
+       "parentId": 168,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 176,
+     "text": "Conductors",
+     "descriptions": [
+      "Solving simple problems involving the motion of a charged particle in",
+      "Solving simple problems involving the motion of a charged particle in a magnetic field, using F=qvB sin"
+     ],
+     "parentId": 136,
+     "subLabels": [
+      {
+       "id": 177,
+       "text": "Use of electromagnets",
+       "descriptions": [
+        "Identifying the directions of current, magnetic field and force in an electromagnetic field (Fleming\u2019s left-hand rule)."
+       ],
+       "parentId": 176,
+       "subLabels": []
+      },
+      {
+       "id": 178,
+       "text": "The earth\u2019s magnetic field",
+       "descriptions": [],
+       "parentId": 176,
+       "subLabels": []
+      },
+      {
+       "id": 179,
+       "text": "Magnetic force on a moving charged particle",
+       "descriptions": [],
+       "parentId": 176,
+       "subLabels": []
+      },
+      {
+       "id": 180,
+       "text": "27.   electromagnetic field",
+       "descriptions": [],
+       "parentId": 176,
+       "subLabels": [
+        {
+         "id": 181,
+         "text": "Concept of electromagnetic field",
+         "descriptions": [],
+         "parentId": 180,
+         "subLabels": []
+        }
+       ]
+      },
+      {
+       "id": 182,
+       "text": "Topic",
+       "descriptions": [
+        "NOTES"
+       ],
+       "parentId": 176,
+       "subLabels": []
+      },
+      {
+       "id": 183,
+       "text": "Electromagnetic induction",
+       "descriptions": [],
+       "parentId": 176,
+       "subLabels": []
+      },
+      {
+       "id": 184,
+       "text": "Faraday\u2019s law ,lenz\u2019s law and motor-generator effect",
+       "descriptions": [],
+       "parentId": 176,
+       "subLabels": []
+      },
+      {
+       "id": 185,
+       "text": "Inductance",
+       "descriptions": [
+        "Applications:  Generator (d.c.and a.c.) induction coil and transformer. The principles underlying the production of direct and alternating currents should be treated.  Equation E = E o sinwt should be explained."
+       ],
+       "parentId": 176,
+       "subLabels": []
+      },
+      {
+       "id": 186,
+       "text": "Eddy currents",
+       "descriptions": [
+        "Qualitative explanation of self and mutual inductance.  The unit of inductance is henry (H).",
+        "(E =  LI 2 )"
+       ],
+       "parentId": 176,
+       "subLabels": []
+      },
+      {
+       "id": 187,
+       "text": "Power transmission and distribution",
+       "descriptions": [],
+       "parentId": 176,
+       "subLabels": []
+      },
+      {
+       "id": 188,
+       "text": "28.  simple a.c. circuits",
+       "descriptions": [],
+       "parentId": 176,
+       "subLabels": [
+        {
+         "id": 189,
+         "text": "Graphical representation of",
+         "descriptions": [],
+         "parentId": 188,
+         "subLabels": []
+        },
+        {
+         "id": 190,
+         "text": "E.m.f",
+         "descriptions": [],
+         "parentId": 188,
+         "subLabels": []
+        },
+        {
+         "id": 191,
+         "text": "Peak and r..m.s. values",
+         "descriptions": [],
+         "parentId": 188,
+         "subLabels": [
+          {
+           "id": 192,
+           "text": "Topic application in radio,t.v., transformer. (derivation of formula is not required)",
+           "descriptions": [],
+           "parentId": 191,
+           "subLabels": [
+            {
+             "id": 193,
+             "text": "A method of reducing eddy current losses should be treated",
+             "descriptions": [],
+             "parentId": 192,
+             "subLabels": []
+            },
+            {
+             "id": 194,
+             "text": "Applications in induction furnace, speedometer, etc",
+             "descriptions": [],
+             "parentId": 192,
+             "subLabels": []
+            },
+            {
+             "id": 195,
+             "text": "Reduction of power losses in high-tension transmission lines",
+             "descriptions": [],
+             "parentId": 192,
+             "subLabels": []
+            },
+            {
+             "id": 196,
+             "text": "Household wiring system should be discussed",
+             "descriptions": [],
+             "parentId": 192,
+             "subLabels": []
+            },
+            {
+             "id": 197,
+             "text": "Graphs of equation i \u2013 io sin wt and\\e = e o sinwt should be treated",
+             "descriptions": [],
+             "parentId": 192,
+             "subLabels": []
+            },
+            {
+             "id": 198,
+             "text": "Phase relationship between voltage and current in the circuit elements; resistor, inductor and capacitor",
+             "descriptions": [],
+             "parentId": 192,
+             "subLabels": []
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 203,
+   "text": ".",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 204,
+     "text": "29.   structure of the",
+     "descriptions": [],
+     "parentId": 203,
+     "subLabels": []
+    },
+    {
+     "id": 205,
+     "text": "Atom",
+     "descriptions": [],
+     "parentId": 203,
+     "subLabels": [
+      {
+       "id": 206,
+       "text": "Models of the atom",
+       "descriptions": [],
+       "parentId": 205,
+       "subLabels": []
+      },
+      {
+       "id": 207,
+       "text": "Energy quantization",
+       "descriptions": [
+        "NOTES",
+        "Thomson, Rutherford, Bohr and electron-cloud (wave-mechanical) models should be discussed qualitatively.  Limitations of each model.  Quantization of angular momentum (Bohr)",
+        "Energy levels in the atom.  Colour and light frequency.  Treatment should include the following:  Frank-Hertz experiment, Line spectra from hot bodies, absorption spectra and spectra of discharge lamps."
+       ],
+       "parentId": 205,
+       "subLabels": []
+      },
+      {
+       "id": 208,
+       "text": "Photoelectric effect",
+       "descriptions": [
+        "Explanation of photoelectric effect. Dual nature of light.  Work function and threshold frequency.  Einstein\u2019s photoelectric equation and its explanation.  Application in T.V., camera, etc. Simple problems may be set.",
+        "Explanation and applications."
+       ],
+       "parentId": 205,
+       "subLabels": []
+      },
+      {
+       "id": 209,
+       "text": "Thermionic emission",
+       "descriptions": [
+        "Production of X-rays and structure of X-ray tube. Types, characteristics, properties, uses and hazards of X-rays.  Safety precautions",
+        "Protons and neutrons.  Nucleon number (A), proton number (Z), neutron number (N) and the equation:  A-Z + N to be treated.  Nuclides and their notation. Isotopes."
+       ],
+       "parentId": 205,
+       "subLabels": []
+      },
+      {
+       "id": 210,
+       "text": "X-rays",
+       "descriptions": [],
+       "parentId": 205,
+       "subLabels": []
+      },
+      {
+       "id": 211,
+       "text": "30.   structure of the",
+       "descriptions": [],
+       "parentId": 205,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 212,
+     "text": "Nucleus",
+     "descriptions": [],
+     "parentId": 203,
+     "subLabels": [
+      {
+       "id": 213,
+       "text": "Composition of the nucleus",
+       "descriptions": [],
+       "parentId": 212,
+       "subLabels": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 214,
+   "text": "Topics",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 215,
+     "text": "Radioactivity \u2013",
+     "descriptions": [],
+     "parentId": 214,
+     "subLabels": [
+      {
+       "id": 216,
+       "text": "31.   wave-particle",
+       "descriptions": [
+        "Simple illustration of the dual nature of light."
+       ],
+       "parentId": 215,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 217,
+     "text": "Paradox",
+     "descriptions": [],
+     "parentId": 214,
+     "subLabels": [
+      {
+       "id": 218,
+       "text": "Electron diffraction",
+       "descriptions": [],
+       "parentId": 217,
+       "subLabels": []
+      },
+      {
+       "id": 219,
+       "text": "Duality of matter",
+       "descriptions": [],
+       "parentId": 217,
+       "subLabels": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 221,
+   "text": "Member countries",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 222,
+     "text": "1.   derived quantities",
+     "descriptions": [],
+     "parentId": 221,
+     "subLabels": []
+    },
+    {
+     "id": 223,
+     "text": "And dimensional",
+     "descriptions": [],
+     "parentId": 221,
+     "subLabels": [
+      {
+       "id": 224,
+       "text": "Analysis",
+       "descriptions": [
+        "Fundamental quantities and units e.g. Length, mass, time, electric current, luminous intensity e.t.c., m, kg,s, A, cd, e.t.c. as their respective units Derived quantities and units. e.g. volume, density, speed e.t.c. m 3 , kgm -3 , ms -1",
+        "e.t.c.",
+        "as their respective unit Explanation of dimensions in terms of fundamental and derived quantities.  Uses of dimensions -   to verity dimensional correctness of a given equation -   to derive the relationship between quantities -   to obtain derived units."
+       ],
+       "parentId": 223,
+       "subLabels": []
+      },
+      {
+       "id": 225,
+       "text": "2.    projectile motion",
+       "descriptions": [],
+       "parentId": 223,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 226,
+     "text": "Concept of projectiles as an object thrown/release into space",
+     "descriptions": [
+      "Applications of projectiles in warfare, sports etc. Simple problems involving range, maximum height and time of flight may be set."
+     ],
+     "parentId": 221,
+     "subLabels": [
+      {
+       "id": 227,
+       "text": "3.    satellites and rockets",
+       "descriptions": [
+        "Meaning of a satellite comparison of natural and artificial satellites parking orbits, Geostationary satellites and period of revolution and speed of a satellite. Uses of satellites and rockets",
+        "Behaviour of elastic materials under stress \u2013 features of load \u2013 extension graph Simple calculations on Hook\u2019s law and Young\u2019s modulus."
+       ],
+       "parentId": 226,
+       "subLabels": []
+      },
+      {
+       "id": 228,
+       "text": "4.    elastic properties",
+       "descriptions": [],
+       "parentId": 226,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 229,
+     "text": "Of solid",
+     "descriptions": [],
+     "parentId": 221,
+     "subLabels": [
+      {
+       "id": 230,
+       "text": "Hooke\u2019s law",
+       "descriptions": [],
+       "parentId": 229,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 231,
+     "text": "Young\u2019s modules and work done in springs and string springs and string",
+     "descriptions": [
+      "Solar energy; solar panel for heat energy supply. Explanation of a blackbody.  Variation of intensity of black body radiation with wavelength at different temperatures.",
+      "Explanation of concept of fibre optics. Principle of transmission of light through an optical fibre Applications of fibre optics e.g. local area Networks (LAN) medicine, rensing devices, carrying laser beams e.t.c."
+     ],
+     "parentId": 221,
+     "subLabels": [
+      {
+       "id": 232,
+       "text": "Thermal",
+       "descriptions": [],
+       "parentId": 231,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 233,
+     "text": "Conductivity",
+     "descriptions": [],
+     "parentId": 221,
+     "subLabels": [
+      {
+       "id": 234,
+       "text": "Solar energy",
+       "descriptions": [],
+       "parentId": 233,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 235,
+     "text": "Collector and black body",
+     "descriptions": [],
+     "parentId": 221,
+     "subLabels": [
+      {
+       "id": 236,
+       "text": "Radiation",
+       "descriptions": [],
+       "parentId": 235,
+       "subLabels": []
+      },
+      {
+       "id": 237,
+       "text": "5.   fibre optics",
+       "descriptions": [],
+       "parentId": 235,
+       "subLabels": []
+      },
+      {
+       "id": 238,
+       "text": "6.    introduction to laser",
+       "descriptions": [
+        "Meaning of LASER Types of LASERS (Solid state, gas, liquid and semi-conductor LASERS Application of LASERS (in Scientific research, communication, medicine military technology, Holograms",
+        "e.t.c.",
+        "Dangers involved in using LASERS."
+       ],
+       "parentId": 235,
+       "subLabels": []
+      },
+      {
+       "id": 239,
+       "text": "7.   magnetic materials",
+       "descriptions": [
+        "Uses of magnets and ferromagnetic materials."
+       ],
+       "parentId": 235,
+       "subLabels": []
+      },
+      {
+       "id": 240,
+       "text": "8.    electrical",
+       "descriptions": [],
+       "parentId": 235,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 241,
+     "text": "Conduction through materials [electronic]",
+     "descriptions": [
+      "Distinction between conductors, semiconductors and insulators in term of band theory. Semi conductor materials (silicon and germanium) Meaning of intrinsic semiconductors.  (Example of materials silicon and germanium).  Charge carriers Doping production of p-type and n-type extrinsic semi conductors. Junction diode \u2013 forward and reverse biasing, voltage characteristics.  Uses of diodes Half and full wave rectification.",
+      "Use of kinetic theory to explain diffusion."
+     ],
+     "parentId": 221,
+     "subLabels": [
+      {
+       "id": 242,
+       "text": "9.    structure of matter",
+       "descriptions": [
+        "Electron diffraction",
+        "Duality of matter Simple illustrations of dual nature of light."
+       ],
+       "parentId": 241,
+       "subLabels": []
+      },
+      {
+       "id": 243,
+       "text": "10.   wave \u2013 particle",
+       "descriptions": [],
+       "parentId": 241,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 244,
+     "text": "Paradox",
+     "descriptions": [],
+     "parentId": 221,
+     "subLabels": []
+    }
+   ]
+  }
+ ],
+ "labels": [
+  {
+   "id": 8,
+   "text": "Education",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 9,
+     "text": "(a)  principles and philosophies  of founding fathers",
+     "descriptions": [],
+     "parentId": 8,
+     "subLabels": []
+    },
+    {
+     "id": 10,
+     "text": "(b) changes in concept of physical",
+     "descriptions": [],
+     "parentId": 8,
+     "subLabels": [
+      {
+       "id": 11,
+       "text": "Education",
+       "descriptions": [],
+       "parentId": 10,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 12,
+     "text": "(c)  education of the physical",
+     "descriptions": [],
+     "parentId": 8,
+     "subLabels": []
+    },
+    {
+     "id": 13,
+     "text": "And education through the physical",
+     "descriptions": [],
+     "parentId": 8,
+     "subLabels": [
+      {
+       "id": 14,
+       "text": "2. physical education",
+       "descriptions": [
+        "Emphases should be on Hetherington, Dudley Sergent, Thomas Wood and"
+       ],
+       "parentId": 13,
+       "subLabels": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "text": "Ideologies",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 16,
+     "text": "(a)   nationalism and patriotism in physical education and sport",
+     "descriptions": [
+      "Emphases should be on Hetherington, Dudley Sergent, Thomas Wood and John Dewey"
+     ],
+     "parentId": 15,
+     "subLabels": []
+    },
+    {
+     "id": 17,
+     "text": "(b)   national ideologies",
+     "descriptions": [
+      "Students should be taught on how physical education and sports will enhance achievement of nationalism, patriotism and  national ideologies."
+     ],
+     "parentId": 15,
+     "subLabels": []
+    },
+    {
+     "id": 18,
+     "text": "3. recreation",
+     "descriptions": [],
+     "parentId": 15,
+     "subLabels": [
+      {
+       "id": 19,
+       "text": "(a)  definition and importance",
+       "descriptions": [],
+       "parentId": 18,
+       "subLabels": []
+      },
+      {
+       "id": 20,
+       "text": "(b)   types of recreational",
+       "descriptions": [
+        "Differences between work, rest, recreation, leisure and sports should be emphasized"
+       ],
+       "parentId": 18,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 21,
+     "text": "Activities",
+     "descriptions": [],
+     "parentId": 15,
+     "subLabels": [
+      {
+       "id": 22,
+       "text": "(i)  indoor",
+       "descriptions": [
+        "Candidates should be able to differentiate between indoor and outdoor recreation."
+       ],
+       "parentId": 21,
+       "subLabels": []
+      },
+      {
+       "id": 23,
+       "text": "(ii)  outdoor",
+       "descriptions": [],
+       "parentId": 21,
+       "subLabels": []
+      },
+      {
+       "id": 24,
+       "text": "(c)  recreational activities",
+       "descriptions": [
+        "The role of recreational activities in the life of an individual and the society should be emphasized. Safety in recreational activities should be mentioned."
+       ],
+       "parentId": 21,
+       "subLabels": [
+        {
+         "id": 25,
+         "text": "Walking, jogging",
+         "descriptions": [],
+         "parentId": 24,
+         "subLabels": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": 26,
+     "text": "Swimming, cycling, playing musical instruments, table tennis, camping etc",
+     "descriptions": [],
+     "parentId": 15,
+     "subLabels": [
+      {
+       "id": 27,
+       "text": "(d)  differences between recreational activities and lifetime",
+       "descriptions": [],
+       "parentId": 26,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 28,
+     "text": "Sports",
+     "descriptions": [
+      "Differences between intramural and extramural activities, minor and major games and sports should be emphasized."
+     ],
+     "parentId": 15,
+     "subLabels": [
+      {
+       "id": 29,
+       "text": "4. intramural and",
+       "descriptions": [],
+       "parentId": 28,
+       "subLabels": []
+      },
+      {
+       "id": 30,
+       "text": "4. intramural and",
+       "descriptions": [],
+       "parentId": 28,
+       "subLabels": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 32,
+   "text": "And tournament",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 33,
+     "text": "(a)  definitions of",
+     "descriptions": [
+      "The role of lead up games and games of low organization should be mentioned. Advantages and disadvantages of each type of tournament."
+     ],
+     "parentId": 32,
+     "subLabels": [
+      {
+       "id": 34,
+       "text": "(i)   intramural",
+       "descriptions": [],
+       "parentId": 33,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 35,
+     "text": "Activities",
+     "descriptions": [],
+     "parentId": 32,
+     "subLabels": [
+      {
+       "id": 36,
+       "text": "(ii)   extramural",
+       "descriptions": [],
+       "parentId": 35,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 37,
+     "text": "Activities",
+     "descriptions": [],
+     "parentId": 32,
+     "subLabels": [
+      {
+       "id": 38,
+       "text": "(b)   benefit of intramural",
+       "descriptions": [],
+       "parentId": 37,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 39,
+     "text": "And extramural activities",
+     "descriptions": [],
+     "parentId": 32,
+     "subLabels": [
+      {
+       "id": 40,
+       "text": "(c)   (i)  definition of tournament",
+       "descriptions": [],
+       "parentId": 39,
+       "subLabels": [
+        {
+         "id": 41,
+         "text": "(ii)  types of tournament",
+         "descriptions": [],
+         "parentId": 40,
+         "subLabels": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": 42,
+     "text": "5 .   traditional sports in",
+     "descriptions": [],
+     "parentId": 32,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 49,
+   "text": "Competitions",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 50,
+     "text": "Sports championship at national level",
+     "descriptions": [
+      "Reference should be made to the origin and significance of these festivals. The origin and importance of the Olympic Games to the social and political life of the ancient Greek should be discussed. Emphasis to be placed on Sparta and Athens."
+     ],
+     "parentId": 49,
+     "subLabels": []
+    },
+    {
+     "id": 51,
+     "text": "Types of championship",
+     "descriptions": [],
+     "parentId": 49,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 54,
+   "text": "Games",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 55,
+     "text": "History of all africa games reasons for disparity in the timing of the games history and activities of supreme council of sports in african (scsa)",
+     "descriptions": [],
+     "parentId": 54,
+     "subLabels": []
+    },
+    {
+     "id": 56,
+     "text": "International competitions",
+     "descriptions": [],
+     "parentId": 54,
+     "subLabels": [
+      {
+       "id": 57,
+       "text": "C. basic human",
+       "descriptions": [],
+       "parentId": 56,
+       "subLabels": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 60,
+   "text": "Skeletal system",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 61,
+     "text": "Main parts and functions of the human skeleton",
+     "descriptions": [
+      "Emphasis should be on history, organization and the governing body of each of the competition. It should be noted that all sports federation have their own international competition and should be stated"
+     ],
+     "parentId": 60,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 62,
+   "text": "Nervous system",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 63,
+     "text": "The brain the spinal cord the nerves",
+     "descriptions": [
+      "Candidates should be able to name the main parts of the human skeleton",
+      "Candidates should be able to list the main bones involved in movement of all the joints. Joints that permit different kinds of movement should be discussed.",
+      "The parts and functions of each organ listed should be discussed.  The simple reflex action should be discussed."
+     ],
+     "parentId": 62,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 64,
+   "text": "Circulatory system",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 65,
+     "text": "The hearts muscle effects of exercise on the heart the blood circulation function of blood types of blood circulation",
+     "descriptions": [
+      "Internal and external respiration should be emphasized",
+      "Aerobic and anaerobic activities in relation to respiration should be discussed.",
+      "Name and locations of major muscles should be emphasized"
+     ],
+     "parentId": 64,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 66,
+   "text": "Respiratory system",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 67,
+     "text": "The trachea, lungs and nose the functions types of respiration aerobic and anaerobic sports",
+     "descriptions": [
+      "Isotonic and isometric contraction should be emphasized."
+     ],
+     "parentId": 66,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 69,
+   "text": "Somatotype",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 70,
+     "text": "Description of the various body type relationship between body type and physical activities and sports",
+     "descriptions": [],
+     "parentId": 69,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 73,
+   "text": "And dance",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 74,
+     "text": "3. racket games",
+     "descriptions": [],
+     "parentId": 73,
+     "subLabels": []
+    },
+    {
+     "id": 75,
+     "text": "(1) (a) tennis",
+     "descriptions": [],
+     "parentId": 73,
+     "subLabels": [
+      {
+       "id": 76,
+       "text": "(b) table tennis",
+       "descriptions": [],
+       "parentId": 75,
+       "subLabels": []
+      },
+      {
+       "id": 77,
+       "text": "(c)   badminton",
+       "descriptions": [],
+       "parentId": 75,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 78,
+     "text": "(i)   specification of court/table",
+     "descriptions": [],
+     "parentId": 73,
+     "subLabels": []
+    },
+    {
+     "id": 79,
+     "text": "Of all games",
+     "descriptions": [],
+     "parentId": 73,
+     "subLabels": [
+      {
+       "id": 80,
+       "text": "(ii)   types of equipment used",
+       "descriptions": [],
+       "parentId": 79,
+       "subLabels": []
+      },
+      {
+       "id": 81,
+       "text": "(iii)  skills involved in each",
+       "descriptions": [],
+       "parentId": 79,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 82,
+     "text": "Game",
+     "descriptions": [],
+     "parentId": 73,
+     "subLabels": [
+      {
+       "id": 83,
+       "text": "(iv)  rules and regulations",
+       "descriptions": [],
+       "parentId": 82,
+       "subLabels": []
+      },
+      {
+       "id": 84,
+       "text": "(v)   officiating",
+       "descriptions": [],
+       "parentId": 82,
+       "subLabels": []
+      },
+      {
+       "id": 85,
+       "text": "4. traditional dances",
+       "descriptions": [
+        "Safety precaution involved in each game should be discussed."
+       ],
+       "parentId": 82,
+       "subLabels": [
+        {
+         "id": 86,
+         "text": "(a)  dances from the regions",
+         "descriptions": [],
+         "parentId": 85,
+         "subLabels": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": 87,
+     "text": "Of each country",
+     "descriptions": [
+      "Candidates should be able to draw and label standard courts/playing areas and equipment. terminologies in each game should be explained."
+     ],
+     "parentId": 73,
+     "subLabels": [
+      {
+       "id": 88,
+       "text": "(b)  costumes for various",
+       "descriptions": [],
+       "parentId": 87,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 89,
+     "text": "Dances",
+     "descriptions": [],
+     "parentId": 73,
+     "subLabels": [
+      {
+       "id": 90,
+       "text": "(c)   types of traditional dance",
+       "descriptions": [],
+       "parentId": 89,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 91,
+     "text": "And dance step",
+     "descriptions": [
+      "Duties of officials in each game should be discussed. The application of the rules and regulations should be discussed Skills in each game should demonstrate and practised"
+     ],
+     "parentId": 73,
+     "subLabels": [
+      {
+       "id": 92,
+       "text": "E. physical fitness",
+       "descriptions": [],
+       "parentId": 91,
+       "subLabels": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 94,
+   "text": "Physical fitness",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 95,
+     "text": "Definition of physical fitness components of physical fitness physical fitness examples of health related and performance/skill related components of physical fitness benefits of physical activity, exercise and physical fitness",
+     "descriptions": [
+      "Candidates should be able to draw and label standard court and playing areas and demonstrated the skills involved in each game.",
+      "The application of the rules and regulations should be discussed. Teachers should demonstrate coaching points emphasized. Pupils should practice. Game situation should be encouraged."
+     ],
+     "parentId": 94,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 97,
+   "text": "Hygiene",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 98,
+     "text": "Importance of health in physical education care of the body sportswear",
+     "descriptions": [
+      "Qualities of good health should be mentioned.",
+      "The importance of keeping the body clean before, during and after exercise should be emphasized.",
+      "The importance of selecting appropriate sportswear for difference sports and games should be emphasized.",
+      "Reference should be made to the effect of good and bad sportswear on the body."
+     ],
+     "parentId": 97,
+     "subLabels": [
+      {
+       "id": 99,
+       "text": "F. nutrition, drug and",
+       "descriptions": [
+        "Emphasis should be on pre-game nutrition role of carbohydrate in sports"
+       ],
+       "parentId": 98,
+       "subLabels": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 101,
+   "text": "Nutrition",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 102,
+     "text": "Classes of food nutrients balanced diet dietary consideration in sports",
+     "descriptions": [
+      "Emphasis should be placed on: Stimulants, narcotics, hallucinogen, sedatives and ergogenic aids."
+     ],
+     "parentId": 101,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 103,
+   "text": "Drug in sports",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 104,
+     "text": "Meaning of drug types of drug drug use and misuse the effect of drug on sports performance",
+     "descriptions": [],
+     "parentId": 103,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 105,
+   "text": "Sports injuries",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 106,
+     "text": "Common sports injuries",
+     "descriptions": [],
+     "parentId": 105,
+     "subLabels": [
+      {
+       "id": 107,
+       "text": "(i) special conditions",
+       "descriptions": [],
+       "parentId": 106,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 108,
+     "text": "And solutions that require first aid",
+     "descriptions": [
+      "Candidates should be able to identify kinds of sports injuries and explain the causes, symptoms, management and prevention of each injury."
+     ],
+     "parentId": 105,
+     "subLabels": [
+      {
+       "id": 109,
+       "text": "(ii)sportswear",
+       "descriptions": [
+        "Candidates should be able to define and apply first aid to sports injury.  They should also be able to list the contents of a first aid box."
+       ],
+       "parentId": 108,
+       "subLabels": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 111,
+   "text": "Education programme",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 112,
+     "text": "Definitions categories of people with special needs corrective exercise activities for the special needs social and emotional problems of the special needs",
+     "descriptions": [
+      "Pupils should be made aware of the use, care and maintenance of sportswear. The role of sportswear in regulating body temperature before, during and after exercise should be discussed.",
+      "The management for each of these should be discussed.",
+      "The different types and application of artificial respiration should be discussed.",
+      "The need for safety precautions in physical education should be discussed."
+     ],
+     "parentId": 111,
+     "subLabels": [
+      {
+       "id": 113,
+       "text": "G. sports",
+       "descriptions": [
+        "Administrative chart and organogram at different institutional levels should be emphasized."
+       ],
+       "parentId": 112,
+       "subLabels": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 114,
+   "text": "Administration",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 115,
+     "text": "Administrative",
+     "descriptions": [],
+     "parentId": 114,
+     "subLabels": []
+    },
+    {
+     "id": 116,
+     "text": "Structure/functions of sports at national, regional/state and local government level",
+     "descriptions": [],
+     "parentId": 114,
+     "subLabels": [
+      {
+       "id": 117,
+       "text": "Administrative structure/function of sports at institution level",
+       "descriptions": [],
+       "parentId": 116,
+       "subLabels": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "text": "(a)  principles and philosophies  of founding fathers",
+   "descriptions": [],
+   "parentId": 8,
+   "subLabels": []
+  },
+  {
+   "id": 10,
+   "text": "(b) changes in concept of physical",
+   "descriptions": [],
+   "parentId": 8,
+   "subLabels": [
+    {
+     "id": 11,
+     "text": "Education",
+     "descriptions": [],
+     "parentId": 10,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "text": "(c)  education of the physical",
+   "descriptions": [],
+   "parentId": 8,
+   "subLabels": []
+  },
+  {
+   "id": 13,
+   "text": "And education through the physical",
+   "descriptions": [],
+   "parentId": 8,
+   "subLabels": [
+    {
+     "id": 14,
+     "text": "2. physical education",
+     "descriptions": [
+      "Emphases should be on Hetherington, Dudley Sergent, Thomas Wood and"
+     ],
+     "parentId": 13,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "text": "(a)   nationalism and patriotism in physical education and sport",
+   "descriptions": [
+    "Emphases should be on Hetherington, Dudley Sergent, Thomas Wood and John Dewey"
+   ],
+   "parentId": 15,
+   "subLabels": []
+  },
+  {
+   "id": 17,
+   "text": "(b)   national ideologies",
+   "descriptions": [
+    "Students should be taught on how physical education and sports will enhance achievement of nationalism, patriotism and  national ideologies."
+   ],
+   "parentId": 15,
+   "subLabels": []
+  },
+  {
+   "id": 18,
+   "text": "3. recreation",
+   "descriptions": [],
+   "parentId": 15,
+   "subLabels": [
+    {
+     "id": 19,
+     "text": "(a)  definition and importance",
+     "descriptions": [],
+     "parentId": 18,
+     "subLabels": []
+    },
+    {
+     "id": 20,
+     "text": "(b)   types of recreational",
+     "descriptions": [
+      "Differences between work, rest, recreation, leisure and sports should be emphasized"
+     ],
+     "parentId": 18,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "text": "Activities",
+   "descriptions": [],
+   "parentId": 15,
+   "subLabels": [
+    {
+     "id": 22,
+     "text": "(i)  indoor",
+     "descriptions": [
+      "Candidates should be able to differentiate between indoor and outdoor recreation."
+     ],
+     "parentId": 21,
+     "subLabels": []
+    },
+    {
+     "id": 23,
+     "text": "(ii)  outdoor",
+     "descriptions": [],
+     "parentId": 21,
+     "subLabels": []
+    },
+    {
+     "id": 24,
+     "text": "(c)  recreational activities",
+     "descriptions": [
+      "The role of recreational activities in the life of an individual and the society should be emphasized. Safety in recreational activities should be mentioned."
+     ],
+     "parentId": 21,
+     "subLabels": [
+      {
+       "id": 25,
+       "text": "Walking, jogging",
+       "descriptions": [],
+       "parentId": 24,
+       "subLabels": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "text": "Swimming, cycling, playing musical instruments, table tennis, camping etc",
+   "descriptions": [],
+   "parentId": 15,
+   "subLabels": [
+    {
+     "id": 27,
+     "text": "(d)  differences between recreational activities and lifetime",
+     "descriptions": [],
+     "parentId": 26,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 28,
+   "text": "Sports",
+   "descriptions": [
+    "Differences between intramural and extramural activities, minor and major games and sports should be emphasized."
+   ],
+   "parentId": 15,
+   "subLabels": [
+    {
+     "id": 29,
+     "text": "4. intramural and",
+     "descriptions": [],
+     "parentId": 28,
+     "subLabels": []
+    },
+    {
+     "id": 30,
+     "text": "4. intramural and",
+     "descriptions": [],
+     "parentId": 28,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 33,
+   "text": "(a)  definitions of",
+   "descriptions": [
+    "The role of lead up games and games of low organization should be mentioned. Advantages and disadvantages of each type of tournament."
+   ],
+   "parentId": 32,
+   "subLabels": [
+    {
+     "id": 34,
+     "text": "(i)   intramural",
+     "descriptions": [],
+     "parentId": 33,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 35,
+   "text": "Activities",
+   "descriptions": [],
+   "parentId": 32,
+   "subLabels": [
+    {
+     "id": 36,
+     "text": "(ii)   extramural",
+     "descriptions": [],
+     "parentId": 35,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 37,
+   "text": "Activities",
+   "descriptions": [],
+   "parentId": 32,
+   "subLabels": [
+    {
+     "id": 38,
+     "text": "(b)   benefit of intramural",
+     "descriptions": [],
+     "parentId": 37,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 39,
+   "text": "And extramural activities",
+   "descriptions": [],
+   "parentId": 32,
+   "subLabels": [
+    {
+     "id": 40,
+     "text": "(c)   (i)  definition of tournament",
+     "descriptions": [],
+     "parentId": 39,
+     "subLabels": [
+      {
+       "id": 41,
+       "text": "(ii)  types of tournament",
+       "descriptions": [],
+       "parentId": 40,
+       "subLabels": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 42,
+   "text": "5 .   traditional sports in",
+   "descriptions": [],
+   "parentId": 32,
+   "subLabels": []
+  },
+  {
+   "id": 50,
+   "text": "Sports championship at national level",
+   "descriptions": [
+    "Reference should be made to the origin and significance of these festivals. The origin and importance of the Olympic Games to the social and political life of the ancient Greek should be discussed. Emphasis to be placed on Sparta and Athens."
+   ],
+   "parentId": 49,
+   "subLabels": []
+  },
+  {
+   "id": 51,
+   "text": "Types of championship",
+   "descriptions": [],
+   "parentId": 49,
+   "subLabels": []
+  },
+  {
+   "id": 55,
+   "text": "History of all africa games reasons for disparity in the timing of the games history and activities of supreme council of sports in african (scsa)",
+   "descriptions": [],
+   "parentId": 54,
+   "subLabels": []
+  },
+  {
+   "id": 56,
+   "text": "International competitions",
+   "descriptions": [],
+   "parentId": 54,
+   "subLabels": [
+    {
+     "id": 57,
+     "text": "C. basic human",
+     "descriptions": [],
+     "parentId": 56,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 61,
+   "text": "Main parts and functions of the human skeleton",
+   "descriptions": [
+    "Emphasis should be on history, organization and the governing body of each of the competition. It should be noted that all sports federation have their own international competition and should be stated"
+   ],
+   "parentId": 60,
+   "subLabels": []
+  },
+  {
+   "id": 63,
+   "text": "The brain the spinal cord the nerves",
+   "descriptions": [
+    "Candidates should be able to name the main parts of the human skeleton",
+    "Candidates should be able to list the main bones involved in movement of all the joints. Joints that permit different kinds of movement should be discussed.",
+    "The parts and functions of each organ listed should be discussed.  The simple reflex action should be discussed."
+   ],
+   "parentId": 62,
+   "subLabels": []
+  },
+  {
+   "id": 65,
+   "text": "The hearts muscle effects of exercise on the heart the blood circulation function of blood types of blood circulation",
+   "descriptions": [
+    "Internal and external respiration should be emphasized",
+    "Aerobic and anaerobic activities in relation to respiration should be discussed.",
+    "Name and locations of major muscles should be emphasized"
+   ],
+   "parentId": 64,
+   "subLabels": []
+  },
+  {
+   "id": 67,
+   "text": "The trachea, lungs and nose the functions types of respiration aerobic and anaerobic sports",
+   "descriptions": [
+    "Isotonic and isometric contraction should be emphasized."
+   ],
+   "parentId": 66,
+   "subLabels": []
+  },
+  {
+   "id": 70,
+   "text": "Description of the various body type relationship between body type and physical activities and sports",
+   "descriptions": [],
+   "parentId": 69,
+   "subLabels": []
+  },
+  {
+   "id": 74,
+   "text": "3. racket games",
+   "descriptions": [],
+   "parentId": 73,
+   "subLabels": []
+  },
+  {
+   "id": 75,
+   "text": "(1) (a) tennis",
+   "descriptions": [],
+   "parentId": 73,
+   "subLabels": [
+    {
+     "id": 76,
+     "text": "(b) table tennis",
+     "descriptions": [],
+     "parentId": 75,
+     "subLabels": []
+    },
+    {
+     "id": 77,
+     "text": "(c)   badminton",
+     "descriptions": [],
+     "parentId": 75,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 78,
+   "text": "(i)   specification of court/table",
+   "descriptions": [],
+   "parentId": 73,
+   "subLabels": []
+  },
+  {
+   "id": 79,
+   "text": "Of all games",
+   "descriptions": [],
+   "parentId": 73,
+   "subLabels": [
+    {
+     "id": 80,
+     "text": "(ii)   types of equipment used",
+     "descriptions": [],
+     "parentId": 79,
+     "subLabels": []
+    },
+    {
+     "id": 81,
+     "text": "(iii)  skills involved in each",
+     "descriptions": [],
+     "parentId": 79,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 82,
+   "text": "Game",
+   "descriptions": [],
+   "parentId": 73,
+   "subLabels": [
+    {
+     "id": 83,
+     "text": "(iv)  rules and regulations",
+     "descriptions": [],
+     "parentId": 82,
+     "subLabels": []
+    },
+    {
+     "id": 84,
+     "text": "(v)   officiating",
+     "descriptions": [],
+     "parentId": 82,
+     "subLabels": []
+    },
+    {
+     "id": 85,
+     "text": "4. traditional dances",
+     "descriptions": [
+      "Safety precaution involved in each game should be discussed."
+     ],
+     "parentId": 82,
+     "subLabels": [
+      {
+       "id": 86,
+       "text": "(a)  dances from the regions",
+       "descriptions": [],
+       "parentId": 85,
+       "subLabels": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 87,
+   "text": "Of each country",
+   "descriptions": [
+    "Candidates should be able to draw and label standard courts/playing areas and equipment. terminologies in each game should be explained."
+   ],
+   "parentId": 73,
+   "subLabels": [
+    {
+     "id": 88,
+     "text": "(b)  costumes for various",
+     "descriptions": [],
+     "parentId": 87,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 89,
+   "text": "Dances",
+   "descriptions": [],
+   "parentId": 73,
+   "subLabels": [
+    {
+     "id": 90,
+     "text": "(c)   types of traditional dance",
+     "descriptions": [],
+     "parentId": 89,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 91,
+   "text": "And dance step",
+   "descriptions": [
+    "Duties of officials in each game should be discussed. The application of the rules and regulations should be discussed Skills in each game should demonstrate and practised"
+   ],
+   "parentId": 73,
+   "subLabels": [
+    {
+     "id": 92,
+     "text": "E. physical fitness",
+     "descriptions": [],
+     "parentId": 91,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 95,
+   "text": "Definition of physical fitness components of physical fitness physical fitness examples of health related and performance/skill related components of physical fitness benefits of physical activity, exercise and physical fitness",
+   "descriptions": [
+    "Candidates should be able to draw and label standard court and playing areas and demonstrated the skills involved in each game.",
+    "The application of the rules and regulations should be discussed. Teachers should demonstrate coaching points emphasized. Pupils should practice. Game situation should be encouraged."
+   ],
+   "parentId": 94,
+   "subLabels": []
+  },
+  {
+   "id": 98,
+   "text": "Importance of health in physical education care of the body sportswear",
+   "descriptions": [
+    "Qualities of good health should be mentioned.",
+    "The importance of keeping the body clean before, during and after exercise should be emphasized.",
+    "The importance of selecting appropriate sportswear for difference sports and games should be emphasized.",
+    "Reference should be made to the effect of good and bad sportswear on the body."
+   ],
+   "parentId": 97,
+   "subLabels": [
+    {
+     "id": 99,
+     "text": "F. nutrition, drug and",
+     "descriptions": [
+      "Emphasis should be on pre-game nutrition role of carbohydrate in sports"
+     ],
+     "parentId": 98,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 102,
+   "text": "Classes of food nutrients balanced diet dietary consideration in sports",
+   "descriptions": [
+    "Emphasis should be placed on: Stimulants, narcotics, hallucinogen, sedatives and ergogenic aids."
+   ],
+   "parentId": 101,
+   "subLabels": []
+  },
+  {
+   "id": 104,
+   "text": "Meaning of drug types of drug drug use and misuse the effect of drug on sports performance",
+   "descriptions": [],
+   "parentId": 103,
+   "subLabels": []
+  },
+  {
+   "id": 106,
+   "text": "Common sports injuries",
+   "descriptions": [],
+   "parentId": 105,
+   "subLabels": [
+    {
+     "id": 107,
+     "text": "(i) special conditions",
+     "descriptions": [],
+     "parentId": 106,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 108,
+   "text": "And solutions that require first aid",
+   "descriptions": [
+    "Candidates should be able to identify kinds of sports injuries and explain the causes, symptoms, management and prevention of each injury."
+   ],
+   "parentId": 105,
+   "subLabels": [
+    {
+     "id": 109,
+     "text": "(ii)sportswear",
+     "descriptions": [
+      "Candidates should be able to define and apply first aid to sports injury.  They should also be able to list the contents of a first aid box."
+     ],
+     "parentId": 108,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 112,
+   "text": "Definitions categories of people with special needs corrective exercise activities for the special needs social and emotional problems of the special needs",
+   "descriptions": [
+    "Pupils should be made aware of the use, care and maintenance of sportswear. The role of sportswear in regulating body temperature before, during and after exercise should be discussed.",
+    "The management for each of these should be discussed.",
+    "The different types and application of artificial respiration should be discussed.",
+    "The need for safety precautions in physical education should be discussed."
+   ],
+   "parentId": 111,
+   "subLabels": [
+    {
+     "id": 113,
+     "text": "G. sports",
+     "descriptions": [
+      "Administrative chart and organogram at different institutional levels should be emphasized."
+     ],
+     "parentId": 112,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 115,
+   "text": "Administrative",
+   "descriptions": [],
+   "parentId": 114,
+   "subLabels": []
+  },
+  {
+   "id": 116,
+   "text": "Structure/functions of sports at national, regional/state and local government level",
+   "descriptions": [],
+   "parentId": 114,
+   "subLabels": [
+    {
+     "id": 117,
+     "text": "Administrative structure/function of sports at institution level",
+     "descriptions": [],
+     "parentId": 116,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "text": "Education",
+   "descriptions": [],
+   "parentId": 10,
+   "subLabels": []
+  },
+  {
+   "id": 14,
+   "text": "2. physical education",
+   "descriptions": [
+    "Emphases should be on Hetherington, Dudley Sergent, Thomas Wood and"
+   ],
+   "parentId": 13,
+   "subLabels": []
+  },
+  {
+   "id": 19,
+   "text": "(a)  definition and importance",
+   "descriptions": [],
+   "parentId": 18,
+   "subLabels": []
+  },
+  {
+   "id": 20,
+   "text": "(b)   types of recreational",
+   "descriptions": [
+    "Differences between work, rest, recreation, leisure and sports should be emphasized"
+   ],
+   "parentId": 18,
+   "subLabels": []
+  },
+  {
+   "id": 22,
+   "text": "(i)  indoor",
+   "descriptions": [
+    "Candidates should be able to differentiate between indoor and outdoor recreation."
+   ],
+   "parentId": 21,
+   "subLabels": []
+  },
+  {
+   "id": 23,
+   "text": "(ii)  outdoor",
+   "descriptions": [],
+   "parentId": 21,
+   "subLabels": []
+  },
+  {
+   "id": 24,
+   "text": "(c)  recreational activities",
+   "descriptions": [
+    "The role of recreational activities in the life of an individual and the society should be emphasized. Safety in recreational activities should be mentioned."
+   ],
+   "parentId": 21,
+   "subLabels": [
+    {
+     "id": 25,
+     "text": "Walking, jogging",
+     "descriptions": [],
+     "parentId": 24,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "text": "(d)  differences between recreational activities and lifetime",
+   "descriptions": [],
+   "parentId": 26,
+   "subLabels": []
+  },
+  {
+   "id": 29,
+   "text": "4. intramural and",
+   "descriptions": [],
+   "parentId": 28,
+   "subLabels": []
+  },
+  {
+   "id": 30,
+   "text": "4. intramural and",
+   "descriptions": [],
+   "parentId": 28,
+   "subLabels": []
+  },
+  {
+   "id": 34,
+   "text": "(i)   intramural",
+   "descriptions": [],
+   "parentId": 33,
+   "subLabels": []
+  },
+  {
+   "id": 36,
+   "text": "(ii)   extramural",
+   "descriptions": [],
+   "parentId": 35,
+   "subLabels": []
+  },
+  {
+   "id": 38,
+   "text": "(b)   benefit of intramural",
+   "descriptions": [],
+   "parentId": 37,
+   "subLabels": []
+  },
+  {
+   "id": 40,
+   "text": "(c)   (i)  definition of tournament",
+   "descriptions": [],
+   "parentId": 39,
+   "subLabels": [
+    {
+     "id": 41,
+     "text": "(ii)  types of tournament",
+     "descriptions": [],
+     "parentId": 40,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 57,
+   "text": "C. basic human",
+   "descriptions": [],
+   "parentId": 56,
+   "subLabels": []
+  },
+  {
+   "id": 76,
+   "text": "(b) table tennis",
+   "descriptions": [],
+   "parentId": 75,
+   "subLabels": []
+  },
+  {
+   "id": 77,
+   "text": "(c)   badminton",
+   "descriptions": [],
+   "parentId": 75,
+   "subLabels": []
+  },
+  {
+   "id": 80,
+   "text": "(ii)   types of equipment used",
+   "descriptions": [],
+   "parentId": 79,
+   "subLabels": []
+  },
+  {
+   "id": 81,
+   "text": "(iii)  skills involved in each",
+   "descriptions": [],
+   "parentId": 79,
+   "subLabels": []
+  },
+  {
+   "id": 83,
+   "text": "(iv)  rules and regulations",
+   "descriptions": [],
+   "parentId": 82,
+   "subLabels": []
+  },
+  {
+   "id": 84,
+   "text": "(v)   officiating",
+   "descriptions": [],
+   "parentId": 82,
+   "subLabels": []
+  },
+  {
+   "id": 85,
+   "text": "4. traditional dances",
+   "descriptions": [
+    "Safety precaution involved in each game should be discussed."
+   ],
+   "parentId": 82,
+   "subLabels": [
+    {
+     "id": 86,
+     "text": "(a)  dances from the regions",
+     "descriptions": [],
+     "parentId": 85,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 88,
+   "text": "(b)  costumes for various",
+   "descriptions": [],
+   "parentId": 87,
+   "subLabels": []
+  },
+  {
+   "id": 90,
+   "text": "(c)   types of traditional dance",
+   "descriptions": [],
+   "parentId": 89,
+   "subLabels": []
+  },
+  {
+   "id": 92,
+   "text": "E. physical fitness",
+   "descriptions": [],
+   "parentId": 91,
+   "subLabels": []
+  },
+  {
+   "id": 99,
+   "text": "F. nutrition, drug and",
+   "descriptions": [
+    "Emphasis should be on pre-game nutrition role of carbohydrate in sports"
+   ],
+   "parentId": 98,
+   "subLabels": []
+  },
+  {
+   "id": 107,
+   "text": "(i) special conditions",
+   "descriptions": [],
+   "parentId": 106,
+   "subLabels": []
+  },
+  {
+   "id": 109,
+   "text": "(ii)sportswear",
+   "descriptions": [
+    "Candidates should be able to define and apply first aid to sports injury.  They should also be able to list the contents of a first aid box."
+   ],
+   "parentId": 108,
+   "subLabels": []
+  },
+  {
+   "id": 113,
+   "text": "G. sports",
+   "descriptions": [
+    "Administrative chart and organogram at different institutional levels should be emphasized."
+   ],
+   "parentId": 112,
+   "subLabels": []
+  },
+  {
+   "id": 117,
+   "text": "Administrative structure/function of sports at institution level",
+   "descriptions": [],
+   "parentId": 116,
+   "subLabels": []
+  },
+  {
+   "id": 25,
+   "text": "Walking, jogging",
+   "descriptions": [],
+   "parentId": 24,
+   "subLabels": []
+  },
+  {
+   "id": 41,
+   "text": "(ii)  types of tournament",
+   "descriptions": [],
+   "parentId": 40,
+   "subLabels": []
+  },
+  {
+   "id": 86,
+   "text": "(a)  dances from the regions",
+   "descriptions": [],
+   "parentId": 85,
+   "subLabels": []
+  }
+ ]
+}

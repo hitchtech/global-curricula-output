@@ -1,1 +1,3141 @@
-{"subject": "subject", "Grade": "SS3", "Curriculum": "WASSCE", "labelsTree": [{"id": 2, "text": "Detailed syllabus", "descriptions": null, "parentId": -1, "subLabels": [{"id": 3, "text": "1 2 3 4", "descriptions": ["Safety and first aid in the workshop.", "Energy, matter and power.", "(a)    Energy", "(b)    Nature of matter.", "Temperature and pressure.", "(a)    Temperature and          its", "measurement", "Refrigeration and air conditioning systems.", "(a)   Introduction to refrigeration."], "parentId": 2, "subLabels": [{"id": 4, "text": "5", "descriptions": ["Compressors, Condenses and Evaporators", "(a)    Compressors", "(b)    Condensers."], "parentId": 3, "subLabels": []}, {"id": 5, "text": "6", "descriptions": ["Workshop practices.", "(a)    Basic tools used in refrigeration and         air-", "conditioning         workshops", "(b)    Fault diagnosis and trouble shooting."], "parentId": 3, "subLabels": []}]}, {"id": 6, "text": "7", "descriptions": ["Installation processes", "(a)    Piping, Ducting and Trunking", "(b)   Motors and generators", "(c)   Cold room"], "parentId": 2, "subLabels": [{"id": 7, "text": "8", "descriptions": ["Insulation processes Insulation of refrigeration and air-conditioning system."], "parentId": 6, "subLabels": []}, {"id": 8, "text": "9", "descriptions": ["Entrepreneurship.", "(a)    Business concept.", "(b)    Marketing", "(c)    Accounting"], "parentId": 6, "subLabels": []}]}]}], "labels": [{"id": 9, "text": "2. basic electricity", "descriptions": null, "parentId": -1, "subLabels": [{"id": 10, "text": "2.1 structure of matter", "descriptions": ["Concept of safety Sources of hazards Treatments should include electric shock, damp or wet floor, wrong handling of tools, improper workshop dressing, horse play in the workshop"], "parentId": 9, "subLabels": []}, {"id": 11, "text": "2.2 conductors, insulators", "descriptions": [], "parentId": 9, "subLabels": []}, {"id": 12, "text": "And semiconductors", "descriptions": ["Preparation of work areas"], "parentId": 9, "subLabels": [{"id": 13, "text": "2.3 current, voltage and resistance", "descriptions": [], "parentId": 12, "subLabels": []}, {"id": 14, "text": "2.4 electronic components", "descriptions": [], "parentId": 12, "subLabels": []}, {"id": 15, "text": "2.5 resistors and capacitors", "descriptions": [], "parentId": 12, "subLabels": []}, {"id": 16, "text": "2.6 kirchhoff\u2019s  current and voltage laws", "descriptions": [], "parentId": 12, "subLabels": []}, {"id": 17, "text": "2.7 diodes and transistors", "descriptions": [], "parentId": 12, "subLabels": []}, {"id": 18, "text": "2.8 battery", "descriptions": [], "parentId": 12, "subLabels": []}, {"id": 19, "text": "2.9 ohm\u2019s law", "descriptions": [], "parentId": 12, "subLabels": []}, {"id": 20, "text": "2.10 electric power", "descriptions": [], "parentId": 12, "subLabels": []}, {"id": 21, "text": "2.11 direct and alternating", "descriptions": [], "parentId": 12, "subLabels": []}]}, {"id": 22, "text": "Current", "descriptions": [], "parentId": 9, "subLabels": [{"id": 23, "text": "2.12 alternating waveform", "descriptions": [], "parentId": 22, "subLabels": []}]}, {"id": 24, "text": "3. electronic tools and capacitor discharges working on power lines and live circuits", "descriptions": [], "parentId": 9, "subLabels": [{"id": 25, "text": "Handling of tools", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 26, "text": "Power supplies in t.v", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 27, "text": "Picture tube", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 28, "text": "High voltage section", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 29, "text": "Component rating", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 30, "text": "Definition and structure of matter", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 31, "text": "Atomic structure", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 32, "text": "Qualitative treatment only - definition and uses", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 33, "text": "Definition, units and symbols of voltage, current and resistance", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 34, "text": "Laws of attraction and repulsion of charges", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 35, "text": "Identification of components by name, type, graphical symbol, value and rating", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 36, "text": "Treatments should include resistors, capacitors, inductors, diodes, transformers, transistors, integrated circuit etc", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 37, "text": "Graphical symbols, types, values and ratings", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 38, "text": "Colour code of  resistors and capacitors", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 39, "text": "Comparison between meter measured and colour code values", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 40, "text": "Testing of capacitors", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 41, "text": "Concepts, definitions and calculations", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 42, "text": "Types, graphical symbols and structure", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 43, "text": "Treatments should include testing for diodes and transistor configuration (cc,ce and cb)", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 44, "text": "Graphical symbol of a battery( primary cell and secondary cell) and types", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 45, "text": "Testing of battery", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 46, "text": "Treatments should include difference between wet and dry cells", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 47, "text": "Definition", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 48, "text": "Symbols and relationship between voltage, current and resistance", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 49, "text": "Resistors in series and parallel", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 50, "text": "Definition, measurement and calculation", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 51, "text": "Definitions, difference, uses and measurement of d.c. and a.c", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 52, "text": "Definition and calculation", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 53, "text": "Treatments should include r.m.s., peak, and average values, frequency and period in an a.c. waveform", "descriptions": [], "parentId": 24, "subLabels": []}]}]}, {"id": 54, "text": "3. electronic tools and instruments", "descriptions": null, "parentId": -1, "subLabels": [{"id": 55, "text": "3.1 electronic hand tools", "descriptions": ["period in an a.c. waveform", "Types and uses Treatments should include screw drivers, diagonal cutters, soldering gun, soldering iron, lead sucker or de- soldering tools, pocket knife, stripper and soldering wick"], "parentId": 54, "subLabels": []}, {"id": 56, "text": "3.2 electronic measuring", "descriptions": ["Identification, uses and operation Treatments should include voltmeter, ammeter, ohmmeter, multi meter Basic a.c. and d.c. circuit, measurements of voltage, current and resistance Ohmmeter for testing semiconductor devices Identification of faulty meter"], "parentId": 54, "subLabels": []}, {"id": 57, "text": "Instruments", "descriptions": [], "parentId": 54, "subLabels": [{"id": 58, "text": "3.3 fault finding equipment", "descriptions": ["Identification, uses and operation Treatments should include oscilloscope, signal tracer, digital frequency counter, logic probe, TV analyzer", "Definition"], "parentId": 57, "subLabels": []}]}]}, {"id": 59, "text": "4. electronics devices and circuits", "descriptions": null, "parentId": -1, "subLabels": [{"id": 60, "text": "4.1 meaning of electronics", "descriptions": ["Definition and application Treatments should include types of emission e.g. Thermionic, photoelectric, field and secondary"], "parentId": 59, "subLabels": []}, {"id": 61, "text": "And electronic circuit", "descriptions": ["Semiconductor theory  and types Semiconductor diodes Treatment should include rectification, principles of operation, characteristics and application"], "parentId": 59, "subLabels": [{"id": 62, "text": "4.2 concept of emission and photoelectric devices", "descriptions": ["Principle and operation, schematic diagram Rectification and types Filters Construction of stabilized low d.c. power supply unit"], "parentId": 61, "subLabels": []}, {"id": 63, "text": "4.3 semiconductors devices", "descriptions": ["Operation, construction and uses of Class A, B, C and AB amplifiers"], "parentId": 61, "subLabels": []}, {"id": 64, "text": "4.4 power supply unit", "descriptions": ["Quantitative treatments only", "Concept of feedback Differences between types and their advantages Effect of a positive feedback on amplifiers, bandwidth, noise, gain and distortion"], "parentId": 61, "subLabels": []}, {"id": 65, "text": "4.5 amplifiers", "descriptions": ["Principle and types of oscillator Construction of a typical oscillator circuit Types of multivibrator"], "parentId": 61, "subLabels": []}, {"id": 66, "text": "4.6 resistive, inductive", "descriptions": [], "parentId": 61, "subLabels": []}]}, {"id": 67, "text": "Capacitive (rlc) circuits", "descriptions": [], "parentId": 59, "subLabels": []}, {"id": 68, "text": "Capacitive (rlc) circuits", "descriptions": ["Treatments to include astable, bistable and monostable"], "parentId": 59, "subLabels": [{"id": 69, "text": "4.7 feedback", "descriptions": ["Definition and types Block diagram, operation  and function of each stage Noise"], "parentId": 68, "subLabels": []}, {"id": 70, "text": "4.8 oscillators and multivibrators", "descriptions": ["Definition and classification Propagation of radio waves Radio frequency band- VLF, LF, MF, HF, VHF, UHF,SHF and EHF Application of frequency range in electronic communication \u2013 frequency"], "parentId": 68, "subLabels": []}]}]}, {"id": 72, "text": "Communication systems", "descriptions": null, "parentId": -1, "subLabels": [{"id": 73, "text": "5.1 electronic", "descriptions": ["Definition, types and functions Treatments should include loudspeaker, microphone, video camera, video display unit(cathode ray tube(CRT),Liquid Crystal Display(LCD))"], "parentId": 72, "subLabels": []}, {"id": 74, "text": "Communication systems", "descriptions": ["Definition, principle of operation and types of modulation AM and FM  waveforms and envelopes Percentage of modulation \u2013 modulation index and modulation factor"], "parentId": 72, "subLabels": [{"id": 75, "text": "5.2 electromagnetic", "descriptions": [], "parentId": 74, "subLabels": []}]}, {"id": 76, "text": "Spectrum", "descriptions": ["Meaning and function of carrier wave in radio communication. Definition and types of demodulation", "Function(s) and operation Block diagram and function of each stage Types of radio receivers \u2013 Tuned Radio Receiver(TRF), super heterodyne receivers(FM and AM) Advantages and disadvantages of each"], "parentId": 72, "subLabels": [{"id": 77, "text": "5.3 transducer", "descriptions": ["Definition Concept and function of tuner in radio receiver Identification of tuner stage in radio receiver", "Definition, types of resonance ( series and parallel) Concept of bandwidth and bandwidth ranges Calculation involving frequency ranges to determine bandwidth Treatments should include derivation of the formula for resonant frequency"], "parentId": 76, "subLabels": []}, {"id": 78, "text": "5.4 modulation and demodulation", "descriptions": ["Elements and types Transmission and reception Antenna", "Working principle Block diagram Stages"], "parentId": 76, "subLabels": []}, {"id": 79, "text": "5.5 radio transmitter and", "descriptions": [], "parentId": 76, "subLabels": []}, {"id": 80, "text": "5.5 radio transmitter and receiver", "descriptions": [], "parentId": 76, "subLabels": []}, {"id": 81, "text": "5.6 selectivity and sensitivity", "descriptions": [], "parentId": 76, "subLabels": []}, {"id": 82, "text": "5.7 resonant circuit", "descriptions": [], "parentId": 76, "subLabels": []}, {"id": 83, "text": "5.8 satellite communication", "descriptions": [], "parentId": 76, "subLabels": []}]}, {"id": 84, "text": "Systems", "descriptions": [], "parentId": 72, "subLabels": [{"id": 85, "text": "5.9 television transmitter", "descriptions": [], "parentId": 84, "subLabels": []}, {"id": 86, "text": "5.10 image and sound", "descriptions": [], "parentId": 84, "subLabels": []}]}, {"id": 87, "text": "Reproduction in tv receiver", "descriptions": [], "parentId": 72, "subLabels": [{"id": 88, "text": "5.11 monochrome", "descriptions": [], "parentId": 87, "subLabels": []}]}, {"id": 89, "text": "Television receiver", "descriptions": [], "parentId": 72, "subLabels": [{"id": 90, "text": "5.12 principles of operation", "descriptions": [], "parentId": 89, "subLabels": []}]}, {"id": 91, "text": "Of colour television", "descriptions": [], "parentId": 72, "subLabels": [{"id": 92, "text": "Receiver", "descriptions": [], "parentId": 91, "subLabels": []}, {"id": 93, "text": "5.13 principle of colour", "descriptions": [], "parentId": 91, "subLabels": []}]}, {"id": 94, "text": "Signal, transmission and reception", "descriptions": [], "parentId": 72, "subLabels": [{"id": 95, "text": "6. workshop practice and principle of scanning video signals", "descriptions": [], "parentId": 94, "subLabels": [{"id": 96, "text": "Principle of fm detection", "descriptions": [], "parentId": 95, "subLabels": []}, {"id": 97, "text": "Concept of television", "descriptions": [], "parentId": 95, "subLabels": []}, {"id": 98, "text": "Function and operation", "descriptions": [], "parentId": 95, "subLabels": []}, {"id": 99, "text": "Application of television system", "descriptions": [], "parentId": 95, "subLabels": []}, {"id": 100, "text": "Block diagram and function of each stage", "descriptions": [], "parentId": 95, "subLabels": []}, {"id": 101, "text": "Processing of picture and sound signal", "descriptions": [], "parentId": 95, "subLabels": []}, {"id": 102, "text": "Primary colours  in television", "descriptions": [], "parentId": 95, "subLabels": []}, {"id": 103, "text": "Colour television systems and standards \u2013 pal, secam and ntsc", "descriptions": [], "parentId": 95, "subLabels": []}, {"id": 104, "text": "Colour signal components", "descriptions": [], "parentId": 95, "subLabels": [{"id": 105, "text": "Techniques and precautions", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 106, "text": "Types of solder", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 107, "text": "Types of flux \u2013 amber resin and nacl solutions", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 108, "text": "Dismantling and reassembling of power supply unit in a radio set", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 109, "text": "Dismantling and reassembling rf, if detector", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 110, "text": "Stages in a radio receiver set", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 111, "text": "Af amplifier circuit", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 112, "text": "Installation and maintenance of a car radio set", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 113, "text": "Diagnose fault by using fault finding pieces of equipment and logical trouble shooting procedure", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 114, "text": "Components responsible for faults", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 115, "text": "Remedies for the faults", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 116, "text": "Alignment of rf and if stages of a radio set using the necessary equipment and tools", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 117, "text": "Use of multimeter", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 118, "text": "Treatments should include measurement of the correct value of current, voltage and resistance in active and passive electronic components and circuits", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 119, "text": "Procedure for tv repairs", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 120, "text": "Use of service information manual and circuit diagram", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 121, "text": "Identification of symptoms and repair of faults", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 122, "text": "Fault clearing instruments", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 123, "text": "Symptoms of faults", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 124, "text": "Fault clearing at each stage", "descriptions": [], "parentId": 104, "subLabels": []}]}]}]}]}, {"id": 125, "text": "6. workshop practice and maintenance", "descriptions": null, "parentId": -1, "subLabels": [{"id": 126, "text": "6.1 soldering and desoldering in electronic", "descriptions": ["Static and dynamic colour convergence comparison Colour bar generator and signal testing"], "parentId": 125, "subLabels": [{"id": 127, "text": "Circuits", "descriptions": [], "parentId": 126, "subLabels": []}]}, {"id": 128, "text": "6.2 electronic repairs", "descriptions": ["Accounting practices Cost benefit analysis Purchasing method Business records(Accounting ledger, Repair order form, Inventory sheet) Sources of capital e.g. Banks and Credit Unions"], "parentId": 125, "subLabels": []}, {"id": 129, "text": "6.3 fault finding and repairs", "descriptions": ["Daily appearance at work Customer psychology Working relations Telephone courtesy"], "parentId": 125, "subLabels": []}, {"id": 130, "text": "In radio receiver", "descriptions": ["Business Opportunities in Radio and TV Work Satellite installation Electronic specialist Radio and TV consultant Radio and TV technician Sales and Service Craft man Antenna and TV installation work"], "parentId": 125, "subLabels": [{"id": 131, "text": "6.4 electronic measuring", "descriptions": [], "parentId": 130, "subLabels": []}]}, {"id": 132, "text": "Instruments", "descriptions": [], "parentId": 125, "subLabels": [{"id": 133, "text": "6.5 diagnosis and repair of black and white tv", "descriptions": [], "parentId": 132, "subLabels": [{"id": 134, "text": "Receiver", "descriptions": [], "parentId": 133, "subLabels": []}]}, {"id": 135, "text": "6.6 diagnose and repair of a colour television", "descriptions": [], "parentId": 132, "subLabels": [{"id": 136, "text": "Receiver", "descriptions": [], "parentId": 135, "subLabels": []}]}]}]}, {"id": 138, "text": "Radio, television and electronic works", "descriptions": null, "parentId": -1, "subLabels": [{"id": 139, "text": "7.1 business management", "descriptions": [], "parentId": 138, "subLabels": []}, {"id": 140, "text": "And finance", "descriptions": [], "parentId": 138, "subLabels": [{"id": 141, "text": "7.2 customer relations", "descriptions": [], "parentId": 140, "subLabels": []}, {"id": 142, "text": "7.3 business opportunities", "descriptions": [], "parentId": 140, "subLabels": []}]}, {"id": 143, "text": "In radio, tv and electronics works", "descriptions": [], "parentId": 138, "subLabels": []}]}, {"id": 10, "text": "2.1 structure of matter", "descriptions": ["Concept of safety Sources of hazards Treatments should include electric shock, damp or wet floor, wrong handling of tools, improper workshop dressing, horse play in the workshop"], "parentId": 9, "subLabels": []}, {"id": 11, "text": "2.2 conductors, insulators", "descriptions": [], "parentId": 9, "subLabels": []}, {"id": 12, "text": "And semiconductors", "descriptions": ["Preparation of work areas"], "parentId": 9, "subLabels": [{"id": 13, "text": "2.3 current, voltage and resistance", "descriptions": [], "parentId": 12, "subLabels": []}, {"id": 14, "text": "2.4 electronic components", "descriptions": [], "parentId": 12, "subLabels": []}, {"id": 15, "text": "2.5 resistors and capacitors", "descriptions": [], "parentId": 12, "subLabels": []}, {"id": 16, "text": "2.6 kirchhoff\u2019s  current and voltage laws", "descriptions": [], "parentId": 12, "subLabels": []}, {"id": 17, "text": "2.7 diodes and transistors", "descriptions": [], "parentId": 12, "subLabels": []}, {"id": 18, "text": "2.8 battery", "descriptions": [], "parentId": 12, "subLabels": []}, {"id": 19, "text": "2.9 ohm\u2019s law", "descriptions": [], "parentId": 12, "subLabels": []}, {"id": 20, "text": "2.10 electric power", "descriptions": [], "parentId": 12, "subLabels": []}, {"id": 21, "text": "2.11 direct and alternating", "descriptions": [], "parentId": 12, "subLabels": []}]}, {"id": 22, "text": "Current", "descriptions": [], "parentId": 9, "subLabels": [{"id": 23, "text": "2.12 alternating waveform", "descriptions": [], "parentId": 22, "subLabels": []}]}, {"id": 24, "text": "3. electronic tools and capacitor discharges working on power lines and live circuits", "descriptions": [], "parentId": 9, "subLabels": [{"id": 25, "text": "Handling of tools", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 26, "text": "Power supplies in t.v", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 27, "text": "Picture tube", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 28, "text": "High voltage section", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 29, "text": "Component rating", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 30, "text": "Definition and structure of matter", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 31, "text": "Atomic structure", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 32, "text": "Qualitative treatment only - definition and uses", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 33, "text": "Definition, units and symbols of voltage, current and resistance", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 34, "text": "Laws of attraction and repulsion of charges", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 35, "text": "Identification of components by name, type, graphical symbol, value and rating", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 36, "text": "Treatments should include resistors, capacitors, inductors, diodes, transformers, transistors, integrated circuit etc", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 37, "text": "Graphical symbols, types, values and ratings", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 38, "text": "Colour code of  resistors and capacitors", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 39, "text": "Comparison between meter measured and colour code values", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 40, "text": "Testing of capacitors", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 41, "text": "Concepts, definitions and calculations", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 42, "text": "Types, graphical symbols and structure", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 43, "text": "Treatments should include testing for diodes and transistor configuration (cc,ce and cb)", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 44, "text": "Graphical symbol of a battery( primary cell and secondary cell) and types", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 45, "text": "Testing of battery", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 46, "text": "Treatments should include difference between wet and dry cells", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 47, "text": "Definition", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 48, "text": "Symbols and relationship between voltage, current and resistance", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 49, "text": "Resistors in series and parallel", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 50, "text": "Definition, measurement and calculation", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 51, "text": "Definitions, difference, uses and measurement of d.c. and a.c", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 52, "text": "Definition and calculation", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 53, "text": "Treatments should include r.m.s., peak, and average values, frequency and period in an a.c. waveform", "descriptions": [], "parentId": 24, "subLabels": []}]}, {"id": 55, "text": "3.1 electronic hand tools", "descriptions": ["period in an a.c. waveform", "Types and uses Treatments should include screw drivers, diagonal cutters, soldering gun, soldering iron, lead sucker or de- soldering tools, pocket knife, stripper and soldering wick"], "parentId": 54, "subLabels": []}, {"id": 56, "text": "3.2 electronic measuring", "descriptions": ["Identification, uses and operation Treatments should include voltmeter, ammeter, ohmmeter, multi meter Basic a.c. and d.c. circuit, measurements of voltage, current and resistance Ohmmeter for testing semiconductor devices Identification of faulty meter"], "parentId": 54, "subLabels": []}, {"id": 57, "text": "Instruments", "descriptions": [], "parentId": 54, "subLabels": [{"id": 58, "text": "3.3 fault finding equipment", "descriptions": ["Identification, uses and operation Treatments should include oscilloscope, signal tracer, digital frequency counter, logic probe, TV analyzer", "Definition"], "parentId": 57, "subLabels": []}]}, {"id": 60, "text": "4.1 meaning of electronics", "descriptions": ["Definition and application Treatments should include types of emission e.g. Thermionic, photoelectric, field and secondary"], "parentId": 59, "subLabels": []}, {"id": 61, "text": "And electronic circuit", "descriptions": ["Semiconductor theory  and types Semiconductor diodes Treatment should include rectification, principles of operation, characteristics and application"], "parentId": 59, "subLabels": [{"id": 62, "text": "4.2 concept of emission and photoelectric devices", "descriptions": ["Principle and operation, schematic diagram Rectification and types Filters Construction of stabilized low d.c. power supply unit"], "parentId": 61, "subLabels": []}, {"id": 63, "text": "4.3 semiconductors devices", "descriptions": ["Operation, construction and uses of Class A, B, C and AB amplifiers"], "parentId": 61, "subLabels": []}, {"id": 64, "text": "4.4 power supply unit", "descriptions": ["Quantitative treatments only", "Concept of feedback Differences between types and their advantages Effect of a positive feedback on amplifiers, bandwidth, noise, gain and distortion"], "parentId": 61, "subLabels": []}, {"id": 65, "text": "4.5 amplifiers", "descriptions": ["Principle and types of oscillator Construction of a typical oscillator circuit Types of multivibrator"], "parentId": 61, "subLabels": []}, {"id": 66, "text": "4.6 resistive, inductive", "descriptions": [], "parentId": 61, "subLabels": []}]}, {"id": 67, "text": "Capacitive (rlc) circuits", "descriptions": [], "parentId": 59, "subLabels": []}, {"id": 68, "text": "Capacitive (rlc) circuits", "descriptions": ["Treatments to include astable, bistable and monostable"], "parentId": 59, "subLabels": [{"id": 69, "text": "4.7 feedback", "descriptions": ["Definition and types Block diagram, operation  and function of each stage Noise"], "parentId": 68, "subLabels": []}, {"id": 70, "text": "4.8 oscillators and multivibrators", "descriptions": ["Definition and classification Propagation of radio waves Radio frequency band- VLF, LF, MF, HF, VHF, UHF,SHF and EHF Application of frequency range in electronic communication \u2013 frequency"], "parentId": 68, "subLabels": []}]}, {"id": 73, "text": "5.1 electronic", "descriptions": ["Definition, types and functions Treatments should include loudspeaker, microphone, video camera, video display unit(cathode ray tube(CRT),Liquid Crystal Display(LCD))"], "parentId": 72, "subLabels": []}, {"id": 74, "text": "Communication systems", "descriptions": ["Definition, principle of operation and types of modulation AM and FM  waveforms and envelopes Percentage of modulation \u2013 modulation index and modulation factor"], "parentId": 72, "subLabels": [{"id": 75, "text": "5.2 electromagnetic", "descriptions": [], "parentId": 74, "subLabels": []}]}, {"id": 76, "text": "Spectrum", "descriptions": ["Meaning and function of carrier wave in radio communication. Definition and types of demodulation", "Function(s) and operation Block diagram and function of each stage Types of radio receivers \u2013 Tuned Radio Receiver(TRF), super heterodyne receivers(FM and AM) Advantages and disadvantages of each"], "parentId": 72, "subLabels": [{"id": 77, "text": "5.3 transducer", "descriptions": ["Definition Concept and function of tuner in radio receiver Identification of tuner stage in radio receiver", "Definition, types of resonance ( series and parallel) Concept of bandwidth and bandwidth ranges Calculation involving frequency ranges to determine bandwidth Treatments should include derivation of the formula for resonant frequency"], "parentId": 76, "subLabels": []}, {"id": 78, "text": "5.4 modulation and demodulation", "descriptions": ["Elements and types Transmission and reception Antenna", "Working principle Block diagram Stages"], "parentId": 76, "subLabels": []}, {"id": 79, "text": "5.5 radio transmitter and", "descriptions": [], "parentId": 76, "subLabels": []}, {"id": 80, "text": "5.5 radio transmitter and receiver", "descriptions": [], "parentId": 76, "subLabels": []}, {"id": 81, "text": "5.6 selectivity and sensitivity", "descriptions": [], "parentId": 76, "subLabels": []}, {"id": 82, "text": "5.7 resonant circuit", "descriptions": [], "parentId": 76, "subLabels": []}, {"id": 83, "text": "5.8 satellite communication", "descriptions": [], "parentId": 76, "subLabels": []}]}, {"id": 84, "text": "Systems", "descriptions": [], "parentId": 72, "subLabels": [{"id": 85, "text": "5.9 television transmitter", "descriptions": [], "parentId": 84, "subLabels": []}, {"id": 86, "text": "5.10 image and sound", "descriptions": [], "parentId": 84, "subLabels": []}]}, {"id": 87, "text": "Reproduction in tv receiver", "descriptions": [], "parentId": 72, "subLabels": [{"id": 88, "text": "5.11 monochrome", "descriptions": [], "parentId": 87, "subLabels": []}]}, {"id": 89, "text": "Television receiver", "descriptions": [], "parentId": 72, "subLabels": [{"id": 90, "text": "5.12 principles of operation", "descriptions": [], "parentId": 89, "subLabels": []}]}, {"id": 91, "text": "Of colour television", "descriptions": [], "parentId": 72, "subLabels": [{"id": 92, "text": "Receiver", "descriptions": [], "parentId": 91, "subLabels": []}, {"id": 93, "text": "5.13 principle of colour", "descriptions": [], "parentId": 91, "subLabels": []}]}, {"id": 94, "text": "Signal, transmission and reception", "descriptions": [], "parentId": 72, "subLabels": [{"id": 95, "text": "6. workshop practice and principle of scanning video signals", "descriptions": [], "parentId": 94, "subLabels": [{"id": 96, "text": "Principle of fm detection", "descriptions": [], "parentId": 95, "subLabels": []}, {"id": 97, "text": "Concept of television", "descriptions": [], "parentId": 95, "subLabels": []}, {"id": 98, "text": "Function and operation", "descriptions": [], "parentId": 95, "subLabels": []}, {"id": 99, "text": "Application of television system", "descriptions": [], "parentId": 95, "subLabels": []}, {"id": 100, "text": "Block diagram and function of each stage", "descriptions": [], "parentId": 95, "subLabels": []}, {"id": 101, "text": "Processing of picture and sound signal", "descriptions": [], "parentId": 95, "subLabels": []}, {"id": 102, "text": "Primary colours  in television", "descriptions": [], "parentId": 95, "subLabels": []}, {"id": 103, "text": "Colour television systems and standards \u2013 pal, secam and ntsc", "descriptions": [], "parentId": 95, "subLabels": []}, {"id": 104, "text": "Colour signal components", "descriptions": [], "parentId": 95, "subLabels": [{"id": 105, "text": "Techniques and precautions", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 106, "text": "Types of solder", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 107, "text": "Types of flux \u2013 amber resin and nacl solutions", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 108, "text": "Dismantling and reassembling of power supply unit in a radio set", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 109, "text": "Dismantling and reassembling rf, if detector", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 110, "text": "Stages in a radio receiver set", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 111, "text": "Af amplifier circuit", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 112, "text": "Installation and maintenance of a car radio set", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 113, "text": "Diagnose fault by using fault finding pieces of equipment and logical trouble shooting procedure", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 114, "text": "Components responsible for faults", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 115, "text": "Remedies for the faults", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 116, "text": "Alignment of rf and if stages of a radio set using the necessary equipment and tools", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 117, "text": "Use of multimeter", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 118, "text": "Treatments should include measurement of the correct value of current, voltage and resistance in active and passive electronic components and circuits", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 119, "text": "Procedure for tv repairs", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 120, "text": "Use of service information manual and circuit diagram", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 121, "text": "Identification of symptoms and repair of faults", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 122, "text": "Fault clearing instruments", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 123, "text": "Symptoms of faults", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 124, "text": "Fault clearing at each stage", "descriptions": [], "parentId": 104, "subLabels": []}]}]}]}, {"id": 126, "text": "6.1 soldering and desoldering in electronic", "descriptions": ["Static and dynamic colour convergence comparison Colour bar generator and signal testing"], "parentId": 125, "subLabels": [{"id": 127, "text": "Circuits", "descriptions": [], "parentId": 126, "subLabels": []}]}, {"id": 128, "text": "6.2 electronic repairs", "descriptions": ["Accounting practices Cost benefit analysis Purchasing method Business records(Accounting ledger, Repair order form, Inventory sheet) Sources of capital e.g. Banks and Credit Unions"], "parentId": 125, "subLabels": []}, {"id": 129, "text": "6.3 fault finding and repairs", "descriptions": ["Daily appearance at work Customer psychology Working relations Telephone courtesy"], "parentId": 125, "subLabels": []}, {"id": 130, "text": "In radio receiver", "descriptions": ["Business Opportunities in Radio and TV Work Satellite installation Electronic specialist Radio and TV consultant Radio and TV technician Sales and Service Craft man Antenna and TV installation work"], "parentId": 125, "subLabels": [{"id": 131, "text": "6.4 electronic measuring", "descriptions": [], "parentId": 130, "subLabels": []}]}, {"id": 132, "text": "Instruments", "descriptions": [], "parentId": 125, "subLabels": [{"id": 133, "text": "6.5 diagnosis and repair of black and white tv", "descriptions": [], "parentId": 132, "subLabels": [{"id": 134, "text": "Receiver", "descriptions": [], "parentId": 133, "subLabels": []}]}, {"id": 135, "text": "6.6 diagnose and repair of a colour television", "descriptions": [], "parentId": 132, "subLabels": [{"id": 136, "text": "Receiver", "descriptions": [], "parentId": 135, "subLabels": []}]}]}, {"id": 139, "text": "7.1 business management", "descriptions": [], "parentId": 138, "subLabels": []}, {"id": 140, "text": "And finance", "descriptions": [], "parentId": 138, "subLabels": [{"id": 141, "text": "7.2 customer relations", "descriptions": [], "parentId": 140, "subLabels": []}, {"id": 142, "text": "7.3 business opportunities", "descriptions": [], "parentId": 140, "subLabels": []}]}, {"id": 143, "text": "In radio, tv and electronics works", "descriptions": [], "parentId": 138, "subLabels": []}, {"id": 13, "text": "2.3 current, voltage and resistance", "descriptions": [], "parentId": 12, "subLabels": []}, {"id": 14, "text": "2.4 electronic components", "descriptions": [], "parentId": 12, "subLabels": []}, {"id": 15, "text": "2.5 resistors and capacitors", "descriptions": [], "parentId": 12, "subLabels": []}, {"id": 16, "text": "2.6 kirchhoff\u2019s  current and voltage laws", "descriptions": [], "parentId": 12, "subLabels": []}, {"id": 17, "text": "2.7 diodes and transistors", "descriptions": [], "parentId": 12, "subLabels": []}, {"id": 18, "text": "2.8 battery", "descriptions": [], "parentId": 12, "subLabels": []}, {"id": 19, "text": "2.9 ohm\u2019s law", "descriptions": [], "parentId": 12, "subLabels": []}, {"id": 20, "text": "2.10 electric power", "descriptions": [], "parentId": 12, "subLabels": []}, {"id": 21, "text": "2.11 direct and alternating", "descriptions": [], "parentId": 12, "subLabels": []}, {"id": 23, "text": "2.12 alternating waveform", "descriptions": [], "parentId": 22, "subLabels": []}, {"id": 25, "text": "Handling of tools", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 26, "text": "Power supplies in t.v", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 27, "text": "Picture tube", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 28, "text": "High voltage section", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 29, "text": "Component rating", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 30, "text": "Definition and structure of matter", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 31, "text": "Atomic structure", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 32, "text": "Qualitative treatment only - definition and uses", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 33, "text": "Definition, units and symbols of voltage, current and resistance", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 34, "text": "Laws of attraction and repulsion of charges", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 35, "text": "Identification of components by name, type, graphical symbol, value and rating", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 36, "text": "Treatments should include resistors, capacitors, inductors, diodes, transformers, transistors, integrated circuit etc", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 37, "text": "Graphical symbols, types, values and ratings", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 38, "text": "Colour code of  resistors and capacitors", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 39, "text": "Comparison between meter measured and colour code values", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 40, "text": "Testing of capacitors", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 41, "text": "Concepts, definitions and calculations", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 42, "text": "Types, graphical symbols and structure", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 43, "text": "Treatments should include testing for diodes and transistor configuration (cc,ce and cb)", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 44, "text": "Graphical symbol of a battery( primary cell and secondary cell) and types", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 45, "text": "Testing of battery", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 46, "text": "Treatments should include difference between wet and dry cells", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 47, "text": "Definition", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 48, "text": "Symbols and relationship between voltage, current and resistance", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 49, "text": "Resistors in series and parallel", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 50, "text": "Definition, measurement and calculation", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 51, "text": "Definitions, difference, uses and measurement of d.c. and a.c", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 52, "text": "Definition and calculation", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 53, "text": "Treatments should include r.m.s., peak, and average values, frequency and period in an a.c. waveform", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 58, "text": "3.3 fault finding equipment", "descriptions": ["Identification, uses and operation Treatments should include oscilloscope, signal tracer, digital frequency counter, logic probe, TV analyzer", "Definition"], "parentId": 57, "subLabels": []}, {"id": 62, "text": "4.2 concept of emission and photoelectric devices", "descriptions": ["Principle and operation, schematic diagram Rectification and types Filters Construction of stabilized low d.c. power supply unit"], "parentId": 61, "subLabels": []}, {"id": 63, "text": "4.3 semiconductors devices", "descriptions": ["Operation, construction and uses of Class A, B, C and AB amplifiers"], "parentId": 61, "subLabels": []}, {"id": 64, "text": "4.4 power supply unit", "descriptions": ["Quantitative treatments only", "Concept of feedback Differences between types and their advantages Effect of a positive feedback on amplifiers, bandwidth, noise, gain and distortion"], "parentId": 61, "subLabels": []}, {"id": 65, "text": "4.5 amplifiers", "descriptions": ["Principle and types of oscillator Construction of a typical oscillator circuit Types of multivibrator"], "parentId": 61, "subLabels": []}, {"id": 66, "text": "4.6 resistive, inductive", "descriptions": [], "parentId": 61, "subLabels": []}, {"id": 69, "text": "4.7 feedback", "descriptions": ["Definition and types Block diagram, operation  and function of each stage Noise"], "parentId": 68, "subLabels": []}, {"id": 70, "text": "4.8 oscillators and multivibrators", "descriptions": ["Definition and classification Propagation of radio waves Radio frequency band- VLF, LF, MF, HF, VHF, UHF,SHF and EHF Application of frequency range in electronic communication \u2013 frequency"], "parentId": 68, "subLabels": []}, {"id": 75, "text": "5.2 electromagnetic", "descriptions": [], "parentId": 74, "subLabels": []}, {"id": 77, "text": "5.3 transducer", "descriptions": ["Definition Concept and function of tuner in radio receiver Identification of tuner stage in radio receiver", "Definition, types of resonance ( series and parallel) Concept of bandwidth and bandwidth ranges Calculation involving frequency ranges to determine bandwidth Treatments should include derivation of the formula for resonant frequency"], "parentId": 76, "subLabels": []}, {"id": 78, "text": "5.4 modulation and demodulation", "descriptions": ["Elements and types Transmission and reception Antenna", "Working principle Block diagram Stages"], "parentId": 76, "subLabels": []}, {"id": 79, "text": "5.5 radio transmitter and", "descriptions": [], "parentId": 76, "subLabels": []}, {"id": 80, "text": "5.5 radio transmitter and receiver", "descriptions": [], "parentId": 76, "subLabels": []}, {"id": 81, "text": "5.6 selectivity and sensitivity", "descriptions": [], "parentId": 76, "subLabels": []}, {"id": 82, "text": "5.7 resonant circuit", "descriptions": [], "parentId": 76, "subLabels": []}, {"id": 83, "text": "5.8 satellite communication", "descriptions": [], "parentId": 76, "subLabels": []}, {"id": 85, "text": "5.9 television transmitter", "descriptions": [], "parentId": 84, "subLabels": []}, {"id": 86, "text": "5.10 image and sound", "descriptions": [], "parentId": 84, "subLabels": []}, {"id": 88, "text": "5.11 monochrome", "descriptions": [], "parentId": 87, "subLabels": []}, {"id": 90, "text": "5.12 principles of operation", "descriptions": [], "parentId": 89, "subLabels": []}, {"id": 92, "text": "Receiver", "descriptions": [], "parentId": 91, "subLabels": []}, {"id": 93, "text": "5.13 principle of colour", "descriptions": [], "parentId": 91, "subLabels": []}, {"id": 95, "text": "6. workshop practice and principle of scanning video signals", "descriptions": [], "parentId": 94, "subLabels": [{"id": 96, "text": "Principle of fm detection", "descriptions": [], "parentId": 95, "subLabels": []}, {"id": 97, "text": "Concept of television", "descriptions": [], "parentId": 95, "subLabels": []}, {"id": 98, "text": "Function and operation", "descriptions": [], "parentId": 95, "subLabels": []}, {"id": 99, "text": "Application of television system", "descriptions": [], "parentId": 95, "subLabels": []}, {"id": 100, "text": "Block diagram and function of each stage", "descriptions": [], "parentId": 95, "subLabels": []}, {"id": 101, "text": "Processing of picture and sound signal", "descriptions": [], "parentId": 95, "subLabels": []}, {"id": 102, "text": "Primary colours  in television", "descriptions": [], "parentId": 95, "subLabels": []}, {"id": 103, "text": "Colour television systems and standards \u2013 pal, secam and ntsc", "descriptions": [], "parentId": 95, "subLabels": []}, {"id": 104, "text": "Colour signal components", "descriptions": [], "parentId": 95, "subLabels": [{"id": 105, "text": "Techniques and precautions", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 106, "text": "Types of solder", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 107, "text": "Types of flux \u2013 amber resin and nacl solutions", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 108, "text": "Dismantling and reassembling of power supply unit in a radio set", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 109, "text": "Dismantling and reassembling rf, if detector", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 110, "text": "Stages in a radio receiver set", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 111, "text": "Af amplifier circuit", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 112, "text": "Installation and maintenance of a car radio set", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 113, "text": "Diagnose fault by using fault finding pieces of equipment and logical trouble shooting procedure", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 114, "text": "Components responsible for faults", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 115, "text": "Remedies for the faults", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 116, "text": "Alignment of rf and if stages of a radio set using the necessary equipment and tools", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 117, "text": "Use of multimeter", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 118, "text": "Treatments should include measurement of the correct value of current, voltage and resistance in active and passive electronic components and circuits", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 119, "text": "Procedure for tv repairs", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 120, "text": "Use of service information manual and circuit diagram", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 121, "text": "Identification of symptoms and repair of faults", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 122, "text": "Fault clearing instruments", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 123, "text": "Symptoms of faults", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 124, "text": "Fault clearing at each stage", "descriptions": [], "parentId": 104, "subLabels": []}]}]}, {"id": 127, "text": "Circuits", "descriptions": [], "parentId": 126, "subLabels": []}, {"id": 131, "text": "6.4 electronic measuring", "descriptions": [], "parentId": 130, "subLabels": []}, {"id": 133, "text": "6.5 diagnosis and repair of black and white tv", "descriptions": [], "parentId": 132, "subLabels": [{"id": 134, "text": "Receiver", "descriptions": [], "parentId": 133, "subLabels": []}]}, {"id": 135, "text": "6.6 diagnose and repair of a colour television", "descriptions": [], "parentId": 132, "subLabels": [{"id": 136, "text": "Receiver", "descriptions": [], "parentId": 135, "subLabels": []}]}, {"id": 141, "text": "7.2 customer relations", "descriptions": [], "parentId": 140, "subLabels": []}, {"id": 142, "text": "7.3 business opportunities", "descriptions": [], "parentId": 140, "subLabels": []}, {"id": 96, "text": "Principle of fm detection", "descriptions": [], "parentId": 95, "subLabels": []}, {"id": 97, "text": "Concept of television", "descriptions": [], "parentId": 95, "subLabels": []}, {"id": 98, "text": "Function and operation", "descriptions": [], "parentId": 95, "subLabels": []}, {"id": 99, "text": "Application of television system", "descriptions": [], "parentId": 95, "subLabels": []}, {"id": 100, "text": "Block diagram and function of each stage", "descriptions": [], "parentId": 95, "subLabels": []}, {"id": 101, "text": "Processing of picture and sound signal", "descriptions": [], "parentId": 95, "subLabels": []}, {"id": 102, "text": "Primary colours  in television", "descriptions": [], "parentId": 95, "subLabels": []}, {"id": 103, "text": "Colour television systems and standards \u2013 pal, secam and ntsc", "descriptions": [], "parentId": 95, "subLabels": []}, {"id": 104, "text": "Colour signal components", "descriptions": [], "parentId": 95, "subLabels": [{"id": 105, "text": "Techniques and precautions", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 106, "text": "Types of solder", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 107, "text": "Types of flux \u2013 amber resin and nacl solutions", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 108, "text": "Dismantling and reassembling of power supply unit in a radio set", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 109, "text": "Dismantling and reassembling rf, if detector", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 110, "text": "Stages in a radio receiver set", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 111, "text": "Af amplifier circuit", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 112, "text": "Installation and maintenance of a car radio set", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 113, "text": "Diagnose fault by using fault finding pieces of equipment and logical trouble shooting procedure", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 114, "text": "Components responsible for faults", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 115, "text": "Remedies for the faults", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 116, "text": "Alignment of rf and if stages of a radio set using the necessary equipment and tools", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 117, "text": "Use of multimeter", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 118, "text": "Treatments should include measurement of the correct value of current, voltage and resistance in active and passive electronic components and circuits", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 119, "text": "Procedure for tv repairs", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 120, "text": "Use of service information manual and circuit diagram", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 121, "text": "Identification of symptoms and repair of faults", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 122, "text": "Fault clearing instruments", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 123, "text": "Symptoms of faults", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 124, "text": "Fault clearing at each stage", "descriptions": [], "parentId": 104, "subLabels": []}]}, {"id": 134, "text": "Receiver", "descriptions": [], "parentId": 133, "subLabels": []}, {"id": 136, "text": "Receiver", "descriptions": [], "parentId": 135, "subLabels": []}, {"id": 105, "text": "Techniques and precautions", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 106, "text": "Types of solder", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 107, "text": "Types of flux \u2013 amber resin and nacl solutions", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 108, "text": "Dismantling and reassembling of power supply unit in a radio set", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 109, "text": "Dismantling and reassembling rf, if detector", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 110, "text": "Stages in a radio receiver set", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 111, "text": "Af amplifier circuit", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 112, "text": "Installation and maintenance of a car radio set", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 113, "text": "Diagnose fault by using fault finding pieces of equipment and logical trouble shooting procedure", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 114, "text": "Components responsible for faults", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 115, "text": "Remedies for the faults", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 116, "text": "Alignment of rf and if stages of a radio set using the necessary equipment and tools", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 117, "text": "Use of multimeter", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 118, "text": "Treatments should include measurement of the correct value of current, voltage and resistance in active and passive electronic components and circuits", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 119, "text": "Procedure for tv repairs", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 120, "text": "Use of service information manual and circuit diagram", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 121, "text": "Identification of symptoms and repair of faults", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 122, "text": "Fault clearing instruments", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 123, "text": "Symptoms of faults", "descriptions": [], "parentId": 104, "subLabels": []}, {"id": 124, "text": "Fault clearing at each stage", "descriptions": [], "parentId": 104, "subLabels": []}]}
+{
+ "subject": "Refrigeration and Air Conditioning",
+ "Grade": "None",
+ "Curriculum": "test",
+ "labelsTree": [
+  {
+   "id": 2,
+   "text": "Detailed syllabus",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 3,
+     "text": "1 2 3 4",
+     "descriptions": [
+      "Safety and first aid in the workshop.",
+      "Energy, matter and power.",
+      "(a)    Energy",
+      "(b)    Nature of matter.",
+      "Temperature and pressure.",
+      "(a)    Temperature and          its",
+      "measurement",
+      "Refrigeration and air conditioning systems.",
+      "(a)   Introduction to refrigeration."
+     ],
+     "parentId": 2,
+     "subLabels": [
+      {
+       "id": 4,
+       "text": "5",
+       "descriptions": [
+        "Compressors, Condenses and Evaporators",
+        "(a)    Compressors",
+        "(b)    Condensers."
+       ],
+       "parentId": 3,
+       "subLabels": []
+      },
+      {
+       "id": 5,
+       "text": "6",
+       "descriptions": [
+        "Workshop practices.",
+        "(a)    Basic tools used in refrigeration and         air-",
+        "conditioning         workshops",
+        "(b)    Fault diagnosis and trouble shooting."
+       ],
+       "parentId": 3,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 6,
+     "text": "7",
+     "descriptions": [
+      "Installation processes",
+      "(a)    Piping, Ducting and Trunking",
+      "(b)   Motors and generators",
+      "(c)   Cold room"
+     ],
+     "parentId": 2,
+     "subLabels": [
+      {
+       "id": 7,
+       "text": "8",
+       "descriptions": [
+        "Insulation processes Insulation of refrigeration and air-conditioning system."
+       ],
+       "parentId": 6,
+       "subLabels": []
+      },
+      {
+       "id": 8,
+       "text": "9",
+       "descriptions": [
+        "Entrepreneurship.",
+        "(a)    Business concept.",
+        "(b)    Marketing",
+        "(c)    Accounting"
+       ],
+       "parentId": 6,
+       "subLabels": []
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "labels": [
+  {
+   "id": 9,
+   "text": "2. basic electricity",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 10,
+     "text": "2.1 structure of matter",
+     "descriptions": [
+      "Concept of safety Sources of hazards Treatments should include electric shock, damp or wet floor, wrong handling of tools, improper workshop dressing, horse play in the workshop"
+     ],
+     "parentId": 9,
+     "subLabels": []
+    },
+    {
+     "id": 11,
+     "text": "2.2 conductors, insulators",
+     "descriptions": [],
+     "parentId": 9,
+     "subLabels": []
+    },
+    {
+     "id": 12,
+     "text": "And semiconductors",
+     "descriptions": [
+      "Preparation of work areas"
+     ],
+     "parentId": 9,
+     "subLabels": [
+      {
+       "id": 13,
+       "text": "2.3 current, voltage and resistance",
+       "descriptions": [],
+       "parentId": 12,
+       "subLabels": []
+      },
+      {
+       "id": 14,
+       "text": "2.4 electronic components",
+       "descriptions": [],
+       "parentId": 12,
+       "subLabels": []
+      },
+      {
+       "id": 15,
+       "text": "2.5 resistors and capacitors",
+       "descriptions": [],
+       "parentId": 12,
+       "subLabels": []
+      },
+      {
+       "id": 16,
+       "text": "2.6 kirchhoff\u2019s  current and voltage laws",
+       "descriptions": [],
+       "parentId": 12,
+       "subLabels": []
+      },
+      {
+       "id": 17,
+       "text": "2.7 diodes and transistors",
+       "descriptions": [],
+       "parentId": 12,
+       "subLabels": []
+      },
+      {
+       "id": 18,
+       "text": "2.8 battery",
+       "descriptions": [],
+       "parentId": 12,
+       "subLabels": []
+      },
+      {
+       "id": 19,
+       "text": "2.9 ohm\u2019s law",
+       "descriptions": [],
+       "parentId": 12,
+       "subLabels": []
+      },
+      {
+       "id": 20,
+       "text": "2.10 electric power",
+       "descriptions": [],
+       "parentId": 12,
+       "subLabels": []
+      },
+      {
+       "id": 21,
+       "text": "2.11 direct and alternating",
+       "descriptions": [],
+       "parentId": 12,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 22,
+     "text": "Current",
+     "descriptions": [],
+     "parentId": 9,
+     "subLabels": [
+      {
+       "id": 23,
+       "text": "2.12 alternating waveform",
+       "descriptions": [],
+       "parentId": 22,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 24,
+     "text": "3. electronic tools and capacitor discharges working on power lines and live circuits",
+     "descriptions": [],
+     "parentId": 9,
+     "subLabels": [
+      {
+       "id": 25,
+       "text": "Handling of tools",
+       "descriptions": [],
+       "parentId": 24,
+       "subLabels": []
+      },
+      {
+       "id": 26,
+       "text": "Power supplies in t.v",
+       "descriptions": [],
+       "parentId": 24,
+       "subLabels": []
+      },
+      {
+       "id": 27,
+       "text": "Picture tube",
+       "descriptions": [],
+       "parentId": 24,
+       "subLabels": []
+      },
+      {
+       "id": 28,
+       "text": "High voltage section",
+       "descriptions": [],
+       "parentId": 24,
+       "subLabels": []
+      },
+      {
+       "id": 29,
+       "text": "Component rating",
+       "descriptions": [],
+       "parentId": 24,
+       "subLabels": []
+      },
+      {
+       "id": 30,
+       "text": "Definition and structure of matter",
+       "descriptions": [],
+       "parentId": 24,
+       "subLabels": []
+      },
+      {
+       "id": 31,
+       "text": "Atomic structure",
+       "descriptions": [],
+       "parentId": 24,
+       "subLabels": []
+      },
+      {
+       "id": 32,
+       "text": "Qualitative treatment only - definition and uses",
+       "descriptions": [],
+       "parentId": 24,
+       "subLabels": []
+      },
+      {
+       "id": 33,
+       "text": "Definition, units and symbols of voltage, current and resistance",
+       "descriptions": [],
+       "parentId": 24,
+       "subLabels": []
+      },
+      {
+       "id": 34,
+       "text": "Laws of attraction and repulsion of charges",
+       "descriptions": [],
+       "parentId": 24,
+       "subLabels": []
+      },
+      {
+       "id": 35,
+       "text": "Identification of components by name, type, graphical symbol, value and rating",
+       "descriptions": [],
+       "parentId": 24,
+       "subLabels": []
+      },
+      {
+       "id": 36,
+       "text": "Treatments should include resistors, capacitors, inductors, diodes, transformers, transistors, integrated circuit etc",
+       "descriptions": [],
+       "parentId": 24,
+       "subLabels": []
+      },
+      {
+       "id": 37,
+       "text": "Graphical symbols, types, values and ratings",
+       "descriptions": [],
+       "parentId": 24,
+       "subLabels": []
+      },
+      {
+       "id": 38,
+       "text": "Colour code of  resistors and capacitors",
+       "descriptions": [],
+       "parentId": 24,
+       "subLabels": []
+      },
+      {
+       "id": 39,
+       "text": "Comparison between meter measured and colour code values",
+       "descriptions": [],
+       "parentId": 24,
+       "subLabels": []
+      },
+      {
+       "id": 40,
+       "text": "Testing of capacitors",
+       "descriptions": [],
+       "parentId": 24,
+       "subLabels": []
+      },
+      {
+       "id": 41,
+       "text": "Concepts, definitions and calculations",
+       "descriptions": [],
+       "parentId": 24,
+       "subLabels": []
+      },
+      {
+       "id": 42,
+       "text": "Types, graphical symbols and structure",
+       "descriptions": [],
+       "parentId": 24,
+       "subLabels": []
+      },
+      {
+       "id": 43,
+       "text": "Treatments should include testing for diodes and transistor configuration (cc,ce and cb)",
+       "descriptions": [],
+       "parentId": 24,
+       "subLabels": []
+      },
+      {
+       "id": 44,
+       "text": "Graphical symbol of a battery( primary cell and secondary cell) and types",
+       "descriptions": [],
+       "parentId": 24,
+       "subLabels": []
+      },
+      {
+       "id": 45,
+       "text": "Testing of battery",
+       "descriptions": [],
+       "parentId": 24,
+       "subLabels": []
+      },
+      {
+       "id": 46,
+       "text": "Treatments should include difference between wet and dry cells",
+       "descriptions": [],
+       "parentId": 24,
+       "subLabels": []
+      },
+      {
+       "id": 47,
+       "text": "Definition",
+       "descriptions": [],
+       "parentId": 24,
+       "subLabels": []
+      },
+      {
+       "id": 48,
+       "text": "Symbols and relationship between voltage, current and resistance",
+       "descriptions": [],
+       "parentId": 24,
+       "subLabels": []
+      },
+      {
+       "id": 49,
+       "text": "Resistors in series and parallel",
+       "descriptions": [],
+       "parentId": 24,
+       "subLabels": []
+      },
+      {
+       "id": 50,
+       "text": "Definition, measurement and calculation",
+       "descriptions": [],
+       "parentId": 24,
+       "subLabels": []
+      },
+      {
+       "id": 51,
+       "text": "Definitions, difference, uses and measurement of d.c. and a.c",
+       "descriptions": [],
+       "parentId": 24,
+       "subLabels": []
+      },
+      {
+       "id": 52,
+       "text": "Definition and calculation",
+       "descriptions": [],
+       "parentId": 24,
+       "subLabels": []
+      },
+      {
+       "id": 53,
+       "text": "Treatments should include r.m.s., peak, and average values, frequency and period in an a.c. waveform",
+       "descriptions": [],
+       "parentId": 24,
+       "subLabels": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 54,
+   "text": "3. electronic tools and instruments",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 55,
+     "text": "3.1 electronic hand tools",
+     "descriptions": [
+      "period in an a.c. waveform",
+      "Types and uses Treatments should include screw drivers, diagonal cutters, soldering gun, soldering iron, lead sucker or de- soldering tools, pocket knife, stripper and soldering wick"
+     ],
+     "parentId": 54,
+     "subLabels": []
+    },
+    {
+     "id": 56,
+     "text": "3.2 electronic measuring",
+     "descriptions": [
+      "Identification, uses and operation Treatments should include voltmeter, ammeter, ohmmeter, multi meter Basic a.c. and d.c. circuit, measurements of voltage, current and resistance Ohmmeter for testing semiconductor devices Identification of faulty meter"
+     ],
+     "parentId": 54,
+     "subLabels": []
+    },
+    {
+     "id": 57,
+     "text": "Instruments",
+     "descriptions": [],
+     "parentId": 54,
+     "subLabels": [
+      {
+       "id": 58,
+       "text": "3.3 fault finding equipment",
+       "descriptions": [
+        "Identification, uses and operation Treatments should include oscilloscope, signal tracer, digital frequency counter, logic probe, TV analyzer",
+        "Definition"
+       ],
+       "parentId": 57,
+       "subLabels": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 59,
+   "text": "4. electronics devices and circuits",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 60,
+     "text": "4.1 meaning of electronics",
+     "descriptions": [
+      "Definition and application Treatments should include types of emission e.g. Thermionic, photoelectric, field and secondary"
+     ],
+     "parentId": 59,
+     "subLabels": []
+    },
+    {
+     "id": 61,
+     "text": "And electronic circuit",
+     "descriptions": [
+      "Semiconductor theory  and types Semiconductor diodes Treatment should include rectification, principles of operation, characteristics and application"
+     ],
+     "parentId": 59,
+     "subLabels": [
+      {
+       "id": 62,
+       "text": "4.2 concept of emission and photoelectric devices",
+       "descriptions": [
+        "Principle and operation, schematic diagram Rectification and types Filters Construction of stabilized low d.c. power supply unit"
+       ],
+       "parentId": 61,
+       "subLabels": []
+      },
+      {
+       "id": 63,
+       "text": "4.3 semiconductors devices",
+       "descriptions": [
+        "Operation, construction and uses of Class A, B, C and AB amplifiers"
+       ],
+       "parentId": 61,
+       "subLabels": []
+      },
+      {
+       "id": 64,
+       "text": "4.4 power supply unit",
+       "descriptions": [
+        "Quantitative treatments only",
+        "Concept of feedback Differences between types and their advantages Effect of a positive feedback on amplifiers, bandwidth, noise, gain and distortion"
+       ],
+       "parentId": 61,
+       "subLabels": []
+      },
+      {
+       "id": 65,
+       "text": "4.5 amplifiers",
+       "descriptions": [
+        "Principle and types of oscillator Construction of a typical oscillator circuit Types of multivibrator"
+       ],
+       "parentId": 61,
+       "subLabels": []
+      },
+      {
+       "id": 66,
+       "text": "4.6 resistive, inductive",
+       "descriptions": [],
+       "parentId": 61,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 67,
+     "text": "Capacitive (rlc) circuits",
+     "descriptions": [],
+     "parentId": 59,
+     "subLabels": []
+    },
+    {
+     "id": 68,
+     "text": "Capacitive (rlc) circuits",
+     "descriptions": [
+      "Treatments to include astable, bistable and monostable"
+     ],
+     "parentId": 59,
+     "subLabels": [
+      {
+       "id": 69,
+       "text": "4.7 feedback",
+       "descriptions": [
+        "Definition and types Block diagram, operation  and function of each stage Noise"
+       ],
+       "parentId": 68,
+       "subLabels": []
+      },
+      {
+       "id": 70,
+       "text": "4.8 oscillators and multivibrators",
+       "descriptions": [
+        "Definition and classification Propagation of radio waves Radio frequency band- VLF, LF, MF, HF, VHF, UHF,SHF and EHF Application of frequency range in electronic communication \u2013 frequency"
+       ],
+       "parentId": 68,
+       "subLabels": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 72,
+   "text": "Communication systems",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 73,
+     "text": "5.1 electronic",
+     "descriptions": [
+      "Definition, types and functions Treatments should include loudspeaker, microphone, video camera, video display unit(cathode ray tube(CRT),Liquid Crystal Display(LCD))"
+     ],
+     "parentId": 72,
+     "subLabels": []
+    },
+    {
+     "id": 74,
+     "text": "Communication systems",
+     "descriptions": [
+      "Definition, principle of operation and types of modulation AM and FM  waveforms and envelopes Percentage of modulation \u2013 modulation index and modulation factor"
+     ],
+     "parentId": 72,
+     "subLabels": [
+      {
+       "id": 75,
+       "text": "5.2 electromagnetic",
+       "descriptions": [],
+       "parentId": 74,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 76,
+     "text": "Spectrum",
+     "descriptions": [
+      "Meaning and function of carrier wave in radio communication. Definition and types of demodulation",
+      "Function(s) and operation Block diagram and function of each stage Types of radio receivers \u2013 Tuned Radio Receiver(TRF), super heterodyne receivers(FM and AM) Advantages and disadvantages of each"
+     ],
+     "parentId": 72,
+     "subLabels": [
+      {
+       "id": 77,
+       "text": "5.3 transducer",
+       "descriptions": [
+        "Definition Concept and function of tuner in radio receiver Identification of tuner stage in radio receiver",
+        "Definition, types of resonance ( series and parallel) Concept of bandwidth and bandwidth ranges Calculation involving frequency ranges to determine bandwidth Treatments should include derivation of the formula for resonant frequency"
+       ],
+       "parentId": 76,
+       "subLabels": []
+      },
+      {
+       "id": 78,
+       "text": "5.4 modulation and demodulation",
+       "descriptions": [
+        "Elements and types Transmission and reception Antenna",
+        "Working principle Block diagram Stages"
+       ],
+       "parentId": 76,
+       "subLabels": []
+      },
+      {
+       "id": 79,
+       "text": "5.5 radio transmitter and",
+       "descriptions": [],
+       "parentId": 76,
+       "subLabels": []
+      },
+      {
+       "id": 80,
+       "text": "5.5 radio transmitter and receiver",
+       "descriptions": [],
+       "parentId": 76,
+       "subLabels": []
+      },
+      {
+       "id": 81,
+       "text": "5.6 selectivity and sensitivity",
+       "descriptions": [],
+       "parentId": 76,
+       "subLabels": []
+      },
+      {
+       "id": 82,
+       "text": "5.7 resonant circuit",
+       "descriptions": [],
+       "parentId": 76,
+       "subLabels": []
+      },
+      {
+       "id": 83,
+       "text": "5.8 satellite communication",
+       "descriptions": [],
+       "parentId": 76,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 84,
+     "text": "Systems",
+     "descriptions": [],
+     "parentId": 72,
+     "subLabels": [
+      {
+       "id": 85,
+       "text": "5.9 television transmitter",
+       "descriptions": [],
+       "parentId": 84,
+       "subLabels": []
+      },
+      {
+       "id": 86,
+       "text": "5.10 image and sound",
+       "descriptions": [],
+       "parentId": 84,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 87,
+     "text": "Reproduction in tv receiver",
+     "descriptions": [],
+     "parentId": 72,
+     "subLabels": [
+      {
+       "id": 88,
+       "text": "5.11 monochrome",
+       "descriptions": [],
+       "parentId": 87,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 89,
+     "text": "Television receiver",
+     "descriptions": [],
+     "parentId": 72,
+     "subLabels": [
+      {
+       "id": 90,
+       "text": "5.12 principles of operation",
+       "descriptions": [],
+       "parentId": 89,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 91,
+     "text": "Of colour television",
+     "descriptions": [],
+     "parentId": 72,
+     "subLabels": [
+      {
+       "id": 92,
+       "text": "Receiver",
+       "descriptions": [],
+       "parentId": 91,
+       "subLabels": []
+      },
+      {
+       "id": 93,
+       "text": "5.13 principle of colour",
+       "descriptions": [],
+       "parentId": 91,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 94,
+     "text": "Signal, transmission and reception",
+     "descriptions": [],
+     "parentId": 72,
+     "subLabels": [
+      {
+       "id": 95,
+       "text": "6. workshop practice and principle of scanning video signals",
+       "descriptions": [],
+       "parentId": 94,
+       "subLabels": [
+        {
+         "id": 96,
+         "text": "Principle of fm detection",
+         "descriptions": [],
+         "parentId": 95,
+         "subLabels": []
+        },
+        {
+         "id": 97,
+         "text": "Concept of television",
+         "descriptions": [],
+         "parentId": 95,
+         "subLabels": []
+        },
+        {
+         "id": 98,
+         "text": "Function and operation",
+         "descriptions": [],
+         "parentId": 95,
+         "subLabels": []
+        },
+        {
+         "id": 99,
+         "text": "Application of television system",
+         "descriptions": [],
+         "parentId": 95,
+         "subLabels": []
+        },
+        {
+         "id": 100,
+         "text": "Block diagram and function of each stage",
+         "descriptions": [],
+         "parentId": 95,
+         "subLabels": []
+        },
+        {
+         "id": 101,
+         "text": "Processing of picture and sound signal",
+         "descriptions": [],
+         "parentId": 95,
+         "subLabels": []
+        },
+        {
+         "id": 102,
+         "text": "Primary colours  in television",
+         "descriptions": [],
+         "parentId": 95,
+         "subLabels": []
+        },
+        {
+         "id": 103,
+         "text": "Colour television systems and standards \u2013 pal, secam and ntsc",
+         "descriptions": [],
+         "parentId": 95,
+         "subLabels": []
+        },
+        {
+         "id": 104,
+         "text": "Colour signal components",
+         "descriptions": [],
+         "parentId": 95,
+         "subLabels": [
+          {
+           "id": 105,
+           "text": "Techniques and precautions",
+           "descriptions": [],
+           "parentId": 104,
+           "subLabels": []
+          },
+          {
+           "id": 106,
+           "text": "Types of solder",
+           "descriptions": [],
+           "parentId": 104,
+           "subLabels": []
+          },
+          {
+           "id": 107,
+           "text": "Types of flux \u2013 amber resin and nacl solutions",
+           "descriptions": [],
+           "parentId": 104,
+           "subLabels": []
+          },
+          {
+           "id": 108,
+           "text": "Dismantling and reassembling of power supply unit in a radio set",
+           "descriptions": [],
+           "parentId": 104,
+           "subLabels": []
+          },
+          {
+           "id": 109,
+           "text": "Dismantling and reassembling rf, if detector",
+           "descriptions": [],
+           "parentId": 104,
+           "subLabels": []
+          },
+          {
+           "id": 110,
+           "text": "Stages in a radio receiver set",
+           "descriptions": [],
+           "parentId": 104,
+           "subLabels": []
+          },
+          {
+           "id": 111,
+           "text": "Af amplifier circuit",
+           "descriptions": [],
+           "parentId": 104,
+           "subLabels": []
+          },
+          {
+           "id": 112,
+           "text": "Installation and maintenance of a car radio set",
+           "descriptions": [],
+           "parentId": 104,
+           "subLabels": []
+          },
+          {
+           "id": 113,
+           "text": "Diagnose fault by using fault finding pieces of equipment and logical trouble shooting procedure",
+           "descriptions": [],
+           "parentId": 104,
+           "subLabels": []
+          },
+          {
+           "id": 114,
+           "text": "Components responsible for faults",
+           "descriptions": [],
+           "parentId": 104,
+           "subLabels": []
+          },
+          {
+           "id": 115,
+           "text": "Remedies for the faults",
+           "descriptions": [],
+           "parentId": 104,
+           "subLabels": []
+          },
+          {
+           "id": 116,
+           "text": "Alignment of rf and if stages of a radio set using the necessary equipment and tools",
+           "descriptions": [],
+           "parentId": 104,
+           "subLabels": []
+          },
+          {
+           "id": 117,
+           "text": "Use of multimeter",
+           "descriptions": [],
+           "parentId": 104,
+           "subLabels": []
+          },
+          {
+           "id": 118,
+           "text": "Treatments should include measurement of the correct value of current, voltage and resistance in active and passive electronic components and circuits",
+           "descriptions": [],
+           "parentId": 104,
+           "subLabels": []
+          },
+          {
+           "id": 119,
+           "text": "Procedure for tv repairs",
+           "descriptions": [],
+           "parentId": 104,
+           "subLabels": []
+          },
+          {
+           "id": 120,
+           "text": "Use of service information manual and circuit diagram",
+           "descriptions": [],
+           "parentId": 104,
+           "subLabels": []
+          },
+          {
+           "id": 121,
+           "text": "Identification of symptoms and repair of faults",
+           "descriptions": [],
+           "parentId": 104,
+           "subLabels": []
+          },
+          {
+           "id": 122,
+           "text": "Fault clearing instruments",
+           "descriptions": [],
+           "parentId": 104,
+           "subLabels": []
+          },
+          {
+           "id": 123,
+           "text": "Symptoms of faults",
+           "descriptions": [],
+           "parentId": 104,
+           "subLabels": []
+          },
+          {
+           "id": 124,
+           "text": "Fault clearing at each stage",
+           "descriptions": [],
+           "parentId": 104,
+           "subLabels": []
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 125,
+   "text": "6. workshop practice and maintenance",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 126,
+     "text": "6.1 soldering and desoldering in electronic",
+     "descriptions": [
+      "Static and dynamic colour convergence comparison Colour bar generator and signal testing"
+     ],
+     "parentId": 125,
+     "subLabels": [
+      {
+       "id": 127,
+       "text": "Circuits",
+       "descriptions": [],
+       "parentId": 126,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 128,
+     "text": "6.2 electronic repairs",
+     "descriptions": [
+      "Accounting practices Cost benefit analysis Purchasing method Business records(Accounting ledger, Repair order form, Inventory sheet) Sources of capital e.g. Banks and Credit Unions"
+     ],
+     "parentId": 125,
+     "subLabels": []
+    },
+    {
+     "id": 129,
+     "text": "6.3 fault finding and repairs",
+     "descriptions": [
+      "Daily appearance at work Customer psychology Working relations Telephone courtesy"
+     ],
+     "parentId": 125,
+     "subLabels": []
+    },
+    {
+     "id": 130,
+     "text": "In radio receiver",
+     "descriptions": [
+      "Business Opportunities in Radio and TV Work Satellite installation Electronic specialist Radio and TV consultant Radio and TV technician Sales and Service Craft man Antenna and TV installation work"
+     ],
+     "parentId": 125,
+     "subLabels": [
+      {
+       "id": 131,
+       "text": "6.4 electronic measuring",
+       "descriptions": [],
+       "parentId": 130,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 132,
+     "text": "Instruments",
+     "descriptions": [],
+     "parentId": 125,
+     "subLabels": [
+      {
+       "id": 133,
+       "text": "6.5 diagnosis and repair of black and white tv",
+       "descriptions": [],
+       "parentId": 132,
+       "subLabels": [
+        {
+         "id": 134,
+         "text": "Receiver",
+         "descriptions": [],
+         "parentId": 133,
+         "subLabels": []
+        }
+       ]
+      },
+      {
+       "id": 135,
+       "text": "6.6 diagnose and repair of a colour television",
+       "descriptions": [],
+       "parentId": 132,
+       "subLabels": [
+        {
+         "id": 136,
+         "text": "Receiver",
+         "descriptions": [],
+         "parentId": 135,
+         "subLabels": []
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 138,
+   "text": "Radio, television and electronic works",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 139,
+     "text": "7.1 business management",
+     "descriptions": [],
+     "parentId": 138,
+     "subLabels": []
+    },
+    {
+     "id": 140,
+     "text": "And finance",
+     "descriptions": [],
+     "parentId": 138,
+     "subLabels": [
+      {
+       "id": 141,
+       "text": "7.2 customer relations",
+       "descriptions": [],
+       "parentId": 140,
+       "subLabels": []
+      },
+      {
+       "id": 142,
+       "text": "7.3 business opportunities",
+       "descriptions": [],
+       "parentId": 140,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 143,
+     "text": "In radio, tv and electronics works",
+     "descriptions": [],
+     "parentId": 138,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "text": "2.1 structure of matter",
+   "descriptions": [
+    "Concept of safety Sources of hazards Treatments should include electric shock, damp or wet floor, wrong handling of tools, improper workshop dressing, horse play in the workshop"
+   ],
+   "parentId": 9,
+   "subLabels": []
+  },
+  {
+   "id": 11,
+   "text": "2.2 conductors, insulators",
+   "descriptions": [],
+   "parentId": 9,
+   "subLabels": []
+  },
+  {
+   "id": 12,
+   "text": "And semiconductors",
+   "descriptions": [
+    "Preparation of work areas"
+   ],
+   "parentId": 9,
+   "subLabels": [
+    {
+     "id": 13,
+     "text": "2.3 current, voltage and resistance",
+     "descriptions": [],
+     "parentId": 12,
+     "subLabels": []
+    },
+    {
+     "id": 14,
+     "text": "2.4 electronic components",
+     "descriptions": [],
+     "parentId": 12,
+     "subLabels": []
+    },
+    {
+     "id": 15,
+     "text": "2.5 resistors and capacitors",
+     "descriptions": [],
+     "parentId": 12,
+     "subLabels": []
+    },
+    {
+     "id": 16,
+     "text": "2.6 kirchhoff\u2019s  current and voltage laws",
+     "descriptions": [],
+     "parentId": 12,
+     "subLabels": []
+    },
+    {
+     "id": 17,
+     "text": "2.7 diodes and transistors",
+     "descriptions": [],
+     "parentId": 12,
+     "subLabels": []
+    },
+    {
+     "id": 18,
+     "text": "2.8 battery",
+     "descriptions": [],
+     "parentId": 12,
+     "subLabels": []
+    },
+    {
+     "id": 19,
+     "text": "2.9 ohm\u2019s law",
+     "descriptions": [],
+     "parentId": 12,
+     "subLabels": []
+    },
+    {
+     "id": 20,
+     "text": "2.10 electric power",
+     "descriptions": [],
+     "parentId": 12,
+     "subLabels": []
+    },
+    {
+     "id": 21,
+     "text": "2.11 direct and alternating",
+     "descriptions": [],
+     "parentId": 12,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "text": "Current",
+   "descriptions": [],
+   "parentId": 9,
+   "subLabels": [
+    {
+     "id": 23,
+     "text": "2.12 alternating waveform",
+     "descriptions": [],
+     "parentId": 22,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "text": "3. electronic tools and capacitor discharges working on power lines and live circuits",
+   "descriptions": [],
+   "parentId": 9,
+   "subLabels": [
+    {
+     "id": 25,
+     "text": "Handling of tools",
+     "descriptions": [],
+     "parentId": 24,
+     "subLabels": []
+    },
+    {
+     "id": 26,
+     "text": "Power supplies in t.v",
+     "descriptions": [],
+     "parentId": 24,
+     "subLabels": []
+    },
+    {
+     "id": 27,
+     "text": "Picture tube",
+     "descriptions": [],
+     "parentId": 24,
+     "subLabels": []
+    },
+    {
+     "id": 28,
+     "text": "High voltage section",
+     "descriptions": [],
+     "parentId": 24,
+     "subLabels": []
+    },
+    {
+     "id": 29,
+     "text": "Component rating",
+     "descriptions": [],
+     "parentId": 24,
+     "subLabels": []
+    },
+    {
+     "id": 30,
+     "text": "Definition and structure of matter",
+     "descriptions": [],
+     "parentId": 24,
+     "subLabels": []
+    },
+    {
+     "id": 31,
+     "text": "Atomic structure",
+     "descriptions": [],
+     "parentId": 24,
+     "subLabels": []
+    },
+    {
+     "id": 32,
+     "text": "Qualitative treatment only - definition and uses",
+     "descriptions": [],
+     "parentId": 24,
+     "subLabels": []
+    },
+    {
+     "id": 33,
+     "text": "Definition, units and symbols of voltage, current and resistance",
+     "descriptions": [],
+     "parentId": 24,
+     "subLabels": []
+    },
+    {
+     "id": 34,
+     "text": "Laws of attraction and repulsion of charges",
+     "descriptions": [],
+     "parentId": 24,
+     "subLabels": []
+    },
+    {
+     "id": 35,
+     "text": "Identification of components by name, type, graphical symbol, value and rating",
+     "descriptions": [],
+     "parentId": 24,
+     "subLabels": []
+    },
+    {
+     "id": 36,
+     "text": "Treatments should include resistors, capacitors, inductors, diodes, transformers, transistors, integrated circuit etc",
+     "descriptions": [],
+     "parentId": 24,
+     "subLabels": []
+    },
+    {
+     "id": 37,
+     "text": "Graphical symbols, types, values and ratings",
+     "descriptions": [],
+     "parentId": 24,
+     "subLabels": []
+    },
+    {
+     "id": 38,
+     "text": "Colour code of  resistors and capacitors",
+     "descriptions": [],
+     "parentId": 24,
+     "subLabels": []
+    },
+    {
+     "id": 39,
+     "text": "Comparison between meter measured and colour code values",
+     "descriptions": [],
+     "parentId": 24,
+     "subLabels": []
+    },
+    {
+     "id": 40,
+     "text": "Testing of capacitors",
+     "descriptions": [],
+     "parentId": 24,
+     "subLabels": []
+    },
+    {
+     "id": 41,
+     "text": "Concepts, definitions and calculations",
+     "descriptions": [],
+     "parentId": 24,
+     "subLabels": []
+    },
+    {
+     "id": 42,
+     "text": "Types, graphical symbols and structure",
+     "descriptions": [],
+     "parentId": 24,
+     "subLabels": []
+    },
+    {
+     "id": 43,
+     "text": "Treatments should include testing for diodes and transistor configuration (cc,ce and cb)",
+     "descriptions": [],
+     "parentId": 24,
+     "subLabels": []
+    },
+    {
+     "id": 44,
+     "text": "Graphical symbol of a battery( primary cell and secondary cell) and types",
+     "descriptions": [],
+     "parentId": 24,
+     "subLabels": []
+    },
+    {
+     "id": 45,
+     "text": "Testing of battery",
+     "descriptions": [],
+     "parentId": 24,
+     "subLabels": []
+    },
+    {
+     "id": 46,
+     "text": "Treatments should include difference between wet and dry cells",
+     "descriptions": [],
+     "parentId": 24,
+     "subLabels": []
+    },
+    {
+     "id": 47,
+     "text": "Definition",
+     "descriptions": [],
+     "parentId": 24,
+     "subLabels": []
+    },
+    {
+     "id": 48,
+     "text": "Symbols and relationship between voltage, current and resistance",
+     "descriptions": [],
+     "parentId": 24,
+     "subLabels": []
+    },
+    {
+     "id": 49,
+     "text": "Resistors in series and parallel",
+     "descriptions": [],
+     "parentId": 24,
+     "subLabels": []
+    },
+    {
+     "id": 50,
+     "text": "Definition, measurement and calculation",
+     "descriptions": [],
+     "parentId": 24,
+     "subLabels": []
+    },
+    {
+     "id": 51,
+     "text": "Definitions, difference, uses and measurement of d.c. and a.c",
+     "descriptions": [],
+     "parentId": 24,
+     "subLabels": []
+    },
+    {
+     "id": 52,
+     "text": "Definition and calculation",
+     "descriptions": [],
+     "parentId": 24,
+     "subLabels": []
+    },
+    {
+     "id": 53,
+     "text": "Treatments should include r.m.s., peak, and average values, frequency and period in an a.c. waveform",
+     "descriptions": [],
+     "parentId": 24,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 55,
+   "text": "3.1 electronic hand tools",
+   "descriptions": [
+    "period in an a.c. waveform",
+    "Types and uses Treatments should include screw drivers, diagonal cutters, soldering gun, soldering iron, lead sucker or de- soldering tools, pocket knife, stripper and soldering wick"
+   ],
+   "parentId": 54,
+   "subLabels": []
+  },
+  {
+   "id": 56,
+   "text": "3.2 electronic measuring",
+   "descriptions": [
+    "Identification, uses and operation Treatments should include voltmeter, ammeter, ohmmeter, multi meter Basic a.c. and d.c. circuit, measurements of voltage, current and resistance Ohmmeter for testing semiconductor devices Identification of faulty meter"
+   ],
+   "parentId": 54,
+   "subLabels": []
+  },
+  {
+   "id": 57,
+   "text": "Instruments",
+   "descriptions": [],
+   "parentId": 54,
+   "subLabels": [
+    {
+     "id": 58,
+     "text": "3.3 fault finding equipment",
+     "descriptions": [
+      "Identification, uses and operation Treatments should include oscilloscope, signal tracer, digital frequency counter, logic probe, TV analyzer",
+      "Definition"
+     ],
+     "parentId": 57,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 60,
+   "text": "4.1 meaning of electronics",
+   "descriptions": [
+    "Definition and application Treatments should include types of emission e.g. Thermionic, photoelectric, field and secondary"
+   ],
+   "parentId": 59,
+   "subLabels": []
+  },
+  {
+   "id": 61,
+   "text": "And electronic circuit",
+   "descriptions": [
+    "Semiconductor theory  and types Semiconductor diodes Treatment should include rectification, principles of operation, characteristics and application"
+   ],
+   "parentId": 59,
+   "subLabels": [
+    {
+     "id": 62,
+     "text": "4.2 concept of emission and photoelectric devices",
+     "descriptions": [
+      "Principle and operation, schematic diagram Rectification and types Filters Construction of stabilized low d.c. power supply unit"
+     ],
+     "parentId": 61,
+     "subLabels": []
+    },
+    {
+     "id": 63,
+     "text": "4.3 semiconductors devices",
+     "descriptions": [
+      "Operation, construction and uses of Class A, B, C and AB amplifiers"
+     ],
+     "parentId": 61,
+     "subLabels": []
+    },
+    {
+     "id": 64,
+     "text": "4.4 power supply unit",
+     "descriptions": [
+      "Quantitative treatments only",
+      "Concept of feedback Differences between types and their advantages Effect of a positive feedback on amplifiers, bandwidth, noise, gain and distortion"
+     ],
+     "parentId": 61,
+     "subLabels": []
+    },
+    {
+     "id": 65,
+     "text": "4.5 amplifiers",
+     "descriptions": [
+      "Principle and types of oscillator Construction of a typical oscillator circuit Types of multivibrator"
+     ],
+     "parentId": 61,
+     "subLabels": []
+    },
+    {
+     "id": 66,
+     "text": "4.6 resistive, inductive",
+     "descriptions": [],
+     "parentId": 61,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 67,
+   "text": "Capacitive (rlc) circuits",
+   "descriptions": [],
+   "parentId": 59,
+   "subLabels": []
+  },
+  {
+   "id": 68,
+   "text": "Capacitive (rlc) circuits",
+   "descriptions": [
+    "Treatments to include astable, bistable and monostable"
+   ],
+   "parentId": 59,
+   "subLabels": [
+    {
+     "id": 69,
+     "text": "4.7 feedback",
+     "descriptions": [
+      "Definition and types Block diagram, operation  and function of each stage Noise"
+     ],
+     "parentId": 68,
+     "subLabels": []
+    },
+    {
+     "id": 70,
+     "text": "4.8 oscillators and multivibrators",
+     "descriptions": [
+      "Definition and classification Propagation of radio waves Radio frequency band- VLF, LF, MF, HF, VHF, UHF,SHF and EHF Application of frequency range in electronic communication \u2013 frequency"
+     ],
+     "parentId": 68,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 73,
+   "text": "5.1 electronic",
+   "descriptions": [
+    "Definition, types and functions Treatments should include loudspeaker, microphone, video camera, video display unit(cathode ray tube(CRT),Liquid Crystal Display(LCD))"
+   ],
+   "parentId": 72,
+   "subLabels": []
+  },
+  {
+   "id": 74,
+   "text": "Communication systems",
+   "descriptions": [
+    "Definition, principle of operation and types of modulation AM and FM  waveforms and envelopes Percentage of modulation \u2013 modulation index and modulation factor"
+   ],
+   "parentId": 72,
+   "subLabels": [
+    {
+     "id": 75,
+     "text": "5.2 electromagnetic",
+     "descriptions": [],
+     "parentId": 74,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 76,
+   "text": "Spectrum",
+   "descriptions": [
+    "Meaning and function of carrier wave in radio communication. Definition and types of demodulation",
+    "Function(s) and operation Block diagram and function of each stage Types of radio receivers \u2013 Tuned Radio Receiver(TRF), super heterodyne receivers(FM and AM) Advantages and disadvantages of each"
+   ],
+   "parentId": 72,
+   "subLabels": [
+    {
+     "id": 77,
+     "text": "5.3 transducer",
+     "descriptions": [
+      "Definition Concept and function of tuner in radio receiver Identification of tuner stage in radio receiver",
+      "Definition, types of resonance ( series and parallel) Concept of bandwidth and bandwidth ranges Calculation involving frequency ranges to determine bandwidth Treatments should include derivation of the formula for resonant frequency"
+     ],
+     "parentId": 76,
+     "subLabels": []
+    },
+    {
+     "id": 78,
+     "text": "5.4 modulation and demodulation",
+     "descriptions": [
+      "Elements and types Transmission and reception Antenna",
+      "Working principle Block diagram Stages"
+     ],
+     "parentId": 76,
+     "subLabels": []
+    },
+    {
+     "id": 79,
+     "text": "5.5 radio transmitter and",
+     "descriptions": [],
+     "parentId": 76,
+     "subLabels": []
+    },
+    {
+     "id": 80,
+     "text": "5.5 radio transmitter and receiver",
+     "descriptions": [],
+     "parentId": 76,
+     "subLabels": []
+    },
+    {
+     "id": 81,
+     "text": "5.6 selectivity and sensitivity",
+     "descriptions": [],
+     "parentId": 76,
+     "subLabels": []
+    },
+    {
+     "id": 82,
+     "text": "5.7 resonant circuit",
+     "descriptions": [],
+     "parentId": 76,
+     "subLabels": []
+    },
+    {
+     "id": 83,
+     "text": "5.8 satellite communication",
+     "descriptions": [],
+     "parentId": 76,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 84,
+   "text": "Systems",
+   "descriptions": [],
+   "parentId": 72,
+   "subLabels": [
+    {
+     "id": 85,
+     "text": "5.9 television transmitter",
+     "descriptions": [],
+     "parentId": 84,
+     "subLabels": []
+    },
+    {
+     "id": 86,
+     "text": "5.10 image and sound",
+     "descriptions": [],
+     "parentId": 84,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 87,
+   "text": "Reproduction in tv receiver",
+   "descriptions": [],
+   "parentId": 72,
+   "subLabels": [
+    {
+     "id": 88,
+     "text": "5.11 monochrome",
+     "descriptions": [],
+     "parentId": 87,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 89,
+   "text": "Television receiver",
+   "descriptions": [],
+   "parentId": 72,
+   "subLabels": [
+    {
+     "id": 90,
+     "text": "5.12 principles of operation",
+     "descriptions": [],
+     "parentId": 89,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 91,
+   "text": "Of colour television",
+   "descriptions": [],
+   "parentId": 72,
+   "subLabels": [
+    {
+     "id": 92,
+     "text": "Receiver",
+     "descriptions": [],
+     "parentId": 91,
+     "subLabels": []
+    },
+    {
+     "id": 93,
+     "text": "5.13 principle of colour",
+     "descriptions": [],
+     "parentId": 91,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 94,
+   "text": "Signal, transmission and reception",
+   "descriptions": [],
+   "parentId": 72,
+   "subLabels": [
+    {
+     "id": 95,
+     "text": "6. workshop practice and principle of scanning video signals",
+     "descriptions": [],
+     "parentId": 94,
+     "subLabels": [
+      {
+       "id": 96,
+       "text": "Principle of fm detection",
+       "descriptions": [],
+       "parentId": 95,
+       "subLabels": []
+      },
+      {
+       "id": 97,
+       "text": "Concept of television",
+       "descriptions": [],
+       "parentId": 95,
+       "subLabels": []
+      },
+      {
+       "id": 98,
+       "text": "Function and operation",
+       "descriptions": [],
+       "parentId": 95,
+       "subLabels": []
+      },
+      {
+       "id": 99,
+       "text": "Application of television system",
+       "descriptions": [],
+       "parentId": 95,
+       "subLabels": []
+      },
+      {
+       "id": 100,
+       "text": "Block diagram and function of each stage",
+       "descriptions": [],
+       "parentId": 95,
+       "subLabels": []
+      },
+      {
+       "id": 101,
+       "text": "Processing of picture and sound signal",
+       "descriptions": [],
+       "parentId": 95,
+       "subLabels": []
+      },
+      {
+       "id": 102,
+       "text": "Primary colours  in television",
+       "descriptions": [],
+       "parentId": 95,
+       "subLabels": []
+      },
+      {
+       "id": 103,
+       "text": "Colour television systems and standards \u2013 pal, secam and ntsc",
+       "descriptions": [],
+       "parentId": 95,
+       "subLabels": []
+      },
+      {
+       "id": 104,
+       "text": "Colour signal components",
+       "descriptions": [],
+       "parentId": 95,
+       "subLabels": [
+        {
+         "id": 105,
+         "text": "Techniques and precautions",
+         "descriptions": [],
+         "parentId": 104,
+         "subLabels": []
+        },
+        {
+         "id": 106,
+         "text": "Types of solder",
+         "descriptions": [],
+         "parentId": 104,
+         "subLabels": []
+        },
+        {
+         "id": 107,
+         "text": "Types of flux \u2013 amber resin and nacl solutions",
+         "descriptions": [],
+         "parentId": 104,
+         "subLabels": []
+        },
+        {
+         "id": 108,
+         "text": "Dismantling and reassembling of power supply unit in a radio set",
+         "descriptions": [],
+         "parentId": 104,
+         "subLabels": []
+        },
+        {
+         "id": 109,
+         "text": "Dismantling and reassembling rf, if detector",
+         "descriptions": [],
+         "parentId": 104,
+         "subLabels": []
+        },
+        {
+         "id": 110,
+         "text": "Stages in a radio receiver set",
+         "descriptions": [],
+         "parentId": 104,
+         "subLabels": []
+        },
+        {
+         "id": 111,
+         "text": "Af amplifier circuit",
+         "descriptions": [],
+         "parentId": 104,
+         "subLabels": []
+        },
+        {
+         "id": 112,
+         "text": "Installation and maintenance of a car radio set",
+         "descriptions": [],
+         "parentId": 104,
+         "subLabels": []
+        },
+        {
+         "id": 113,
+         "text": "Diagnose fault by using fault finding pieces of equipment and logical trouble shooting procedure",
+         "descriptions": [],
+         "parentId": 104,
+         "subLabels": []
+        },
+        {
+         "id": 114,
+         "text": "Components responsible for faults",
+         "descriptions": [],
+         "parentId": 104,
+         "subLabels": []
+        },
+        {
+         "id": 115,
+         "text": "Remedies for the faults",
+         "descriptions": [],
+         "parentId": 104,
+         "subLabels": []
+        },
+        {
+         "id": 116,
+         "text": "Alignment of rf and if stages of a radio set using the necessary equipment and tools",
+         "descriptions": [],
+         "parentId": 104,
+         "subLabels": []
+        },
+        {
+         "id": 117,
+         "text": "Use of multimeter",
+         "descriptions": [],
+         "parentId": 104,
+         "subLabels": []
+        },
+        {
+         "id": 118,
+         "text": "Treatments should include measurement of the correct value of current, voltage and resistance in active and passive electronic components and circuits",
+         "descriptions": [],
+         "parentId": 104,
+         "subLabels": []
+        },
+        {
+         "id": 119,
+         "text": "Procedure for tv repairs",
+         "descriptions": [],
+         "parentId": 104,
+         "subLabels": []
+        },
+        {
+         "id": 120,
+         "text": "Use of service information manual and circuit diagram",
+         "descriptions": [],
+         "parentId": 104,
+         "subLabels": []
+        },
+        {
+         "id": 121,
+         "text": "Identification of symptoms and repair of faults",
+         "descriptions": [],
+         "parentId": 104,
+         "subLabels": []
+        },
+        {
+         "id": 122,
+         "text": "Fault clearing instruments",
+         "descriptions": [],
+         "parentId": 104,
+         "subLabels": []
+        },
+        {
+         "id": 123,
+         "text": "Symptoms of faults",
+         "descriptions": [],
+         "parentId": 104,
+         "subLabels": []
+        },
+        {
+         "id": 124,
+         "text": "Fault clearing at each stage",
+         "descriptions": [],
+         "parentId": 104,
+         "subLabels": []
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 126,
+   "text": "6.1 soldering and desoldering in electronic",
+   "descriptions": [
+    "Static and dynamic colour convergence comparison Colour bar generator and signal testing"
+   ],
+   "parentId": 125,
+   "subLabels": [
+    {
+     "id": 127,
+     "text": "Circuits",
+     "descriptions": [],
+     "parentId": 126,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 128,
+   "text": "6.2 electronic repairs",
+   "descriptions": [
+    "Accounting practices Cost benefit analysis Purchasing method Business records(Accounting ledger, Repair order form, Inventory sheet) Sources of capital e.g. Banks and Credit Unions"
+   ],
+   "parentId": 125,
+   "subLabels": []
+  },
+  {
+   "id": 129,
+   "text": "6.3 fault finding and repairs",
+   "descriptions": [
+    "Daily appearance at work Customer psychology Working relations Telephone courtesy"
+   ],
+   "parentId": 125,
+   "subLabels": []
+  },
+  {
+   "id": 130,
+   "text": "In radio receiver",
+   "descriptions": [
+    "Business Opportunities in Radio and TV Work Satellite installation Electronic specialist Radio and TV consultant Radio and TV technician Sales and Service Craft man Antenna and TV installation work"
+   ],
+   "parentId": 125,
+   "subLabels": [
+    {
+     "id": 131,
+     "text": "6.4 electronic measuring",
+     "descriptions": [],
+     "parentId": 130,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 132,
+   "text": "Instruments",
+   "descriptions": [],
+   "parentId": 125,
+   "subLabels": [
+    {
+     "id": 133,
+     "text": "6.5 diagnosis and repair of black and white tv",
+     "descriptions": [],
+     "parentId": 132,
+     "subLabels": [
+      {
+       "id": 134,
+       "text": "Receiver",
+       "descriptions": [],
+       "parentId": 133,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 135,
+     "text": "6.6 diagnose and repair of a colour television",
+     "descriptions": [],
+     "parentId": 132,
+     "subLabels": [
+      {
+       "id": 136,
+       "text": "Receiver",
+       "descriptions": [],
+       "parentId": 135,
+       "subLabels": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 139,
+   "text": "7.1 business management",
+   "descriptions": [],
+   "parentId": 138,
+   "subLabels": []
+  },
+  {
+   "id": 140,
+   "text": "And finance",
+   "descriptions": [],
+   "parentId": 138,
+   "subLabels": [
+    {
+     "id": 141,
+     "text": "7.2 customer relations",
+     "descriptions": [],
+     "parentId": 140,
+     "subLabels": []
+    },
+    {
+     "id": 142,
+     "text": "7.3 business opportunities",
+     "descriptions": [],
+     "parentId": 140,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 143,
+   "text": "In radio, tv and electronics works",
+   "descriptions": [],
+   "parentId": 138,
+   "subLabels": []
+  },
+  {
+   "id": 13,
+   "text": "2.3 current, voltage and resistance",
+   "descriptions": [],
+   "parentId": 12,
+   "subLabels": []
+  },
+  {
+   "id": 14,
+   "text": "2.4 electronic components",
+   "descriptions": [],
+   "parentId": 12,
+   "subLabels": []
+  },
+  {
+   "id": 15,
+   "text": "2.5 resistors and capacitors",
+   "descriptions": [],
+   "parentId": 12,
+   "subLabels": []
+  },
+  {
+   "id": 16,
+   "text": "2.6 kirchhoff\u2019s  current and voltage laws",
+   "descriptions": [],
+   "parentId": 12,
+   "subLabels": []
+  },
+  {
+   "id": 17,
+   "text": "2.7 diodes and transistors",
+   "descriptions": [],
+   "parentId": 12,
+   "subLabels": []
+  },
+  {
+   "id": 18,
+   "text": "2.8 battery",
+   "descriptions": [],
+   "parentId": 12,
+   "subLabels": []
+  },
+  {
+   "id": 19,
+   "text": "2.9 ohm\u2019s law",
+   "descriptions": [],
+   "parentId": 12,
+   "subLabels": []
+  },
+  {
+   "id": 20,
+   "text": "2.10 electric power",
+   "descriptions": [],
+   "parentId": 12,
+   "subLabels": []
+  },
+  {
+   "id": 21,
+   "text": "2.11 direct and alternating",
+   "descriptions": [],
+   "parentId": 12,
+   "subLabels": []
+  },
+  {
+   "id": 23,
+   "text": "2.12 alternating waveform",
+   "descriptions": [],
+   "parentId": 22,
+   "subLabels": []
+  },
+  {
+   "id": 25,
+   "text": "Handling of tools",
+   "descriptions": [],
+   "parentId": 24,
+   "subLabels": []
+  },
+  {
+   "id": 26,
+   "text": "Power supplies in t.v",
+   "descriptions": [],
+   "parentId": 24,
+   "subLabels": []
+  },
+  {
+   "id": 27,
+   "text": "Picture tube",
+   "descriptions": [],
+   "parentId": 24,
+   "subLabels": []
+  },
+  {
+   "id": 28,
+   "text": "High voltage section",
+   "descriptions": [],
+   "parentId": 24,
+   "subLabels": []
+  },
+  {
+   "id": 29,
+   "text": "Component rating",
+   "descriptions": [],
+   "parentId": 24,
+   "subLabels": []
+  },
+  {
+   "id": 30,
+   "text": "Definition and structure of matter",
+   "descriptions": [],
+   "parentId": 24,
+   "subLabels": []
+  },
+  {
+   "id": 31,
+   "text": "Atomic structure",
+   "descriptions": [],
+   "parentId": 24,
+   "subLabels": []
+  },
+  {
+   "id": 32,
+   "text": "Qualitative treatment only - definition and uses",
+   "descriptions": [],
+   "parentId": 24,
+   "subLabels": []
+  },
+  {
+   "id": 33,
+   "text": "Definition, units and symbols of voltage, current and resistance",
+   "descriptions": [],
+   "parentId": 24,
+   "subLabels": []
+  },
+  {
+   "id": 34,
+   "text": "Laws of attraction and repulsion of charges",
+   "descriptions": [],
+   "parentId": 24,
+   "subLabels": []
+  },
+  {
+   "id": 35,
+   "text": "Identification of components by name, type, graphical symbol, value and rating",
+   "descriptions": [],
+   "parentId": 24,
+   "subLabels": []
+  },
+  {
+   "id": 36,
+   "text": "Treatments should include resistors, capacitors, inductors, diodes, transformers, transistors, integrated circuit etc",
+   "descriptions": [],
+   "parentId": 24,
+   "subLabels": []
+  },
+  {
+   "id": 37,
+   "text": "Graphical symbols, types, values and ratings",
+   "descriptions": [],
+   "parentId": 24,
+   "subLabels": []
+  },
+  {
+   "id": 38,
+   "text": "Colour code of  resistors and capacitors",
+   "descriptions": [],
+   "parentId": 24,
+   "subLabels": []
+  },
+  {
+   "id": 39,
+   "text": "Comparison between meter measured and colour code values",
+   "descriptions": [],
+   "parentId": 24,
+   "subLabels": []
+  },
+  {
+   "id": 40,
+   "text": "Testing of capacitors",
+   "descriptions": [],
+   "parentId": 24,
+   "subLabels": []
+  },
+  {
+   "id": 41,
+   "text": "Concepts, definitions and calculations",
+   "descriptions": [],
+   "parentId": 24,
+   "subLabels": []
+  },
+  {
+   "id": 42,
+   "text": "Types, graphical symbols and structure",
+   "descriptions": [],
+   "parentId": 24,
+   "subLabels": []
+  },
+  {
+   "id": 43,
+   "text": "Treatments should include testing for diodes and transistor configuration (cc,ce and cb)",
+   "descriptions": [],
+   "parentId": 24,
+   "subLabels": []
+  },
+  {
+   "id": 44,
+   "text": "Graphical symbol of a battery( primary cell and secondary cell) and types",
+   "descriptions": [],
+   "parentId": 24,
+   "subLabels": []
+  },
+  {
+   "id": 45,
+   "text": "Testing of battery",
+   "descriptions": [],
+   "parentId": 24,
+   "subLabels": []
+  },
+  {
+   "id": 46,
+   "text": "Treatments should include difference between wet and dry cells",
+   "descriptions": [],
+   "parentId": 24,
+   "subLabels": []
+  },
+  {
+   "id": 47,
+   "text": "Definition",
+   "descriptions": [],
+   "parentId": 24,
+   "subLabels": []
+  },
+  {
+   "id": 48,
+   "text": "Symbols and relationship between voltage, current and resistance",
+   "descriptions": [],
+   "parentId": 24,
+   "subLabels": []
+  },
+  {
+   "id": 49,
+   "text": "Resistors in series and parallel",
+   "descriptions": [],
+   "parentId": 24,
+   "subLabels": []
+  },
+  {
+   "id": 50,
+   "text": "Definition, measurement and calculation",
+   "descriptions": [],
+   "parentId": 24,
+   "subLabels": []
+  },
+  {
+   "id": 51,
+   "text": "Definitions, difference, uses and measurement of d.c. and a.c",
+   "descriptions": [],
+   "parentId": 24,
+   "subLabels": []
+  },
+  {
+   "id": 52,
+   "text": "Definition and calculation",
+   "descriptions": [],
+   "parentId": 24,
+   "subLabels": []
+  },
+  {
+   "id": 53,
+   "text": "Treatments should include r.m.s., peak, and average values, frequency and period in an a.c. waveform",
+   "descriptions": [],
+   "parentId": 24,
+   "subLabels": []
+  },
+  {
+   "id": 58,
+   "text": "3.3 fault finding equipment",
+   "descriptions": [
+    "Identification, uses and operation Treatments should include oscilloscope, signal tracer, digital frequency counter, logic probe, TV analyzer",
+    "Definition"
+   ],
+   "parentId": 57,
+   "subLabels": []
+  },
+  {
+   "id": 62,
+   "text": "4.2 concept of emission and photoelectric devices",
+   "descriptions": [
+    "Principle and operation, schematic diagram Rectification and types Filters Construction of stabilized low d.c. power supply unit"
+   ],
+   "parentId": 61,
+   "subLabels": []
+  },
+  {
+   "id": 63,
+   "text": "4.3 semiconductors devices",
+   "descriptions": [
+    "Operation, construction and uses of Class A, B, C and AB amplifiers"
+   ],
+   "parentId": 61,
+   "subLabels": []
+  },
+  {
+   "id": 64,
+   "text": "4.4 power supply unit",
+   "descriptions": [
+    "Quantitative treatments only",
+    "Concept of feedback Differences between types and their advantages Effect of a positive feedback on amplifiers, bandwidth, noise, gain and distortion"
+   ],
+   "parentId": 61,
+   "subLabels": []
+  },
+  {
+   "id": 65,
+   "text": "4.5 amplifiers",
+   "descriptions": [
+    "Principle and types of oscillator Construction of a typical oscillator circuit Types of multivibrator"
+   ],
+   "parentId": 61,
+   "subLabels": []
+  },
+  {
+   "id": 66,
+   "text": "4.6 resistive, inductive",
+   "descriptions": [],
+   "parentId": 61,
+   "subLabels": []
+  },
+  {
+   "id": 69,
+   "text": "4.7 feedback",
+   "descriptions": [
+    "Definition and types Block diagram, operation  and function of each stage Noise"
+   ],
+   "parentId": 68,
+   "subLabels": []
+  },
+  {
+   "id": 70,
+   "text": "4.8 oscillators and multivibrators",
+   "descriptions": [
+    "Definition and classification Propagation of radio waves Radio frequency band- VLF, LF, MF, HF, VHF, UHF,SHF and EHF Application of frequency range in electronic communication \u2013 frequency"
+   ],
+   "parentId": 68,
+   "subLabels": []
+  },
+  {
+   "id": 75,
+   "text": "5.2 electromagnetic",
+   "descriptions": [],
+   "parentId": 74,
+   "subLabels": []
+  },
+  {
+   "id": 77,
+   "text": "5.3 transducer",
+   "descriptions": [
+    "Definition Concept and function of tuner in radio receiver Identification of tuner stage in radio receiver",
+    "Definition, types of resonance ( series and parallel) Concept of bandwidth and bandwidth ranges Calculation involving frequency ranges to determine bandwidth Treatments should include derivation of the formula for resonant frequency"
+   ],
+   "parentId": 76,
+   "subLabels": []
+  },
+  {
+   "id": 78,
+   "text": "5.4 modulation and demodulation",
+   "descriptions": [
+    "Elements and types Transmission and reception Antenna",
+    "Working principle Block diagram Stages"
+   ],
+   "parentId": 76,
+   "subLabels": []
+  },
+  {
+   "id": 79,
+   "text": "5.5 radio transmitter and",
+   "descriptions": [],
+   "parentId": 76,
+   "subLabels": []
+  },
+  {
+   "id": 80,
+   "text": "5.5 radio transmitter and receiver",
+   "descriptions": [],
+   "parentId": 76,
+   "subLabels": []
+  },
+  {
+   "id": 81,
+   "text": "5.6 selectivity and sensitivity",
+   "descriptions": [],
+   "parentId": 76,
+   "subLabels": []
+  },
+  {
+   "id": 82,
+   "text": "5.7 resonant circuit",
+   "descriptions": [],
+   "parentId": 76,
+   "subLabels": []
+  },
+  {
+   "id": 83,
+   "text": "5.8 satellite communication",
+   "descriptions": [],
+   "parentId": 76,
+   "subLabels": []
+  },
+  {
+   "id": 85,
+   "text": "5.9 television transmitter",
+   "descriptions": [],
+   "parentId": 84,
+   "subLabels": []
+  },
+  {
+   "id": 86,
+   "text": "5.10 image and sound",
+   "descriptions": [],
+   "parentId": 84,
+   "subLabels": []
+  },
+  {
+   "id": 88,
+   "text": "5.11 monochrome",
+   "descriptions": [],
+   "parentId": 87,
+   "subLabels": []
+  },
+  {
+   "id": 90,
+   "text": "5.12 principles of operation",
+   "descriptions": [],
+   "parentId": 89,
+   "subLabels": []
+  },
+  {
+   "id": 92,
+   "text": "Receiver",
+   "descriptions": [],
+   "parentId": 91,
+   "subLabels": []
+  },
+  {
+   "id": 93,
+   "text": "5.13 principle of colour",
+   "descriptions": [],
+   "parentId": 91,
+   "subLabels": []
+  },
+  {
+   "id": 95,
+   "text": "6. workshop practice and principle of scanning video signals",
+   "descriptions": [],
+   "parentId": 94,
+   "subLabels": [
+    {
+     "id": 96,
+     "text": "Principle of fm detection",
+     "descriptions": [],
+     "parentId": 95,
+     "subLabels": []
+    },
+    {
+     "id": 97,
+     "text": "Concept of television",
+     "descriptions": [],
+     "parentId": 95,
+     "subLabels": []
+    },
+    {
+     "id": 98,
+     "text": "Function and operation",
+     "descriptions": [],
+     "parentId": 95,
+     "subLabels": []
+    },
+    {
+     "id": 99,
+     "text": "Application of television system",
+     "descriptions": [],
+     "parentId": 95,
+     "subLabels": []
+    },
+    {
+     "id": 100,
+     "text": "Block diagram and function of each stage",
+     "descriptions": [],
+     "parentId": 95,
+     "subLabels": []
+    },
+    {
+     "id": 101,
+     "text": "Processing of picture and sound signal",
+     "descriptions": [],
+     "parentId": 95,
+     "subLabels": []
+    },
+    {
+     "id": 102,
+     "text": "Primary colours  in television",
+     "descriptions": [],
+     "parentId": 95,
+     "subLabels": []
+    },
+    {
+     "id": 103,
+     "text": "Colour television systems and standards \u2013 pal, secam and ntsc",
+     "descriptions": [],
+     "parentId": 95,
+     "subLabels": []
+    },
+    {
+     "id": 104,
+     "text": "Colour signal components",
+     "descriptions": [],
+     "parentId": 95,
+     "subLabels": [
+      {
+       "id": 105,
+       "text": "Techniques and precautions",
+       "descriptions": [],
+       "parentId": 104,
+       "subLabels": []
+      },
+      {
+       "id": 106,
+       "text": "Types of solder",
+       "descriptions": [],
+       "parentId": 104,
+       "subLabels": []
+      },
+      {
+       "id": 107,
+       "text": "Types of flux \u2013 amber resin and nacl solutions",
+       "descriptions": [],
+       "parentId": 104,
+       "subLabels": []
+      },
+      {
+       "id": 108,
+       "text": "Dismantling and reassembling of power supply unit in a radio set",
+       "descriptions": [],
+       "parentId": 104,
+       "subLabels": []
+      },
+      {
+       "id": 109,
+       "text": "Dismantling and reassembling rf, if detector",
+       "descriptions": [],
+       "parentId": 104,
+       "subLabels": []
+      },
+      {
+       "id": 110,
+       "text": "Stages in a radio receiver set",
+       "descriptions": [],
+       "parentId": 104,
+       "subLabels": []
+      },
+      {
+       "id": 111,
+       "text": "Af amplifier circuit",
+       "descriptions": [],
+       "parentId": 104,
+       "subLabels": []
+      },
+      {
+       "id": 112,
+       "text": "Installation and maintenance of a car radio set",
+       "descriptions": [],
+       "parentId": 104,
+       "subLabels": []
+      },
+      {
+       "id": 113,
+       "text": "Diagnose fault by using fault finding pieces of equipment and logical trouble shooting procedure",
+       "descriptions": [],
+       "parentId": 104,
+       "subLabels": []
+      },
+      {
+       "id": 114,
+       "text": "Components responsible for faults",
+       "descriptions": [],
+       "parentId": 104,
+       "subLabels": []
+      },
+      {
+       "id": 115,
+       "text": "Remedies for the faults",
+       "descriptions": [],
+       "parentId": 104,
+       "subLabels": []
+      },
+      {
+       "id": 116,
+       "text": "Alignment of rf and if stages of a radio set using the necessary equipment and tools",
+       "descriptions": [],
+       "parentId": 104,
+       "subLabels": []
+      },
+      {
+       "id": 117,
+       "text": "Use of multimeter",
+       "descriptions": [],
+       "parentId": 104,
+       "subLabels": []
+      },
+      {
+       "id": 118,
+       "text": "Treatments should include measurement of the correct value of current, voltage and resistance in active and passive electronic components and circuits",
+       "descriptions": [],
+       "parentId": 104,
+       "subLabels": []
+      },
+      {
+       "id": 119,
+       "text": "Procedure for tv repairs",
+       "descriptions": [],
+       "parentId": 104,
+       "subLabels": []
+      },
+      {
+       "id": 120,
+       "text": "Use of service information manual and circuit diagram",
+       "descriptions": [],
+       "parentId": 104,
+       "subLabels": []
+      },
+      {
+       "id": 121,
+       "text": "Identification of symptoms and repair of faults",
+       "descriptions": [],
+       "parentId": 104,
+       "subLabels": []
+      },
+      {
+       "id": 122,
+       "text": "Fault clearing instruments",
+       "descriptions": [],
+       "parentId": 104,
+       "subLabels": []
+      },
+      {
+       "id": 123,
+       "text": "Symptoms of faults",
+       "descriptions": [],
+       "parentId": 104,
+       "subLabels": []
+      },
+      {
+       "id": 124,
+       "text": "Fault clearing at each stage",
+       "descriptions": [],
+       "parentId": 104,
+       "subLabels": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 127,
+   "text": "Circuits",
+   "descriptions": [],
+   "parentId": 126,
+   "subLabels": []
+  },
+  {
+   "id": 131,
+   "text": "6.4 electronic measuring",
+   "descriptions": [],
+   "parentId": 130,
+   "subLabels": []
+  },
+  {
+   "id": 133,
+   "text": "6.5 diagnosis and repair of black and white tv",
+   "descriptions": [],
+   "parentId": 132,
+   "subLabels": [
+    {
+     "id": 134,
+     "text": "Receiver",
+     "descriptions": [],
+     "parentId": 133,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 135,
+   "text": "6.6 diagnose and repair of a colour television",
+   "descriptions": [],
+   "parentId": 132,
+   "subLabels": [
+    {
+     "id": 136,
+     "text": "Receiver",
+     "descriptions": [],
+     "parentId": 135,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 141,
+   "text": "7.2 customer relations",
+   "descriptions": [],
+   "parentId": 140,
+   "subLabels": []
+  },
+  {
+   "id": 142,
+   "text": "7.3 business opportunities",
+   "descriptions": [],
+   "parentId": 140,
+   "subLabels": []
+  },
+  {
+   "id": 96,
+   "text": "Principle of fm detection",
+   "descriptions": [],
+   "parentId": 95,
+   "subLabels": []
+  },
+  {
+   "id": 97,
+   "text": "Concept of television",
+   "descriptions": [],
+   "parentId": 95,
+   "subLabels": []
+  },
+  {
+   "id": 98,
+   "text": "Function and operation",
+   "descriptions": [],
+   "parentId": 95,
+   "subLabels": []
+  },
+  {
+   "id": 99,
+   "text": "Application of television system",
+   "descriptions": [],
+   "parentId": 95,
+   "subLabels": []
+  },
+  {
+   "id": 100,
+   "text": "Block diagram and function of each stage",
+   "descriptions": [],
+   "parentId": 95,
+   "subLabels": []
+  },
+  {
+   "id": 101,
+   "text": "Processing of picture and sound signal",
+   "descriptions": [],
+   "parentId": 95,
+   "subLabels": []
+  },
+  {
+   "id": 102,
+   "text": "Primary colours  in television",
+   "descriptions": [],
+   "parentId": 95,
+   "subLabels": []
+  },
+  {
+   "id": 103,
+   "text": "Colour television systems and standards \u2013 pal, secam and ntsc",
+   "descriptions": [],
+   "parentId": 95,
+   "subLabels": []
+  },
+  {
+   "id": 104,
+   "text": "Colour signal components",
+   "descriptions": [],
+   "parentId": 95,
+   "subLabels": [
+    {
+     "id": 105,
+     "text": "Techniques and precautions",
+     "descriptions": [],
+     "parentId": 104,
+     "subLabels": []
+    },
+    {
+     "id": 106,
+     "text": "Types of solder",
+     "descriptions": [],
+     "parentId": 104,
+     "subLabels": []
+    },
+    {
+     "id": 107,
+     "text": "Types of flux \u2013 amber resin and nacl solutions",
+     "descriptions": [],
+     "parentId": 104,
+     "subLabels": []
+    },
+    {
+     "id": 108,
+     "text": "Dismantling and reassembling of power supply unit in a radio set",
+     "descriptions": [],
+     "parentId": 104,
+     "subLabels": []
+    },
+    {
+     "id": 109,
+     "text": "Dismantling and reassembling rf, if detector",
+     "descriptions": [],
+     "parentId": 104,
+     "subLabels": []
+    },
+    {
+     "id": 110,
+     "text": "Stages in a radio receiver set",
+     "descriptions": [],
+     "parentId": 104,
+     "subLabels": []
+    },
+    {
+     "id": 111,
+     "text": "Af amplifier circuit",
+     "descriptions": [],
+     "parentId": 104,
+     "subLabels": []
+    },
+    {
+     "id": 112,
+     "text": "Installation and maintenance of a car radio set",
+     "descriptions": [],
+     "parentId": 104,
+     "subLabels": []
+    },
+    {
+     "id": 113,
+     "text": "Diagnose fault by using fault finding pieces of equipment and logical trouble shooting procedure",
+     "descriptions": [],
+     "parentId": 104,
+     "subLabels": []
+    },
+    {
+     "id": 114,
+     "text": "Components responsible for faults",
+     "descriptions": [],
+     "parentId": 104,
+     "subLabels": []
+    },
+    {
+     "id": 115,
+     "text": "Remedies for the faults",
+     "descriptions": [],
+     "parentId": 104,
+     "subLabels": []
+    },
+    {
+     "id": 116,
+     "text": "Alignment of rf and if stages of a radio set using the necessary equipment and tools",
+     "descriptions": [],
+     "parentId": 104,
+     "subLabels": []
+    },
+    {
+     "id": 117,
+     "text": "Use of multimeter",
+     "descriptions": [],
+     "parentId": 104,
+     "subLabels": []
+    },
+    {
+     "id": 118,
+     "text": "Treatments should include measurement of the correct value of current, voltage and resistance in active and passive electronic components and circuits",
+     "descriptions": [],
+     "parentId": 104,
+     "subLabels": []
+    },
+    {
+     "id": 119,
+     "text": "Procedure for tv repairs",
+     "descriptions": [],
+     "parentId": 104,
+     "subLabels": []
+    },
+    {
+     "id": 120,
+     "text": "Use of service information manual and circuit diagram",
+     "descriptions": [],
+     "parentId": 104,
+     "subLabels": []
+    },
+    {
+     "id": 121,
+     "text": "Identification of symptoms and repair of faults",
+     "descriptions": [],
+     "parentId": 104,
+     "subLabels": []
+    },
+    {
+     "id": 122,
+     "text": "Fault clearing instruments",
+     "descriptions": [],
+     "parentId": 104,
+     "subLabels": []
+    },
+    {
+     "id": 123,
+     "text": "Symptoms of faults",
+     "descriptions": [],
+     "parentId": 104,
+     "subLabels": []
+    },
+    {
+     "id": 124,
+     "text": "Fault clearing at each stage",
+     "descriptions": [],
+     "parentId": 104,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 134,
+   "text": "Receiver",
+   "descriptions": [],
+   "parentId": 133,
+   "subLabels": []
+  },
+  {
+   "id": 136,
+   "text": "Receiver",
+   "descriptions": [],
+   "parentId": 135,
+   "subLabels": []
+  },
+  {
+   "id": 105,
+   "text": "Techniques and precautions",
+   "descriptions": [],
+   "parentId": 104,
+   "subLabels": []
+  },
+  {
+   "id": 106,
+   "text": "Types of solder",
+   "descriptions": [],
+   "parentId": 104,
+   "subLabels": []
+  },
+  {
+   "id": 107,
+   "text": "Types of flux \u2013 amber resin and nacl solutions",
+   "descriptions": [],
+   "parentId": 104,
+   "subLabels": []
+  },
+  {
+   "id": 108,
+   "text": "Dismantling and reassembling of power supply unit in a radio set",
+   "descriptions": [],
+   "parentId": 104,
+   "subLabels": []
+  },
+  {
+   "id": 109,
+   "text": "Dismantling and reassembling rf, if detector",
+   "descriptions": [],
+   "parentId": 104,
+   "subLabels": []
+  },
+  {
+   "id": 110,
+   "text": "Stages in a radio receiver set",
+   "descriptions": [],
+   "parentId": 104,
+   "subLabels": []
+  },
+  {
+   "id": 111,
+   "text": "Af amplifier circuit",
+   "descriptions": [],
+   "parentId": 104,
+   "subLabels": []
+  },
+  {
+   "id": 112,
+   "text": "Installation and maintenance of a car radio set",
+   "descriptions": [],
+   "parentId": 104,
+   "subLabels": []
+  },
+  {
+   "id": 113,
+   "text": "Diagnose fault by using fault finding pieces of equipment and logical trouble shooting procedure",
+   "descriptions": [],
+   "parentId": 104,
+   "subLabels": []
+  },
+  {
+   "id": 114,
+   "text": "Components responsible for faults",
+   "descriptions": [],
+   "parentId": 104,
+   "subLabels": []
+  },
+  {
+   "id": 115,
+   "text": "Remedies for the faults",
+   "descriptions": [],
+   "parentId": 104,
+   "subLabels": []
+  },
+  {
+   "id": 116,
+   "text": "Alignment of rf and if stages of a radio set using the necessary equipment and tools",
+   "descriptions": [],
+   "parentId": 104,
+   "subLabels": []
+  },
+  {
+   "id": 117,
+   "text": "Use of multimeter",
+   "descriptions": [],
+   "parentId": 104,
+   "subLabels": []
+  },
+  {
+   "id": 118,
+   "text": "Treatments should include measurement of the correct value of current, voltage and resistance in active and passive electronic components and circuits",
+   "descriptions": [],
+   "parentId": 104,
+   "subLabels": []
+  },
+  {
+   "id": 119,
+   "text": "Procedure for tv repairs",
+   "descriptions": [],
+   "parentId": 104,
+   "subLabels": []
+  },
+  {
+   "id": 120,
+   "text": "Use of service information manual and circuit diagram",
+   "descriptions": [],
+   "parentId": 104,
+   "subLabels": []
+  },
+  {
+   "id": 121,
+   "text": "Identification of symptoms and repair of faults",
+   "descriptions": [],
+   "parentId": 104,
+   "subLabels": []
+  },
+  {
+   "id": 122,
+   "text": "Fault clearing instruments",
+   "descriptions": [],
+   "parentId": 104,
+   "subLabels": []
+  },
+  {
+   "id": 123,
+   "text": "Symptoms of faults",
+   "descriptions": [],
+   "parentId": 104,
+   "subLabels": []
+  },
+  {
+   "id": 124,
+   "text": "Fault clearing at each stage",
+   "descriptions": [],
+   "parentId": 104,
+   "subLabels": []
+  }
+ ]
+}

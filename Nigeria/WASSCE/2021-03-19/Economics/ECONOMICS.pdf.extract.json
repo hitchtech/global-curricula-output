@@ -1,1 +1,46 @@
-{"subject": "subject", "Grade": "SS3", "Curriculum": "WASSCE", "labelsTree": [{"id": 12, "text": "8. theory of price determination", "descriptions": null, "parentId": -1, "subLabels": [{"id": 13, "text": "Production: division of labour and specialization: scale of production (internal and external economies), concept of total, average and marginal productivity and law of variable  proportions", "descriptions": [], "parentId": 12, "subLabels": []}]}], "labels": [{"id": 12, "text": "8. theory of price determination", "descriptions": null, "parentId": -1, "subLabels": [{"id": 13, "text": "Production: division of labour and specialization: scale of production (internal and external economies), concept of total, average and marginal productivity and law of variable  proportions", "descriptions": [], "parentId": 12, "subLabels": []}]}, {"id": 13, "text": "Production: division of labour and specialization: scale of production (internal and external economies), concept of total, average and marginal productivity and law of variable  proportions", "descriptions": [], "parentId": 12, "subLabels": []}]}
+{
+ "subject": "Economics",
+ "Grade": "None",
+ "Curriculum": "test",
+ "labelsTree": [
+  {
+   "id": 12,
+   "text": "8. theory of price determination",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 13,
+     "text": "Production: division of labour and specialization: scale of production (internal and external economies), concept of total, average and marginal productivity and law of variable  proportions",
+     "descriptions": [],
+     "parentId": 12,
+     "subLabels": []
+    }
+   ]
+  }
+ ],
+ "labels": [
+  {
+   "id": 12,
+   "text": "8. theory of price determination",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 13,
+     "text": "Production: division of labour and specialization: scale of production (internal and external economies), concept of total, average and marginal productivity and law of variable  proportions",
+     "descriptions": [],
+     "parentId": 12,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "text": "Production: division of labour and specialization: scale of production (internal and external economies), concept of total, average and marginal productivity and law of variable  proportions",
+   "descriptions": [],
+   "parentId": 12,
+   "subLabels": []
+  }
+ ]
+}

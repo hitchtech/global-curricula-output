@@ -1,1 +1,54 @@
-{"subject": "subject", "Grade": "SS3", "Curriculum": "WASSCE", "labelsTree": [{"id": 13, "text": "10. exhibition and entrepreneurship", "descriptions": null, "parentId": -1, "subLabels": [{"id": 14, "text": "(a) (i) building of portfolios:  i.e. importance, types", "descriptions": ["and"], "parentId": 13, "subLabels": []}, {"id": 15, "text": "Checklist; hard and soft copies for exhibition", "descriptions": [], "parentId": 13, "subLabels": [{"id": 16, "text": "(ii) exhibition:  importance, planning, organization and mounting, etc", "descriptions": [], "parentId": 15, "subLabels": []}, {"id": 17, "text": "(b) (i) costing and pricing", "descriptions": [], "parentId": 15, "subLabels": []}, {"id": 18, "text": "(ii) business risks", "descriptions": [], "parentId": 15, "subLabels": []}]}]}], "labels": []}
+{
+ "subject": "Jewellery",
+ "Grade": "None",
+ "Curriculum": "test",
+ "labelsTree": [
+  {
+   "id": 13,
+   "text": "10. exhibition and entrepreneurship",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 14,
+     "text": "(a) (i) building of portfolios:  i.e. importance, types",
+     "descriptions": [
+      "and"
+     ],
+     "parentId": 13,
+     "subLabels": []
+    },
+    {
+     "id": 15,
+     "text": "Checklist; hard and soft copies for exhibition",
+     "descriptions": [],
+     "parentId": 13,
+     "subLabels": [
+      {
+       "id": 16,
+       "text": "(ii) exhibition:  importance, planning, organization and mounting, etc",
+       "descriptions": [],
+       "parentId": 15,
+       "subLabels": []
+      },
+      {
+       "id": 17,
+       "text": "(b) (i) costing and pricing",
+       "descriptions": [],
+       "parentId": 15,
+       "subLabels": []
+      },
+      {
+       "id": 18,
+       "text": "(ii) business risks",
+       "descriptions": [],
+       "parentId": 15,
+       "subLabels": []
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "labels": []
+}

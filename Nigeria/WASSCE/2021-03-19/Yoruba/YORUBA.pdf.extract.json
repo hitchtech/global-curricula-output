@@ -1,1 +1,481 @@
-{"subject": "subject", "Grade": "SS3", "Curriculum": "WASSCE", "labelsTree": [{"id": 4, "text": "Section a: language", "descriptions": null, "parentId": -1, "subLabels": [{"id": 5, "text": "Comprehension (2 short passages)", "descriptions": ["-"], "parentId": 4, "subLabels": []}]}, {"id": 6, "text": "Section b: literature", "descriptions": null, "parentId": -1, "subLabels": [{"id": 7, "text": "Basic principles of literary appreciation", "descriptions": ["-"], "parentId": 6, "subLabels": []}]}, {"id": 8, "text": "Section c: culture", "descriptions": null, "parentId": -1, "subLabels": [{"id": 9, "text": "Customs", "descriptions": ["-"], "parentId": 8, "subLabels": []}]}, {"id": 24, "text": "Prose", "descriptions": null, "parentId": -1, "subLabels": [{"id": 25, "text": "1. ojo, olagoke: (2005)", "descriptions": ["Ijapa Tiroko Oko Yannibo"], "parentId": 24, "subLabels": []}]}, {"id": 26, "text": "Poetry", "descriptions": null, "parentId": -1, "subLabels": [{"id": 27, "text": "2. abimbola, wande: (2004)", "descriptions": ["Awon Oju Odu"], "parentId": 26, "subLabels": []}]}, {"id": 28, "text": "Drama", "descriptions": null, "parentId": -1, "subLabels": [{"id": 29, "text": "3. ogunniran, l: (2007)", "descriptions": ["Eegun Alare"], "parentId": 28, "subLabels": []}]}, {"id": 31, "text": "Prose", "descriptions": null, "parentId": -1, "subLabels": [{"id": 32, "text": "4. eso-oluborode, sunday", "descriptions": ["Olorunsogo (Osogbo)"], "parentId": 31, "subLabels": []}, {"id": 33, "text": "(1994)", "descriptions": [], "parentId": 31, "subLabels": []}]}, {"id": 34, "text": "Poetry", "descriptions": null, "parentId": -1, "subLabels": [{"id": 35, "text": "5. olayiwola, ademola", "descriptions": ["Akowe ko wura"], "parentId": 34, "subLabels": []}]}, {"id": 36, "text": "Drama", "descriptions": null, "parentId": -1, "subLabels": [{"id": 37, "text": "6. awe, debo: (2004)", "descriptions": ["Apoti Alakara"], "parentId": 36, "subLabels": []}]}, {"id": 41, "text": "Literature", "descriptions": null, "parentId": -1, "subLabels": [{"id": 42, "text": "Alaba and ogunsipe: (1982) iwe afinimona lori awon", "descriptions": ["Nelson Iwe Fagunwa"], "parentId": 41, "subLabels": []}, {"id": 43, "text": "Ogunsina, bisi: (1981) iwe akoyawo alaye lori o le ku upl egbe akomolede ati asa ewi yoruba lakotun 1-iii evans yoruba, naijiria: (2007)", "descriptions": [], "parentId": 41, "subLabels": []}]}], "labels": [{"id": 4, "text": "Section a: language", "descriptions": null, "parentId": -1, "subLabels": [{"id": 5, "text": "Comprehension (2 short passages)", "descriptions": ["-"], "parentId": 4, "subLabels": []}]}, {"id": 6, "text": "Section b: literature", "descriptions": null, "parentId": -1, "subLabels": [{"id": 7, "text": "Basic principles of literary appreciation", "descriptions": ["-"], "parentId": 6, "subLabels": []}]}, {"id": 8, "text": "Section c: culture", "descriptions": null, "parentId": -1, "subLabels": [{"id": 9, "text": "Customs", "descriptions": ["-"], "parentId": 8, "subLabels": []}]}, {"id": 24, "text": "Prose", "descriptions": null, "parentId": -1, "subLabels": [{"id": 25, "text": "1. ojo, olagoke: (2005)", "descriptions": ["Ijapa Tiroko Oko Yannibo"], "parentId": 24, "subLabels": []}]}, {"id": 26, "text": "Poetry", "descriptions": null, "parentId": -1, "subLabels": [{"id": 27, "text": "2. abimbola, wande: (2004)", "descriptions": ["Awon Oju Odu"], "parentId": 26, "subLabels": []}]}, {"id": 28, "text": "Drama", "descriptions": null, "parentId": -1, "subLabels": [{"id": 29, "text": "3. ogunniran, l: (2007)", "descriptions": ["Eegun Alare"], "parentId": 28, "subLabels": []}]}, {"id": 31, "text": "Prose", "descriptions": null, "parentId": -1, "subLabels": [{"id": 32, "text": "4. eso-oluborode, sunday", "descriptions": ["Olorunsogo (Osogbo)"], "parentId": 31, "subLabels": []}, {"id": 33, "text": "(1994)", "descriptions": [], "parentId": 31, "subLabels": []}]}, {"id": 34, "text": "Poetry", "descriptions": null, "parentId": -1, "subLabels": [{"id": 35, "text": "5. olayiwola, ademola", "descriptions": ["Akowe ko wura"], "parentId": 34, "subLabels": []}]}, {"id": 36, "text": "Drama", "descriptions": null, "parentId": -1, "subLabels": [{"id": 37, "text": "6. awe, debo: (2004)", "descriptions": ["Apoti Alakara"], "parentId": 36, "subLabels": []}]}, {"id": 41, "text": "Literature", "descriptions": null, "parentId": -1, "subLabels": [{"id": 42, "text": "Alaba and ogunsipe: (1982) iwe afinimona lori awon", "descriptions": ["Nelson Iwe Fagunwa"], "parentId": 41, "subLabels": []}, {"id": 43, "text": "Ogunsina, bisi: (1981) iwe akoyawo alaye lori o le ku upl egbe akomolede ati asa ewi yoruba lakotun 1-iii evans yoruba, naijiria: (2007)", "descriptions": [], "parentId": 41, "subLabels": []}]}, {"id": 5, "text": "Comprehension (2 short passages)", "descriptions": ["-"], "parentId": 4, "subLabels": []}, {"id": 7, "text": "Basic principles of literary appreciation", "descriptions": ["-"], "parentId": 6, "subLabels": []}, {"id": 9, "text": "Customs", "descriptions": ["-"], "parentId": 8, "subLabels": []}, {"id": 25, "text": "1. ojo, olagoke: (2005)", "descriptions": ["Ijapa Tiroko Oko Yannibo"], "parentId": 24, "subLabels": []}, {"id": 27, "text": "2. abimbola, wande: (2004)", "descriptions": ["Awon Oju Odu"], "parentId": 26, "subLabels": []}, {"id": 29, "text": "3. ogunniran, l: (2007)", "descriptions": ["Eegun Alare"], "parentId": 28, "subLabels": []}, {"id": 32, "text": "4. eso-oluborode, sunday", "descriptions": ["Olorunsogo (Osogbo)"], "parentId": 31, "subLabels": []}, {"id": 33, "text": "(1994)", "descriptions": [], "parentId": 31, "subLabels": []}, {"id": 35, "text": "5. olayiwola, ademola", "descriptions": ["Akowe ko wura"], "parentId": 34, "subLabels": []}, {"id": 37, "text": "6. awe, debo: (2004)", "descriptions": ["Apoti Alakara"], "parentId": 36, "subLabels": []}, {"id": 42, "text": "Alaba and ogunsipe: (1982) iwe afinimona lori awon", "descriptions": ["Nelson Iwe Fagunwa"], "parentId": 41, "subLabels": []}, {"id": 43, "text": "Ogunsina, bisi: (1981) iwe akoyawo alaye lori o le ku upl egbe akomolede ati asa ewi yoruba lakotun 1-iii evans yoruba, naijiria: (2007)", "descriptions": [], "parentId": 41, "subLabels": []}]}
+{
+ "subject": "Yoruba",
+ "Grade": "None",
+ "Curriculum": "test",
+ "labelsTree": [
+  {
+   "id": 4,
+   "text": "Section a: language",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 5,
+     "text": "Comprehension (2 short passages)",
+     "descriptions": [
+      "-"
+     ],
+     "parentId": 4,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "text": "Section b: literature",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 7,
+     "text": "Basic principles of literary appreciation",
+     "descriptions": [
+      "-"
+     ],
+     "parentId": 6,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "text": "Section c: culture",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 9,
+     "text": "Customs",
+     "descriptions": [
+      "-"
+     ],
+     "parentId": 8,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "text": "Prose",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 25,
+     "text": "1. ojo, olagoke: (2005)",
+     "descriptions": [
+      "Ijapa Tiroko Oko Yannibo"
+     ],
+     "parentId": 24,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "text": "Poetry",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 27,
+     "text": "2. abimbola, wande: (2004)",
+     "descriptions": [
+      "Awon Oju Odu"
+     ],
+     "parentId": 26,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 28,
+   "text": "Drama",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 29,
+     "text": "3. ogunniran, l: (2007)",
+     "descriptions": [
+      "Eegun Alare"
+     ],
+     "parentId": 28,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 31,
+   "text": "Prose",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 32,
+     "text": "4. eso-oluborode, sunday",
+     "descriptions": [
+      "Olorunsogo (Osogbo)"
+     ],
+     "parentId": 31,
+     "subLabels": []
+    },
+    {
+     "id": 33,
+     "text": "(1994)",
+     "descriptions": [],
+     "parentId": 31,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 34,
+   "text": "Poetry",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 35,
+     "text": "5. olayiwola, ademola",
+     "descriptions": [
+      "Akowe ko wura"
+     ],
+     "parentId": 34,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 36,
+   "text": "Drama",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 37,
+     "text": "6. awe, debo: (2004)",
+     "descriptions": [
+      "Apoti Alakara"
+     ],
+     "parentId": 36,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 41,
+   "text": "Literature",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 42,
+     "text": "Alaba and ogunsipe: (1982) iwe afinimona lori awon",
+     "descriptions": [
+      "Nelson Iwe Fagunwa"
+     ],
+     "parentId": 41,
+     "subLabels": []
+    },
+    {
+     "id": 43,
+     "text": "Ogunsina, bisi: (1981) iwe akoyawo alaye lori o le ku upl egbe akomolede ati asa ewi yoruba lakotun 1-iii evans yoruba, naijiria: (2007)",
+     "descriptions": [],
+     "parentId": 41,
+     "subLabels": []
+    }
+   ]
+  }
+ ],
+ "labels": [
+  {
+   "id": 4,
+   "text": "Section a: language",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 5,
+     "text": "Comprehension (2 short passages)",
+     "descriptions": [
+      "-"
+     ],
+     "parentId": 4,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "text": "Section b: literature",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 7,
+     "text": "Basic principles of literary appreciation",
+     "descriptions": [
+      "-"
+     ],
+     "parentId": 6,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "text": "Section c: culture",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 9,
+     "text": "Customs",
+     "descriptions": [
+      "-"
+     ],
+     "parentId": 8,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "text": "Prose",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 25,
+     "text": "1. ojo, olagoke: (2005)",
+     "descriptions": [
+      "Ijapa Tiroko Oko Yannibo"
+     ],
+     "parentId": 24,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "text": "Poetry",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 27,
+     "text": "2. abimbola, wande: (2004)",
+     "descriptions": [
+      "Awon Oju Odu"
+     ],
+     "parentId": 26,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 28,
+   "text": "Drama",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 29,
+     "text": "3. ogunniran, l: (2007)",
+     "descriptions": [
+      "Eegun Alare"
+     ],
+     "parentId": 28,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 31,
+   "text": "Prose",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 32,
+     "text": "4. eso-oluborode, sunday",
+     "descriptions": [
+      "Olorunsogo (Osogbo)"
+     ],
+     "parentId": 31,
+     "subLabels": []
+    },
+    {
+     "id": 33,
+     "text": "(1994)",
+     "descriptions": [],
+     "parentId": 31,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 34,
+   "text": "Poetry",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 35,
+     "text": "5. olayiwola, ademola",
+     "descriptions": [
+      "Akowe ko wura"
+     ],
+     "parentId": 34,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 36,
+   "text": "Drama",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 37,
+     "text": "6. awe, debo: (2004)",
+     "descriptions": [
+      "Apoti Alakara"
+     ],
+     "parentId": 36,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 41,
+   "text": "Literature",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 42,
+     "text": "Alaba and ogunsipe: (1982) iwe afinimona lori awon",
+     "descriptions": [
+      "Nelson Iwe Fagunwa"
+     ],
+     "parentId": 41,
+     "subLabels": []
+    },
+    {
+     "id": 43,
+     "text": "Ogunsina, bisi: (1981) iwe akoyawo alaye lori o le ku upl egbe akomolede ati asa ewi yoruba lakotun 1-iii evans yoruba, naijiria: (2007)",
+     "descriptions": [],
+     "parentId": 41,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "text": "Comprehension (2 short passages)",
+   "descriptions": [
+    "-"
+   ],
+   "parentId": 4,
+   "subLabels": []
+  },
+  {
+   "id": 7,
+   "text": "Basic principles of literary appreciation",
+   "descriptions": [
+    "-"
+   ],
+   "parentId": 6,
+   "subLabels": []
+  },
+  {
+   "id": 9,
+   "text": "Customs",
+   "descriptions": [
+    "-"
+   ],
+   "parentId": 8,
+   "subLabels": []
+  },
+  {
+   "id": 25,
+   "text": "1. ojo, olagoke: (2005)",
+   "descriptions": [
+    "Ijapa Tiroko Oko Yannibo"
+   ],
+   "parentId": 24,
+   "subLabels": []
+  },
+  {
+   "id": 27,
+   "text": "2. abimbola, wande: (2004)",
+   "descriptions": [
+    "Awon Oju Odu"
+   ],
+   "parentId": 26,
+   "subLabels": []
+  },
+  {
+   "id": 29,
+   "text": "3. ogunniran, l: (2007)",
+   "descriptions": [
+    "Eegun Alare"
+   ],
+   "parentId": 28,
+   "subLabels": []
+  },
+  {
+   "id": 32,
+   "text": "4. eso-oluborode, sunday",
+   "descriptions": [
+    "Olorunsogo (Osogbo)"
+   ],
+   "parentId": 31,
+   "subLabels": []
+  },
+  {
+   "id": 33,
+   "text": "(1994)",
+   "descriptions": [],
+   "parentId": 31,
+   "subLabels": []
+  },
+  {
+   "id": 35,
+   "text": "5. olayiwola, ademola",
+   "descriptions": [
+    "Akowe ko wura"
+   ],
+   "parentId": 34,
+   "subLabels": []
+  },
+  {
+   "id": 37,
+   "text": "6. awe, debo: (2004)",
+   "descriptions": [
+    "Apoti Alakara"
+   ],
+   "parentId": 36,
+   "subLabels": []
+  },
+  {
+   "id": 42,
+   "text": "Alaba and ogunsipe: (1982) iwe afinimona lori awon",
+   "descriptions": [
+    "Nelson Iwe Fagunwa"
+   ],
+   "parentId": 41,
+   "subLabels": []
+  },
+  {
+   "id": 43,
+   "text": "Ogunsina, bisi: (1981) iwe akoyawo alaye lori o le ku upl egbe akomolede ati asa ewi yoruba lakotun 1-iii evans yoruba, naijiria: (2007)",
+   "descriptions": [],
+   "parentId": 41,
+   "subLabels": []
+  }
+ ]
+}

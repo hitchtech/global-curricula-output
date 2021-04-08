@@ -1,1 +1,1828 @@
-{"subject": "subject", "Grade": "SS3", "Curriculum": "WASSCE", "labelsTree": [{"id": 4, "text": "Key:", "descriptions": null, "parentId": -1, "subLabels": [{"id": 5, "text": "I . pure mathematics", "descriptions": ["(i) Idea of a set", "defined by a property, Set notations and their meanings.", "(ii) Disjoint sets,", "Universal set and complement of set", "(iii) Venn diagrams,", "Use of sets", "And Venn", "diagrams to solve problems.", "(iv) Commutative", "and Associative laws, Distributive properties over union and intersection.", "Surds of the form  , a and a+b where a is rational, b is a positive integer and n is not a perfect square."], "parentId": 4, "subLabels": [{"id": 6, "text": "Sets", "descriptions": ["Properties: Closure, Commutativity, Associativity and Distributivity, Identity elements and inverses.", "(i) Rule of syntax: true or false", "statements, rule of logic applied to      arguments, implications and deductions.", "(ii) The truth table"], "parentId": 5, "subLabels": []}]}, {"id": 7, "text": "Surds", "descriptions": ["(i) Domain and co-", "domain of a function.", "(ii) One-to-one,", "onto, identity and constant mapping;"], "parentId": 4, "subLabels": []}, {"id": 8, "text": "Binary", "descriptions": [], "parentId": 4, "subLabels": []}, {"id": 9, "text": "Operations", "descriptions": ["(iii) Inverse of a", "function."], "parentId": 4, "subLabels": []}, {"id": 10, "text": "Logical", "descriptions": [], "parentId": 4, "subLabels": []}, {"id": 11, "text": "Reasoning", "descriptions": ["(iv) Composite of functions.", "(i) Linear Functions,", "Equations and Inequality"], "parentId": 4, "subLabels": []}, {"id": 12, "text": "Functions", "descriptions": ["(ii) Quadratic", "Functions, Equations and Inequalities"], "parentId": 4, "subLabels": []}, {"id": 13, "text": "Polynomial", "descriptions": [], "parentId": 4, "subLabels": []}, {"id": 14, "text": "Functions", "descriptions": ["(ii) Cubic Functions", "and Equations", "(i) Rational functions", "of the form", "Q(x) =  ,g(x)  0. where g(x) and", "f(x) are", "polynomials. e.g. f:x", "(ii) Resolution of"], "parentId": 4, "subLabels": []}]}, {"id": 21, "text": "( 5) currencies", "descriptions": null, "parentId": -1, "subLabels": [{"id": 22, "text": "The gambia", "descriptions": ["\u2013 - - 100 cents (c) = 1 Liberian Dollar (LD) - 100 kobo (k) = 1 Naira (N) - 100 cents (c) = 1 Leone (Le) 100 pence (p) = 1 pound (\u00a3) 100 cents (c) = 1 dollar ($)"], "parentId": 21, "subLabels": []}, {"id": 23, "text": "Ghana", "descriptions": [], "parentId": 21, "subLabels": []}, {"id": 24, "text": "Liberia", "descriptions": [], "parentId": 21, "subLabels": []}, {"id": 25, "text": "Nigeria", "descriptions": [], "parentId": 21, "subLabels": []}, {"id": 26, "text": "Sierra leone", "descriptions": [], "parentId": 21, "subLabels": []}, {"id": 27, "text": "Uk ", "descriptions": [], "parentId": 21, "subLabels": []}, {"id": 28, "text": "Usa ", "descriptions": [], "parentId": 21, "subLabels": []}, {"id": 29, "text": "French speaking territories 100 centimes (c) = 1 franc (fr)", "descriptions": [], "parentId": 21, "subLabels": []}, {"id": 30, "text": "Any other units used will be defined", "descriptions": [], "parentId": 21, "subLabels": []}]}], "labels": [{"id": 5, "text": "List of facilities and major equipment/materials required:", "descriptions": null, "parentId": -1, "subLabels": [{"id": 6, "text": "1", "descriptions": ["Try Square"], "parentId": 5, "subLabels": []}, {"id": 7, "text": "2", "descriptions": ["Mitre Square"], "parentId": 5, "subLabels": []}, {"id": 8, "text": "3", "descriptions": ["Sliding Bevel"], "parentId": 5, "subLabels": []}, {"id": 9, "text": "4", "descriptions": ["Marking Gauge"], "parentId": 5, "subLabels": []}, {"id": 10, "text": "5", "descriptions": ["Mortise Gauge"], "parentId": 5, "subLabels": []}, {"id": 11, "text": "6", "descriptions": ["Marking knives"], "parentId": 5, "subLabels": []}, {"id": 12, "text": "7", "descriptions": ["Four Fold (wooden Rule)"], "parentId": 5, "subLabels": []}, {"id": 13, "text": "8", "descriptions": ["Tape Rule (Metric)"], "parentId": 5, "subLabels": []}, {"id": 14, "text": "9", "descriptions": ["Jack Plane"], "parentId": 5, "subLabels": []}, {"id": 15, "text": "10", "descriptions": ["Smooth Plane"], "parentId": 5, "subLabels": []}, {"id": 16, "text": "11", "descriptions": ["Trying Plane (jointing Plane)"], "parentId": 5, "subLabels": []}, {"id": 17, "text": "12", "descriptions": ["Block Plane"], "parentId": 5, "subLabels": []}, {"id": 18, "text": "13", "descriptions": ["Rebate Plane"], "parentId": 5, "subLabels": []}, {"id": 19, "text": "14", "descriptions": ["G Clamp"], "parentId": 5, "subLabels": []}, {"id": 20, "text": "15", "descriptions": ["Plough Plane"], "parentId": 5, "subLabels": []}, {"id": 21, "text": "16", "descriptions": ["Bull Nose Plane"], "parentId": 5, "subLabels": []}, {"id": 22, "text": "17", "descriptions": ["Router Plane"], "parentId": 5, "subLabels": []}, {"id": 23, "text": "18", "descriptions": ["Rip Saw"], "parentId": 5, "subLabels": []}, {"id": 24, "text": "19", "descriptions": ["Crosscut Saw"], "parentId": 5, "subLabels": []}, {"id": 25, "text": "20", "descriptions": ["Tenon Saw"], "parentId": 5, "subLabels": []}, {"id": 26, "text": "21", "descriptions": ["Panel Saw"], "parentId": 5, "subLabels": []}, {"id": 27, "text": "22", "descriptions": ["Coping Saw"], "parentId": 5, "subLabels": []}, {"id": 28, "text": "23", "descriptions": ["Compass Saw"], "parentId": 5, "subLabels": []}, {"id": 29, "text": "24", "descriptions": ["Nest of Saws"], "parentId": 5, "subLabels": []}, {"id": 30, "text": "25", "descriptions": ["Keyhole/pad Saw"], "parentId": 5, "subLabels": []}, {"id": 31, "text": "26", "descriptions": ["Fret Saw"], "parentId": 5, "subLabels": []}, {"id": 32, "text": "27", "descriptions": ["Dovetail Saw"], "parentId": 5, "subLabels": []}, {"id": 33, "text": "28", "descriptions": ["Firmer Chisel"], "parentId": 5, "subLabels": []}, {"id": 34, "text": "29", "descriptions": ["Bevelled Edge Firmer Chisel"], "parentId": 5, "subLabels": []}, {"id": 35, "text": "30", "descriptions": ["Mortise Chisel (set)"], "parentId": 5, "subLabels": []}, {"id": 36, "text": "31", "descriptions": ["Turning Chisel"], "parentId": 5, "subLabels": []}, {"id": 37, "text": "32", "descriptions": ["Centre bit"], "parentId": 5, "subLabels": []}, {"id": 38, "text": "33", "descriptions": ["Auger Bit"], "parentId": 5, "subLabels": []}, {"id": 39, "text": "34", "descriptions": ["Twist Bit"], "parentId": 5, "subLabels": []}, {"id": 40, "text": "35", "descriptions": ["Rose"], "parentId": 5, "subLabels": []}, {"id": 41, "text": "36", "descriptions": ["Bradawl"], "parentId": 5, "subLabels": []}, {"id": 42, "text": "37", "descriptions": ["Gimlet"], "parentId": 5, "subLabels": []}, {"id": 43, "text": "38", "descriptions": ["Ratchet brace"], "parentId": 5, "subLabels": []}, {"id": 44, "text": "39", "descriptions": ["Dowel Rounder"], "parentId": 5, "subLabels": []}, {"id": 45, "text": "40", "descriptions": ["Drill Bit"], "parentId": 5, "subLabels": []}, {"id": 46, "text": "41", "descriptions": ["Screw Driver (set of 6)"], "parentId": 5, "subLabels": []}, {"id": 47, "text": "43", "descriptions": ["Mallet"], "parentId": 5, "subLabels": []}, {"id": 48, "text": "44", "descriptions": ["Claw Hammer"], "parentId": 5, "subLabels": []}, {"id": 49, "text": "45", "descriptions": ["Cross Pein Hammer"], "parentId": 5, "subLabels": []}, {"id": 50, "text": "46", "descriptions": ["Ball Pein Hammer \u2018F\u2019 Clamp"], "parentId": 5, "subLabels": []}, {"id": 51, "text": "47", "descriptions": [], "parentId": 5, "subLabels": []}, {"id": 52, "text": "48", "descriptions": ["Sash Clamp"], "parentId": 5, "subLabels": []}, {"id": 53, "text": "49", "descriptions": ["Hand Screw"], "parentId": 5, "subLabels": []}, {"id": 54, "text": "50", "descriptions": ["Bench Holdfast"], "parentId": 5, "subLabels": []}, {"id": 55, "text": "51", "descriptions": ["Mitre Box"], "parentId": 5, "subLabels": []}, {"id": 56, "text": "52", "descriptions": ["Mitre Cramp"], "parentId": 5, "subLabels": []}, {"id": 57, "text": "53", "descriptions": ["Mitre Shooting Board"], "parentId": 5, "subLabels": []}, {"id": 58, "text": "54", "descriptions": ["Flat Files (assorted)"], "parentId": 5, "subLabels": []}, {"id": 59, "text": "55", "descriptions": ["Scraper(flat)"], "parentId": 5, "subLabels": []}, {"id": 60, "text": "56", "descriptions": ["Dividers"], "parentId": 5, "subLabels": []}, {"id": 61, "text": "57", "descriptions": ["Pincers"], "parentId": 5, "subLabels": []}, {"id": 62, "text": "58", "descriptions": ["Spoke shave"], "parentId": 5, "subLabels": []}, {"id": 63, "text": "59", "descriptions": ["Dowelling jig"], "parentId": 5, "subLabels": []}, {"id": 64, "text": "60", "descriptions": ["Rasps"], "parentId": 5, "subLabels": []}, {"id": 65, "text": "61", "descriptions": ["Sewing Machine"], "parentId": 5, "subLabels": []}, {"id": 66, "text": "62", "descriptions": ["Scissors"], "parentId": 5, "subLabels": []}, {"id": 67, "text": "63", "descriptions": ["Staple Gun"], "parentId": 5, "subLabels": []}, {"id": 68, "text": "64", "descriptions": ["Needle (set) Curved and Straight"], "parentId": 5, "subLabels": []}, {"id": 69, "text": "65", "descriptions": ["Tack Hammer"], "parentId": 5, "subLabels": []}, {"id": 70, "text": "66", "descriptions": ["Pliers"], "parentId": 5, "subLabels": []}, {"id": 71, "text": "67", "descriptions": ["Magnetic Hammer"], "parentId": 5, "subLabels": []}, {"id": 72, "text": "68", "descriptions": ["Ripping Chisel"], "parentId": 5, "subLabels": []}, {"id": 73, "text": "69", "descriptions": ["Knives"], "parentId": 5, "subLabels": []}, {"id": 74, "text": "70", "descriptions": ["Tape (tailors type)"], "parentId": 5, "subLabels": []}, {"id": 75, "text": "71", "descriptions": ["Web Strainer"], "parentId": 5, "subLabels": []}, {"id": 76, "text": "72", "descriptions": ["Spring Cutter"], "parentId": 5, "subLabels": []}, {"id": 77, "text": "73", "descriptions": ["Spanner (set)"], "parentId": 5, "subLabels": []}, {"id": 78, "text": "74", "descriptions": ["Wrenches"], "parentId": 5, "subLabels": []}, {"id": 79, "text": "75", "descriptions": ["Botton Making Machine"], "parentId": 5, "subLabels": []}, {"id": 80, "text": "76", "descriptions": ["Work Bench"], "parentId": 5, "subLabels": []}, {"id": 81, "text": "77", "descriptions": ["Bench Vice"], "parentId": 5, "subLabels": []}, {"id": 82, "text": "78", "descriptions": ["Paint brush (sets)"], "parentId": 5, "subLabels": []}, {"id": 83, "text": "79", "descriptions": ["Putty knives"], "parentId": 5, "subLabels": []}, {"id": 84, "text": "80", "descriptions": ["Storage box"], "parentId": 5, "subLabels": []}, {"id": 85, "text": "81", "descriptions": ["Water stone"], "parentId": 5, "subLabels": []}, {"id": 86, "text": "82", "descriptions": ["Oil can"], "parentId": 5, "subLabels": []}, {"id": 87, "text": "83", "descriptions": ["Veneer hammer"], "parentId": 5, "subLabels": []}, {"id": 88, "text": "84", "descriptions": ["First-aid box"], "parentId": 5, "subLabels": []}, {"id": 89, "text": "Appendix e", "descriptions": ["SUGGESTED READING LIST"], "parentId": 5, "subLabels": []}, {"id": 90, "text": "S/n name 1 woodwork for g.c.e &c.s.e (metric edition) 2 woodwork in theory & practice 3 modern woodworking 4 wood occupations 5 the theory and practice of", "descriptions": ["AUTHOR PUBLISHER", "J.N GREEN Mills and Boon Ltd", "JOHN", ".A.WALTON", "WILLIS", ".H.WAGNER The Goodheart -Willcox,Inc", "PETER BRETT Nelson Thorns"], "parentId": 5, "subLabels": [{"id": 91, "text": "Woodwork (4 th", "descriptions": ["GEORGE LOVE Longman"], "parentId": 90, "subLabels": []}, {"id": 92, "text": "Edition)", "descriptions": [], "parentId": 90, "subLabels": []}]}, {"id": 93, "text": "6 constructing modern furniture 7 practical upholstery 8 woodwork design and practice", "descriptions": ["VICTOR", ".J.TAYLOR Sterlin g publishing Co.Inc New York", "C.HOWES", "F.A.M.U Evans brothers Ltd", "DAVID .M.SHAW Hodder and Stoughton London Sydney,Auckland", "London", "Toronto"], "parentId": 5, "subLabels": []}]}, {"id": 6, "text": "1", "descriptions": ["Try Square"], "parentId": 5, "subLabels": []}, {"id": 7, "text": "2", "descriptions": ["Mitre Square"], "parentId": 5, "subLabels": []}, {"id": 8, "text": "3", "descriptions": ["Sliding Bevel"], "parentId": 5, "subLabels": []}, {"id": 9, "text": "4", "descriptions": ["Marking Gauge"], "parentId": 5, "subLabels": []}, {"id": 10, "text": "5", "descriptions": ["Mortise Gauge"], "parentId": 5, "subLabels": []}, {"id": 11, "text": "6", "descriptions": ["Marking knives"], "parentId": 5, "subLabels": []}, {"id": 12, "text": "7", "descriptions": ["Four Fold (wooden Rule)"], "parentId": 5, "subLabels": []}, {"id": 13, "text": "8", "descriptions": ["Tape Rule (Metric)"], "parentId": 5, "subLabels": []}, {"id": 14, "text": "9", "descriptions": ["Jack Plane"], "parentId": 5, "subLabels": []}, {"id": 15, "text": "10", "descriptions": ["Smooth Plane"], "parentId": 5, "subLabels": []}, {"id": 16, "text": "11", "descriptions": ["Trying Plane (jointing Plane)"], "parentId": 5, "subLabels": []}, {"id": 17, "text": "12", "descriptions": ["Block Plane"], "parentId": 5, "subLabels": []}, {"id": 18, "text": "13", "descriptions": ["Rebate Plane"], "parentId": 5, "subLabels": []}, {"id": 19, "text": "14", "descriptions": ["G Clamp"], "parentId": 5, "subLabels": []}, {"id": 20, "text": "15", "descriptions": ["Plough Plane"], "parentId": 5, "subLabels": []}, {"id": 21, "text": "16", "descriptions": ["Bull Nose Plane"], "parentId": 5, "subLabels": []}, {"id": 22, "text": "17", "descriptions": ["Router Plane"], "parentId": 5, "subLabels": []}, {"id": 23, "text": "18", "descriptions": ["Rip Saw"], "parentId": 5, "subLabels": []}, {"id": 24, "text": "19", "descriptions": ["Crosscut Saw"], "parentId": 5, "subLabels": []}, {"id": 25, "text": "20", "descriptions": ["Tenon Saw"], "parentId": 5, "subLabels": []}, {"id": 26, "text": "21", "descriptions": ["Panel Saw"], "parentId": 5, "subLabels": []}, {"id": 27, "text": "22", "descriptions": ["Coping Saw"], "parentId": 5, "subLabels": []}, {"id": 28, "text": "23", "descriptions": ["Compass Saw"], "parentId": 5, "subLabels": []}, {"id": 29, "text": "24", "descriptions": ["Nest of Saws"], "parentId": 5, "subLabels": []}, {"id": 30, "text": "25", "descriptions": ["Keyhole/pad Saw"], "parentId": 5, "subLabels": []}, {"id": 31, "text": "26", "descriptions": ["Fret Saw"], "parentId": 5, "subLabels": []}, {"id": 32, "text": "27", "descriptions": ["Dovetail Saw"], "parentId": 5, "subLabels": []}, {"id": 33, "text": "28", "descriptions": ["Firmer Chisel"], "parentId": 5, "subLabels": []}, {"id": 34, "text": "29", "descriptions": ["Bevelled Edge Firmer Chisel"], "parentId": 5, "subLabels": []}, {"id": 35, "text": "30", "descriptions": ["Mortise Chisel (set)"], "parentId": 5, "subLabels": []}, {"id": 36, "text": "31", "descriptions": ["Turning Chisel"], "parentId": 5, "subLabels": []}, {"id": 37, "text": "32", "descriptions": ["Centre bit"], "parentId": 5, "subLabels": []}, {"id": 38, "text": "33", "descriptions": ["Auger Bit"], "parentId": 5, "subLabels": []}, {"id": 39, "text": "34", "descriptions": ["Twist Bit"], "parentId": 5, "subLabels": []}, {"id": 40, "text": "35", "descriptions": ["Rose"], "parentId": 5, "subLabels": []}, {"id": 41, "text": "36", "descriptions": ["Bradawl"], "parentId": 5, "subLabels": []}, {"id": 42, "text": "37", "descriptions": ["Gimlet"], "parentId": 5, "subLabels": []}, {"id": 43, "text": "38", "descriptions": ["Ratchet brace"], "parentId": 5, "subLabels": []}, {"id": 44, "text": "39", "descriptions": ["Dowel Rounder"], "parentId": 5, "subLabels": []}, {"id": 45, "text": "40", "descriptions": ["Drill Bit"], "parentId": 5, "subLabels": []}, {"id": 46, "text": "41", "descriptions": ["Screw Driver (set of 6)"], "parentId": 5, "subLabels": []}, {"id": 47, "text": "43", "descriptions": ["Mallet"], "parentId": 5, "subLabels": []}, {"id": 48, "text": "44", "descriptions": ["Claw Hammer"], "parentId": 5, "subLabels": []}, {"id": 49, "text": "45", "descriptions": ["Cross Pein Hammer"], "parentId": 5, "subLabels": []}, {"id": 50, "text": "46", "descriptions": ["Ball Pein Hammer \u2018F\u2019 Clamp"], "parentId": 5, "subLabels": []}, {"id": 51, "text": "47", "descriptions": [], "parentId": 5, "subLabels": []}, {"id": 52, "text": "48", "descriptions": ["Sash Clamp"], "parentId": 5, "subLabels": []}, {"id": 53, "text": "49", "descriptions": ["Hand Screw"], "parentId": 5, "subLabels": []}, {"id": 54, "text": "50", "descriptions": ["Bench Holdfast"], "parentId": 5, "subLabels": []}, {"id": 55, "text": "51", "descriptions": ["Mitre Box"], "parentId": 5, "subLabels": []}, {"id": 56, "text": "52", "descriptions": ["Mitre Cramp"], "parentId": 5, "subLabels": []}, {"id": 57, "text": "53", "descriptions": ["Mitre Shooting Board"], "parentId": 5, "subLabels": []}, {"id": 58, "text": "54", "descriptions": ["Flat Files (assorted)"], "parentId": 5, "subLabels": []}, {"id": 59, "text": "55", "descriptions": ["Scraper(flat)"], "parentId": 5, "subLabels": []}, {"id": 60, "text": "56", "descriptions": ["Dividers"], "parentId": 5, "subLabels": []}, {"id": 61, "text": "57", "descriptions": ["Pincers"], "parentId": 5, "subLabels": []}, {"id": 62, "text": "58", "descriptions": ["Spoke shave"], "parentId": 5, "subLabels": []}, {"id": 63, "text": "59", "descriptions": ["Dowelling jig"], "parentId": 5, "subLabels": []}, {"id": 64, "text": "60", "descriptions": ["Rasps"], "parentId": 5, "subLabels": []}, {"id": 65, "text": "61", "descriptions": ["Sewing Machine"], "parentId": 5, "subLabels": []}, {"id": 66, "text": "62", "descriptions": ["Scissors"], "parentId": 5, "subLabels": []}, {"id": 67, "text": "63", "descriptions": ["Staple Gun"], "parentId": 5, "subLabels": []}, {"id": 68, "text": "64", "descriptions": ["Needle (set) Curved and Straight"], "parentId": 5, "subLabels": []}, {"id": 69, "text": "65", "descriptions": ["Tack Hammer"], "parentId": 5, "subLabels": []}, {"id": 70, "text": "66", "descriptions": ["Pliers"], "parentId": 5, "subLabels": []}, {"id": 71, "text": "67", "descriptions": ["Magnetic Hammer"], "parentId": 5, "subLabels": []}, {"id": 72, "text": "68", "descriptions": ["Ripping Chisel"], "parentId": 5, "subLabels": []}, {"id": 73, "text": "69", "descriptions": ["Knives"], "parentId": 5, "subLabels": []}, {"id": 74, "text": "70", "descriptions": ["Tape (tailors type)"], "parentId": 5, "subLabels": []}, {"id": 75, "text": "71", "descriptions": ["Web Strainer"], "parentId": 5, "subLabels": []}, {"id": 76, "text": "72", "descriptions": ["Spring Cutter"], "parentId": 5, "subLabels": []}, {"id": 77, "text": "73", "descriptions": ["Spanner (set)"], "parentId": 5, "subLabels": []}, {"id": 78, "text": "74", "descriptions": ["Wrenches"], "parentId": 5, "subLabels": []}, {"id": 79, "text": "75", "descriptions": ["Botton Making Machine"], "parentId": 5, "subLabels": []}, {"id": 80, "text": "76", "descriptions": ["Work Bench"], "parentId": 5, "subLabels": []}, {"id": 81, "text": "77", "descriptions": ["Bench Vice"], "parentId": 5, "subLabels": []}, {"id": 82, "text": "78", "descriptions": ["Paint brush (sets)"], "parentId": 5, "subLabels": []}, {"id": 83, "text": "79", "descriptions": ["Putty knives"], "parentId": 5, "subLabels": []}, {"id": 84, "text": "80", "descriptions": ["Storage box"], "parentId": 5, "subLabels": []}, {"id": 85, "text": "81", "descriptions": ["Water stone"], "parentId": 5, "subLabels": []}, {"id": 86, "text": "82", "descriptions": ["Oil can"], "parentId": 5, "subLabels": []}, {"id": 87, "text": "83", "descriptions": ["Veneer hammer"], "parentId": 5, "subLabels": []}, {"id": 88, "text": "84", "descriptions": ["First-aid box"], "parentId": 5, "subLabels": []}, {"id": 89, "text": "Appendix e", "descriptions": ["SUGGESTED READING LIST"], "parentId": 5, "subLabels": []}, {"id": 90, "text": "S/n name 1 woodwork for g.c.e &c.s.e (metric edition) 2 woodwork in theory & practice 3 modern woodworking 4 wood occupations 5 the theory and practice of", "descriptions": ["AUTHOR PUBLISHER", "J.N GREEN Mills and Boon Ltd", "JOHN", ".A.WALTON", "WILLIS", ".H.WAGNER The Goodheart -Willcox,Inc", "PETER BRETT Nelson Thorns"], "parentId": 5, "subLabels": [{"id": 91, "text": "Woodwork (4 th", "descriptions": ["GEORGE LOVE Longman"], "parentId": 90, "subLabels": []}, {"id": 92, "text": "Edition)", "descriptions": [], "parentId": 90, "subLabels": []}]}, {"id": 93, "text": "6 constructing modern furniture 7 practical upholstery 8 woodwork design and practice", "descriptions": ["VICTOR", ".J.TAYLOR Sterlin g publishing Co.Inc New York", "C.HOWES", "F.A.M.U Evans brothers Ltd", "DAVID .M.SHAW Hodder and Stoughton London Sydney,Auckland", "London", "Toronto"], "parentId": 5, "subLabels": []}, {"id": 91, "text": "Woodwork (4 th", "descriptions": ["GEORGE LOVE Longman"], "parentId": 90, "subLabels": []}, {"id": 92, "text": "Edition)", "descriptions": [], "parentId": 90, "subLabels": []}]}
+{
+ "subject": "Further Mathematics or Mathematics Elective",
+ "Grade": "None",
+ "Curriculum": "test",
+ "labelsTree": [
+  {
+   "id": 4,
+   "text": "Key:",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 5,
+     "text": "I . pure mathematics",
+     "descriptions": [
+      "(i) Idea of a set",
+      "defined by a property, Set notations and their meanings.",
+      "(ii) Disjoint sets,",
+      "Universal set and complement of set",
+      "(iii) Venn diagrams,",
+      "Use of sets",
+      "And Venn",
+      "diagrams to solve problems.",
+      "(iv) Commutative",
+      "and Associative laws, Distributive properties over union and intersection.",
+      "Surds of the form  , a and a+b where a is rational, b is a positive integer and n is not a perfect square."
+     ],
+     "parentId": 4,
+     "subLabels": [
+      {
+       "id": 6,
+       "text": "Sets",
+       "descriptions": [
+        "Properties: Closure, Commutativity, Associativity and Distributivity, Identity elements and inverses.",
+        "(i) Rule of syntax: true or false",
+        "statements, rule of logic applied to      arguments, implications and deductions.",
+        "(ii) The truth table"
+       ],
+       "parentId": 5,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 7,
+     "text": "Surds",
+     "descriptions": [
+      "(i) Domain and co-",
+      "domain of a function.",
+      "(ii) One-to-one,",
+      "onto, identity and constant mapping;"
+     ],
+     "parentId": 4,
+     "subLabels": []
+    },
+    {
+     "id": 8,
+     "text": "Binary",
+     "descriptions": [],
+     "parentId": 4,
+     "subLabels": []
+    },
+    {
+     "id": 9,
+     "text": "Operations",
+     "descriptions": [
+      "(iii) Inverse of a",
+      "function."
+     ],
+     "parentId": 4,
+     "subLabels": []
+    },
+    {
+     "id": 10,
+     "text": "Logical",
+     "descriptions": [],
+     "parentId": 4,
+     "subLabels": []
+    },
+    {
+     "id": 11,
+     "text": "Reasoning",
+     "descriptions": [
+      "(iv) Composite of functions.",
+      "(i) Linear Functions,",
+      "Equations and Inequality"
+     ],
+     "parentId": 4,
+     "subLabels": []
+    },
+    {
+     "id": 12,
+     "text": "Functions",
+     "descriptions": [
+      "(ii) Quadratic",
+      "Functions, Equations and Inequalities"
+     ],
+     "parentId": 4,
+     "subLabels": []
+    },
+    {
+     "id": 13,
+     "text": "Polynomial",
+     "descriptions": [],
+     "parentId": 4,
+     "subLabels": []
+    },
+    {
+     "id": 14,
+     "text": "Functions",
+     "descriptions": [
+      "(ii) Cubic Functions",
+      "and Equations",
+      "(i) Rational functions",
+      "of the form",
+      "Q(x) =  ,g(x)  0. where g(x) and",
+      "f(x) are",
+      "polynomials. e.g. f:x",
+      "(ii) Resolution of"
+     ],
+     "parentId": 4,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "text": "( 5) currencies",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 22,
+     "text": "The gambia",
+     "descriptions": [
+      "\u2013 - - 100 cents (c) = 1 Liberian Dollar (LD) - 100 kobo (k) = 1 Naira (N) - 100 cents (c) = 1 Leone (Le) 100 pence (p) = 1 pound (\u00a3) 100 cents (c) = 1 dollar ($)"
+     ],
+     "parentId": 21,
+     "subLabels": []
+    },
+    {
+     "id": 23,
+     "text": "Ghana",
+     "descriptions": [],
+     "parentId": 21,
+     "subLabels": []
+    },
+    {
+     "id": 24,
+     "text": "Liberia",
+     "descriptions": [],
+     "parentId": 21,
+     "subLabels": []
+    },
+    {
+     "id": 25,
+     "text": "Nigeria",
+     "descriptions": [],
+     "parentId": 21,
+     "subLabels": []
+    },
+    {
+     "id": 26,
+     "text": "Sierra leone",
+     "descriptions": [],
+     "parentId": 21,
+     "subLabels": []
+    },
+    {
+     "id": 27,
+     "text": "Uk ",
+     "descriptions": [],
+     "parentId": 21,
+     "subLabels": []
+    },
+    {
+     "id": 28,
+     "text": "Usa ",
+     "descriptions": [],
+     "parentId": 21,
+     "subLabels": []
+    },
+    {
+     "id": 29,
+     "text": "French speaking territories 100 centimes (c) = 1 franc (fr)",
+     "descriptions": [],
+     "parentId": 21,
+     "subLabels": []
+    },
+    {
+     "id": 30,
+     "text": "Any other units used will be defined",
+     "descriptions": [],
+     "parentId": 21,
+     "subLabels": []
+    }
+   ]
+  }
+ ],
+ "labels": [
+  {
+   "id": 5,
+   "text": "List of facilities and major equipment/materials required:",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 6,
+     "text": "1",
+     "descriptions": [
+      "Try Square"
+     ],
+     "parentId": 5,
+     "subLabels": []
+    },
+    {
+     "id": 7,
+     "text": "2",
+     "descriptions": [
+      "Mitre Square"
+     ],
+     "parentId": 5,
+     "subLabels": []
+    },
+    {
+     "id": 8,
+     "text": "3",
+     "descriptions": [
+      "Sliding Bevel"
+     ],
+     "parentId": 5,
+     "subLabels": []
+    },
+    {
+     "id": 9,
+     "text": "4",
+     "descriptions": [
+      "Marking Gauge"
+     ],
+     "parentId": 5,
+     "subLabels": []
+    },
+    {
+     "id": 10,
+     "text": "5",
+     "descriptions": [
+      "Mortise Gauge"
+     ],
+     "parentId": 5,
+     "subLabels": []
+    },
+    {
+     "id": 11,
+     "text": "6",
+     "descriptions": [
+      "Marking knives"
+     ],
+     "parentId": 5,
+     "subLabels": []
+    },
+    {
+     "id": 12,
+     "text": "7",
+     "descriptions": [
+      "Four Fold (wooden Rule)"
+     ],
+     "parentId": 5,
+     "subLabels": []
+    },
+    {
+     "id": 13,
+     "text": "8",
+     "descriptions": [
+      "Tape Rule (Metric)"
+     ],
+     "parentId": 5,
+     "subLabels": []
+    },
+    {
+     "id": 14,
+     "text": "9",
+     "descriptions": [
+      "Jack Plane"
+     ],
+     "parentId": 5,
+     "subLabels": []
+    },
+    {
+     "id": 15,
+     "text": "10",
+     "descriptions": [
+      "Smooth Plane"
+     ],
+     "parentId": 5,
+     "subLabels": []
+    },
+    {
+     "id": 16,
+     "text": "11",
+     "descriptions": [
+      "Trying Plane (jointing Plane)"
+     ],
+     "parentId": 5,
+     "subLabels": []
+    },
+    {
+     "id": 17,
+     "text": "12",
+     "descriptions": [
+      "Block Plane"
+     ],
+     "parentId": 5,
+     "subLabels": []
+    },
+    {
+     "id": 18,
+     "text": "13",
+     "descriptions": [
+      "Rebate Plane"
+     ],
+     "parentId": 5,
+     "subLabels": []
+    },
+    {
+     "id": 19,
+     "text": "14",
+     "descriptions": [
+      "G Clamp"
+     ],
+     "parentId": 5,
+     "subLabels": []
+    },
+    {
+     "id": 20,
+     "text": "15",
+     "descriptions": [
+      "Plough Plane"
+     ],
+     "parentId": 5,
+     "subLabels": []
+    },
+    {
+     "id": 21,
+     "text": "16",
+     "descriptions": [
+      "Bull Nose Plane"
+     ],
+     "parentId": 5,
+     "subLabels": []
+    },
+    {
+     "id": 22,
+     "text": "17",
+     "descriptions": [
+      "Router Plane"
+     ],
+     "parentId": 5,
+     "subLabels": []
+    },
+    {
+     "id": 23,
+     "text": "18",
+     "descriptions": [
+      "Rip Saw"
+     ],
+     "parentId": 5,
+     "subLabels": []
+    },
+    {
+     "id": 24,
+     "text": "19",
+     "descriptions": [
+      "Crosscut Saw"
+     ],
+     "parentId": 5,
+     "subLabels": []
+    },
+    {
+     "id": 25,
+     "text": "20",
+     "descriptions": [
+      "Tenon Saw"
+     ],
+     "parentId": 5,
+     "subLabels": []
+    },
+    {
+     "id": 26,
+     "text": "21",
+     "descriptions": [
+      "Panel Saw"
+     ],
+     "parentId": 5,
+     "subLabels": []
+    },
+    {
+     "id": 27,
+     "text": "22",
+     "descriptions": [
+      "Coping Saw"
+     ],
+     "parentId": 5,
+     "subLabels": []
+    },
+    {
+     "id": 28,
+     "text": "23",
+     "descriptions": [
+      "Compass Saw"
+     ],
+     "parentId": 5,
+     "subLabels": []
+    },
+    {
+     "id": 29,
+     "text": "24",
+     "descriptions": [
+      "Nest of Saws"
+     ],
+     "parentId": 5,
+     "subLabels": []
+    },
+    {
+     "id": 30,
+     "text": "25",
+     "descriptions": [
+      "Keyhole/pad Saw"
+     ],
+     "parentId": 5,
+     "subLabels": []
+    },
+    {
+     "id": 31,
+     "text": "26",
+     "descriptions": [
+      "Fret Saw"
+     ],
+     "parentId": 5,
+     "subLabels": []
+    },
+    {
+     "id": 32,
+     "text": "27",
+     "descriptions": [
+      "Dovetail Saw"
+     ],
+     "parentId": 5,
+     "subLabels": []
+    },
+    {
+     "id": 33,
+     "text": "28",
+     "descriptions": [
+      "Firmer Chisel"
+     ],
+     "parentId": 5,
+     "subLabels": []
+    },
+    {
+     "id": 34,
+     "text": "29",
+     "descriptions": [
+      "Bevelled Edge Firmer Chisel"
+     ],
+     "parentId": 5,
+     "subLabels": []
+    },
+    {
+     "id": 35,
+     "text": "30",
+     "descriptions": [
+      "Mortise Chisel (set)"
+     ],
+     "parentId": 5,
+     "subLabels": []
+    },
+    {
+     "id": 36,
+     "text": "31",
+     "descriptions": [
+      "Turning Chisel"
+     ],
+     "parentId": 5,
+     "subLabels": []
+    },
+    {
+     "id": 37,
+     "text": "32",
+     "descriptions": [
+      "Centre bit"
+     ],
+     "parentId": 5,
+     "subLabels": []
+    },
+    {
+     "id": 38,
+     "text": "33",
+     "descriptions": [
+      "Auger Bit"
+     ],
+     "parentId": 5,
+     "subLabels": []
+    },
+    {
+     "id": 39,
+     "text": "34",
+     "descriptions": [
+      "Twist Bit"
+     ],
+     "parentId": 5,
+     "subLabels": []
+    },
+    {
+     "id": 40,
+     "text": "35",
+     "descriptions": [
+      "Rose"
+     ],
+     "parentId": 5,
+     "subLabels": []
+    },
+    {
+     "id": 41,
+     "text": "36",
+     "descriptions": [
+      "Bradawl"
+     ],
+     "parentId": 5,
+     "subLabels": []
+    },
+    {
+     "id": 42,
+     "text": "37",
+     "descriptions": [
+      "Gimlet"
+     ],
+     "parentId": 5,
+     "subLabels": []
+    },
+    {
+     "id": 43,
+     "text": "38",
+     "descriptions": [
+      "Ratchet brace"
+     ],
+     "parentId": 5,
+     "subLabels": []
+    },
+    {
+     "id": 44,
+     "text": "39",
+     "descriptions": [
+      "Dowel Rounder"
+     ],
+     "parentId": 5,
+     "subLabels": []
+    },
+    {
+     "id": 45,
+     "text": "40",
+     "descriptions": [
+      "Drill Bit"
+     ],
+     "parentId": 5,
+     "subLabels": []
+    },
+    {
+     "id": 46,
+     "text": "41",
+     "descriptions": [
+      "Screw Driver (set of 6)"
+     ],
+     "parentId": 5,
+     "subLabels": []
+    },
+    {
+     "id": 47,
+     "text": "43",
+     "descriptions": [
+      "Mallet"
+     ],
+     "parentId": 5,
+     "subLabels": []
+    },
+    {
+     "id": 48,
+     "text": "44",
+     "descriptions": [
+      "Claw Hammer"
+     ],
+     "parentId": 5,
+     "subLabels": []
+    },
+    {
+     "id": 49,
+     "text": "45",
+     "descriptions": [
+      "Cross Pein Hammer"
+     ],
+     "parentId": 5,
+     "subLabels": []
+    },
+    {
+     "id": 50,
+     "text": "46",
+     "descriptions": [
+      "Ball Pein Hammer \u2018F\u2019 Clamp"
+     ],
+     "parentId": 5,
+     "subLabels": []
+    },
+    {
+     "id": 51,
+     "text": "47",
+     "descriptions": [],
+     "parentId": 5,
+     "subLabels": []
+    },
+    {
+     "id": 52,
+     "text": "48",
+     "descriptions": [
+      "Sash Clamp"
+     ],
+     "parentId": 5,
+     "subLabels": []
+    },
+    {
+     "id": 53,
+     "text": "49",
+     "descriptions": [
+      "Hand Screw"
+     ],
+     "parentId": 5,
+     "subLabels": []
+    },
+    {
+     "id": 54,
+     "text": "50",
+     "descriptions": [
+      "Bench Holdfast"
+     ],
+     "parentId": 5,
+     "subLabels": []
+    },
+    {
+     "id": 55,
+     "text": "51",
+     "descriptions": [
+      "Mitre Box"
+     ],
+     "parentId": 5,
+     "subLabels": []
+    },
+    {
+     "id": 56,
+     "text": "52",
+     "descriptions": [
+      "Mitre Cramp"
+     ],
+     "parentId": 5,
+     "subLabels": []
+    },
+    {
+     "id": 57,
+     "text": "53",
+     "descriptions": [
+      "Mitre Shooting Board"
+     ],
+     "parentId": 5,
+     "subLabels": []
+    },
+    {
+     "id": 58,
+     "text": "54",
+     "descriptions": [
+      "Flat Files (assorted)"
+     ],
+     "parentId": 5,
+     "subLabels": []
+    },
+    {
+     "id": 59,
+     "text": "55",
+     "descriptions": [
+      "Scraper(flat)"
+     ],
+     "parentId": 5,
+     "subLabels": []
+    },
+    {
+     "id": 60,
+     "text": "56",
+     "descriptions": [
+      "Dividers"
+     ],
+     "parentId": 5,
+     "subLabels": []
+    },
+    {
+     "id": 61,
+     "text": "57",
+     "descriptions": [
+      "Pincers"
+     ],
+     "parentId": 5,
+     "subLabels": []
+    },
+    {
+     "id": 62,
+     "text": "58",
+     "descriptions": [
+      "Spoke shave"
+     ],
+     "parentId": 5,
+     "subLabels": []
+    },
+    {
+     "id": 63,
+     "text": "59",
+     "descriptions": [
+      "Dowelling jig"
+     ],
+     "parentId": 5,
+     "subLabels": []
+    },
+    {
+     "id": 64,
+     "text": "60",
+     "descriptions": [
+      "Rasps"
+     ],
+     "parentId": 5,
+     "subLabels": []
+    },
+    {
+     "id": 65,
+     "text": "61",
+     "descriptions": [
+      "Sewing Machine"
+     ],
+     "parentId": 5,
+     "subLabels": []
+    },
+    {
+     "id": 66,
+     "text": "62",
+     "descriptions": [
+      "Scissors"
+     ],
+     "parentId": 5,
+     "subLabels": []
+    },
+    {
+     "id": 67,
+     "text": "63",
+     "descriptions": [
+      "Staple Gun"
+     ],
+     "parentId": 5,
+     "subLabels": []
+    },
+    {
+     "id": 68,
+     "text": "64",
+     "descriptions": [
+      "Needle (set) Curved and Straight"
+     ],
+     "parentId": 5,
+     "subLabels": []
+    },
+    {
+     "id": 69,
+     "text": "65",
+     "descriptions": [
+      "Tack Hammer"
+     ],
+     "parentId": 5,
+     "subLabels": []
+    },
+    {
+     "id": 70,
+     "text": "66",
+     "descriptions": [
+      "Pliers"
+     ],
+     "parentId": 5,
+     "subLabels": []
+    },
+    {
+     "id": 71,
+     "text": "67",
+     "descriptions": [
+      "Magnetic Hammer"
+     ],
+     "parentId": 5,
+     "subLabels": []
+    },
+    {
+     "id": 72,
+     "text": "68",
+     "descriptions": [
+      "Ripping Chisel"
+     ],
+     "parentId": 5,
+     "subLabels": []
+    },
+    {
+     "id": 73,
+     "text": "69",
+     "descriptions": [
+      "Knives"
+     ],
+     "parentId": 5,
+     "subLabels": []
+    },
+    {
+     "id": 74,
+     "text": "70",
+     "descriptions": [
+      "Tape (tailors type)"
+     ],
+     "parentId": 5,
+     "subLabels": []
+    },
+    {
+     "id": 75,
+     "text": "71",
+     "descriptions": [
+      "Web Strainer"
+     ],
+     "parentId": 5,
+     "subLabels": []
+    },
+    {
+     "id": 76,
+     "text": "72",
+     "descriptions": [
+      "Spring Cutter"
+     ],
+     "parentId": 5,
+     "subLabels": []
+    },
+    {
+     "id": 77,
+     "text": "73",
+     "descriptions": [
+      "Spanner (set)"
+     ],
+     "parentId": 5,
+     "subLabels": []
+    },
+    {
+     "id": 78,
+     "text": "74",
+     "descriptions": [
+      "Wrenches"
+     ],
+     "parentId": 5,
+     "subLabels": []
+    },
+    {
+     "id": 79,
+     "text": "75",
+     "descriptions": [
+      "Botton Making Machine"
+     ],
+     "parentId": 5,
+     "subLabels": []
+    },
+    {
+     "id": 80,
+     "text": "76",
+     "descriptions": [
+      "Work Bench"
+     ],
+     "parentId": 5,
+     "subLabels": []
+    },
+    {
+     "id": 81,
+     "text": "77",
+     "descriptions": [
+      "Bench Vice"
+     ],
+     "parentId": 5,
+     "subLabels": []
+    },
+    {
+     "id": 82,
+     "text": "78",
+     "descriptions": [
+      "Paint brush (sets)"
+     ],
+     "parentId": 5,
+     "subLabels": []
+    },
+    {
+     "id": 83,
+     "text": "79",
+     "descriptions": [
+      "Putty knives"
+     ],
+     "parentId": 5,
+     "subLabels": []
+    },
+    {
+     "id": 84,
+     "text": "80",
+     "descriptions": [
+      "Storage box"
+     ],
+     "parentId": 5,
+     "subLabels": []
+    },
+    {
+     "id": 85,
+     "text": "81",
+     "descriptions": [
+      "Water stone"
+     ],
+     "parentId": 5,
+     "subLabels": []
+    },
+    {
+     "id": 86,
+     "text": "82",
+     "descriptions": [
+      "Oil can"
+     ],
+     "parentId": 5,
+     "subLabels": []
+    },
+    {
+     "id": 87,
+     "text": "83",
+     "descriptions": [
+      "Veneer hammer"
+     ],
+     "parentId": 5,
+     "subLabels": []
+    },
+    {
+     "id": 88,
+     "text": "84",
+     "descriptions": [
+      "First-aid box"
+     ],
+     "parentId": 5,
+     "subLabels": []
+    },
+    {
+     "id": 89,
+     "text": "Appendix e",
+     "descriptions": [
+      "SUGGESTED READING LIST"
+     ],
+     "parentId": 5,
+     "subLabels": []
+    },
+    {
+     "id": 90,
+     "text": "S/n name 1 woodwork for g.c.e &c.s.e (metric edition) 2 woodwork in theory & practice 3 modern woodworking 4 wood occupations 5 the theory and practice of",
+     "descriptions": [
+      "AUTHOR PUBLISHER",
+      "J.N GREEN Mills and Boon Ltd",
+      "JOHN",
+      ".A.WALTON",
+      "WILLIS",
+      ".H.WAGNER The Goodheart -Willcox,Inc",
+      "PETER BRETT Nelson Thorns"
+     ],
+     "parentId": 5,
+     "subLabels": [
+      {
+       "id": 91,
+       "text": "Woodwork (4 th",
+       "descriptions": [
+        "GEORGE LOVE Longman"
+       ],
+       "parentId": 90,
+       "subLabels": []
+      },
+      {
+       "id": 92,
+       "text": "Edition)",
+       "descriptions": [],
+       "parentId": 90,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 93,
+     "text": "6 constructing modern furniture 7 practical upholstery 8 woodwork design and practice",
+     "descriptions": [
+      "VICTOR",
+      ".J.TAYLOR Sterlin g publishing Co.Inc New York",
+      "C.HOWES",
+      "F.A.M.U Evans brothers Ltd",
+      "DAVID .M.SHAW Hodder and Stoughton London Sydney,Auckland",
+      "London",
+      "Toronto"
+     ],
+     "parentId": 5,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "text": "1",
+   "descriptions": [
+    "Try Square"
+   ],
+   "parentId": 5,
+   "subLabels": []
+  },
+  {
+   "id": 7,
+   "text": "2",
+   "descriptions": [
+    "Mitre Square"
+   ],
+   "parentId": 5,
+   "subLabels": []
+  },
+  {
+   "id": 8,
+   "text": "3",
+   "descriptions": [
+    "Sliding Bevel"
+   ],
+   "parentId": 5,
+   "subLabels": []
+  },
+  {
+   "id": 9,
+   "text": "4",
+   "descriptions": [
+    "Marking Gauge"
+   ],
+   "parentId": 5,
+   "subLabels": []
+  },
+  {
+   "id": 10,
+   "text": "5",
+   "descriptions": [
+    "Mortise Gauge"
+   ],
+   "parentId": 5,
+   "subLabels": []
+  },
+  {
+   "id": 11,
+   "text": "6",
+   "descriptions": [
+    "Marking knives"
+   ],
+   "parentId": 5,
+   "subLabels": []
+  },
+  {
+   "id": 12,
+   "text": "7",
+   "descriptions": [
+    "Four Fold (wooden Rule)"
+   ],
+   "parentId": 5,
+   "subLabels": []
+  },
+  {
+   "id": 13,
+   "text": "8",
+   "descriptions": [
+    "Tape Rule (Metric)"
+   ],
+   "parentId": 5,
+   "subLabels": []
+  },
+  {
+   "id": 14,
+   "text": "9",
+   "descriptions": [
+    "Jack Plane"
+   ],
+   "parentId": 5,
+   "subLabels": []
+  },
+  {
+   "id": 15,
+   "text": "10",
+   "descriptions": [
+    "Smooth Plane"
+   ],
+   "parentId": 5,
+   "subLabels": []
+  },
+  {
+   "id": 16,
+   "text": "11",
+   "descriptions": [
+    "Trying Plane (jointing Plane)"
+   ],
+   "parentId": 5,
+   "subLabels": []
+  },
+  {
+   "id": 17,
+   "text": "12",
+   "descriptions": [
+    "Block Plane"
+   ],
+   "parentId": 5,
+   "subLabels": []
+  },
+  {
+   "id": 18,
+   "text": "13",
+   "descriptions": [
+    "Rebate Plane"
+   ],
+   "parentId": 5,
+   "subLabels": []
+  },
+  {
+   "id": 19,
+   "text": "14",
+   "descriptions": [
+    "G Clamp"
+   ],
+   "parentId": 5,
+   "subLabels": []
+  },
+  {
+   "id": 20,
+   "text": "15",
+   "descriptions": [
+    "Plough Plane"
+   ],
+   "parentId": 5,
+   "subLabels": []
+  },
+  {
+   "id": 21,
+   "text": "16",
+   "descriptions": [
+    "Bull Nose Plane"
+   ],
+   "parentId": 5,
+   "subLabels": []
+  },
+  {
+   "id": 22,
+   "text": "17",
+   "descriptions": [
+    "Router Plane"
+   ],
+   "parentId": 5,
+   "subLabels": []
+  },
+  {
+   "id": 23,
+   "text": "18",
+   "descriptions": [
+    "Rip Saw"
+   ],
+   "parentId": 5,
+   "subLabels": []
+  },
+  {
+   "id": 24,
+   "text": "19",
+   "descriptions": [
+    "Crosscut Saw"
+   ],
+   "parentId": 5,
+   "subLabels": []
+  },
+  {
+   "id": 25,
+   "text": "20",
+   "descriptions": [
+    "Tenon Saw"
+   ],
+   "parentId": 5,
+   "subLabels": []
+  },
+  {
+   "id": 26,
+   "text": "21",
+   "descriptions": [
+    "Panel Saw"
+   ],
+   "parentId": 5,
+   "subLabels": []
+  },
+  {
+   "id": 27,
+   "text": "22",
+   "descriptions": [
+    "Coping Saw"
+   ],
+   "parentId": 5,
+   "subLabels": []
+  },
+  {
+   "id": 28,
+   "text": "23",
+   "descriptions": [
+    "Compass Saw"
+   ],
+   "parentId": 5,
+   "subLabels": []
+  },
+  {
+   "id": 29,
+   "text": "24",
+   "descriptions": [
+    "Nest of Saws"
+   ],
+   "parentId": 5,
+   "subLabels": []
+  },
+  {
+   "id": 30,
+   "text": "25",
+   "descriptions": [
+    "Keyhole/pad Saw"
+   ],
+   "parentId": 5,
+   "subLabels": []
+  },
+  {
+   "id": 31,
+   "text": "26",
+   "descriptions": [
+    "Fret Saw"
+   ],
+   "parentId": 5,
+   "subLabels": []
+  },
+  {
+   "id": 32,
+   "text": "27",
+   "descriptions": [
+    "Dovetail Saw"
+   ],
+   "parentId": 5,
+   "subLabels": []
+  },
+  {
+   "id": 33,
+   "text": "28",
+   "descriptions": [
+    "Firmer Chisel"
+   ],
+   "parentId": 5,
+   "subLabels": []
+  },
+  {
+   "id": 34,
+   "text": "29",
+   "descriptions": [
+    "Bevelled Edge Firmer Chisel"
+   ],
+   "parentId": 5,
+   "subLabels": []
+  },
+  {
+   "id": 35,
+   "text": "30",
+   "descriptions": [
+    "Mortise Chisel (set)"
+   ],
+   "parentId": 5,
+   "subLabels": []
+  },
+  {
+   "id": 36,
+   "text": "31",
+   "descriptions": [
+    "Turning Chisel"
+   ],
+   "parentId": 5,
+   "subLabels": []
+  },
+  {
+   "id": 37,
+   "text": "32",
+   "descriptions": [
+    "Centre bit"
+   ],
+   "parentId": 5,
+   "subLabels": []
+  },
+  {
+   "id": 38,
+   "text": "33",
+   "descriptions": [
+    "Auger Bit"
+   ],
+   "parentId": 5,
+   "subLabels": []
+  },
+  {
+   "id": 39,
+   "text": "34",
+   "descriptions": [
+    "Twist Bit"
+   ],
+   "parentId": 5,
+   "subLabels": []
+  },
+  {
+   "id": 40,
+   "text": "35",
+   "descriptions": [
+    "Rose"
+   ],
+   "parentId": 5,
+   "subLabels": []
+  },
+  {
+   "id": 41,
+   "text": "36",
+   "descriptions": [
+    "Bradawl"
+   ],
+   "parentId": 5,
+   "subLabels": []
+  },
+  {
+   "id": 42,
+   "text": "37",
+   "descriptions": [
+    "Gimlet"
+   ],
+   "parentId": 5,
+   "subLabels": []
+  },
+  {
+   "id": 43,
+   "text": "38",
+   "descriptions": [
+    "Ratchet brace"
+   ],
+   "parentId": 5,
+   "subLabels": []
+  },
+  {
+   "id": 44,
+   "text": "39",
+   "descriptions": [
+    "Dowel Rounder"
+   ],
+   "parentId": 5,
+   "subLabels": []
+  },
+  {
+   "id": 45,
+   "text": "40",
+   "descriptions": [
+    "Drill Bit"
+   ],
+   "parentId": 5,
+   "subLabels": []
+  },
+  {
+   "id": 46,
+   "text": "41",
+   "descriptions": [
+    "Screw Driver (set of 6)"
+   ],
+   "parentId": 5,
+   "subLabels": []
+  },
+  {
+   "id": 47,
+   "text": "43",
+   "descriptions": [
+    "Mallet"
+   ],
+   "parentId": 5,
+   "subLabels": []
+  },
+  {
+   "id": 48,
+   "text": "44",
+   "descriptions": [
+    "Claw Hammer"
+   ],
+   "parentId": 5,
+   "subLabels": []
+  },
+  {
+   "id": 49,
+   "text": "45",
+   "descriptions": [
+    "Cross Pein Hammer"
+   ],
+   "parentId": 5,
+   "subLabels": []
+  },
+  {
+   "id": 50,
+   "text": "46",
+   "descriptions": [
+    "Ball Pein Hammer \u2018F\u2019 Clamp"
+   ],
+   "parentId": 5,
+   "subLabels": []
+  },
+  {
+   "id": 51,
+   "text": "47",
+   "descriptions": [],
+   "parentId": 5,
+   "subLabels": []
+  },
+  {
+   "id": 52,
+   "text": "48",
+   "descriptions": [
+    "Sash Clamp"
+   ],
+   "parentId": 5,
+   "subLabels": []
+  },
+  {
+   "id": 53,
+   "text": "49",
+   "descriptions": [
+    "Hand Screw"
+   ],
+   "parentId": 5,
+   "subLabels": []
+  },
+  {
+   "id": 54,
+   "text": "50",
+   "descriptions": [
+    "Bench Holdfast"
+   ],
+   "parentId": 5,
+   "subLabels": []
+  },
+  {
+   "id": 55,
+   "text": "51",
+   "descriptions": [
+    "Mitre Box"
+   ],
+   "parentId": 5,
+   "subLabels": []
+  },
+  {
+   "id": 56,
+   "text": "52",
+   "descriptions": [
+    "Mitre Cramp"
+   ],
+   "parentId": 5,
+   "subLabels": []
+  },
+  {
+   "id": 57,
+   "text": "53",
+   "descriptions": [
+    "Mitre Shooting Board"
+   ],
+   "parentId": 5,
+   "subLabels": []
+  },
+  {
+   "id": 58,
+   "text": "54",
+   "descriptions": [
+    "Flat Files (assorted)"
+   ],
+   "parentId": 5,
+   "subLabels": []
+  },
+  {
+   "id": 59,
+   "text": "55",
+   "descriptions": [
+    "Scraper(flat)"
+   ],
+   "parentId": 5,
+   "subLabels": []
+  },
+  {
+   "id": 60,
+   "text": "56",
+   "descriptions": [
+    "Dividers"
+   ],
+   "parentId": 5,
+   "subLabels": []
+  },
+  {
+   "id": 61,
+   "text": "57",
+   "descriptions": [
+    "Pincers"
+   ],
+   "parentId": 5,
+   "subLabels": []
+  },
+  {
+   "id": 62,
+   "text": "58",
+   "descriptions": [
+    "Spoke shave"
+   ],
+   "parentId": 5,
+   "subLabels": []
+  },
+  {
+   "id": 63,
+   "text": "59",
+   "descriptions": [
+    "Dowelling jig"
+   ],
+   "parentId": 5,
+   "subLabels": []
+  },
+  {
+   "id": 64,
+   "text": "60",
+   "descriptions": [
+    "Rasps"
+   ],
+   "parentId": 5,
+   "subLabels": []
+  },
+  {
+   "id": 65,
+   "text": "61",
+   "descriptions": [
+    "Sewing Machine"
+   ],
+   "parentId": 5,
+   "subLabels": []
+  },
+  {
+   "id": 66,
+   "text": "62",
+   "descriptions": [
+    "Scissors"
+   ],
+   "parentId": 5,
+   "subLabels": []
+  },
+  {
+   "id": 67,
+   "text": "63",
+   "descriptions": [
+    "Staple Gun"
+   ],
+   "parentId": 5,
+   "subLabels": []
+  },
+  {
+   "id": 68,
+   "text": "64",
+   "descriptions": [
+    "Needle (set) Curved and Straight"
+   ],
+   "parentId": 5,
+   "subLabels": []
+  },
+  {
+   "id": 69,
+   "text": "65",
+   "descriptions": [
+    "Tack Hammer"
+   ],
+   "parentId": 5,
+   "subLabels": []
+  },
+  {
+   "id": 70,
+   "text": "66",
+   "descriptions": [
+    "Pliers"
+   ],
+   "parentId": 5,
+   "subLabels": []
+  },
+  {
+   "id": 71,
+   "text": "67",
+   "descriptions": [
+    "Magnetic Hammer"
+   ],
+   "parentId": 5,
+   "subLabels": []
+  },
+  {
+   "id": 72,
+   "text": "68",
+   "descriptions": [
+    "Ripping Chisel"
+   ],
+   "parentId": 5,
+   "subLabels": []
+  },
+  {
+   "id": 73,
+   "text": "69",
+   "descriptions": [
+    "Knives"
+   ],
+   "parentId": 5,
+   "subLabels": []
+  },
+  {
+   "id": 74,
+   "text": "70",
+   "descriptions": [
+    "Tape (tailors type)"
+   ],
+   "parentId": 5,
+   "subLabels": []
+  },
+  {
+   "id": 75,
+   "text": "71",
+   "descriptions": [
+    "Web Strainer"
+   ],
+   "parentId": 5,
+   "subLabels": []
+  },
+  {
+   "id": 76,
+   "text": "72",
+   "descriptions": [
+    "Spring Cutter"
+   ],
+   "parentId": 5,
+   "subLabels": []
+  },
+  {
+   "id": 77,
+   "text": "73",
+   "descriptions": [
+    "Spanner (set)"
+   ],
+   "parentId": 5,
+   "subLabels": []
+  },
+  {
+   "id": 78,
+   "text": "74",
+   "descriptions": [
+    "Wrenches"
+   ],
+   "parentId": 5,
+   "subLabels": []
+  },
+  {
+   "id": 79,
+   "text": "75",
+   "descriptions": [
+    "Botton Making Machine"
+   ],
+   "parentId": 5,
+   "subLabels": []
+  },
+  {
+   "id": 80,
+   "text": "76",
+   "descriptions": [
+    "Work Bench"
+   ],
+   "parentId": 5,
+   "subLabels": []
+  },
+  {
+   "id": 81,
+   "text": "77",
+   "descriptions": [
+    "Bench Vice"
+   ],
+   "parentId": 5,
+   "subLabels": []
+  },
+  {
+   "id": 82,
+   "text": "78",
+   "descriptions": [
+    "Paint brush (sets)"
+   ],
+   "parentId": 5,
+   "subLabels": []
+  },
+  {
+   "id": 83,
+   "text": "79",
+   "descriptions": [
+    "Putty knives"
+   ],
+   "parentId": 5,
+   "subLabels": []
+  },
+  {
+   "id": 84,
+   "text": "80",
+   "descriptions": [
+    "Storage box"
+   ],
+   "parentId": 5,
+   "subLabels": []
+  },
+  {
+   "id": 85,
+   "text": "81",
+   "descriptions": [
+    "Water stone"
+   ],
+   "parentId": 5,
+   "subLabels": []
+  },
+  {
+   "id": 86,
+   "text": "82",
+   "descriptions": [
+    "Oil can"
+   ],
+   "parentId": 5,
+   "subLabels": []
+  },
+  {
+   "id": 87,
+   "text": "83",
+   "descriptions": [
+    "Veneer hammer"
+   ],
+   "parentId": 5,
+   "subLabels": []
+  },
+  {
+   "id": 88,
+   "text": "84",
+   "descriptions": [
+    "First-aid box"
+   ],
+   "parentId": 5,
+   "subLabels": []
+  },
+  {
+   "id": 89,
+   "text": "Appendix e",
+   "descriptions": [
+    "SUGGESTED READING LIST"
+   ],
+   "parentId": 5,
+   "subLabels": []
+  },
+  {
+   "id": 90,
+   "text": "S/n name 1 woodwork for g.c.e &c.s.e (metric edition) 2 woodwork in theory & practice 3 modern woodworking 4 wood occupations 5 the theory and practice of",
+   "descriptions": [
+    "AUTHOR PUBLISHER",
+    "J.N GREEN Mills and Boon Ltd",
+    "JOHN",
+    ".A.WALTON",
+    "WILLIS",
+    ".H.WAGNER The Goodheart -Willcox,Inc",
+    "PETER BRETT Nelson Thorns"
+   ],
+   "parentId": 5,
+   "subLabels": [
+    {
+     "id": 91,
+     "text": "Woodwork (4 th",
+     "descriptions": [
+      "GEORGE LOVE Longman"
+     ],
+     "parentId": 90,
+     "subLabels": []
+    },
+    {
+     "id": 92,
+     "text": "Edition)",
+     "descriptions": [],
+     "parentId": 90,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 93,
+   "text": "6 constructing modern furniture 7 practical upholstery 8 woodwork design and practice",
+   "descriptions": [
+    "VICTOR",
+    ".J.TAYLOR Sterlin g publishing Co.Inc New York",
+    "C.HOWES",
+    "F.A.M.U Evans brothers Ltd",
+    "DAVID .M.SHAW Hodder and Stoughton London Sydney,Auckland",
+    "London",
+    "Toronto"
+   ],
+   "parentId": 5,
+   "subLabels": []
+  },
+  {
+   "id": 91,
+   "text": "Woodwork (4 th",
+   "descriptions": [
+    "GEORGE LOVE Longman"
+   ],
+   "parentId": 90,
+   "subLabels": []
+  },
+  {
+   "id": 92,
+   "text": "Edition)",
+   "descriptions": [],
+   "parentId": 90,
+   "subLabels": []
+  }
+ ]
+}

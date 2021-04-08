@@ -1,1 +1,881 @@
-{"subject": "subject", "Grade": "SS3", "Curriculum": "WASSCE", "labelsTree": [{"id": 4, "text": "Topic notes", "descriptions": null, "parentId": -1, "subLabels": [{"id": 5, "text": "1   introduction 1.1 meaning of ict and its related to basic ict terminologies. concepts and 1.2         uses of ict tools e.g.mobile phones, computers computers, internet, television set, 2 computer 2.1  categories of computer hardware: hardware system unit, peripherals and storage 3  computer 3.1  types of software: 3  computer 3.1  types of software: software system and application software", "descriptions": ["radio, etc.", "1.3 Impact of ICT on Education, Social and Economic Development.", "1.4 Information processing cycle; distinction between data and information.", "1.5 Types and uses of computers.", "media. uses and objects e.g. tables, 30-35 words per minute. and functions."], "parentId": 4, "subLabels": [{"id": 6, "text": "3.2 open source and proprietary software", "descriptions": [], "parentId": 5, "subLabels": []}]}, {"id": 7, "text": "4   threats to 4.1 meaning of computer threats. computers 4.2 categories of computer threats. and users 4.2.1    natural threats e.g. earth-quakes, heat, floods, etc", "descriptions": [], "parentId": 4, "subLabels": [{"id": 8, "text": "4.2.2 human threats e.g.viruses, worms, intentional", "descriptions": [], "parentId": 7, "subLabels": []}]}, {"id": 9, "text": "Damage, etc", "descriptions": [], "parentId": 4, "subLabels": [{"id": 10, "text": "4.3 health hazards to computer users: causes and effects", "descriptions": [], "parentId": 9, "subLabels": []}, {"id": 11, "text": "4.4 remedies to threats and hazards", "descriptions": [], "parentId": 9, "subLabels": []}]}, {"id": 12, "text": "5   word processing 5.1 word processing packages, their importance", "descriptions": [], "parentId": 4, "subLabels": [{"id": 13, "text": "5.2  related concepts and terminologies", "descriptions": [], "parentId": 12, "subLabels": []}, {"id": 14, "text": "5.3  creating and saving documents", "descriptions": [], "parentId": 12, "subLabels": []}, {"id": 15, "text": "5.4  editing, formatting and insertion of", "descriptions": [], "parentId": 12, "subLabels": []}]}, {"id": 16, "text": "Graphics, etc", "descriptions": [], "parentId": 4, "subLabels": [{"id": 17, "text": "5.5  printing of documents", "descriptions": [], "parentId": 16, "subLabels": []}, {"id": 18, "text": "5.6  speed and accuracy in typing at", "descriptions": [], "parentId": 16, "subLabels": []}]}, {"id": 19, "text": "6   spreadsheet 6.1  spreadsheet packages, their uses and importance", "descriptions": [], "parentId": 4, "subLabels": [{"id": 20, "text": "6.2  related concepts and terminologies", "descriptions": [], "parentId": 19, "subLabels": []}, {"id": 21, "text": "6.3  types of data and their uses", "descriptions": [], "parentId": 19, "subLabels": []}, {"id": 22, "text": "6.4  creating and saving workbook", "descriptions": [], "parentId": 19, "subLabels": []}, {"id": 23, "text": "6.5  constructing and inserting formulae", "descriptions": ["6.6  Editing and formatting worksheets.", "6.7  Printing worksheets."], "parentId": 19, "subLabels": []}]}, {"id": 24, "text": "7   presentation 7.1  presentation packages, uses and importance", "descriptions": [], "parentId": 4, "subLabels": [{"id": 25, "text": "7.2  creating and saving presentations", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 26, "text": "7.3  editing, formatting and insertion of objects", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 27, "text": "7.4  slide shows", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 28, "text": "7.5 master slides", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 29, "text": "7.6 factors to consider before delivering", "descriptions": ["a presentation.", "7.7     Printing Presentation documents."], "parentId": 24, "subLabels": []}]}, {"id": 30, "text": "8   the internet 8.1 meaning, concepts, terminologies requirements", "descriptions": ["and"], "parentId": 4, "subLabels": [{"id": 31, "text": "8.2    features and uses of browser windows", "descriptions": [], "parentId": 30, "subLabels": []}, {"id": 32, "text": "8.3    rules and regulations in the use of the internet (netiquette)", "descriptions": [], "parentId": 30, "subLabels": []}, {"id": 33, "text": "8.4    sending and accessing e-mail", "descriptions": [], "parentId": 30, "subLabels": []}, {"id": 34, "text": "8.5    internet related tools for communication, e.g. chatting, downloading, uploading, search engines, facebook, etc", "descriptions": [], "parentId": 30, "subLabels": []}]}]}], "labels": [{"id": 4, "text": "Topic notes", "descriptions": null, "parentId": -1, "subLabels": [{"id": 5, "text": "1   introduction 1.1 meaning of ict and its related to basic ict terminologies. concepts and 1.2         uses of ict tools e.g.mobile phones, computers computers, internet, television set, 2 computer 2.1  categories of computer hardware: hardware system unit, peripherals and storage 3  computer 3.1  types of software: 3  computer 3.1  types of software: software system and application software", "descriptions": ["radio, etc.", "1.3 Impact of ICT on Education, Social and Economic Development.", "1.4 Information processing cycle; distinction between data and information.", "1.5 Types and uses of computers.", "media. uses and objects e.g. tables, 30-35 words per minute. and functions."], "parentId": 4, "subLabels": [{"id": 6, "text": "3.2 open source and proprietary software", "descriptions": [], "parentId": 5, "subLabels": []}]}, {"id": 7, "text": "4   threats to 4.1 meaning of computer threats. computers 4.2 categories of computer threats. and users 4.2.1    natural threats e.g. earth-quakes, heat, floods, etc", "descriptions": [], "parentId": 4, "subLabels": [{"id": 8, "text": "4.2.2 human threats e.g.viruses, worms, intentional", "descriptions": [], "parentId": 7, "subLabels": []}]}, {"id": 9, "text": "Damage, etc", "descriptions": [], "parentId": 4, "subLabels": [{"id": 10, "text": "4.3 health hazards to computer users: causes and effects", "descriptions": [], "parentId": 9, "subLabels": []}, {"id": 11, "text": "4.4 remedies to threats and hazards", "descriptions": [], "parentId": 9, "subLabels": []}]}, {"id": 12, "text": "5   word processing 5.1 word processing packages, their importance", "descriptions": [], "parentId": 4, "subLabels": [{"id": 13, "text": "5.2  related concepts and terminologies", "descriptions": [], "parentId": 12, "subLabels": []}, {"id": 14, "text": "5.3  creating and saving documents", "descriptions": [], "parentId": 12, "subLabels": []}, {"id": 15, "text": "5.4  editing, formatting and insertion of", "descriptions": [], "parentId": 12, "subLabels": []}]}, {"id": 16, "text": "Graphics, etc", "descriptions": [], "parentId": 4, "subLabels": [{"id": 17, "text": "5.5  printing of documents", "descriptions": [], "parentId": 16, "subLabels": []}, {"id": 18, "text": "5.6  speed and accuracy in typing at", "descriptions": [], "parentId": 16, "subLabels": []}]}, {"id": 19, "text": "6   spreadsheet 6.1  spreadsheet packages, their uses and importance", "descriptions": [], "parentId": 4, "subLabels": [{"id": 20, "text": "6.2  related concepts and terminologies", "descriptions": [], "parentId": 19, "subLabels": []}, {"id": 21, "text": "6.3  types of data and their uses", "descriptions": [], "parentId": 19, "subLabels": []}, {"id": 22, "text": "6.4  creating and saving workbook", "descriptions": [], "parentId": 19, "subLabels": []}, {"id": 23, "text": "6.5  constructing and inserting formulae", "descriptions": ["6.6  Editing and formatting worksheets.", "6.7  Printing worksheets."], "parentId": 19, "subLabels": []}]}, {"id": 24, "text": "7   presentation 7.1  presentation packages, uses and importance", "descriptions": [], "parentId": 4, "subLabels": [{"id": 25, "text": "7.2  creating and saving presentations", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 26, "text": "7.3  editing, formatting and insertion of objects", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 27, "text": "7.4  slide shows", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 28, "text": "7.5 master slides", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 29, "text": "7.6 factors to consider before delivering", "descriptions": ["a presentation.", "7.7     Printing Presentation documents."], "parentId": 24, "subLabels": []}]}, {"id": 30, "text": "8   the internet 8.1 meaning, concepts, terminologies requirements", "descriptions": ["and"], "parentId": 4, "subLabels": [{"id": 31, "text": "8.2    features and uses of browser windows", "descriptions": [], "parentId": 30, "subLabels": []}, {"id": 32, "text": "8.3    rules and regulations in the use of the internet (netiquette)", "descriptions": [], "parentId": 30, "subLabels": []}, {"id": 33, "text": "8.4    sending and accessing e-mail", "descriptions": [], "parentId": 30, "subLabels": []}, {"id": 34, "text": "8.5    internet related tools for communication, e.g. chatting, downloading, uploading, search engines, facebook, etc", "descriptions": [], "parentId": 30, "subLabels": []}]}]}, {"id": 5, "text": "1   introduction 1.1 meaning of ict and its related to basic ict terminologies. concepts and 1.2         uses of ict tools e.g.mobile phones, computers computers, internet, television set, 2 computer 2.1  categories of computer hardware: hardware system unit, peripherals and storage 3  computer 3.1  types of software: 3  computer 3.1  types of software: software system and application software", "descriptions": ["radio, etc.", "1.3 Impact of ICT on Education, Social and Economic Development.", "1.4 Information processing cycle; distinction between data and information.", "1.5 Types and uses of computers.", "media. uses and objects e.g. tables, 30-35 words per minute. and functions."], "parentId": 4, "subLabels": [{"id": 6, "text": "3.2 open source and proprietary software", "descriptions": [], "parentId": 5, "subLabels": []}]}, {"id": 7, "text": "4   threats to 4.1 meaning of computer threats. computers 4.2 categories of computer threats. and users 4.2.1    natural threats e.g. earth-quakes, heat, floods, etc", "descriptions": [], "parentId": 4, "subLabels": [{"id": 8, "text": "4.2.2 human threats e.g.viruses, worms, intentional", "descriptions": [], "parentId": 7, "subLabels": []}]}, {"id": 9, "text": "Damage, etc", "descriptions": [], "parentId": 4, "subLabels": [{"id": 10, "text": "4.3 health hazards to computer users: causes and effects", "descriptions": [], "parentId": 9, "subLabels": []}, {"id": 11, "text": "4.4 remedies to threats and hazards", "descriptions": [], "parentId": 9, "subLabels": []}]}, {"id": 12, "text": "5   word processing 5.1 word processing packages, their importance", "descriptions": [], "parentId": 4, "subLabels": [{"id": 13, "text": "5.2  related concepts and terminologies", "descriptions": [], "parentId": 12, "subLabels": []}, {"id": 14, "text": "5.3  creating and saving documents", "descriptions": [], "parentId": 12, "subLabels": []}, {"id": 15, "text": "5.4  editing, formatting and insertion of", "descriptions": [], "parentId": 12, "subLabels": []}]}, {"id": 16, "text": "Graphics, etc", "descriptions": [], "parentId": 4, "subLabels": [{"id": 17, "text": "5.5  printing of documents", "descriptions": [], "parentId": 16, "subLabels": []}, {"id": 18, "text": "5.6  speed and accuracy in typing at", "descriptions": [], "parentId": 16, "subLabels": []}]}, {"id": 19, "text": "6   spreadsheet 6.1  spreadsheet packages, their uses and importance", "descriptions": [], "parentId": 4, "subLabels": [{"id": 20, "text": "6.2  related concepts and terminologies", "descriptions": [], "parentId": 19, "subLabels": []}, {"id": 21, "text": "6.3  types of data and their uses", "descriptions": [], "parentId": 19, "subLabels": []}, {"id": 22, "text": "6.4  creating and saving workbook", "descriptions": [], "parentId": 19, "subLabels": []}, {"id": 23, "text": "6.5  constructing and inserting formulae", "descriptions": ["6.6  Editing and formatting worksheets.", "6.7  Printing worksheets."], "parentId": 19, "subLabels": []}]}, {"id": 24, "text": "7   presentation 7.1  presentation packages, uses and importance", "descriptions": [], "parentId": 4, "subLabels": [{"id": 25, "text": "7.2  creating and saving presentations", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 26, "text": "7.3  editing, formatting and insertion of objects", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 27, "text": "7.4  slide shows", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 28, "text": "7.5 master slides", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 29, "text": "7.6 factors to consider before delivering", "descriptions": ["a presentation.", "7.7     Printing Presentation documents."], "parentId": 24, "subLabels": []}]}, {"id": 30, "text": "8   the internet 8.1 meaning, concepts, terminologies requirements", "descriptions": ["and"], "parentId": 4, "subLabels": [{"id": 31, "text": "8.2    features and uses of browser windows", "descriptions": [], "parentId": 30, "subLabels": []}, {"id": 32, "text": "8.3    rules and regulations in the use of the internet (netiquette)", "descriptions": [], "parentId": 30, "subLabels": []}, {"id": 33, "text": "8.4    sending and accessing e-mail", "descriptions": [], "parentId": 30, "subLabels": []}, {"id": 34, "text": "8.5    internet related tools for communication, e.g. chatting, downloading, uploading, search engines, facebook, etc", "descriptions": [], "parentId": 30, "subLabels": []}]}, {"id": 6, "text": "3.2 open source and proprietary software", "descriptions": [], "parentId": 5, "subLabels": []}, {"id": 8, "text": "4.2.2 human threats e.g.viruses, worms, intentional", "descriptions": [], "parentId": 7, "subLabels": []}, {"id": 10, "text": "4.3 health hazards to computer users: causes and effects", "descriptions": [], "parentId": 9, "subLabels": []}, {"id": 11, "text": "4.4 remedies to threats and hazards", "descriptions": [], "parentId": 9, "subLabels": []}, {"id": 13, "text": "5.2  related concepts and terminologies", "descriptions": [], "parentId": 12, "subLabels": []}, {"id": 14, "text": "5.3  creating and saving documents", "descriptions": [], "parentId": 12, "subLabels": []}, {"id": 15, "text": "5.4  editing, formatting and insertion of", "descriptions": [], "parentId": 12, "subLabels": []}, {"id": 17, "text": "5.5  printing of documents", "descriptions": [], "parentId": 16, "subLabels": []}, {"id": 18, "text": "5.6  speed and accuracy in typing at", "descriptions": [], "parentId": 16, "subLabels": []}, {"id": 20, "text": "6.2  related concepts and terminologies", "descriptions": [], "parentId": 19, "subLabels": []}, {"id": 21, "text": "6.3  types of data and their uses", "descriptions": [], "parentId": 19, "subLabels": []}, {"id": 22, "text": "6.4  creating and saving workbook", "descriptions": [], "parentId": 19, "subLabels": []}, {"id": 23, "text": "6.5  constructing and inserting formulae", "descriptions": ["6.6  Editing and formatting worksheets.", "6.7  Printing worksheets."], "parentId": 19, "subLabels": []}, {"id": 25, "text": "7.2  creating and saving presentations", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 26, "text": "7.3  editing, formatting and insertion of objects", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 27, "text": "7.4  slide shows", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 28, "text": "7.5 master slides", "descriptions": [], "parentId": 24, "subLabels": []}, {"id": 29, "text": "7.6 factors to consider before delivering", "descriptions": ["a presentation.", "7.7     Printing Presentation documents."], "parentId": 24, "subLabels": []}, {"id": 31, "text": "8.2    features and uses of browser windows", "descriptions": [], "parentId": 30, "subLabels": []}, {"id": 32, "text": "8.3    rules and regulations in the use of the internet (netiquette)", "descriptions": [], "parentId": 30, "subLabels": []}, {"id": 33, "text": "8.4    sending and accessing e-mail", "descriptions": [], "parentId": 30, "subLabels": []}, {"id": 34, "text": "8.5    internet related tools for communication, e.g. chatting, downloading, uploading, search engines, facebook, etc", "descriptions": [], "parentId": 30, "subLabels": []}]}
+{
+ "subject": "Information and Communication Technology Core",
+ "Grade": "None",
+ "Curriculum": "test",
+ "labelsTree": [
+  {
+   "id": 4,
+   "text": "Topic notes",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 5,
+     "text": "1   introduction 1.1 meaning of ict and its related to basic ict terminologies. concepts and 1.2         uses of ict tools e.g.mobile phones, computers computers, internet, television set, 2 computer 2.1  categories of computer hardware: hardware system unit, peripherals and storage 3  computer 3.1  types of software: 3  computer 3.1  types of software: software system and application software",
+     "descriptions": [
+      "radio, etc.",
+      "1.3 Impact of ICT on Education, Social and Economic Development.",
+      "1.4 Information processing cycle; distinction between data and information.",
+      "1.5 Types and uses of computers.",
+      "media. uses and objects e.g. tables, 30-35 words per minute. and functions."
+     ],
+     "parentId": 4,
+     "subLabels": [
+      {
+       "id": 6,
+       "text": "3.2 open source and proprietary software",
+       "descriptions": [],
+       "parentId": 5,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 7,
+     "text": "4   threats to 4.1 meaning of computer threats. computers 4.2 categories of computer threats. and users 4.2.1    natural threats e.g. earth-quakes, heat, floods, etc",
+     "descriptions": [],
+     "parentId": 4,
+     "subLabels": [
+      {
+       "id": 8,
+       "text": "4.2.2 human threats e.g.viruses, worms, intentional",
+       "descriptions": [],
+       "parentId": 7,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 9,
+     "text": "Damage, etc",
+     "descriptions": [],
+     "parentId": 4,
+     "subLabels": [
+      {
+       "id": 10,
+       "text": "4.3 health hazards to computer users: causes and effects",
+       "descriptions": [],
+       "parentId": 9,
+       "subLabels": []
+      },
+      {
+       "id": 11,
+       "text": "4.4 remedies to threats and hazards",
+       "descriptions": [],
+       "parentId": 9,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 12,
+     "text": "5   word processing 5.1 word processing packages, their importance",
+     "descriptions": [],
+     "parentId": 4,
+     "subLabels": [
+      {
+       "id": 13,
+       "text": "5.2  related concepts and terminologies",
+       "descriptions": [],
+       "parentId": 12,
+       "subLabels": []
+      },
+      {
+       "id": 14,
+       "text": "5.3  creating and saving documents",
+       "descriptions": [],
+       "parentId": 12,
+       "subLabels": []
+      },
+      {
+       "id": 15,
+       "text": "5.4  editing, formatting and insertion of",
+       "descriptions": [],
+       "parentId": 12,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 16,
+     "text": "Graphics, etc",
+     "descriptions": [],
+     "parentId": 4,
+     "subLabels": [
+      {
+       "id": 17,
+       "text": "5.5  printing of documents",
+       "descriptions": [],
+       "parentId": 16,
+       "subLabels": []
+      },
+      {
+       "id": 18,
+       "text": "5.6  speed and accuracy in typing at",
+       "descriptions": [],
+       "parentId": 16,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 19,
+     "text": "6   spreadsheet 6.1  spreadsheet packages, their uses and importance",
+     "descriptions": [],
+     "parentId": 4,
+     "subLabels": [
+      {
+       "id": 20,
+       "text": "6.2  related concepts and terminologies",
+       "descriptions": [],
+       "parentId": 19,
+       "subLabels": []
+      },
+      {
+       "id": 21,
+       "text": "6.3  types of data and their uses",
+       "descriptions": [],
+       "parentId": 19,
+       "subLabels": []
+      },
+      {
+       "id": 22,
+       "text": "6.4  creating and saving workbook",
+       "descriptions": [],
+       "parentId": 19,
+       "subLabels": []
+      },
+      {
+       "id": 23,
+       "text": "6.5  constructing and inserting formulae",
+       "descriptions": [
+        "6.6  Editing and formatting worksheets.",
+        "6.7  Printing worksheets."
+       ],
+       "parentId": 19,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 24,
+     "text": "7   presentation 7.1  presentation packages, uses and importance",
+     "descriptions": [],
+     "parentId": 4,
+     "subLabels": [
+      {
+       "id": 25,
+       "text": "7.2  creating and saving presentations",
+       "descriptions": [],
+       "parentId": 24,
+       "subLabels": []
+      },
+      {
+       "id": 26,
+       "text": "7.3  editing, formatting and insertion of objects",
+       "descriptions": [],
+       "parentId": 24,
+       "subLabels": []
+      },
+      {
+       "id": 27,
+       "text": "7.4  slide shows",
+       "descriptions": [],
+       "parentId": 24,
+       "subLabels": []
+      },
+      {
+       "id": 28,
+       "text": "7.5 master slides",
+       "descriptions": [],
+       "parentId": 24,
+       "subLabels": []
+      },
+      {
+       "id": 29,
+       "text": "7.6 factors to consider before delivering",
+       "descriptions": [
+        "a presentation.",
+        "7.7     Printing Presentation documents."
+       ],
+       "parentId": 24,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 30,
+     "text": "8   the internet 8.1 meaning, concepts, terminologies requirements",
+     "descriptions": [
+      "and"
+     ],
+     "parentId": 4,
+     "subLabels": [
+      {
+       "id": 31,
+       "text": "8.2    features and uses of browser windows",
+       "descriptions": [],
+       "parentId": 30,
+       "subLabels": []
+      },
+      {
+       "id": 32,
+       "text": "8.3    rules and regulations in the use of the internet (netiquette)",
+       "descriptions": [],
+       "parentId": 30,
+       "subLabels": []
+      },
+      {
+       "id": 33,
+       "text": "8.4    sending and accessing e-mail",
+       "descriptions": [],
+       "parentId": 30,
+       "subLabels": []
+      },
+      {
+       "id": 34,
+       "text": "8.5    internet related tools for communication, e.g. chatting, downloading, uploading, search engines, facebook, etc",
+       "descriptions": [],
+       "parentId": 30,
+       "subLabels": []
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "labels": [
+  {
+   "id": 4,
+   "text": "Topic notes",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 5,
+     "text": "1   introduction 1.1 meaning of ict and its related to basic ict terminologies. concepts and 1.2         uses of ict tools e.g.mobile phones, computers computers, internet, television set, 2 computer 2.1  categories of computer hardware: hardware system unit, peripherals and storage 3  computer 3.1  types of software: 3  computer 3.1  types of software: software system and application software",
+     "descriptions": [
+      "radio, etc.",
+      "1.3 Impact of ICT on Education, Social and Economic Development.",
+      "1.4 Information processing cycle; distinction between data and information.",
+      "1.5 Types and uses of computers.",
+      "media. uses and objects e.g. tables, 30-35 words per minute. and functions."
+     ],
+     "parentId": 4,
+     "subLabels": [
+      {
+       "id": 6,
+       "text": "3.2 open source and proprietary software",
+       "descriptions": [],
+       "parentId": 5,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 7,
+     "text": "4   threats to 4.1 meaning of computer threats. computers 4.2 categories of computer threats. and users 4.2.1    natural threats e.g. earth-quakes, heat, floods, etc",
+     "descriptions": [],
+     "parentId": 4,
+     "subLabels": [
+      {
+       "id": 8,
+       "text": "4.2.2 human threats e.g.viruses, worms, intentional",
+       "descriptions": [],
+       "parentId": 7,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 9,
+     "text": "Damage, etc",
+     "descriptions": [],
+     "parentId": 4,
+     "subLabels": [
+      {
+       "id": 10,
+       "text": "4.3 health hazards to computer users: causes and effects",
+       "descriptions": [],
+       "parentId": 9,
+       "subLabels": []
+      },
+      {
+       "id": 11,
+       "text": "4.4 remedies to threats and hazards",
+       "descriptions": [],
+       "parentId": 9,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 12,
+     "text": "5   word processing 5.1 word processing packages, their importance",
+     "descriptions": [],
+     "parentId": 4,
+     "subLabels": [
+      {
+       "id": 13,
+       "text": "5.2  related concepts and terminologies",
+       "descriptions": [],
+       "parentId": 12,
+       "subLabels": []
+      },
+      {
+       "id": 14,
+       "text": "5.3  creating and saving documents",
+       "descriptions": [],
+       "parentId": 12,
+       "subLabels": []
+      },
+      {
+       "id": 15,
+       "text": "5.4  editing, formatting and insertion of",
+       "descriptions": [],
+       "parentId": 12,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 16,
+     "text": "Graphics, etc",
+     "descriptions": [],
+     "parentId": 4,
+     "subLabels": [
+      {
+       "id": 17,
+       "text": "5.5  printing of documents",
+       "descriptions": [],
+       "parentId": 16,
+       "subLabels": []
+      },
+      {
+       "id": 18,
+       "text": "5.6  speed and accuracy in typing at",
+       "descriptions": [],
+       "parentId": 16,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 19,
+     "text": "6   spreadsheet 6.1  spreadsheet packages, their uses and importance",
+     "descriptions": [],
+     "parentId": 4,
+     "subLabels": [
+      {
+       "id": 20,
+       "text": "6.2  related concepts and terminologies",
+       "descriptions": [],
+       "parentId": 19,
+       "subLabels": []
+      },
+      {
+       "id": 21,
+       "text": "6.3  types of data and their uses",
+       "descriptions": [],
+       "parentId": 19,
+       "subLabels": []
+      },
+      {
+       "id": 22,
+       "text": "6.4  creating and saving workbook",
+       "descriptions": [],
+       "parentId": 19,
+       "subLabels": []
+      },
+      {
+       "id": 23,
+       "text": "6.5  constructing and inserting formulae",
+       "descriptions": [
+        "6.6  Editing and formatting worksheets.",
+        "6.7  Printing worksheets."
+       ],
+       "parentId": 19,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 24,
+     "text": "7   presentation 7.1  presentation packages, uses and importance",
+     "descriptions": [],
+     "parentId": 4,
+     "subLabels": [
+      {
+       "id": 25,
+       "text": "7.2  creating and saving presentations",
+       "descriptions": [],
+       "parentId": 24,
+       "subLabels": []
+      },
+      {
+       "id": 26,
+       "text": "7.3  editing, formatting and insertion of objects",
+       "descriptions": [],
+       "parentId": 24,
+       "subLabels": []
+      },
+      {
+       "id": 27,
+       "text": "7.4  slide shows",
+       "descriptions": [],
+       "parentId": 24,
+       "subLabels": []
+      },
+      {
+       "id": 28,
+       "text": "7.5 master slides",
+       "descriptions": [],
+       "parentId": 24,
+       "subLabels": []
+      },
+      {
+       "id": 29,
+       "text": "7.6 factors to consider before delivering",
+       "descriptions": [
+        "a presentation.",
+        "7.7     Printing Presentation documents."
+       ],
+       "parentId": 24,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 30,
+     "text": "8   the internet 8.1 meaning, concepts, terminologies requirements",
+     "descriptions": [
+      "and"
+     ],
+     "parentId": 4,
+     "subLabels": [
+      {
+       "id": 31,
+       "text": "8.2    features and uses of browser windows",
+       "descriptions": [],
+       "parentId": 30,
+       "subLabels": []
+      },
+      {
+       "id": 32,
+       "text": "8.3    rules and regulations in the use of the internet (netiquette)",
+       "descriptions": [],
+       "parentId": 30,
+       "subLabels": []
+      },
+      {
+       "id": 33,
+       "text": "8.4    sending and accessing e-mail",
+       "descriptions": [],
+       "parentId": 30,
+       "subLabels": []
+      },
+      {
+       "id": 34,
+       "text": "8.5    internet related tools for communication, e.g. chatting, downloading, uploading, search engines, facebook, etc",
+       "descriptions": [],
+       "parentId": 30,
+       "subLabels": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "text": "1   introduction 1.1 meaning of ict and its related to basic ict terminologies. concepts and 1.2         uses of ict tools e.g.mobile phones, computers computers, internet, television set, 2 computer 2.1  categories of computer hardware: hardware system unit, peripherals and storage 3  computer 3.1  types of software: 3  computer 3.1  types of software: software system and application software",
+   "descriptions": [
+    "radio, etc.",
+    "1.3 Impact of ICT on Education, Social and Economic Development.",
+    "1.4 Information processing cycle; distinction between data and information.",
+    "1.5 Types and uses of computers.",
+    "media. uses and objects e.g. tables, 30-35 words per minute. and functions."
+   ],
+   "parentId": 4,
+   "subLabels": [
+    {
+     "id": 6,
+     "text": "3.2 open source and proprietary software",
+     "descriptions": [],
+     "parentId": 5,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "text": "4   threats to 4.1 meaning of computer threats. computers 4.2 categories of computer threats. and users 4.2.1    natural threats e.g. earth-quakes, heat, floods, etc",
+   "descriptions": [],
+   "parentId": 4,
+   "subLabels": [
+    {
+     "id": 8,
+     "text": "4.2.2 human threats e.g.viruses, worms, intentional",
+     "descriptions": [],
+     "parentId": 7,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "text": "Damage, etc",
+   "descriptions": [],
+   "parentId": 4,
+   "subLabels": [
+    {
+     "id": 10,
+     "text": "4.3 health hazards to computer users: causes and effects",
+     "descriptions": [],
+     "parentId": 9,
+     "subLabels": []
+    },
+    {
+     "id": 11,
+     "text": "4.4 remedies to threats and hazards",
+     "descriptions": [],
+     "parentId": 9,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "text": "5   word processing 5.1 word processing packages, their importance",
+   "descriptions": [],
+   "parentId": 4,
+   "subLabels": [
+    {
+     "id": 13,
+     "text": "5.2  related concepts and terminologies",
+     "descriptions": [],
+     "parentId": 12,
+     "subLabels": []
+    },
+    {
+     "id": 14,
+     "text": "5.3  creating and saving documents",
+     "descriptions": [],
+     "parentId": 12,
+     "subLabels": []
+    },
+    {
+     "id": 15,
+     "text": "5.4  editing, formatting and insertion of",
+     "descriptions": [],
+     "parentId": 12,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "text": "Graphics, etc",
+   "descriptions": [],
+   "parentId": 4,
+   "subLabels": [
+    {
+     "id": 17,
+     "text": "5.5  printing of documents",
+     "descriptions": [],
+     "parentId": 16,
+     "subLabels": []
+    },
+    {
+     "id": 18,
+     "text": "5.6  speed and accuracy in typing at",
+     "descriptions": [],
+     "parentId": 16,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "text": "6   spreadsheet 6.1  spreadsheet packages, their uses and importance",
+   "descriptions": [],
+   "parentId": 4,
+   "subLabels": [
+    {
+     "id": 20,
+     "text": "6.2  related concepts and terminologies",
+     "descriptions": [],
+     "parentId": 19,
+     "subLabels": []
+    },
+    {
+     "id": 21,
+     "text": "6.3  types of data and their uses",
+     "descriptions": [],
+     "parentId": 19,
+     "subLabels": []
+    },
+    {
+     "id": 22,
+     "text": "6.4  creating and saving workbook",
+     "descriptions": [],
+     "parentId": 19,
+     "subLabels": []
+    },
+    {
+     "id": 23,
+     "text": "6.5  constructing and inserting formulae",
+     "descriptions": [
+      "6.6  Editing and formatting worksheets.",
+      "6.7  Printing worksheets."
+     ],
+     "parentId": 19,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "text": "7   presentation 7.1  presentation packages, uses and importance",
+   "descriptions": [],
+   "parentId": 4,
+   "subLabels": [
+    {
+     "id": 25,
+     "text": "7.2  creating and saving presentations",
+     "descriptions": [],
+     "parentId": 24,
+     "subLabels": []
+    },
+    {
+     "id": 26,
+     "text": "7.3  editing, formatting and insertion of objects",
+     "descriptions": [],
+     "parentId": 24,
+     "subLabels": []
+    },
+    {
+     "id": 27,
+     "text": "7.4  slide shows",
+     "descriptions": [],
+     "parentId": 24,
+     "subLabels": []
+    },
+    {
+     "id": 28,
+     "text": "7.5 master slides",
+     "descriptions": [],
+     "parentId": 24,
+     "subLabels": []
+    },
+    {
+     "id": 29,
+     "text": "7.6 factors to consider before delivering",
+     "descriptions": [
+      "a presentation.",
+      "7.7     Printing Presentation documents."
+     ],
+     "parentId": 24,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 30,
+   "text": "8   the internet 8.1 meaning, concepts, terminologies requirements",
+   "descriptions": [
+    "and"
+   ],
+   "parentId": 4,
+   "subLabels": [
+    {
+     "id": 31,
+     "text": "8.2    features and uses of browser windows",
+     "descriptions": [],
+     "parentId": 30,
+     "subLabels": []
+    },
+    {
+     "id": 32,
+     "text": "8.3    rules and regulations in the use of the internet (netiquette)",
+     "descriptions": [],
+     "parentId": 30,
+     "subLabels": []
+    },
+    {
+     "id": 33,
+     "text": "8.4    sending and accessing e-mail",
+     "descriptions": [],
+     "parentId": 30,
+     "subLabels": []
+    },
+    {
+     "id": 34,
+     "text": "8.5    internet related tools for communication, e.g. chatting, downloading, uploading, search engines, facebook, etc",
+     "descriptions": [],
+     "parentId": 30,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "text": "3.2 open source and proprietary software",
+   "descriptions": [],
+   "parentId": 5,
+   "subLabels": []
+  },
+  {
+   "id": 8,
+   "text": "4.2.2 human threats e.g.viruses, worms, intentional",
+   "descriptions": [],
+   "parentId": 7,
+   "subLabels": []
+  },
+  {
+   "id": 10,
+   "text": "4.3 health hazards to computer users: causes and effects",
+   "descriptions": [],
+   "parentId": 9,
+   "subLabels": []
+  },
+  {
+   "id": 11,
+   "text": "4.4 remedies to threats and hazards",
+   "descriptions": [],
+   "parentId": 9,
+   "subLabels": []
+  },
+  {
+   "id": 13,
+   "text": "5.2  related concepts and terminologies",
+   "descriptions": [],
+   "parentId": 12,
+   "subLabels": []
+  },
+  {
+   "id": 14,
+   "text": "5.3  creating and saving documents",
+   "descriptions": [],
+   "parentId": 12,
+   "subLabels": []
+  },
+  {
+   "id": 15,
+   "text": "5.4  editing, formatting and insertion of",
+   "descriptions": [],
+   "parentId": 12,
+   "subLabels": []
+  },
+  {
+   "id": 17,
+   "text": "5.5  printing of documents",
+   "descriptions": [],
+   "parentId": 16,
+   "subLabels": []
+  },
+  {
+   "id": 18,
+   "text": "5.6  speed and accuracy in typing at",
+   "descriptions": [],
+   "parentId": 16,
+   "subLabels": []
+  },
+  {
+   "id": 20,
+   "text": "6.2  related concepts and terminologies",
+   "descriptions": [],
+   "parentId": 19,
+   "subLabels": []
+  },
+  {
+   "id": 21,
+   "text": "6.3  types of data and their uses",
+   "descriptions": [],
+   "parentId": 19,
+   "subLabels": []
+  },
+  {
+   "id": 22,
+   "text": "6.4  creating and saving workbook",
+   "descriptions": [],
+   "parentId": 19,
+   "subLabels": []
+  },
+  {
+   "id": 23,
+   "text": "6.5  constructing and inserting formulae",
+   "descriptions": [
+    "6.6  Editing and formatting worksheets.",
+    "6.7  Printing worksheets."
+   ],
+   "parentId": 19,
+   "subLabels": []
+  },
+  {
+   "id": 25,
+   "text": "7.2  creating and saving presentations",
+   "descriptions": [],
+   "parentId": 24,
+   "subLabels": []
+  },
+  {
+   "id": 26,
+   "text": "7.3  editing, formatting and insertion of objects",
+   "descriptions": [],
+   "parentId": 24,
+   "subLabels": []
+  },
+  {
+   "id": 27,
+   "text": "7.4  slide shows",
+   "descriptions": [],
+   "parentId": 24,
+   "subLabels": []
+  },
+  {
+   "id": 28,
+   "text": "7.5 master slides",
+   "descriptions": [],
+   "parentId": 24,
+   "subLabels": []
+  },
+  {
+   "id": 29,
+   "text": "7.6 factors to consider before delivering",
+   "descriptions": [
+    "a presentation.",
+    "7.7     Printing Presentation documents."
+   ],
+   "parentId": 24,
+   "subLabels": []
+  },
+  {
+   "id": 31,
+   "text": "8.2    features and uses of browser windows",
+   "descriptions": [],
+   "parentId": 30,
+   "subLabels": []
+  },
+  {
+   "id": 32,
+   "text": "8.3    rules and regulations in the use of the internet (netiquette)",
+   "descriptions": [],
+   "parentId": 30,
+   "subLabels": []
+  },
+  {
+   "id": 33,
+   "text": "8.4    sending and accessing e-mail",
+   "descriptions": [],
+   "parentId": 30,
+   "subLabels": []
+  },
+  {
+   "id": 34,
+   "text": "8.5    internet related tools for communication, e.g. chatting, downloading, uploading, search engines, facebook, etc",
+   "descriptions": [],
+   "parentId": 30,
+   "subLabels": []
+  }
+ ]
+}

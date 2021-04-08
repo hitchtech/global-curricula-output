@@ -1,1 +1,73 @@
-{"subject": "subject", "Grade": "SS3", "Curriculum": "WASSCE", "labelsTree": [{"id": 4, "text": "Detailed syllabus", "descriptions": null, "parentId": -1, "subLabels": [{"id": 5, "text": "Rationale for", "descriptions": ["i."], "parentId": 4, "subLabels": []}, {"id": 6, "text": "Visual arts", "descriptions": [], "parentId": 4, "subLabels": []}]}], "labels": [{"id": 4, "text": "Detailed syllabus", "descriptions": null, "parentId": -1, "subLabels": [{"id": 5, "text": "Rationale for", "descriptions": ["i."], "parentId": 4, "subLabels": []}, {"id": 6, "text": "Visual arts", "descriptions": [], "parentId": 4, "subLabels": []}]}, {"id": 5, "text": "Rationale for", "descriptions": ["i."], "parentId": 4, "subLabels": []}, {"id": 6, "text": "Visual arts", "descriptions": [], "parentId": 4, "subLabels": []}]}
+{
+ "subject": "General Knowledge In Art",
+ "Grade": "None",
+ "Curriculum": "test",
+ "labelsTree": [
+  {
+   "id": 4,
+   "text": "Detailed syllabus",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 5,
+     "text": "Rationale for",
+     "descriptions": [
+      "i."
+     ],
+     "parentId": 4,
+     "subLabels": []
+    },
+    {
+     "id": 6,
+     "text": "Visual arts",
+     "descriptions": [],
+     "parentId": 4,
+     "subLabels": []
+    }
+   ]
+  }
+ ],
+ "labels": [
+  {
+   "id": 4,
+   "text": "Detailed syllabus",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 5,
+     "text": "Rationale for",
+     "descriptions": [
+      "i."
+     ],
+     "parentId": 4,
+     "subLabels": []
+    },
+    {
+     "id": 6,
+     "text": "Visual arts",
+     "descriptions": [],
+     "parentId": 4,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "text": "Rationale for",
+   "descriptions": [
+    "i."
+   ],
+   "parentId": 4,
+   "subLabels": []
+  },
+  {
+   "id": 6,
+   "text": "Visual arts",
+   "descriptions": [],
+   "parentId": 4,
+   "subLabels": []
+  }
+ ]
+}

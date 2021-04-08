@@ -1,1 +1,1354 @@
-{"subject": "subject", "Grade": "SS3", "Curriculum": "WASSCE", "labelsTree": [{"id": 3, "text": "Preliminaries", "descriptions": null, "parentId": -1, "subLabels": [{"id": 4, "text": "1", "descriptions": ["Workshop and worksite safety", "(a)    Workshop Rules and Regulation", "(b)    First Aid", "Safety practices (personnel)", "Safety devices (preventive and protective devices)", "Safety rules (machines)", "(iv)       Workshop layout.", "Types of first aid materials.", "Worksite aids e.g. ladder, steps, scaffolding, etc."], "parentId": 3, "subLabels": [{"id": 5, "text": "(c)     worksite safety", "descriptions": ["Worksite hazards", "Safety precautions in worksite.", "Safety precautions in worksite."], "parentId": 4, "subLabels": []}]}, {"id": 6, "text": "2 tools, machines and maintenance", "descriptions": ["Woodwork hand tools (e.g., cutting tool, drilling tools, measuring and marking out tools, etc)"], "parentId": 3, "subLabels": [{"id": 7, "text": "(a)     hand tools", "descriptions": ["Types of portable power tools e.g. jigsaw, sanders, portable power saws, etc."], "parentId": 6, "subLabels": []}, {"id": 8, "text": "(b)    portable power tools and maintenance", "descriptions": ["Uses of hand tools and portable power tools.", "Maintenance and precautionary measures for hand tools.", "Sketches of hand tools or portable power tools may be required."], "parentId": 6, "subLabels": []}, {"id": 9, "text": "(c)    machines and maintenance", "descriptions": ["(vi)        Types and uses of machines in carpentry and joinery workshop.", "Growth and structure of timber."], "parentId": 6, "subLabels": []}]}, {"id": 10, "text": "3 materials: types and uses of", "descriptions": ["Conversion, seasoning and uses of timber.", "Common defects in timber and their remedies.", "Reasons for seasoning timber."], "parentId": 3, "subLabels": [{"id": 11, "text": "(a)   timber", "descriptions": ["Preservation and preservatives.", "Veneer and manufactured boards."], "parentId": 10, "subLabels": []}, {"id": 12, "text": "(b)   adhesives", "descriptions": ["Types of adhesives; uses and characteristics"], "parentId": 10, "subLabels": []}, {"id": 13, "text": "(c)   ironmongery", "descriptions": ["(e.g. animal glue, casein glue, ureaformaldehyde)."], "parentId": 10, "subLabels": []}, {"id": 14, "text": "E.t.c", "descriptions": ["Types of ironmongery (sketches may be required) e.g. screws, nails, hinges and locks.", "(ix)       fixing of hinges and locks (specification for ordering nails may be required)."], "parentId": 10, "subLabels": []}, {"id": 15, "text": "Construction principles and techniques", "descriptions": [], "parentId": 10, "subLabels": [{"id": 16, "text": "Timber preparation", "descriptions": [], "parentId": 15, "subLabels": []}, {"id": 17, "text": "Joints", "descriptions": [], "parentId": 15, "subLabels": []}, {"id": 18, "text": "Doors and windows", "descriptions": [], "parentId": 15, "subLabels": []}, {"id": 19, "text": "Form work and centering", "descriptions": ["Sequence of timber preparation to sizes (plane woodsurface to flatness and edge to planesquareness)."], "parentId": 15, "subLabels": []}, {"id": 20, "text": "Estimating and costing", "descriptions": ["Sketching and developing of working drawing.", "Interpreting simple working drawings of wood projects.", "Common woodwork joints, construction and uses.", "Simple project requiring specified joint.", "Types of doors and windows."], "parentId": 15, "subLabels": []}]}]}, {"id": 21, "text": "4 wall paneling, cladding and          partitioning", "descriptions": ["Typesof formworks, identification, construction and uses.", "Identification, design or construction of centresfor arches.", "Purpose of timbering.", "Cost analysis of simple projects e.g. centre table, stool. Projects may be presented in form of working drawing."], "parentId": 3, "subLabels": [{"id": 22, "text": "Pre-fabricated building", "descriptions": [], "parentId": 21, "subLabels": []}, {"id": 23, "text": "Stairs, handrail and balusters", "descriptions": [], "parentId": 21, "subLabels": []}, {"id": 24, "text": "Scaffolding and ladder", "descriptions": [], "parentId": 21, "subLabels": []}, {"id": 25, "text": "Estimation and costing", "descriptions": ["Abrading tools"], "parentId": 21, "subLabels": []}, {"id": 26, "text": "5. finishes and finishing", "descriptions": ["Types and grades of abrasives"], "parentId": 21, "subLabels": [{"id": 27, "text": "(a)    abrasive", "descriptions": ["Uses of abrasives", "Selection of grades of abrasives"], "parentId": 26, "subLabels": []}, {"id": 28, "text": "(b)   finishes", "descriptions": ["Types of finishes e.g. varnishing lacquer, paints, etc.", "Characteristics and application of finishes"], "parentId": 26, "subLabels": []}, {"id": 29, "text": "(c)  finishing", "descriptions": ["Finishing tools \u2013 spray gun", "Finishing process e.g. scraping, filling, sanding and staining.", "Simple project work involving finishing."], "parentId": 26, "subLabels": []}]}]}, {"id": 30, "text": "6 business opportunities in", "descriptions": [], "parentId": 3, "subLabels": [{"id": 31, "text": "Carpentry and joinery trade", "descriptions": [], "parentId": 30, "subLabels": []}, {"id": 32, "text": "(a)    furniture making", "descriptions": ["(i)    Project work with commercial value e.g. dining        table, doors, etc."], "parentId": 30, "subLabels": []}, {"id": 33, "text": "(b)    material supply and merchandising", "descriptions": ["(ii)   Description of a standard small scale workshop        (layout/equipment).", "(iii)   Project work involving feasibility study reports."], "parentId": 30, "subLabels": []}, {"id": 34, "text": "(c)    contract work", "descriptions": [], "parentId": 30, "subLabels": []}]}]}, {"id": 35, "text": "List of facilities and major equipment/materials required:", "descriptions": null, "parentId": -1, "subLabels": [{"id": 36, "text": "Item no. equipment", "descriptions": ["QUANTITY REQUIRED 1 1 3 3 3 10 1 each 2 10 6 5 5 5 3 2 2 10 5 5 5 2 2 2 2 5 3 3 3 3 2 2 2 Sets 2 Sets 2 Sets 2 Sets 2 Sets 2 Sets 2 Sets 2 2 2 Sets 2 2 2 2 2 2 1 1 1 Set"], "parentId": 35, "subLabels": [{"id": 37, "text": "1. standard workshop with a good layout and ventilation", "descriptions": [], "parentId": 36, "subLabels": []}, {"id": 38, "text": "2. first aid box", "descriptions": [], "parentId": 36, "subLabels": []}, {"id": 39, "text": "3. chart showing safety practices in carpentry and joinery workshop", "descriptions": [], "parentId": 36, "subLabels": []}, {"id": 40, "text": "4. complete tool box", "descriptions": [], "parentId": 36, "subLabels": []}, {"id": 41, "text": "5. work bench", "descriptions": [], "parentId": 36, "subLabels": []}, {"id": 42, "text": "6. g clamp or f clamp", "descriptions": [], "parentId": 36, "subLabels": []}, {"id": 43, "text": "7. safety equipment - fire extinguisher, fire    bucket", "descriptions": [], "parentId": 36, "subLabels": []}, {"id": 44, "text": "8. ratchet brace or wheel brace", "descriptions": [], "parentId": 36, "subLabels": []}, {"id": 45, "text": "9. hand vice", "descriptions": [], "parentId": 36, "subLabels": []}, {"id": 46, "text": "10. bench vice", "descriptions": [], "parentId": 36, "subLabels": []}, {"id": 47, "text": "11. rip saw", "descriptions": [], "parentId": 36, "subLabels": []}, {"id": 48, "text": "12. panel saw", "descriptions": [], "parentId": 36, "subLabels": []}, {"id": 49, "text": "13. crosscut saw", "descriptions": [], "parentId": 36, "subLabels": []}, {"id": 50, "text": "14. fret saw", "descriptions": [], "parentId": 36, "subLabels": []}, {"id": 51, "text": "15. coping saw", "descriptions": [], "parentId": 36, "subLabels": []}, {"id": 52, "text": "16. bow saw", "descriptions": [], "parentId": 36, "subLabels": []}, {"id": 53, "text": "17. tenon saw", "descriptions": [], "parentId": 36, "subLabels": []}, {"id": 54, "text": "18. dovetail saw", "descriptions": [], "parentId": 36, "subLabels": []}, {"id": 55, "text": "19. jack plane", "descriptions": [], "parentId": 36, "subLabels": []}, {"id": 56, "text": "20. smooth plane", "descriptions": [], "parentId": 36, "subLabels": []}, {"id": 57, "text": "21. plough plane", "descriptions": [], "parentId": 36, "subLabels": []}, {"id": 58, "text": "22. rebate plane", "descriptions": [], "parentId": 36, "subLabels": []}, {"id": 59, "text": "23. grooving plane", "descriptions": [], "parentId": 36, "subLabels": []}, {"id": 60, "text": "24. crow bar", "descriptions": [], "parentId": 36, "subLabels": []}, {"id": 61, "text": "25. try square", "descriptions": [], "parentId": 36, "subLabels": []}, {"id": 62, "text": "26. mitre square", "descriptions": [], "parentId": 36, "subLabels": []}, {"id": 63, "text": "27. sliding bevel", "descriptions": [], "parentId": 36, "subLabels": []}, {"id": 64, "text": "28. marking gauge", "descriptions": [], "parentId": 36, "subLabels": []}, {"id": 65, "text": "29. mortise gauge", "descriptions": [], "parentId": 36, "subLabels": []}, {"id": 66, "text": "30. pincers", "descriptions": [], "parentId": 36, "subLabels": []}, {"id": 67, "text": "31. tape rule(metric)", "descriptions": [], "parentId": 36, "subLabels": []}, {"id": 68, "text": "32. firmer chisel", "descriptions": [], "parentId": 36, "subLabels": []}, {"id": 69, "text": "33. mortise chisel", "descriptions": [], "parentId": 36, "subLabels": []}, {"id": 70, "text": "34. carving chisel", "descriptions": [], "parentId": 36, "subLabels": []}, {"id": 71, "text": "35. centre bit", "descriptions": [], "parentId": 36, "subLabels": []}, {"id": 72, "text": "36. twist bit", "descriptions": [], "parentId": 36, "subLabels": []}, {"id": 73, "text": "37. drill bit", "descriptions": [], "parentId": 36, "subLabels": []}, {"id": 74, "text": "38. star screw driver", "descriptions": [], "parentId": 36, "subLabels": []}, {"id": 75, "text": "39. long-nose pliers", "descriptions": [], "parentId": 36, "subLabels": []}, {"id": 76, "text": "40. combination plier (flat-nose)", "descriptions": [], "parentId": 36, "subLabels": []}, {"id": 77, "text": "41. flat screw driver", "descriptions": [], "parentId": 36, "subLabels": []}, {"id": 78, "text": "42. spoke shave", "descriptions": [], "parentId": 36, "subLabels": []}, {"id": 79, "text": "43. claw hammer", "descriptions": [], "parentId": 36, "subLabels": []}, {"id": 80, "text": "44. cross pein hammer", "descriptions": [], "parentId": 36, "subLabels": []}, {"id": 81, "text": "45. ball pein hammer", "descriptions": [], "parentId": 36, "subLabels": []}, {"id": 82, "text": "46. scriber", "descriptions": [], "parentId": 36, "subLabels": []}, {"id": 83, "text": "47. steel rule", "descriptions": [], "parentId": 36, "subLabels": []}, {"id": 84, "text": "48. inside caliper", "descriptions": [], "parentId": 36, "subLabels": []}, {"id": 85, "text": "49. outside caliper", "descriptions": [], "parentId": 36, "subLabels": []}, {"id": 86, "text": "50. allen key", "descriptions": [], "parentId": 36, "subLabels": []}]}]}, {"id": 87, "text": "List of recommended text books", "descriptions": null, "parentId": -1, "subLabels": [{"id": 88, "text": "S/n text book 1 brian porter & christopher tooke 3 rd", "descriptions": ["AUTHOR"], "parentId": 87, "subLabels": [{"id": 89, "text": "Edition (bks 1,2 and 3) 2 wood trades (part 1 and 2)", "descriptions": [], "parentId": 88, "subLabels": []}]}, {"id": 90, "text": "3 carpentry and joinery (bks 1 and 2) 4 the theory and practical of woodwork 3 rd", "descriptions": ["A.Y.EMARY", "DAVID R.BATES"], "parentId": 87, "subLabels": [{"id": 91, "text": "Edition", "descriptions": ["GEORGE LOVE"], "parentId": 90, "subLabels": []}]}, {"id": 92, "text": "5 joinery 6 carpentry 7 carpentry and joinery (bks 1,2 and 3) 8 woodwork in theory and practical", "descriptions": ["W.B.MACKAY", "W.B.MACKAY", "R.BAYLISS", "JOHN A.WARTOR"], "parentId": 87, "subLabels": []}]}], "labels": [{"id": 1, "text": "1. nature of management", "descriptions": null, "parentId": -1, "subLabels": [{"id": 2, "text": "Meaning and process of", "descriptions": ["1.1.1  Meaning of   Management and administration", "1.1.2    Basic Functions of Management"], "parentId": 1, "subLabels": []}, {"id": 3, "text": "Forms of business", "descriptions": ["Company,  Public orations, Co-operative"], "parentId": 1, "subLabels": []}, {"id": 4, "text": "Organization", "descriptions": ["society)"], "parentId": 1, "subLabels": [{"id": 5, "text": "Business and society", "descriptions": ["Environment Business Environment,", "1.3.2  Forces in the Businesses Environment Environment", "1.3.3  Ethical, legal and social responsibilities of Businesses. responsibilities of Businesses.", "1.3.4  Primary and Secondary stakeholders \u2013 meaning and differences.", "1.3.5 Responsibilities of businesses towards", "2.1.1 Meaning and importance of planning of planning", "2.1.2  Steps in planning, Types of planning, Limitations to planning", ".2.1.3 Meaning and of planning, Limitations to planning"], "parentId": 4, "subLabels": []}]}]}, {"id": 6, "text": "2.  functions of management", "descriptions": null, "parentId": -1, "subLabels": [{"id": 7, "text": "2.1 planning and decision", "descriptions": ["planning importance of decision making. stakeholders. businesses towards stakeholders.", "1.", "1.2.3.  Procedures for the formations/Characteristics, advantages and disadvantages of each form.", "1.2.4  Causes of business failure.", "1.3.1  Meaning of Business Environment", "Business Environment, Business Environment,"], "parentId": 6, "subLabels": [{"id": 8, "text": "Making", "descriptions": [], "parentId": 7, "subLabels": []}]}]}, {"id": 16, "text": "Institutions", "descriptions": null, "parentId": -1, "subLabels": [{"id": 17, "text": "5.1    money", "descriptions": ["5.1.2 Functions of money", "5.1.3 Meaning and causes of  inflation", "5.2.1  Types of banks", "5.2.2  Functions of the Central bank"], "parentId": 16, "subLabels": [{"id": 18, "text": "5.2   banking", "descriptions": ["5.2.3  Functions of commercial and other types of banks", "5.2.4 Types of bank accounts.", "5.2.5 Tools of monetary control"], "parentId": 17, "subLabels": []}]}, {"id": 19, "text": "5.3 risk management and insurance", "descriptions": [], "parentId": 16, "subLabels": []}, {"id": 20, "text": "5.4    stock exchange", "descriptions": [], "parentId": 16, "subLabels": []}]}, {"id": 26, "text": "Economies", "descriptions": null, "parentId": -1, "subLabels": [{"id": 27, "text": "7.1 international trade", "descriptions": ["Developing", "International", "economies in relation to International trade"], "parentId": 26, "subLabels": []}, {"id": 28, "text": "7.2 developing  economies", "descriptions": ["and Development (IBRD), United Nations"], "parentId": 26, "subLabels": []}, {"id": 29, "text": "8. globalization and", "descriptions": [], "parentId": 26, "subLabels": []}]}, {"id": 31, "text": "Integration", "descriptions": null, "parentId": -1, "subLabels": [{"id": 32, "text": "8.1 globalization", "descriptions": ["institutions in international trade : International", "Monetary Fund (IMF),", "integration", "8.2.2 Roles of the following in", "economic integration :"], "parentId": 31, "subLabels": []}, {"id": 33, "text": "8.2 economic integration", "descriptions": ["Economic Community   of West", "African States (ECOWAS),", "African", "Union (AU), European", "Union (EU), P African", "European Pacific"], "parentId": 31, "subLabels": []}, {"id": 34, "text": "9. functional", "descriptions": ["Countries Association of South and Eastern Asian Nations", "(ASEAN)."], "parentId": 31, "subLabels": []}]}, {"id": 35, "text": "Management", "descriptions": null, "parentId": -1, "subLabels": [{"id": 36, "text": "9.1   elements of human", "descriptions": [], "parentId": 35, "subLabels": [{"id": 37, "text": "Resource   management", "descriptions": [], "parentId": 36, "subLabels": []}]}, {"id": 38, "text": "9.2 labour relations", "descriptions": [], "parentId": 35, "subLabels": []}, {"id": 39, "text": "9.3 fundamentals of", "descriptions": [], "parentId": 35, "subLabels": []}, {"id": 40, "text": "9.4 principles of marketing", "descriptions": [], "parentId": 35, "subLabels": []}, {"id": 41, "text": "9.5  electronic commerce (e -commerce)", "descriptions": [], "parentId": 35, "subLabels": [{"id": 42, "text": "9.6 business finance", "descriptions": [], "parentId": 41, "subLabels": []}]}, {"id": 43, "text": "10. entrepreneurship", "descriptions": [], "parentId": 35, "subLabels": []}]}, {"id": 44, "text": "And small business", "descriptions": null, "parentId": -1, "subLabels": [{"id": 45, "text": "10.1    entrepreneurship", "descriptions": [], "parentId": 44, "subLabels": [{"id": 46, "text": "10.2    small business", "descriptions": [], "parentId": 45, "subLabels": []}]}]}, {"id": 47, "text": "Suggested reading list", "descriptions": null, "parentId": -1, "subLabels": [{"id": 48, "text": "Name publisher", "descriptions": [], "parentId": 47, "subLabels": []}]}, {"id": 2, "text": "Meaning and process of", "descriptions": ["1.1.1  Meaning of   Management and administration", "1.1.2    Basic Functions of Management"], "parentId": 1, "subLabels": []}, {"id": 3, "text": "Forms of business", "descriptions": ["Company,  Public orations, Co-operative"], "parentId": 1, "subLabels": []}, {"id": 4, "text": "Organization", "descriptions": ["society)"], "parentId": 1, "subLabels": [{"id": 5, "text": "Business and society", "descriptions": ["Environment Business Environment,", "1.3.2  Forces in the Businesses Environment Environment", "1.3.3  Ethical, legal and social responsibilities of Businesses. responsibilities of Businesses.", "1.3.4  Primary and Secondary stakeholders \u2013 meaning and differences.", "1.3.5 Responsibilities of businesses towards", "2.1.1 Meaning and importance of planning of planning", "2.1.2  Steps in planning, Types of planning, Limitations to planning", ".2.1.3 Meaning and of planning, Limitations to planning"], "parentId": 4, "subLabels": []}]}, {"id": 7, "text": "2.1 planning and decision", "descriptions": ["planning importance of decision making. stakeholders. businesses towards stakeholders.", "1.", "1.2.3.  Procedures for the formations/Characteristics, advantages and disadvantages of each form.", "1.2.4  Causes of business failure.", "1.3.1  Meaning of Business Environment", "Business Environment, Business Environment,"], "parentId": 6, "subLabels": [{"id": 8, "text": "Making", "descriptions": [], "parentId": 7, "subLabels": []}]}, {"id": 17, "text": "5.1    money", "descriptions": ["5.1.2 Functions of money", "5.1.3 Meaning and causes of  inflation", "5.2.1  Types of banks", "5.2.2  Functions of the Central bank"], "parentId": 16, "subLabels": [{"id": 18, "text": "5.2   banking", "descriptions": ["5.2.3  Functions of commercial and other types of banks", "5.2.4 Types of bank accounts.", "5.2.5 Tools of monetary control"], "parentId": 17, "subLabels": []}]}, {"id": 19, "text": "5.3 risk management and insurance", "descriptions": [], "parentId": 16, "subLabels": []}, {"id": 20, "text": "5.4    stock exchange", "descriptions": [], "parentId": 16, "subLabels": []}, {"id": 27, "text": "7.1 international trade", "descriptions": ["Developing", "International", "economies in relation to International trade"], "parentId": 26, "subLabels": []}, {"id": 28, "text": "7.2 developing  economies", "descriptions": ["and Development (IBRD), United Nations"], "parentId": 26, "subLabels": []}, {"id": 29, "text": "8. globalization and", "descriptions": [], "parentId": 26, "subLabels": []}, {"id": 32, "text": "8.1 globalization", "descriptions": ["institutions in international trade : International", "Monetary Fund (IMF),", "integration", "8.2.2 Roles of the following in", "economic integration :"], "parentId": 31, "subLabels": []}, {"id": 33, "text": "8.2 economic integration", "descriptions": ["Economic Community   of West", "African States (ECOWAS),", "African", "Union (AU), European", "Union (EU), P African", "European Pacific"], "parentId": 31, "subLabels": []}, {"id": 34, "text": "9. functional", "descriptions": ["Countries Association of South and Eastern Asian Nations", "(ASEAN)."], "parentId": 31, "subLabels": []}, {"id": 36, "text": "9.1   elements of human", "descriptions": [], "parentId": 35, "subLabels": [{"id": 37, "text": "Resource   management", "descriptions": [], "parentId": 36, "subLabels": []}]}, {"id": 38, "text": "9.2 labour relations", "descriptions": [], "parentId": 35, "subLabels": []}, {"id": 39, "text": "9.3 fundamentals of", "descriptions": [], "parentId": 35, "subLabels": []}, {"id": 40, "text": "9.4 principles of marketing", "descriptions": [], "parentId": 35, "subLabels": []}, {"id": 41, "text": "9.5  electronic commerce (e -commerce)", "descriptions": [], "parentId": 35, "subLabels": [{"id": 42, "text": "9.6 business finance", "descriptions": [], "parentId": 41, "subLabels": []}]}, {"id": 43, "text": "10. entrepreneurship", "descriptions": [], "parentId": 35, "subLabels": []}, {"id": 45, "text": "10.1    entrepreneurship", "descriptions": [], "parentId": 44, "subLabels": [{"id": 46, "text": "10.2    small business", "descriptions": [], "parentId": 45, "subLabels": []}]}, {"id": 48, "text": "Name publisher", "descriptions": [], "parentId": 47, "subLabels": []}, {"id": 5, "text": "Business and society", "descriptions": ["Environment Business Environment,", "1.3.2  Forces in the Businesses Environment Environment", "1.3.3  Ethical, legal and social responsibilities of Businesses. responsibilities of Businesses.", "1.3.4  Primary and Secondary stakeholders \u2013 meaning and differences.", "1.3.5 Responsibilities of businesses towards", "2.1.1 Meaning and importance of planning of planning", "2.1.2  Steps in planning, Types of planning, Limitations to planning", ".2.1.3 Meaning and of planning, Limitations to planning"], "parentId": 4, "subLabels": []}, {"id": 8, "text": "Making", "descriptions": [], "parentId": 7, "subLabels": []}, {"id": 18, "text": "5.2   banking", "descriptions": ["5.2.3  Functions of commercial and other types of banks", "5.2.4 Types of bank accounts.", "5.2.5 Tools of monetary control"], "parentId": 17, "subLabels": []}, {"id": 37, "text": "Resource   management", "descriptions": [], "parentId": 36, "subLabels": []}, {"id": 42, "text": "9.6 business finance", "descriptions": [], "parentId": 41, "subLabels": []}, {"id": 46, "text": "10.2    small business", "descriptions": [], "parentId": 45, "subLabels": []}]}
+{
+ "subject": "Capentry and Joinery",
+ "Grade": "None",
+ "Curriculum": "test",
+ "labelsTree": [
+  {
+   "id": 3,
+   "text": "Preliminaries",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 4,
+     "text": "1",
+     "descriptions": [
+      "Workshop and worksite safety",
+      "(a)    Workshop Rules and Regulation",
+      "(b)    First Aid",
+      "Safety practices (personnel)",
+      "Safety devices (preventive and protective devices)",
+      "Safety rules (machines)",
+      "(iv)       Workshop layout.",
+      "Types of first aid materials.",
+      "Worksite aids e.g. ladder, steps, scaffolding, etc."
+     ],
+     "parentId": 3,
+     "subLabels": [
+      {
+       "id": 5,
+       "text": "(c)     worksite safety",
+       "descriptions": [
+        "Worksite hazards",
+        "Safety precautions in worksite.",
+        "Safety precautions in worksite."
+       ],
+       "parentId": 4,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 6,
+     "text": "2 tools, machines and maintenance",
+     "descriptions": [
+      "Woodwork hand tools (e.g., cutting tool, drilling tools, measuring and marking out tools, etc)"
+     ],
+     "parentId": 3,
+     "subLabels": [
+      {
+       "id": 7,
+       "text": "(a)     hand tools",
+       "descriptions": [
+        "Types of portable power tools e.g. jigsaw, sanders, portable power saws, etc."
+       ],
+       "parentId": 6,
+       "subLabels": []
+      },
+      {
+       "id": 8,
+       "text": "(b)    portable power tools and maintenance",
+       "descriptions": [
+        "Uses of hand tools and portable power tools.",
+        "Maintenance and precautionary measures for hand tools.",
+        "Sketches of hand tools or portable power tools may be required."
+       ],
+       "parentId": 6,
+       "subLabels": []
+      },
+      {
+       "id": 9,
+       "text": "(c)    machines and maintenance",
+       "descriptions": [
+        "(vi)        Types and uses of machines in carpentry and joinery workshop.",
+        "Growth and structure of timber."
+       ],
+       "parentId": 6,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 10,
+     "text": "3 materials: types and uses of",
+     "descriptions": [
+      "Conversion, seasoning and uses of timber.",
+      "Common defects in timber and their remedies.",
+      "Reasons for seasoning timber."
+     ],
+     "parentId": 3,
+     "subLabels": [
+      {
+       "id": 11,
+       "text": "(a)   timber",
+       "descriptions": [
+        "Preservation and preservatives.",
+        "Veneer and manufactured boards."
+       ],
+       "parentId": 10,
+       "subLabels": []
+      },
+      {
+       "id": 12,
+       "text": "(b)   adhesives",
+       "descriptions": [
+        "Types of adhesives; uses and characteristics"
+       ],
+       "parentId": 10,
+       "subLabels": []
+      },
+      {
+       "id": 13,
+       "text": "(c)   ironmongery",
+       "descriptions": [
+        "(e.g. animal glue, casein glue, ureaformaldehyde)."
+       ],
+       "parentId": 10,
+       "subLabels": []
+      },
+      {
+       "id": 14,
+       "text": "E.t.c",
+       "descriptions": [
+        "Types of ironmongery (sketches may be required) e.g. screws, nails, hinges and locks.",
+        "(ix)       fixing of hinges and locks (specification for ordering nails may be required)."
+       ],
+       "parentId": 10,
+       "subLabels": []
+      },
+      {
+       "id": 15,
+       "text": "Construction principles and techniques",
+       "descriptions": [],
+       "parentId": 10,
+       "subLabels": [
+        {
+         "id": 16,
+         "text": "Timber preparation",
+         "descriptions": [],
+         "parentId": 15,
+         "subLabels": []
+        },
+        {
+         "id": 17,
+         "text": "Joints",
+         "descriptions": [],
+         "parentId": 15,
+         "subLabels": []
+        },
+        {
+         "id": 18,
+         "text": "Doors and windows",
+         "descriptions": [],
+         "parentId": 15,
+         "subLabels": []
+        },
+        {
+         "id": 19,
+         "text": "Form work and centering",
+         "descriptions": [
+          "Sequence of timber preparation to sizes (plane woodsurface to flatness and edge to planesquareness)."
+         ],
+         "parentId": 15,
+         "subLabels": []
+        },
+        {
+         "id": 20,
+         "text": "Estimating and costing",
+         "descriptions": [
+          "Sketching and developing of working drawing.",
+          "Interpreting simple working drawings of wood projects.",
+          "Common woodwork joints, construction and uses.",
+          "Simple project requiring specified joint.",
+          "Types of doors and windows."
+         ],
+         "parentId": 15,
+         "subLabels": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": 21,
+     "text": "4 wall paneling, cladding and          partitioning",
+     "descriptions": [
+      "Typesof formworks, identification, construction and uses.",
+      "Identification, design or construction of centresfor arches.",
+      "Purpose of timbering.",
+      "Cost analysis of simple projects e.g. centre table, stool. Projects may be presented in form of working drawing."
+     ],
+     "parentId": 3,
+     "subLabels": [
+      {
+       "id": 22,
+       "text": "Pre-fabricated building",
+       "descriptions": [],
+       "parentId": 21,
+       "subLabels": []
+      },
+      {
+       "id": 23,
+       "text": "Stairs, handrail and balusters",
+       "descriptions": [],
+       "parentId": 21,
+       "subLabels": []
+      },
+      {
+       "id": 24,
+       "text": "Scaffolding and ladder",
+       "descriptions": [],
+       "parentId": 21,
+       "subLabels": []
+      },
+      {
+       "id": 25,
+       "text": "Estimation and costing",
+       "descriptions": [
+        "Abrading tools"
+       ],
+       "parentId": 21,
+       "subLabels": []
+      },
+      {
+       "id": 26,
+       "text": "5. finishes and finishing",
+       "descriptions": [
+        "Types and grades of abrasives"
+       ],
+       "parentId": 21,
+       "subLabels": [
+        {
+         "id": 27,
+         "text": "(a)    abrasive",
+         "descriptions": [
+          "Uses of abrasives",
+          "Selection of grades of abrasives"
+         ],
+         "parentId": 26,
+         "subLabels": []
+        },
+        {
+         "id": 28,
+         "text": "(b)   finishes",
+         "descriptions": [
+          "Types of finishes e.g. varnishing lacquer, paints, etc.",
+          "Characteristics and application of finishes"
+         ],
+         "parentId": 26,
+         "subLabels": []
+        },
+        {
+         "id": 29,
+         "text": "(c)  finishing",
+         "descriptions": [
+          "Finishing tools \u2013 spray gun",
+          "Finishing process e.g. scraping, filling, sanding and staining.",
+          "Simple project work involving finishing."
+         ],
+         "parentId": 26,
+         "subLabels": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": 30,
+     "text": "6 business opportunities in",
+     "descriptions": [],
+     "parentId": 3,
+     "subLabels": [
+      {
+       "id": 31,
+       "text": "Carpentry and joinery trade",
+       "descriptions": [],
+       "parentId": 30,
+       "subLabels": []
+      },
+      {
+       "id": 32,
+       "text": "(a)    furniture making",
+       "descriptions": [
+        "(i)    Project work with commercial value e.g. dining        table, doors, etc."
+       ],
+       "parentId": 30,
+       "subLabels": []
+      },
+      {
+       "id": 33,
+       "text": "(b)    material supply and merchandising",
+       "descriptions": [
+        "(ii)   Description of a standard small scale workshop        (layout/equipment).",
+        "(iii)   Project work involving feasibility study reports."
+       ],
+       "parentId": 30,
+       "subLabels": []
+      },
+      {
+       "id": 34,
+       "text": "(c)    contract work",
+       "descriptions": [],
+       "parentId": 30,
+       "subLabels": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 35,
+   "text": "List of facilities and major equipment/materials required:",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 36,
+     "text": "Item no. equipment",
+     "descriptions": [
+      "QUANTITY REQUIRED 1 1 3 3 3 10 1 each 2 10 6 5 5 5 3 2 2 10 5 5 5 2 2 2 2 5 3 3 3 3 2 2 2 Sets 2 Sets 2 Sets 2 Sets 2 Sets 2 Sets 2 Sets 2 2 2 Sets 2 2 2 2 2 2 1 1 1 Set"
+     ],
+     "parentId": 35,
+     "subLabels": [
+      {
+       "id": 37,
+       "text": "1. standard workshop with a good layout and ventilation",
+       "descriptions": [],
+       "parentId": 36,
+       "subLabels": []
+      },
+      {
+       "id": 38,
+       "text": "2. first aid box",
+       "descriptions": [],
+       "parentId": 36,
+       "subLabels": []
+      },
+      {
+       "id": 39,
+       "text": "3. chart showing safety practices in carpentry and joinery workshop",
+       "descriptions": [],
+       "parentId": 36,
+       "subLabels": []
+      },
+      {
+       "id": 40,
+       "text": "4. complete tool box",
+       "descriptions": [],
+       "parentId": 36,
+       "subLabels": []
+      },
+      {
+       "id": 41,
+       "text": "5. work bench",
+       "descriptions": [],
+       "parentId": 36,
+       "subLabels": []
+      },
+      {
+       "id": 42,
+       "text": "6. g clamp or f clamp",
+       "descriptions": [],
+       "parentId": 36,
+       "subLabels": []
+      },
+      {
+       "id": 43,
+       "text": "7. safety equipment - fire extinguisher, fire    bucket",
+       "descriptions": [],
+       "parentId": 36,
+       "subLabels": []
+      },
+      {
+       "id": 44,
+       "text": "8. ratchet brace or wheel brace",
+       "descriptions": [],
+       "parentId": 36,
+       "subLabels": []
+      },
+      {
+       "id": 45,
+       "text": "9. hand vice",
+       "descriptions": [],
+       "parentId": 36,
+       "subLabels": []
+      },
+      {
+       "id": 46,
+       "text": "10. bench vice",
+       "descriptions": [],
+       "parentId": 36,
+       "subLabels": []
+      },
+      {
+       "id": 47,
+       "text": "11. rip saw",
+       "descriptions": [],
+       "parentId": 36,
+       "subLabels": []
+      },
+      {
+       "id": 48,
+       "text": "12. panel saw",
+       "descriptions": [],
+       "parentId": 36,
+       "subLabels": []
+      },
+      {
+       "id": 49,
+       "text": "13. crosscut saw",
+       "descriptions": [],
+       "parentId": 36,
+       "subLabels": []
+      },
+      {
+       "id": 50,
+       "text": "14. fret saw",
+       "descriptions": [],
+       "parentId": 36,
+       "subLabels": []
+      },
+      {
+       "id": 51,
+       "text": "15. coping saw",
+       "descriptions": [],
+       "parentId": 36,
+       "subLabels": []
+      },
+      {
+       "id": 52,
+       "text": "16. bow saw",
+       "descriptions": [],
+       "parentId": 36,
+       "subLabels": []
+      },
+      {
+       "id": 53,
+       "text": "17. tenon saw",
+       "descriptions": [],
+       "parentId": 36,
+       "subLabels": []
+      },
+      {
+       "id": 54,
+       "text": "18. dovetail saw",
+       "descriptions": [],
+       "parentId": 36,
+       "subLabels": []
+      },
+      {
+       "id": 55,
+       "text": "19. jack plane",
+       "descriptions": [],
+       "parentId": 36,
+       "subLabels": []
+      },
+      {
+       "id": 56,
+       "text": "20. smooth plane",
+       "descriptions": [],
+       "parentId": 36,
+       "subLabels": []
+      },
+      {
+       "id": 57,
+       "text": "21. plough plane",
+       "descriptions": [],
+       "parentId": 36,
+       "subLabels": []
+      },
+      {
+       "id": 58,
+       "text": "22. rebate plane",
+       "descriptions": [],
+       "parentId": 36,
+       "subLabels": []
+      },
+      {
+       "id": 59,
+       "text": "23. grooving plane",
+       "descriptions": [],
+       "parentId": 36,
+       "subLabels": []
+      },
+      {
+       "id": 60,
+       "text": "24. crow bar",
+       "descriptions": [],
+       "parentId": 36,
+       "subLabels": []
+      },
+      {
+       "id": 61,
+       "text": "25. try square",
+       "descriptions": [],
+       "parentId": 36,
+       "subLabels": []
+      },
+      {
+       "id": 62,
+       "text": "26. mitre square",
+       "descriptions": [],
+       "parentId": 36,
+       "subLabels": []
+      },
+      {
+       "id": 63,
+       "text": "27. sliding bevel",
+       "descriptions": [],
+       "parentId": 36,
+       "subLabels": []
+      },
+      {
+       "id": 64,
+       "text": "28. marking gauge",
+       "descriptions": [],
+       "parentId": 36,
+       "subLabels": []
+      },
+      {
+       "id": 65,
+       "text": "29. mortise gauge",
+       "descriptions": [],
+       "parentId": 36,
+       "subLabels": []
+      },
+      {
+       "id": 66,
+       "text": "30. pincers",
+       "descriptions": [],
+       "parentId": 36,
+       "subLabels": []
+      },
+      {
+       "id": 67,
+       "text": "31. tape rule(metric)",
+       "descriptions": [],
+       "parentId": 36,
+       "subLabels": []
+      },
+      {
+       "id": 68,
+       "text": "32. firmer chisel",
+       "descriptions": [],
+       "parentId": 36,
+       "subLabels": []
+      },
+      {
+       "id": 69,
+       "text": "33. mortise chisel",
+       "descriptions": [],
+       "parentId": 36,
+       "subLabels": []
+      },
+      {
+       "id": 70,
+       "text": "34. carving chisel",
+       "descriptions": [],
+       "parentId": 36,
+       "subLabels": []
+      },
+      {
+       "id": 71,
+       "text": "35. centre bit",
+       "descriptions": [],
+       "parentId": 36,
+       "subLabels": []
+      },
+      {
+       "id": 72,
+       "text": "36. twist bit",
+       "descriptions": [],
+       "parentId": 36,
+       "subLabels": []
+      },
+      {
+       "id": 73,
+       "text": "37. drill bit",
+       "descriptions": [],
+       "parentId": 36,
+       "subLabels": []
+      },
+      {
+       "id": 74,
+       "text": "38. star screw driver",
+       "descriptions": [],
+       "parentId": 36,
+       "subLabels": []
+      },
+      {
+       "id": 75,
+       "text": "39. long-nose pliers",
+       "descriptions": [],
+       "parentId": 36,
+       "subLabels": []
+      },
+      {
+       "id": 76,
+       "text": "40. combination plier (flat-nose)",
+       "descriptions": [],
+       "parentId": 36,
+       "subLabels": []
+      },
+      {
+       "id": 77,
+       "text": "41. flat screw driver",
+       "descriptions": [],
+       "parentId": 36,
+       "subLabels": []
+      },
+      {
+       "id": 78,
+       "text": "42. spoke shave",
+       "descriptions": [],
+       "parentId": 36,
+       "subLabels": []
+      },
+      {
+       "id": 79,
+       "text": "43. claw hammer",
+       "descriptions": [],
+       "parentId": 36,
+       "subLabels": []
+      },
+      {
+       "id": 80,
+       "text": "44. cross pein hammer",
+       "descriptions": [],
+       "parentId": 36,
+       "subLabels": []
+      },
+      {
+       "id": 81,
+       "text": "45. ball pein hammer",
+       "descriptions": [],
+       "parentId": 36,
+       "subLabels": []
+      },
+      {
+       "id": 82,
+       "text": "46. scriber",
+       "descriptions": [],
+       "parentId": 36,
+       "subLabels": []
+      },
+      {
+       "id": 83,
+       "text": "47. steel rule",
+       "descriptions": [],
+       "parentId": 36,
+       "subLabels": []
+      },
+      {
+       "id": 84,
+       "text": "48. inside caliper",
+       "descriptions": [],
+       "parentId": 36,
+       "subLabels": []
+      },
+      {
+       "id": 85,
+       "text": "49. outside caliper",
+       "descriptions": [],
+       "parentId": 36,
+       "subLabels": []
+      },
+      {
+       "id": 86,
+       "text": "50. allen key",
+       "descriptions": [],
+       "parentId": 36,
+       "subLabels": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 87,
+   "text": "List of recommended text books",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 88,
+     "text": "S/n text book 1 brian porter & christopher tooke 3 rd",
+     "descriptions": [
+      "AUTHOR"
+     ],
+     "parentId": 87,
+     "subLabels": [
+      {
+       "id": 89,
+       "text": "Edition (bks 1,2 and 3) 2 wood trades (part 1 and 2)",
+       "descriptions": [],
+       "parentId": 88,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 90,
+     "text": "3 carpentry and joinery (bks 1 and 2) 4 the theory and practical of woodwork 3 rd",
+     "descriptions": [
+      "A.Y.EMARY",
+      "DAVID R.BATES"
+     ],
+     "parentId": 87,
+     "subLabels": [
+      {
+       "id": 91,
+       "text": "Edition",
+       "descriptions": [
+        "GEORGE LOVE"
+       ],
+       "parentId": 90,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 92,
+     "text": "5 joinery 6 carpentry 7 carpentry and joinery (bks 1,2 and 3) 8 woodwork in theory and practical",
+     "descriptions": [
+      "W.B.MACKAY",
+      "W.B.MACKAY",
+      "R.BAYLISS",
+      "JOHN A.WARTOR"
+     ],
+     "parentId": 87,
+     "subLabels": []
+    }
+   ]
+  }
+ ],
+ "labels": [
+  {
+   "id": 1,
+   "text": "1. nature of management",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 2,
+     "text": "Meaning and process of",
+     "descriptions": [
+      "1.1.1  Meaning of   Management and administration",
+      "1.1.2    Basic Functions of Management"
+     ],
+     "parentId": 1,
+     "subLabels": []
+    },
+    {
+     "id": 3,
+     "text": "Forms of business",
+     "descriptions": [
+      "Company,  Public orations, Co-operative"
+     ],
+     "parentId": 1,
+     "subLabels": []
+    },
+    {
+     "id": 4,
+     "text": "Organization",
+     "descriptions": [
+      "society)"
+     ],
+     "parentId": 1,
+     "subLabels": [
+      {
+       "id": 5,
+       "text": "Business and society",
+       "descriptions": [
+        "Environment Business Environment,",
+        "1.3.2  Forces in the Businesses Environment Environment",
+        "1.3.3  Ethical, legal and social responsibilities of Businesses. responsibilities of Businesses.",
+        "1.3.4  Primary and Secondary stakeholders \u2013 meaning and differences.",
+        "1.3.5 Responsibilities of businesses towards",
+        "2.1.1 Meaning and importance of planning of planning",
+        "2.1.2  Steps in planning, Types of planning, Limitations to planning",
+        ".2.1.3 Meaning and of planning, Limitations to planning"
+       ],
+       "parentId": 4,
+       "subLabels": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "text": "2.  functions of management",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 7,
+     "text": "2.1 planning and decision",
+     "descriptions": [
+      "planning importance of decision making. stakeholders. businesses towards stakeholders.",
+      "1.",
+      "1.2.3.  Procedures for the formations/Characteristics, advantages and disadvantages of each form.",
+      "1.2.4  Causes of business failure.",
+      "1.3.1  Meaning of Business Environment",
+      "Business Environment, Business Environment,"
+     ],
+     "parentId": 6,
+     "subLabels": [
+      {
+       "id": 8,
+       "text": "Making",
+       "descriptions": [],
+       "parentId": 7,
+       "subLabels": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "text": "Institutions",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 17,
+     "text": "5.1    money",
+     "descriptions": [
+      "5.1.2 Functions of money",
+      "5.1.3 Meaning and causes of  inflation",
+      "5.2.1  Types of banks",
+      "5.2.2  Functions of the Central bank"
+     ],
+     "parentId": 16,
+     "subLabels": [
+      {
+       "id": 18,
+       "text": "5.2   banking",
+       "descriptions": [
+        "5.2.3  Functions of commercial and other types of banks",
+        "5.2.4 Types of bank accounts.",
+        "5.2.5 Tools of monetary control"
+       ],
+       "parentId": 17,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 19,
+     "text": "5.3 risk management and insurance",
+     "descriptions": [],
+     "parentId": 16,
+     "subLabels": []
+    },
+    {
+     "id": 20,
+     "text": "5.4    stock exchange",
+     "descriptions": [],
+     "parentId": 16,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "text": "Economies",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 27,
+     "text": "7.1 international trade",
+     "descriptions": [
+      "Developing",
+      "International",
+      "economies in relation to International trade"
+     ],
+     "parentId": 26,
+     "subLabels": []
+    },
+    {
+     "id": 28,
+     "text": "7.2 developing  economies",
+     "descriptions": [
+      "and Development (IBRD), United Nations"
+     ],
+     "parentId": 26,
+     "subLabels": []
+    },
+    {
+     "id": 29,
+     "text": "8. globalization and",
+     "descriptions": [],
+     "parentId": 26,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 31,
+   "text": "Integration",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 32,
+     "text": "8.1 globalization",
+     "descriptions": [
+      "institutions in international trade : International",
+      "Monetary Fund (IMF),",
+      "integration",
+      "8.2.2 Roles of the following in",
+      "economic integration :"
+     ],
+     "parentId": 31,
+     "subLabels": []
+    },
+    {
+     "id": 33,
+     "text": "8.2 economic integration",
+     "descriptions": [
+      "Economic Community   of West",
+      "African States (ECOWAS),",
+      "African",
+      "Union (AU), European",
+      "Union (EU), P African",
+      "European Pacific"
+     ],
+     "parentId": 31,
+     "subLabels": []
+    },
+    {
+     "id": 34,
+     "text": "9. functional",
+     "descriptions": [
+      "Countries Association of South and Eastern Asian Nations",
+      "(ASEAN)."
+     ],
+     "parentId": 31,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 35,
+   "text": "Management",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 36,
+     "text": "9.1   elements of human",
+     "descriptions": [],
+     "parentId": 35,
+     "subLabels": [
+      {
+       "id": 37,
+       "text": "Resource   management",
+       "descriptions": [],
+       "parentId": 36,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 38,
+     "text": "9.2 labour relations",
+     "descriptions": [],
+     "parentId": 35,
+     "subLabels": []
+    },
+    {
+     "id": 39,
+     "text": "9.3 fundamentals of",
+     "descriptions": [],
+     "parentId": 35,
+     "subLabels": []
+    },
+    {
+     "id": 40,
+     "text": "9.4 principles of marketing",
+     "descriptions": [],
+     "parentId": 35,
+     "subLabels": []
+    },
+    {
+     "id": 41,
+     "text": "9.5  electronic commerce (e -commerce)",
+     "descriptions": [],
+     "parentId": 35,
+     "subLabels": [
+      {
+       "id": 42,
+       "text": "9.6 business finance",
+       "descriptions": [],
+       "parentId": 41,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 43,
+     "text": "10. entrepreneurship",
+     "descriptions": [],
+     "parentId": 35,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 44,
+   "text": "And small business",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 45,
+     "text": "10.1    entrepreneurship",
+     "descriptions": [],
+     "parentId": 44,
+     "subLabels": [
+      {
+       "id": 46,
+       "text": "10.2    small business",
+       "descriptions": [],
+       "parentId": 45,
+       "subLabels": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 47,
+   "text": "Suggested reading list",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 48,
+     "text": "Name publisher",
+     "descriptions": [],
+     "parentId": 47,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "text": "Meaning and process of",
+   "descriptions": [
+    "1.1.1  Meaning of   Management and administration",
+    "1.1.2    Basic Functions of Management"
+   ],
+   "parentId": 1,
+   "subLabels": []
+  },
+  {
+   "id": 3,
+   "text": "Forms of business",
+   "descriptions": [
+    "Company,  Public orations, Co-operative"
+   ],
+   "parentId": 1,
+   "subLabels": []
+  },
+  {
+   "id": 4,
+   "text": "Organization",
+   "descriptions": [
+    "society)"
+   ],
+   "parentId": 1,
+   "subLabels": [
+    {
+     "id": 5,
+     "text": "Business and society",
+     "descriptions": [
+      "Environment Business Environment,",
+      "1.3.2  Forces in the Businesses Environment Environment",
+      "1.3.3  Ethical, legal and social responsibilities of Businesses. responsibilities of Businesses.",
+      "1.3.4  Primary and Secondary stakeholders \u2013 meaning and differences.",
+      "1.3.5 Responsibilities of businesses towards",
+      "2.1.1 Meaning and importance of planning of planning",
+      "2.1.2  Steps in planning, Types of planning, Limitations to planning",
+      ".2.1.3 Meaning and of planning, Limitations to planning"
+     ],
+     "parentId": 4,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "text": "2.1 planning and decision",
+   "descriptions": [
+    "planning importance of decision making. stakeholders. businesses towards stakeholders.",
+    "1.",
+    "1.2.3.  Procedures for the formations/Characteristics, advantages and disadvantages of each form.",
+    "1.2.4  Causes of business failure.",
+    "1.3.1  Meaning of Business Environment",
+    "Business Environment, Business Environment,"
+   ],
+   "parentId": 6,
+   "subLabels": [
+    {
+     "id": 8,
+     "text": "Making",
+     "descriptions": [],
+     "parentId": 7,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "text": "5.1    money",
+   "descriptions": [
+    "5.1.2 Functions of money",
+    "5.1.3 Meaning and causes of  inflation",
+    "5.2.1  Types of banks",
+    "5.2.2  Functions of the Central bank"
+   ],
+   "parentId": 16,
+   "subLabels": [
+    {
+     "id": 18,
+     "text": "5.2   banking",
+     "descriptions": [
+      "5.2.3  Functions of commercial and other types of banks",
+      "5.2.4 Types of bank accounts.",
+      "5.2.5 Tools of monetary control"
+     ],
+     "parentId": 17,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "text": "5.3 risk management and insurance",
+   "descriptions": [],
+   "parentId": 16,
+   "subLabels": []
+  },
+  {
+   "id": 20,
+   "text": "5.4    stock exchange",
+   "descriptions": [],
+   "parentId": 16,
+   "subLabels": []
+  },
+  {
+   "id": 27,
+   "text": "7.1 international trade",
+   "descriptions": [
+    "Developing",
+    "International",
+    "economies in relation to International trade"
+   ],
+   "parentId": 26,
+   "subLabels": []
+  },
+  {
+   "id": 28,
+   "text": "7.2 developing  economies",
+   "descriptions": [
+    "and Development (IBRD), United Nations"
+   ],
+   "parentId": 26,
+   "subLabels": []
+  },
+  {
+   "id": 29,
+   "text": "8. globalization and",
+   "descriptions": [],
+   "parentId": 26,
+   "subLabels": []
+  },
+  {
+   "id": 32,
+   "text": "8.1 globalization",
+   "descriptions": [
+    "institutions in international trade : International",
+    "Monetary Fund (IMF),",
+    "integration",
+    "8.2.2 Roles of the following in",
+    "economic integration :"
+   ],
+   "parentId": 31,
+   "subLabels": []
+  },
+  {
+   "id": 33,
+   "text": "8.2 economic integration",
+   "descriptions": [
+    "Economic Community   of West",
+    "African States (ECOWAS),",
+    "African",
+    "Union (AU), European",
+    "Union (EU), P African",
+    "European Pacific"
+   ],
+   "parentId": 31,
+   "subLabels": []
+  },
+  {
+   "id": 34,
+   "text": "9. functional",
+   "descriptions": [
+    "Countries Association of South and Eastern Asian Nations",
+    "(ASEAN)."
+   ],
+   "parentId": 31,
+   "subLabels": []
+  },
+  {
+   "id": 36,
+   "text": "9.1   elements of human",
+   "descriptions": [],
+   "parentId": 35,
+   "subLabels": [
+    {
+     "id": 37,
+     "text": "Resource   management",
+     "descriptions": [],
+     "parentId": 36,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 38,
+   "text": "9.2 labour relations",
+   "descriptions": [],
+   "parentId": 35,
+   "subLabels": []
+  },
+  {
+   "id": 39,
+   "text": "9.3 fundamentals of",
+   "descriptions": [],
+   "parentId": 35,
+   "subLabels": []
+  },
+  {
+   "id": 40,
+   "text": "9.4 principles of marketing",
+   "descriptions": [],
+   "parentId": 35,
+   "subLabels": []
+  },
+  {
+   "id": 41,
+   "text": "9.5  electronic commerce (e -commerce)",
+   "descriptions": [],
+   "parentId": 35,
+   "subLabels": [
+    {
+     "id": 42,
+     "text": "9.6 business finance",
+     "descriptions": [],
+     "parentId": 41,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 43,
+   "text": "10. entrepreneurship",
+   "descriptions": [],
+   "parentId": 35,
+   "subLabels": []
+  },
+  {
+   "id": 45,
+   "text": "10.1    entrepreneurship",
+   "descriptions": [],
+   "parentId": 44,
+   "subLabels": [
+    {
+     "id": 46,
+     "text": "10.2    small business",
+     "descriptions": [],
+     "parentId": 45,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 48,
+   "text": "Name publisher",
+   "descriptions": [],
+   "parentId": 47,
+   "subLabels": []
+  },
+  {
+   "id": 5,
+   "text": "Business and society",
+   "descriptions": [
+    "Environment Business Environment,",
+    "1.3.2  Forces in the Businesses Environment Environment",
+    "1.3.3  Ethical, legal and social responsibilities of Businesses. responsibilities of Businesses.",
+    "1.3.4  Primary and Secondary stakeholders \u2013 meaning and differences.",
+    "1.3.5 Responsibilities of businesses towards",
+    "2.1.1 Meaning and importance of planning of planning",
+    "2.1.2  Steps in planning, Types of planning, Limitations to planning",
+    ".2.1.3 Meaning and of planning, Limitations to planning"
+   ],
+   "parentId": 4,
+   "subLabels": []
+  },
+  {
+   "id": 8,
+   "text": "Making",
+   "descriptions": [],
+   "parentId": 7,
+   "subLabels": []
+  },
+  {
+   "id": 18,
+   "text": "5.2   banking",
+   "descriptions": [
+    "5.2.3  Functions of commercial and other types of banks",
+    "5.2.4 Types of bank accounts.",
+    "5.2.5 Tools of monetary control"
+   ],
+   "parentId": 17,
+   "subLabels": []
+  },
+  {
+   "id": 37,
+   "text": "Resource   management",
+   "descriptions": [],
+   "parentId": 36,
+   "subLabels": []
+  },
+  {
+   "id": 42,
+   "text": "9.6 business finance",
+   "descriptions": [],
+   "parentId": 41,
+   "subLabels": []
+  },
+  {
+   "id": 46,
+   "text": "10.2    small business",
+   "descriptions": [],
+   "parentId": 45,
+   "subLabels": []
+  }
+ ]
+}

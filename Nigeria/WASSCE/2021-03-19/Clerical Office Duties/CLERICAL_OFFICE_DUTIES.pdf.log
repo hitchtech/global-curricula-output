@@ -1,1 +1,1 @@
-['-p', '-a', '-b', '-c', '-e', '-r', '-g', '--folder', 'D:\\Documents\\HITCH\\Curricula\\Nigeria']
+['-p', '-a', '-b', '-c', '-e', '-r', '-g', '-t', '--folder', 'D:\\Documents\\HITCH\\Curricula\\Nigeria', '--curriculum', 'test']

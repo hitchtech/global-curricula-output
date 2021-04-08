@@ -1,1 +1,158 @@
-{"subject": "subject", "Grade": "SS3", "Curriculum": "WASSCE", "labelsTree": [{"id": 2, "text": "Detailed syllabus", "descriptions": null, "parentId": -1, "subLabels": [{"id": 3, "text": "1 2 3 4 5 6 7 8 9 10 11 12 13", "descriptions": ["Safety rules and regulations", "Hand tools, equipment maintenance", "Pipe fitting materials", "Pipe fitting materials", "Types of pipe", "Pipe jointing", "Sources of water", "Water treatment", "Water distribution system.", "Drainage system", "Sanitary appliances", "Sewage system", "Welding"], "parentId": 2, "subLabels": []}]}, {"id": 5, "text": "Suggested reading list", "descriptions": null, "parentId": -1, "subLabels": [{"id": 6, "text": "1 2 3 4 5 6 7 8 9 10", "descriptions": ["G. J. Blower (Book 1 & 2)", "E. Keith Blankenbaker", "Siray K. Bokinni", "Robert Boyce and Arnold Masterman", "F. Hall", "E. K. Oluwadele and T. S. Ojambati", "Ivor H. Seeley", "O. A. Longe and R. A. Kazeem", "Anietie Essiet Akpan", "W. G. Nash"], "parentId": 5, "subLabels": []}]}], "labels": [{"id": 2, "text": "Detailed syllabus", "descriptions": null, "parentId": -1, "subLabels": [{"id": 3, "text": "1 2 3 4 5 6 7 8 9 10 11 12 13", "descriptions": ["Safety rules and regulations", "Hand tools, equipment maintenance", "Pipe fitting materials", "Pipe fitting materials", "Types of pipe", "Pipe jointing", "Sources of water", "Water treatment", "Water distribution system.", "Drainage system", "Sanitary appliances", "Sewage system", "Welding"], "parentId": 2, "subLabels": []}]}, {"id": 5, "text": "Suggested reading list", "descriptions": null, "parentId": -1, "subLabels": [{"id": 6, "text": "1 2 3 4 5 6 7 8 9 10", "descriptions": ["G. J. Blower (Book 1 & 2)", "E. Keith Blankenbaker", "Siray K. Bokinni", "Robert Boyce and Arnold Masterman", "F. Hall", "E. K. Oluwadele and T. S. Ojambati", "Ivor H. Seeley", "O. A. Longe and R. A. Kazeem", "Anietie Essiet Akpan", "W. G. Nash"], "parentId": 5, "subLabels": []}]}, {"id": 3, "text": "1 2 3 4 5 6 7 8 9 10 11 12 13", "descriptions": ["Safety rules and regulations", "Hand tools, equipment maintenance", "Pipe fitting materials", "Pipe fitting materials", "Types of pipe", "Pipe jointing", "Sources of water", "Water treatment", "Water distribution system.", "Drainage system", "Sanitary appliances", "Sewage system", "Welding"], "parentId": 2, "subLabels": []}, {"id": 6, "text": "1 2 3 4 5 6 7 8 9 10", "descriptions": ["G. J. Blower (Book 1 & 2)", "E. Keith Blankenbaker", "Siray K. Bokinni", "Robert Boyce and Arnold Masterman", "F. Hall", "E. K. Oluwadele and T. S. Ojambati", "Ivor H. Seeley", "O. A. Longe and R. A. Kazeem", "Anietie Essiet Akpan", "W. G. Nash"], "parentId": 5, "subLabels": []}]}
+{
+ "subject": "Plumbing and Pipe Fitting",
+ "Grade": "None",
+ "Curriculum": "test",
+ "labelsTree": [
+  {
+   "id": 2,
+   "text": "Detailed syllabus",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 3,
+     "text": "1 2 3 4 5 6 7 8 9 10 11 12 13",
+     "descriptions": [
+      "Safety rules and regulations",
+      "Hand tools, equipment maintenance",
+      "Pipe fitting materials",
+      "Pipe fitting materials",
+      "Types of pipe",
+      "Pipe jointing",
+      "Sources of water",
+      "Water treatment",
+      "Water distribution system.",
+      "Drainage system",
+      "Sanitary appliances",
+      "Sewage system",
+      "Welding"
+     ],
+     "parentId": 2,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "text": "Suggested reading list",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 6,
+     "text": "1 2 3 4 5 6 7 8 9 10",
+     "descriptions": [
+      "G. J. Blower (Book 1 & 2)",
+      "E. Keith Blankenbaker",
+      "Siray K. Bokinni",
+      "Robert Boyce and Arnold Masterman",
+      "F. Hall",
+      "E. K. Oluwadele and T. S. Ojambati",
+      "Ivor H. Seeley",
+      "O. A. Longe and R. A. Kazeem",
+      "Anietie Essiet Akpan",
+      "W. G. Nash"
+     ],
+     "parentId": 5,
+     "subLabels": []
+    }
+   ]
+  }
+ ],
+ "labels": [
+  {
+   "id": 2,
+   "text": "Detailed syllabus",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 3,
+     "text": "1 2 3 4 5 6 7 8 9 10 11 12 13",
+     "descriptions": [
+      "Safety rules and regulations",
+      "Hand tools, equipment maintenance",
+      "Pipe fitting materials",
+      "Pipe fitting materials",
+      "Types of pipe",
+      "Pipe jointing",
+      "Sources of water",
+      "Water treatment",
+      "Water distribution system.",
+      "Drainage system",
+      "Sanitary appliances",
+      "Sewage system",
+      "Welding"
+     ],
+     "parentId": 2,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "text": "Suggested reading list",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 6,
+     "text": "1 2 3 4 5 6 7 8 9 10",
+     "descriptions": [
+      "G. J. Blower (Book 1 & 2)",
+      "E. Keith Blankenbaker",
+      "Siray K. Bokinni",
+      "Robert Boyce and Arnold Masterman",
+      "F. Hall",
+      "E. K. Oluwadele and T. S. Ojambati",
+      "Ivor H. Seeley",
+      "O. A. Longe and R. A. Kazeem",
+      "Anietie Essiet Akpan",
+      "W. G. Nash"
+     ],
+     "parentId": 5,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "text": "1 2 3 4 5 6 7 8 9 10 11 12 13",
+   "descriptions": [
+    "Safety rules and regulations",
+    "Hand tools, equipment maintenance",
+    "Pipe fitting materials",
+    "Pipe fitting materials",
+    "Types of pipe",
+    "Pipe jointing",
+    "Sources of water",
+    "Water treatment",
+    "Water distribution system.",
+    "Drainage system",
+    "Sanitary appliances",
+    "Sewage system",
+    "Welding"
+   ],
+   "parentId": 2,
+   "subLabels": []
+  },
+  {
+   "id": 6,
+   "text": "1 2 3 4 5 6 7 8 9 10",
+   "descriptions": [
+    "G. J. Blower (Book 1 & 2)",
+    "E. Keith Blankenbaker",
+    "Siray K. Bokinni",
+    "Robert Boyce and Arnold Masterman",
+    "F. Hall",
+    "E. K. Oluwadele and T. S. Ojambati",
+    "Ivor H. Seeley",
+    "O. A. Longe and R. A. Kazeem",
+    "Anietie Essiet Akpan",
+    "W. G. Nash"
+   ],
+   "parentId": 5,
+   "subLabels": []
+  }
+ ]
+}
