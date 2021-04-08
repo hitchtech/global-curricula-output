@@ -1,1 +1,344 @@
-{"subject": "Typewriting", "Grade": "None", "Curriculum": "NERDC", "labelsTree": [{"id": 4, "text": "5.   suggested reading list", "descriptions": null, "parentId": -1, "subLabels": [{"id": 5, "text": "Author", "descriptions": ["TITLE"], "parentId": 4, "subLabels": []}, {"id": 6, "text": "Iris kerry", "descriptions": [], "parentId": 4, "subLabels": [{"id": 7, "text": "Typing for west africa", "descriptions": [], "parentId": 6, "subLabels": []}, {"id": 8, "text": "Wamsley commercial typewriting (west", "descriptions": [], "parentId": 6, "subLabels": []}, {"id": 9, "text": "Africa edition)", "descriptions": ["Pitmans"], "parentId": 6, "subLabels": []}, {"id": 10, "text": "Universal typing realistic office", "descriptions": [], "parentId": 6, "subLabels": []}, {"id": 11, "text": "Assignments", "descriptions": [], "parentId": 6, "subLabels": []}, {"id": 12, "text": "Basic typewriting", "descriptions": [], "parentId": 6, "subLabels": []}, {"id": 13, "text": "Universal typing students book", "descriptions": ["Pitmans", "Pitmans"], "parentId": 6, "subLabels": []}]}, {"id": 14, "text": "Edith mackay", "descriptions": [], "parentId": 4, "subLabels": [{"id": 15, "text": "Universal typing advanced", "descriptions": [], "parentId": 14, "subLabels": []}]}]}], "labels": [{"id": 4, "text": "5.   suggested reading list", "descriptions": null, "parentId": -1, "subLabels": [{"id": 5, "text": "Author", "descriptions": ["TITLE"], "parentId": 4, "subLabels": []}, {"id": 6, "text": "Iris kerry", "descriptions": [], "parentId": 4, "subLabels": [{"id": 7, "text": "Typing for west africa", "descriptions": [], "parentId": 6, "subLabels": []}, {"id": 8, "text": "Wamsley commercial typewriting (west", "descriptions": [], "parentId": 6, "subLabels": []}, {"id": 9, "text": "Africa edition)", "descriptions": ["Pitmans"], "parentId": 6, "subLabels": []}, {"id": 10, "text": "Universal typing realistic office", "descriptions": [], "parentId": 6, "subLabels": []}, {"id": 11, "text": "Assignments", "descriptions": [], "parentId": 6, "subLabels": []}, {"id": 12, "text": "Basic typewriting", "descriptions": [], "parentId": 6, "subLabels": []}, {"id": 13, "text": "Universal typing students book", "descriptions": ["Pitmans", "Pitmans"], "parentId": 6, "subLabels": []}]}, {"id": 14, "text": "Edith mackay", "descriptions": [], "parentId": 4, "subLabels": [{"id": 15, "text": "Universal typing advanced", "descriptions": [], "parentId": 14, "subLabels": []}]}]}, {"id": 5, "text": "Author", "descriptions": ["TITLE"], "parentId": 4, "subLabels": []}, {"id": 6, "text": "Iris kerry", "descriptions": [], "parentId": 4, "subLabels": [{"id": 7, "text": "Typing for west africa", "descriptions": [], "parentId": 6, "subLabels": []}, {"id": 8, "text": "Wamsley commercial typewriting (west", "descriptions": [], "parentId": 6, "subLabels": []}, {"id": 9, "text": "Africa edition)", "descriptions": ["Pitmans"], "parentId": 6, "subLabels": []}, {"id": 10, "text": "Universal typing realistic office", "descriptions": [], "parentId": 6, "subLabels": []}, {"id": 11, "text": "Assignments", "descriptions": [], "parentId": 6, "subLabels": []}, {"id": 12, "text": "Basic typewriting", "descriptions": [], "parentId": 6, "subLabels": []}, {"id": 13, "text": "Universal typing students book", "descriptions": ["Pitmans", "Pitmans"], "parentId": 6, "subLabels": []}]}, {"id": 14, "text": "Edith mackay", "descriptions": [], "parentId": 4, "subLabels": [{"id": 15, "text": "Universal typing advanced", "descriptions": [], "parentId": 14, "subLabels": []}]}, {"id": 7, "text": "Typing for west africa", "descriptions": [], "parentId": 6, "subLabels": []}, {"id": 8, "text": "Wamsley commercial typewriting (west", "descriptions": [], "parentId": 6, "subLabels": []}, {"id": 9, "text": "Africa edition)", "descriptions": ["Pitmans"], "parentId": 6, "subLabels": []}, {"id": 10, "text": "Universal typing realistic office", "descriptions": [], "parentId": 6, "subLabels": []}, {"id": 11, "text": "Assignments", "descriptions": [], "parentId": 6, "subLabels": []}, {"id": 12, "text": "Basic typewriting", "descriptions": [], "parentId": 6, "subLabels": []}, {"id": 13, "text": "Universal typing students book", "descriptions": ["Pitmans", "Pitmans"], "parentId": 6, "subLabels": []}, {"id": 15, "text": "Universal typing advanced", "descriptions": [], "parentId": 14, "subLabels": []}]}
+{
+ "subject": "Typewriting",
+ "Grade": "None",
+ "Curriculum": "NERDC",
+ "labelsTree": [
+  {
+   "id": 4,
+   "text": "5.   suggested reading list",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 5,
+     "text": "Author",
+     "descriptions": [
+      "TITLE"
+     ],
+     "parentId": 4,
+     "subLabels": []
+    },
+    {
+     "id": 6,
+     "text": "Iris kerry",
+     "descriptions": [],
+     "parentId": 4,
+     "subLabels": [
+      {
+       "id": 7,
+       "text": "Typing for west africa",
+       "descriptions": [],
+       "parentId": 6,
+       "subLabels": []
+      },
+      {
+       "id": 8,
+       "text": "Wamsley commercial typewriting (west",
+       "descriptions": [],
+       "parentId": 6,
+       "subLabels": []
+      },
+      {
+       "id": 9,
+       "text": "Africa edition)",
+       "descriptions": [
+        "Pitmans"
+       ],
+       "parentId": 6,
+       "subLabels": []
+      },
+      {
+       "id": 10,
+       "text": "Universal typing realistic office",
+       "descriptions": [],
+       "parentId": 6,
+       "subLabels": []
+      },
+      {
+       "id": 11,
+       "text": "Assignments",
+       "descriptions": [],
+       "parentId": 6,
+       "subLabels": []
+      },
+      {
+       "id": 12,
+       "text": "Basic typewriting",
+       "descriptions": [],
+       "parentId": 6,
+       "subLabels": []
+      },
+      {
+       "id": 13,
+       "text": "Universal typing students book",
+       "descriptions": [
+        "Pitmans",
+        "Pitmans"
+       ],
+       "parentId": 6,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 14,
+     "text": "Edith mackay",
+     "descriptions": [],
+     "parentId": 4,
+     "subLabels": [
+      {
+       "id": 15,
+       "text": "Universal typing advanced",
+       "descriptions": [],
+       "parentId": 14,
+       "subLabels": []
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "labels": [
+  {
+   "id": 4,
+   "text": "5.   suggested reading list",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 5,
+     "text": "Author",
+     "descriptions": [
+      "TITLE"
+     ],
+     "parentId": 4,
+     "subLabels": []
+    },
+    {
+     "id": 6,
+     "text": "Iris kerry",
+     "descriptions": [],
+     "parentId": 4,
+     "subLabels": [
+      {
+       "id": 7,
+       "text": "Typing for west africa",
+       "descriptions": [],
+       "parentId": 6,
+       "subLabels": []
+      },
+      {
+       "id": 8,
+       "text": "Wamsley commercial typewriting (west",
+       "descriptions": [],
+       "parentId": 6,
+       "subLabels": []
+      },
+      {
+       "id": 9,
+       "text": "Africa edition)",
+       "descriptions": [
+        "Pitmans"
+       ],
+       "parentId": 6,
+       "subLabels": []
+      },
+      {
+       "id": 10,
+       "text": "Universal typing realistic office",
+       "descriptions": [],
+       "parentId": 6,
+       "subLabels": []
+      },
+      {
+       "id": 11,
+       "text": "Assignments",
+       "descriptions": [],
+       "parentId": 6,
+       "subLabels": []
+      },
+      {
+       "id": 12,
+       "text": "Basic typewriting",
+       "descriptions": [],
+       "parentId": 6,
+       "subLabels": []
+      },
+      {
+       "id": 13,
+       "text": "Universal typing students book",
+       "descriptions": [
+        "Pitmans",
+        "Pitmans"
+       ],
+       "parentId": 6,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 14,
+     "text": "Edith mackay",
+     "descriptions": [],
+     "parentId": 4,
+     "subLabels": [
+      {
+       "id": 15,
+       "text": "Universal typing advanced",
+       "descriptions": [],
+       "parentId": 14,
+       "subLabels": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "text": "Author",
+   "descriptions": [
+    "TITLE"
+   ],
+   "parentId": 4,
+   "subLabels": []
+  },
+  {
+   "id": 6,
+   "text": "Iris kerry",
+   "descriptions": [],
+   "parentId": 4,
+   "subLabels": [
+    {
+     "id": 7,
+     "text": "Typing for west africa",
+     "descriptions": [],
+     "parentId": 6,
+     "subLabels": []
+    },
+    {
+     "id": 8,
+     "text": "Wamsley commercial typewriting (west",
+     "descriptions": [],
+     "parentId": 6,
+     "subLabels": []
+    },
+    {
+     "id": 9,
+     "text": "Africa edition)",
+     "descriptions": [
+      "Pitmans"
+     ],
+     "parentId": 6,
+     "subLabels": []
+    },
+    {
+     "id": 10,
+     "text": "Universal typing realistic office",
+     "descriptions": [],
+     "parentId": 6,
+     "subLabels": []
+    },
+    {
+     "id": 11,
+     "text": "Assignments",
+     "descriptions": [],
+     "parentId": 6,
+     "subLabels": []
+    },
+    {
+     "id": 12,
+     "text": "Basic typewriting",
+     "descriptions": [],
+     "parentId": 6,
+     "subLabels": []
+    },
+    {
+     "id": 13,
+     "text": "Universal typing students book",
+     "descriptions": [
+      "Pitmans",
+      "Pitmans"
+     ],
+     "parentId": 6,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "text": "Edith mackay",
+   "descriptions": [],
+   "parentId": 4,
+   "subLabels": [
+    {
+     "id": 15,
+     "text": "Universal typing advanced",
+     "descriptions": [],
+     "parentId": 14,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "text": "Typing for west africa",
+   "descriptions": [],
+   "parentId": 6,
+   "subLabels": []
+  },
+  {
+   "id": 8,
+   "text": "Wamsley commercial typewriting (west",
+   "descriptions": [],
+   "parentId": 6,
+   "subLabels": []
+  },
+  {
+   "id": 9,
+   "text": "Africa edition)",
+   "descriptions": [
+    "Pitmans"
+   ],
+   "parentId": 6,
+   "subLabels": []
+  },
+  {
+   "id": 10,
+   "text": "Universal typing realistic office",
+   "descriptions": [],
+   "parentId": 6,
+   "subLabels": []
+  },
+  {
+   "id": 11,
+   "text": "Assignments",
+   "descriptions": [],
+   "parentId": 6,
+   "subLabels": []
+  },
+  {
+   "id": 12,
+   "text": "Basic typewriting",
+   "descriptions": [],
+   "parentId": 6,
+   "subLabels": []
+  },
+  {
+   "id": 13,
+   "text": "Universal typing students book",
+   "descriptions": [
+    "Pitmans",
+    "Pitmans"
+   ],
+   "parentId": 6,
+   "subLabels": []
+  },
+  {
+   "id": 15,
+   "text": "Universal typing advanced",
+   "descriptions": [],
+   "parentId": 14,
+   "subLabels": []
+  }
+ ]
+}

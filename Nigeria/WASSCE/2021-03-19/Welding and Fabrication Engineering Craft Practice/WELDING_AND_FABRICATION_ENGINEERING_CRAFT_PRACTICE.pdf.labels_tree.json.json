@@ -1,1 +1,547 @@
-{"subject": "Welding and Fabrication Engineering Craft Practice", "Grade": "None", "Curriculum": "NERDC", "labelsTree": [{"id": 2, "text": "Detailed syllabus", "descriptions": null, "parentId": -1, "subLabels": [{"id": 3, "text": "1 2 3 4 5 6 7 8 9", "descriptions": ["Workshop and standard workshop practices.", "Properties of metals and selection.", "Tools and Equipment in Fabrication and Welding.", "Operations and Techniques in Welding and Fabrication.", "Fasteners", "(a)    Classification of fasteners.", "(b)    Rivet and its application", "(c)    Bolt and nuts", "(d)    Screws", "Forging Process - Introduction to forging", "Preparation of welding surfaces and environment.", "Practical Work/Project", "Business Entrepreneurship Opportunity"], "parentId": 2, "subLabels": []}]}, {"id": 5, "text": "Recommended books", "descriptions": null, "parentId": -1, "subLabels": [{"id": 6, "text": "1 2 3 4 5 6 7 8 9 10 11", "descriptions": ["Welding and Fabrication The Science and Practice of Welding Fabrication and Welding Basic Welding The Theory and Practice of Metalwork Metal Craft Theory and Practice Metalwork Motivate Series", "Metalwork Technology Workshop Processes and Materials Ilesanmi Metalwork for Senior Secondary School Books 1 \u2013 3", "Practical Welding  Motivate Series"], "parentId": 5, "subLabels": []}]}], "labels": [{"id": 24, "text": "Suggested reading material", "descriptions": null, "parentId": -1, "subLabels": [{"id": 25, "text": "1", "descriptions": ["Amenuke, S.K.,"], "parentId": 24, "subLabels": []}, {"id": 26, "text": "2", "descriptions": ["E. H. Gombrich"], "parentId": 24, "subLabels": []}, {"id": 27, "text": "3", "descriptions": ["Hellen Gardner"], "parentId": 24, "subLabels": []}, {"id": 28, "text": "4", "descriptions": ["Kofi Antubam"], "parentId": 24, "subLabels": []}, {"id": 29, "text": "5", "descriptions": ["Bernard S. Mayers"], "parentId": 24, "subLabels": []}, {"id": 30, "text": "6", "descriptions": ["Harlow"], "parentId": 24, "subLabels": []}, {"id": 31, "text": "7", "descriptions": ["Robert Clement"], "parentId": 24, "subLabels": []}, {"id": 32, "text": "8", "descriptions": ["Harry Stemberg"], "parentId": 24, "subLabels": []}, {"id": 33, "text": "9", "descriptions": ["Maurice De Samsmarez"], "parentId": 24, "subLabels": []}, {"id": 34, "text": "10", "descriptions": ["Harold Osborne"], "parentId": 24, "subLabels": []}, {"id": 35, "text": "11", "descriptions": ["Henry Pluckrose"], "parentId": 24, "subLabels": []}, {"id": 36, "text": "12", "descriptions": ["Werner Gillon"], "parentId": 24, "subLabels": []}, {"id": 37, "text": "13", "descriptions": ["Whitfield"], "parentId": 24, "subLabels": []}, {"id": 38, "text": "14", "descriptions": ["Ayisi, Eric, O."], "parentId": 24, "subLabels": []}, {"id": 39, "text": "15", "descriptions": ["Beier, Ulli"], "parentId": 24, "subLabels": []}, {"id": 40, "text": "16", "descriptions": ["Olaosebikan, W.A."], "parentId": 24, "subLabels": []}, {"id": 41, "text": "17", "descriptions": ["Underwood, Leon"], "parentId": 24, "subLabels": []}, {"id": 42, "text": "18", "descriptions": ["Wangboje, S. J."], "parentId": 24, "subLabels": []}, {"id": 43, "text": "19", "descriptions": ["Frank Willett"], "parentId": 24, "subLabels": []}, {"id": 44, "text": "20", "descriptions": ["Pat Oyelola"], "parentId": 24, "subLabels": []}, {"id": 45, "text": "21", "descriptions": ["George Talabi"], "parentId": 24, "subLabels": []}, {"id": 46, "text": "22", "descriptions": ["Frank Willett"], "parentId": 24, "subLabels": []}, {"id": 47, "text": "23", "descriptions": ["Ibrahim Banjoko"], "parentId": 24, "subLabels": []}, {"id": 48, "text": "24", "descriptions": ["Emu Ogumor"], "parentId": 24, "subLabels": []}, {"id": 49, "text": "25", "descriptions": ["Uzoagba, I. N."], "parentId": 24, "subLabels": []}, {"id": 50, "text": "26", "descriptions": ["Filani Kunle"], "parentId": 24, "subLabels": []}, {"id": 51, "text": "Joa/bao*", "descriptions": [], "parentId": 24, "subLabels": []}]}, {"id": 25, "text": "1", "descriptions": ["Amenuke, S.K.,"], "parentId": 24, "subLabels": []}, {"id": 26, "text": "2", "descriptions": ["E. H. Gombrich"], "parentId": 24, "subLabels": []}, {"id": 27, "text": "3", "descriptions": ["Hellen Gardner"], "parentId": 24, "subLabels": []}, {"id": 28, "text": "4", "descriptions": ["Kofi Antubam"], "parentId": 24, "subLabels": []}, {"id": 29, "text": "5", "descriptions": ["Bernard S. Mayers"], "parentId": 24, "subLabels": []}, {"id": 30, "text": "6", "descriptions": ["Harlow"], "parentId": 24, "subLabels": []}, {"id": 31, "text": "7", "descriptions": ["Robert Clement"], "parentId": 24, "subLabels": []}, {"id": 32, "text": "8", "descriptions": ["Harry Stemberg"], "parentId": 24, "subLabels": []}, {"id": 33, "text": "9", "descriptions": ["Maurice De Samsmarez"], "parentId": 24, "subLabels": []}, {"id": 34, "text": "10", "descriptions": ["Harold Osborne"], "parentId": 24, "subLabels": []}, {"id": 35, "text": "11", "descriptions": ["Henry Pluckrose"], "parentId": 24, "subLabels": []}, {"id": 36, "text": "12", "descriptions": ["Werner Gillon"], "parentId": 24, "subLabels": []}, {"id": 37, "text": "13", "descriptions": ["Whitfield"], "parentId": 24, "subLabels": []}, {"id": 38, "text": "14", "descriptions": ["Ayisi, Eric, O."], "parentId": 24, "subLabels": []}, {"id": 39, "text": "15", "descriptions": ["Beier, Ulli"], "parentId": 24, "subLabels": []}, {"id": 40, "text": "16", "descriptions": ["Olaosebikan, W.A."], "parentId": 24, "subLabels": []}, {"id": 41, "text": "17", "descriptions": ["Underwood, Leon"], "parentId": 24, "subLabels": []}, {"id": 42, "text": "18", "descriptions": ["Wangboje, S. J."], "parentId": 24, "subLabels": []}, {"id": 43, "text": "19", "descriptions": ["Frank Willett"], "parentId": 24, "subLabels": []}, {"id": 44, "text": "20", "descriptions": ["Pat Oyelola"], "parentId": 24, "subLabels": []}, {"id": 45, "text": "21", "descriptions": ["George Talabi"], "parentId": 24, "subLabels": []}, {"id": 46, "text": "22", "descriptions": ["Frank Willett"], "parentId": 24, "subLabels": []}, {"id": 47, "text": "23", "descriptions": ["Ibrahim Banjoko"], "parentId": 24, "subLabels": []}, {"id": 48, "text": "24", "descriptions": ["Emu Ogumor"], "parentId": 24, "subLabels": []}, {"id": 49, "text": "25", "descriptions": ["Uzoagba, I. N."], "parentId": 24, "subLabels": []}, {"id": 50, "text": "26", "descriptions": ["Filani Kunle"], "parentId": 24, "subLabels": []}, {"id": 51, "text": "Joa/bao*", "descriptions": [], "parentId": 24, "subLabels": []}]}
+{
+ "subject": "Welding and Fabrication Engineering Craft Practice",
+ "Grade": "None",
+ "Curriculum": "NERDC",
+ "labelsTree": [
+  {
+   "id": 2,
+   "text": "Detailed syllabus",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 3,
+     "text": "1 2 3 4 5 6 7 8 9",
+     "descriptions": [
+      "Workshop and standard workshop practices.",
+      "Properties of metals and selection.",
+      "Tools and Equipment in Fabrication and Welding.",
+      "Operations and Techniques in Welding and Fabrication.",
+      "Fasteners",
+      "(a)    Classification of fasteners.",
+      "(b)    Rivet and its application",
+      "(c)    Bolt and nuts",
+      "(d)    Screws",
+      "Forging Process - Introduction to forging",
+      "Preparation of welding surfaces and environment.",
+      "Practical Work/Project",
+      "Business Entrepreneurship Opportunity"
+     ],
+     "parentId": 2,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "text": "Recommended books",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 6,
+     "text": "1 2 3 4 5 6 7 8 9 10 11",
+     "descriptions": [
+      "Welding and Fabrication The Science and Practice of Welding Fabrication and Welding Basic Welding The Theory and Practice of Metalwork Metal Craft Theory and Practice Metalwork Motivate Series",
+      "Metalwork Technology Workshop Processes and Materials Ilesanmi Metalwork for Senior Secondary School Books 1 \u2013 3",
+      "Practical Welding  Motivate Series"
+     ],
+     "parentId": 5,
+     "subLabels": []
+    }
+   ]
+  }
+ ],
+ "labels": [
+  {
+   "id": 24,
+   "text": "Suggested reading material",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 25,
+     "text": "1",
+     "descriptions": [
+      "Amenuke, S.K.,"
+     ],
+     "parentId": 24,
+     "subLabels": []
+    },
+    {
+     "id": 26,
+     "text": "2",
+     "descriptions": [
+      "E. H. Gombrich"
+     ],
+     "parentId": 24,
+     "subLabels": []
+    },
+    {
+     "id": 27,
+     "text": "3",
+     "descriptions": [
+      "Hellen Gardner"
+     ],
+     "parentId": 24,
+     "subLabels": []
+    },
+    {
+     "id": 28,
+     "text": "4",
+     "descriptions": [
+      "Kofi Antubam"
+     ],
+     "parentId": 24,
+     "subLabels": []
+    },
+    {
+     "id": 29,
+     "text": "5",
+     "descriptions": [
+      "Bernard S. Mayers"
+     ],
+     "parentId": 24,
+     "subLabels": []
+    },
+    {
+     "id": 30,
+     "text": "6",
+     "descriptions": [
+      "Harlow"
+     ],
+     "parentId": 24,
+     "subLabels": []
+    },
+    {
+     "id": 31,
+     "text": "7",
+     "descriptions": [
+      "Robert Clement"
+     ],
+     "parentId": 24,
+     "subLabels": []
+    },
+    {
+     "id": 32,
+     "text": "8",
+     "descriptions": [
+      "Harry Stemberg"
+     ],
+     "parentId": 24,
+     "subLabels": []
+    },
+    {
+     "id": 33,
+     "text": "9",
+     "descriptions": [
+      "Maurice De Samsmarez"
+     ],
+     "parentId": 24,
+     "subLabels": []
+    },
+    {
+     "id": 34,
+     "text": "10",
+     "descriptions": [
+      "Harold Osborne"
+     ],
+     "parentId": 24,
+     "subLabels": []
+    },
+    {
+     "id": 35,
+     "text": "11",
+     "descriptions": [
+      "Henry Pluckrose"
+     ],
+     "parentId": 24,
+     "subLabels": []
+    },
+    {
+     "id": 36,
+     "text": "12",
+     "descriptions": [
+      "Werner Gillon"
+     ],
+     "parentId": 24,
+     "subLabels": []
+    },
+    {
+     "id": 37,
+     "text": "13",
+     "descriptions": [
+      "Whitfield"
+     ],
+     "parentId": 24,
+     "subLabels": []
+    },
+    {
+     "id": 38,
+     "text": "14",
+     "descriptions": [
+      "Ayisi, Eric, O."
+     ],
+     "parentId": 24,
+     "subLabels": []
+    },
+    {
+     "id": 39,
+     "text": "15",
+     "descriptions": [
+      "Beier, Ulli"
+     ],
+     "parentId": 24,
+     "subLabels": []
+    },
+    {
+     "id": 40,
+     "text": "16",
+     "descriptions": [
+      "Olaosebikan, W.A."
+     ],
+     "parentId": 24,
+     "subLabels": []
+    },
+    {
+     "id": 41,
+     "text": "17",
+     "descriptions": [
+      "Underwood, Leon"
+     ],
+     "parentId": 24,
+     "subLabels": []
+    },
+    {
+     "id": 42,
+     "text": "18",
+     "descriptions": [
+      "Wangboje, S. J."
+     ],
+     "parentId": 24,
+     "subLabels": []
+    },
+    {
+     "id": 43,
+     "text": "19",
+     "descriptions": [
+      "Frank Willett"
+     ],
+     "parentId": 24,
+     "subLabels": []
+    },
+    {
+     "id": 44,
+     "text": "20",
+     "descriptions": [
+      "Pat Oyelola"
+     ],
+     "parentId": 24,
+     "subLabels": []
+    },
+    {
+     "id": 45,
+     "text": "21",
+     "descriptions": [
+      "George Talabi"
+     ],
+     "parentId": 24,
+     "subLabels": []
+    },
+    {
+     "id": 46,
+     "text": "22",
+     "descriptions": [
+      "Frank Willett"
+     ],
+     "parentId": 24,
+     "subLabels": []
+    },
+    {
+     "id": 47,
+     "text": "23",
+     "descriptions": [
+      "Ibrahim Banjoko"
+     ],
+     "parentId": 24,
+     "subLabels": []
+    },
+    {
+     "id": 48,
+     "text": "24",
+     "descriptions": [
+      "Emu Ogumor"
+     ],
+     "parentId": 24,
+     "subLabels": []
+    },
+    {
+     "id": 49,
+     "text": "25",
+     "descriptions": [
+      "Uzoagba, I. N."
+     ],
+     "parentId": 24,
+     "subLabels": []
+    },
+    {
+     "id": 50,
+     "text": "26",
+     "descriptions": [
+      "Filani Kunle"
+     ],
+     "parentId": 24,
+     "subLabels": []
+    },
+    {
+     "id": 51,
+     "text": "Joa/bao*",
+     "descriptions": [],
+     "parentId": 24,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "text": "1",
+   "descriptions": [
+    "Amenuke, S.K.,"
+   ],
+   "parentId": 24,
+   "subLabels": []
+  },
+  {
+   "id": 26,
+   "text": "2",
+   "descriptions": [
+    "E. H. Gombrich"
+   ],
+   "parentId": 24,
+   "subLabels": []
+  },
+  {
+   "id": 27,
+   "text": "3",
+   "descriptions": [
+    "Hellen Gardner"
+   ],
+   "parentId": 24,
+   "subLabels": []
+  },
+  {
+   "id": 28,
+   "text": "4",
+   "descriptions": [
+    "Kofi Antubam"
+   ],
+   "parentId": 24,
+   "subLabels": []
+  },
+  {
+   "id": 29,
+   "text": "5",
+   "descriptions": [
+    "Bernard S. Mayers"
+   ],
+   "parentId": 24,
+   "subLabels": []
+  },
+  {
+   "id": 30,
+   "text": "6",
+   "descriptions": [
+    "Harlow"
+   ],
+   "parentId": 24,
+   "subLabels": []
+  },
+  {
+   "id": 31,
+   "text": "7",
+   "descriptions": [
+    "Robert Clement"
+   ],
+   "parentId": 24,
+   "subLabels": []
+  },
+  {
+   "id": 32,
+   "text": "8",
+   "descriptions": [
+    "Harry Stemberg"
+   ],
+   "parentId": 24,
+   "subLabels": []
+  },
+  {
+   "id": 33,
+   "text": "9",
+   "descriptions": [
+    "Maurice De Samsmarez"
+   ],
+   "parentId": 24,
+   "subLabels": []
+  },
+  {
+   "id": 34,
+   "text": "10",
+   "descriptions": [
+    "Harold Osborne"
+   ],
+   "parentId": 24,
+   "subLabels": []
+  },
+  {
+   "id": 35,
+   "text": "11",
+   "descriptions": [
+    "Henry Pluckrose"
+   ],
+   "parentId": 24,
+   "subLabels": []
+  },
+  {
+   "id": 36,
+   "text": "12",
+   "descriptions": [
+    "Werner Gillon"
+   ],
+   "parentId": 24,
+   "subLabels": []
+  },
+  {
+   "id": 37,
+   "text": "13",
+   "descriptions": [
+    "Whitfield"
+   ],
+   "parentId": 24,
+   "subLabels": []
+  },
+  {
+   "id": 38,
+   "text": "14",
+   "descriptions": [
+    "Ayisi, Eric, O."
+   ],
+   "parentId": 24,
+   "subLabels": []
+  },
+  {
+   "id": 39,
+   "text": "15",
+   "descriptions": [
+    "Beier, Ulli"
+   ],
+   "parentId": 24,
+   "subLabels": []
+  },
+  {
+   "id": 40,
+   "text": "16",
+   "descriptions": [
+    "Olaosebikan, W.A."
+   ],
+   "parentId": 24,
+   "subLabels": []
+  },
+  {
+   "id": 41,
+   "text": "17",
+   "descriptions": [
+    "Underwood, Leon"
+   ],
+   "parentId": 24,
+   "subLabels": []
+  },
+  {
+   "id": 42,
+   "text": "18",
+   "descriptions": [
+    "Wangboje, S. J."
+   ],
+   "parentId": 24,
+   "subLabels": []
+  },
+  {
+   "id": 43,
+   "text": "19",
+   "descriptions": [
+    "Frank Willett"
+   ],
+   "parentId": 24,
+   "subLabels": []
+  },
+  {
+   "id": 44,
+   "text": "20",
+   "descriptions": [
+    "Pat Oyelola"
+   ],
+   "parentId": 24,
+   "subLabels": []
+  },
+  {
+   "id": 45,
+   "text": "21",
+   "descriptions": [
+    "George Talabi"
+   ],
+   "parentId": 24,
+   "subLabels": []
+  },
+  {
+   "id": 46,
+   "text": "22",
+   "descriptions": [
+    "Frank Willett"
+   ],
+   "parentId": 24,
+   "subLabels": []
+  },
+  {
+   "id": 47,
+   "text": "23",
+   "descriptions": [
+    "Ibrahim Banjoko"
+   ],
+   "parentId": 24,
+   "subLabels": []
+  },
+  {
+   "id": 48,
+   "text": "24",
+   "descriptions": [
+    "Emu Ogumor"
+   ],
+   "parentId": 24,
+   "subLabels": []
+  },
+  {
+   "id": 49,
+   "text": "25",
+   "descriptions": [
+    "Uzoagba, I. N."
+   ],
+   "parentId": 24,
+   "subLabels": []
+  },
+  {
+   "id": 50,
+   "text": "26",
+   "descriptions": [
+    "Filani Kunle"
+   ],
+   "parentId": 24,
+   "subLabels": []
+  },
+  {
+   "id": 51,
+   "text": "Joa/bao*",
+   "descriptions": [],
+   "parentId": 24,
+   "subLabels": []
+  }
+ ]
+}

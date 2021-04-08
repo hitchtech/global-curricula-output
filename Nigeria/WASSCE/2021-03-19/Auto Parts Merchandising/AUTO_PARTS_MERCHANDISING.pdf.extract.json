@@ -1,1 +1,52 @@
-{"subject": "Auto Parts Merchandising", "Grade": "None", "Curriculum": "NERDC", "labelsTree": [{"id": 41, "text": "Invoicing:", "descriptions": null, "parentId": -1, "subLabels": [{"id": 42, "text": "Meaning. contents. uses/importance", "descriptions": ["Definition. Need/Reasons for forecasting. Advantages of forecasting."], "parentId": 41, "subLabels": []}]}], "labels": [{"id": 41, "text": "Invoicing:", "descriptions": null, "parentId": -1, "subLabels": [{"id": 42, "text": "Meaning. contents. uses/importance", "descriptions": ["Definition. Need/Reasons for forecasting. Advantages of forecasting."], "parentId": 41, "subLabels": []}]}, {"id": 42, "text": "Meaning. contents. uses/importance", "descriptions": ["Definition. Need/Reasons for forecasting. Advantages of forecasting."], "parentId": 41, "subLabels": []}]}
+{
+ "subject": "Auto Parts Merchandising",
+ "Grade": "None",
+ "Curriculum": "NERDC",
+ "labelsTree": [
+  {
+   "id": 41,
+   "text": "Invoicing:",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 42,
+     "text": "Meaning. contents. uses/importance",
+     "descriptions": [
+      "Definition. Need/Reasons for forecasting. Advantages of forecasting."
+     ],
+     "parentId": 41,
+     "subLabels": []
+    }
+   ]
+  }
+ ],
+ "labels": [
+  {
+   "id": 41,
+   "text": "Invoicing:",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 42,
+     "text": "Meaning. contents. uses/importance",
+     "descriptions": [
+      "Definition. Need/Reasons for forecasting. Advantages of forecasting."
+     ],
+     "parentId": 41,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 42,
+   "text": "Meaning. contents. uses/importance",
+   "descriptions": [
+    "Definition. Need/Reasons for forecasting. Advantages of forecasting."
+   ],
+   "parentId": 41,
+   "subLabels": []
+  }
+ ]
+}

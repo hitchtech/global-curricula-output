@@ -1,1 +1,618 @@
-{"subject": "Applied Electricity or Basic Electricity", "Grade": "None", "Curriculum": "NERDC", "labelsTree": [{"id": 9, "text": "And electromagnetism", "descriptions": null, "parentId": -1, "subLabels": [{"id": 10, "text": "Fundamentals of magnetism", "descriptions": [], "parentId": 9, "subLabels": [{"id": 11, "text": "Electromagnetic field", "descriptions": ["Electric field and properties: electric flux, electric flux density, electric field strength, permittivity and dielectric constant, potential gradient."], "parentId": 10, "subLabels": []}, {"id": 12, "text": "Self and mutual induction", "descriptions": [], "parentId": 10, "subLabels": []}]}]}, {"id": 21, "text": "Electrical", "descriptions": null, "parentId": -1, "subLabels": [{"id": 22, "text": "Alternators", "descriptions": ["Principles of operation, parts, types (shunt, compound, series) and application."], "parentId": 21, "subLabels": [{"id": 23, "text": "A.c. motors (three phase)", "descriptions": ["Methods of generating electrical power: diesel engine, steam engine, hydro-electric, nuclear, gas turbine."], "parentId": 22, "subLabels": []}, {"id": 24, "text": "D.c. generators", "descriptions": ["Types of wiring: surface, conduit, trunking, ducting. Selection of materials, tools and accessories. Application of IEE wiring regulation regarding domestic installation."], "parentId": 22, "subLabels": []}, {"id": 25, "text": "D.c. motors", "descriptions": ["Cables and accessories."], "parentId": 22, "subLabels": []}]}, {"id": 26, "text": "Machines boolean expression. plotting of labelled sinusoidal waveform for a complete cycle", "descriptions": ["Principles of operation, parts and methods of connecting field windings."], "parentId": 21, "subLabels": []}]}, {"id": 28, "text": "Supply", "descriptions": null, "parentId": -1, "subLabels": [{"id": 29, "text": "Generating station", "descriptions": ["Cables and accessories. Current-carrying capacity of cable. Wiring of lighting and socket outlets and connection of plugs. Conduit, surface, trunking and ducting installations.", "Protective devices Fuses and circuit breakers Discrimination of protective devices", "Reasons for earthing."], "parentId": 28, "subLabels": []}]}, {"id": 30, "text": "Electrical wiring", "descriptions": null, "parentId": -1, "subLabels": [{"id": 31, "text": "Electrical installation", "descriptions": ["Reasons for earthing. Methods of earthing. Earth loop impedance.", "Types of fault: short circuit, open circuit and earth leakage. Methods of diagnosing and repair of faults in an installation and equipment such as fluorescent fitting, electric iron, electric fan, blender etc.", "Continuity test, insulation resistance test, earth leakage test and polarity test."], "parentId": 30, "subLabels": []}, {"id": 32, "text": "Earthing", "descriptions": [], "parentId": 30, "subLabels": []}]}, {"id": 35, "text": "Emission", "descriptions": null, "parentId": -1, "subLabels": [{"id": 36, "text": "Electron emission", "descriptions": [], "parentId": 35, "subLabels": []}]}, {"id": 37, "text": "Semiconductor", "descriptions": null, "parentId": -1, "subLabels": [{"id": 38, "text": "Theory", "descriptions": ["Functions of electrodes, parameters and application.", "Functions of electrodes in CRT."], "parentId": 37, "subLabels": []}, {"id": 39, "text": "Transistor", "descriptions": ["Barrier potential. Forward and reverse bias for a pn junction diode. Characteristics of a pn diode. Application of pn junction diode.", "Bipolar transistor: two pn junction devices (npn and pnp). Configuration of bipolar transistor: CC, CB and CE. Principles of operation and mode of connection of the three configurations of a transistor. Characteristics of an npn transistor (common emitter). Unipolar transistor: p-channel and n-channel of field effect transistor (JFET). Principles of operation of JFET. Semiconductor devices and their application: diac, triac, SCR, LED and zener diode. Application of a photo transistor Integrated circuits: simple integrated circuits and their uses.", "Characteristics of radio waves.", "Amplitude and frequency modulation and their waveforms."], "parentId": 37, "subLabels": []}]}, {"id": 40, "text": "Communication", "descriptions": null, "parentId": -1, "subLabels": [{"id": 41, "text": "Electromagnetic waves", "descriptions": ["Advantages of frequency modulation (F.M.) over amplitude modulation"], "parentId": 40, "subLabels": []}]}, {"id": 49, "text": "Appliances", "descriptions": null, "parentId": -1, "subLabels": [{"id": 50, "text": "Maintenance", "descriptions": ["Common faults that occur in electrical appliances (blender, electric iron, electric kettle, toaster, fluorescent lamps etc) such as short circuit, open circuit, earth fault etc."], "parentId": 49, "subLabels": []}]}], "labels": [{"id": 9, "text": "And electromagnetism", "descriptions": null, "parentId": -1, "subLabels": [{"id": 10, "text": "Fundamentals of magnetism", "descriptions": [], "parentId": 9, "subLabels": [{"id": 11, "text": "Electromagnetic field", "descriptions": ["Electric field and properties: electric flux, electric flux density, electric field strength, permittivity and dielectric constant, potential gradient."], "parentId": 10, "subLabels": []}, {"id": 12, "text": "Self and mutual induction", "descriptions": [], "parentId": 10, "subLabels": []}]}]}, {"id": 21, "text": "Electrical", "descriptions": null, "parentId": -1, "subLabels": [{"id": 22, "text": "Alternators", "descriptions": ["Principles of operation, parts, types (shunt, compound, series) and application."], "parentId": 21, "subLabels": [{"id": 23, "text": "A.c. motors (three phase)", "descriptions": ["Methods of generating electrical power: diesel engine, steam engine, hydro-electric, nuclear, gas turbine."], "parentId": 22, "subLabels": []}, {"id": 24, "text": "D.c. generators", "descriptions": ["Types of wiring: surface, conduit, trunking, ducting. Selection of materials, tools and accessories. Application of IEE wiring regulation regarding domestic installation."], "parentId": 22, "subLabels": []}, {"id": 25, "text": "D.c. motors", "descriptions": ["Cables and accessories."], "parentId": 22, "subLabels": []}]}, {"id": 26, "text": "Machines boolean expression. plotting of labelled sinusoidal waveform for a complete cycle", "descriptions": ["Principles of operation, parts and methods of connecting field windings."], "parentId": 21, "subLabels": []}]}, {"id": 28, "text": "Supply", "descriptions": null, "parentId": -1, "subLabels": [{"id": 29, "text": "Generating station", "descriptions": ["Cables and accessories. Current-carrying capacity of cable. Wiring of lighting and socket outlets and connection of plugs. Conduit, surface, trunking and ducting installations.", "Protective devices Fuses and circuit breakers Discrimination of protective devices", "Reasons for earthing."], "parentId": 28, "subLabels": []}]}, {"id": 30, "text": "Electrical wiring", "descriptions": null, "parentId": -1, "subLabels": [{"id": 31, "text": "Electrical installation", "descriptions": ["Reasons for earthing. Methods of earthing. Earth loop impedance.", "Types of fault: short circuit, open circuit and earth leakage. Methods of diagnosing and repair of faults in an installation and equipment such as fluorescent fitting, electric iron, electric fan, blender etc.", "Continuity test, insulation resistance test, earth leakage test and polarity test."], "parentId": 30, "subLabels": []}, {"id": 32, "text": "Earthing", "descriptions": [], "parentId": 30, "subLabels": []}]}, {"id": 35, "text": "Emission", "descriptions": null, "parentId": -1, "subLabels": [{"id": 36, "text": "Electron emission", "descriptions": [], "parentId": 35, "subLabels": []}]}, {"id": 37, "text": "Semiconductor", "descriptions": null, "parentId": -1, "subLabels": [{"id": 38, "text": "Theory", "descriptions": ["Functions of electrodes, parameters and application.", "Functions of electrodes in CRT."], "parentId": 37, "subLabels": []}, {"id": 39, "text": "Transistor", "descriptions": ["Barrier potential. Forward and reverse bias for a pn junction diode. Characteristics of a pn diode. Application of pn junction diode.", "Bipolar transistor: two pn junction devices (npn and pnp). Configuration of bipolar transistor: CC, CB and CE. Principles of operation and mode of connection of the three configurations of a transistor. Characteristics of an npn transistor (common emitter). Unipolar transistor: p-channel and n-channel of field effect transistor (JFET). Principles of operation of JFET. Semiconductor devices and their application: diac, triac, SCR, LED and zener diode. Application of a photo transistor Integrated circuits: simple integrated circuits and their uses.", "Characteristics of radio waves.", "Amplitude and frequency modulation and their waveforms."], "parentId": 37, "subLabels": []}]}, {"id": 40, "text": "Communication", "descriptions": null, "parentId": -1, "subLabels": [{"id": 41, "text": "Electromagnetic waves", "descriptions": ["Advantages of frequency modulation (F.M.) over amplitude modulation"], "parentId": 40, "subLabels": []}]}, {"id": 49, "text": "Appliances", "descriptions": null, "parentId": -1, "subLabels": [{"id": 50, "text": "Maintenance", "descriptions": ["Common faults that occur in electrical appliances (blender, electric iron, electric kettle, toaster, fluorescent lamps etc) such as short circuit, open circuit, earth fault etc."], "parentId": 49, "subLabels": []}]}, {"id": 10, "text": "Fundamentals of magnetism", "descriptions": [], "parentId": 9, "subLabels": [{"id": 11, "text": "Electromagnetic field", "descriptions": ["Electric field and properties: electric flux, electric flux density, electric field strength, permittivity and dielectric constant, potential gradient."], "parentId": 10, "subLabels": []}, {"id": 12, "text": "Self and mutual induction", "descriptions": [], "parentId": 10, "subLabels": []}]}, {"id": 22, "text": "Alternators", "descriptions": ["Principles of operation, parts, types (shunt, compound, series) and application."], "parentId": 21, "subLabels": [{"id": 23, "text": "A.c. motors (three phase)", "descriptions": ["Methods of generating electrical power: diesel engine, steam engine, hydro-electric, nuclear, gas turbine."], "parentId": 22, "subLabels": []}, {"id": 24, "text": "D.c. generators", "descriptions": ["Types of wiring: surface, conduit, trunking, ducting. Selection of materials, tools and accessories. Application of IEE wiring regulation regarding domestic installation."], "parentId": 22, "subLabels": []}, {"id": 25, "text": "D.c. motors", "descriptions": ["Cables and accessories."], "parentId": 22, "subLabels": []}]}, {"id": 26, "text": "Machines boolean expression. plotting of labelled sinusoidal waveform for a complete cycle", "descriptions": ["Principles of operation, parts and methods of connecting field windings."], "parentId": 21, "subLabels": []}, {"id": 29, "text": "Generating station", "descriptions": ["Cables and accessories. Current-carrying capacity of cable. Wiring of lighting and socket outlets and connection of plugs. Conduit, surface, trunking and ducting installations.", "Protective devices Fuses and circuit breakers Discrimination of protective devices", "Reasons for earthing."], "parentId": 28, "subLabels": []}, {"id": 31, "text": "Electrical installation", "descriptions": ["Reasons for earthing. Methods of earthing. Earth loop impedance.", "Types of fault: short circuit, open circuit and earth leakage. Methods of diagnosing and repair of faults in an installation and equipment such as fluorescent fitting, electric iron, electric fan, blender etc.", "Continuity test, insulation resistance test, earth leakage test and polarity test."], "parentId": 30, "subLabels": []}, {"id": 32, "text": "Earthing", "descriptions": [], "parentId": 30, "subLabels": []}, {"id": 36, "text": "Electron emission", "descriptions": [], "parentId": 35, "subLabels": []}, {"id": 38, "text": "Theory", "descriptions": ["Functions of electrodes, parameters and application.", "Functions of electrodes in CRT."], "parentId": 37, "subLabels": []}, {"id": 39, "text": "Transistor", "descriptions": ["Barrier potential. Forward and reverse bias for a pn junction diode. Characteristics of a pn diode. Application of pn junction diode.", "Bipolar transistor: two pn junction devices (npn and pnp). Configuration of bipolar transistor: CC, CB and CE. Principles of operation and mode of connection of the three configurations of a transistor. Characteristics of an npn transistor (common emitter). Unipolar transistor: p-channel and n-channel of field effect transistor (JFET). Principles of operation of JFET. Semiconductor devices and their application: diac, triac, SCR, LED and zener diode. Application of a photo transistor Integrated circuits: simple integrated circuits and their uses.", "Characteristics of radio waves.", "Amplitude and frequency modulation and their waveforms."], "parentId": 37, "subLabels": []}, {"id": 41, "text": "Electromagnetic waves", "descriptions": ["Advantages of frequency modulation (F.M.) over amplitude modulation"], "parentId": 40, "subLabels": []}, {"id": 50, "text": "Maintenance", "descriptions": ["Common faults that occur in electrical appliances (blender, electric iron, electric kettle, toaster, fluorescent lamps etc) such as short circuit, open circuit, earth fault etc."], "parentId": 49, "subLabels": []}, {"id": 11, "text": "Electromagnetic field", "descriptions": ["Electric field and properties: electric flux, electric flux density, electric field strength, permittivity and dielectric constant, potential gradient."], "parentId": 10, "subLabels": []}, {"id": 12, "text": "Self and mutual induction", "descriptions": [], "parentId": 10, "subLabels": []}, {"id": 23, "text": "A.c. motors (three phase)", "descriptions": ["Methods of generating electrical power: diesel engine, steam engine, hydro-electric, nuclear, gas turbine."], "parentId": 22, "subLabels": []}, {"id": 24, "text": "D.c. generators", "descriptions": ["Types of wiring: surface, conduit, trunking, ducting. Selection of materials, tools and accessories. Application of IEE wiring regulation regarding domestic installation."], "parentId": 22, "subLabels": []}, {"id": 25, "text": "D.c. motors", "descriptions": ["Cables and accessories."], "parentId": 22, "subLabels": []}]}
+{
+ "subject": "Applied Electricity or Basic Electricity",
+ "Grade": "None",
+ "Curriculum": "NERDC",
+ "labelsTree": [
+  {
+   "id": 9,
+   "text": "And electromagnetism",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 10,
+     "text": "Fundamentals of magnetism",
+     "descriptions": [],
+     "parentId": 9,
+     "subLabels": [
+      {
+       "id": 11,
+       "text": "Electromagnetic field",
+       "descriptions": [
+        "Electric field and properties: electric flux, electric flux density, electric field strength, permittivity and dielectric constant, potential gradient."
+       ],
+       "parentId": 10,
+       "subLabels": []
+      },
+      {
+       "id": 12,
+       "text": "Self and mutual induction",
+       "descriptions": [],
+       "parentId": 10,
+       "subLabels": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "text": "Electrical",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 22,
+     "text": "Alternators",
+     "descriptions": [
+      "Principles of operation, parts, types (shunt, compound, series) and application."
+     ],
+     "parentId": 21,
+     "subLabels": [
+      {
+       "id": 23,
+       "text": "A.c. motors (three phase)",
+       "descriptions": [
+        "Methods of generating electrical power: diesel engine, steam engine, hydro-electric, nuclear, gas turbine."
+       ],
+       "parentId": 22,
+       "subLabels": []
+      },
+      {
+       "id": 24,
+       "text": "D.c. generators",
+       "descriptions": [
+        "Types of wiring: surface, conduit, trunking, ducting. Selection of materials, tools and accessories. Application of IEE wiring regulation regarding domestic installation."
+       ],
+       "parentId": 22,
+       "subLabels": []
+      },
+      {
+       "id": 25,
+       "text": "D.c. motors",
+       "descriptions": [
+        "Cables and accessories."
+       ],
+       "parentId": 22,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 26,
+     "text": "Machines boolean expression. plotting of labelled sinusoidal waveform for a complete cycle",
+     "descriptions": [
+      "Principles of operation, parts and methods of connecting field windings."
+     ],
+     "parentId": 21,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 28,
+   "text": "Supply",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 29,
+     "text": "Generating station",
+     "descriptions": [
+      "Cables and accessories. Current-carrying capacity of cable. Wiring of lighting and socket outlets and connection of plugs. Conduit, surface, trunking and ducting installations.",
+      "Protective devices Fuses and circuit breakers Discrimination of protective devices",
+      "Reasons for earthing."
+     ],
+     "parentId": 28,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 30,
+   "text": "Electrical wiring",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 31,
+     "text": "Electrical installation",
+     "descriptions": [
+      "Reasons for earthing. Methods of earthing. Earth loop impedance.",
+      "Types of fault: short circuit, open circuit and earth leakage. Methods of diagnosing and repair of faults in an installation and equipment such as fluorescent fitting, electric iron, electric fan, blender etc.",
+      "Continuity test, insulation resistance test, earth leakage test and polarity test."
+     ],
+     "parentId": 30,
+     "subLabels": []
+    },
+    {
+     "id": 32,
+     "text": "Earthing",
+     "descriptions": [],
+     "parentId": 30,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 35,
+   "text": "Emission",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 36,
+     "text": "Electron emission",
+     "descriptions": [],
+     "parentId": 35,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 37,
+   "text": "Semiconductor",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 38,
+     "text": "Theory",
+     "descriptions": [
+      "Functions of electrodes, parameters and application.",
+      "Functions of electrodes in CRT."
+     ],
+     "parentId": 37,
+     "subLabels": []
+    },
+    {
+     "id": 39,
+     "text": "Transistor",
+     "descriptions": [
+      "Barrier potential. Forward and reverse bias for a pn junction diode. Characteristics of a pn diode. Application of pn junction diode.",
+      "Bipolar transistor: two pn junction devices (npn and pnp). Configuration of bipolar transistor: CC, CB and CE. Principles of operation and mode of connection of the three configurations of a transistor. Characteristics of an npn transistor (common emitter). Unipolar transistor: p-channel and n-channel of field effect transistor (JFET). Principles of operation of JFET. Semiconductor devices and their application: diac, triac, SCR, LED and zener diode. Application of a photo transistor Integrated circuits: simple integrated circuits and their uses.",
+      "Characteristics of radio waves.",
+      "Amplitude and frequency modulation and their waveforms."
+     ],
+     "parentId": 37,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 40,
+   "text": "Communication",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 41,
+     "text": "Electromagnetic waves",
+     "descriptions": [
+      "Advantages of frequency modulation (F.M.) over amplitude modulation"
+     ],
+     "parentId": 40,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 49,
+   "text": "Appliances",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 50,
+     "text": "Maintenance",
+     "descriptions": [
+      "Common faults that occur in electrical appliances (blender, electric iron, electric kettle, toaster, fluorescent lamps etc) such as short circuit, open circuit, earth fault etc."
+     ],
+     "parentId": 49,
+     "subLabels": []
+    }
+   ]
+  }
+ ],
+ "labels": [
+  {
+   "id": 9,
+   "text": "And electromagnetism",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 10,
+     "text": "Fundamentals of magnetism",
+     "descriptions": [],
+     "parentId": 9,
+     "subLabels": [
+      {
+       "id": 11,
+       "text": "Electromagnetic field",
+       "descriptions": [
+        "Electric field and properties: electric flux, electric flux density, electric field strength, permittivity and dielectric constant, potential gradient."
+       ],
+       "parentId": 10,
+       "subLabels": []
+      },
+      {
+       "id": 12,
+       "text": "Self and mutual induction",
+       "descriptions": [],
+       "parentId": 10,
+       "subLabels": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "text": "Electrical",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 22,
+     "text": "Alternators",
+     "descriptions": [
+      "Principles of operation, parts, types (shunt, compound, series) and application."
+     ],
+     "parentId": 21,
+     "subLabels": [
+      {
+       "id": 23,
+       "text": "A.c. motors (three phase)",
+       "descriptions": [
+        "Methods of generating electrical power: diesel engine, steam engine, hydro-electric, nuclear, gas turbine."
+       ],
+       "parentId": 22,
+       "subLabels": []
+      },
+      {
+       "id": 24,
+       "text": "D.c. generators",
+       "descriptions": [
+        "Types of wiring: surface, conduit, trunking, ducting. Selection of materials, tools and accessories. Application of IEE wiring regulation regarding domestic installation."
+       ],
+       "parentId": 22,
+       "subLabels": []
+      },
+      {
+       "id": 25,
+       "text": "D.c. motors",
+       "descriptions": [
+        "Cables and accessories."
+       ],
+       "parentId": 22,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 26,
+     "text": "Machines boolean expression. plotting of labelled sinusoidal waveform for a complete cycle",
+     "descriptions": [
+      "Principles of operation, parts and methods of connecting field windings."
+     ],
+     "parentId": 21,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 28,
+   "text": "Supply",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 29,
+     "text": "Generating station",
+     "descriptions": [
+      "Cables and accessories. Current-carrying capacity of cable. Wiring of lighting and socket outlets and connection of plugs. Conduit, surface, trunking and ducting installations.",
+      "Protective devices Fuses and circuit breakers Discrimination of protective devices",
+      "Reasons for earthing."
+     ],
+     "parentId": 28,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 30,
+   "text": "Electrical wiring",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 31,
+     "text": "Electrical installation",
+     "descriptions": [
+      "Reasons for earthing. Methods of earthing. Earth loop impedance.",
+      "Types of fault: short circuit, open circuit and earth leakage. Methods of diagnosing and repair of faults in an installation and equipment such as fluorescent fitting, electric iron, electric fan, blender etc.",
+      "Continuity test, insulation resistance test, earth leakage test and polarity test."
+     ],
+     "parentId": 30,
+     "subLabels": []
+    },
+    {
+     "id": 32,
+     "text": "Earthing",
+     "descriptions": [],
+     "parentId": 30,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 35,
+   "text": "Emission",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 36,
+     "text": "Electron emission",
+     "descriptions": [],
+     "parentId": 35,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 37,
+   "text": "Semiconductor",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 38,
+     "text": "Theory",
+     "descriptions": [
+      "Functions of electrodes, parameters and application.",
+      "Functions of electrodes in CRT."
+     ],
+     "parentId": 37,
+     "subLabels": []
+    },
+    {
+     "id": 39,
+     "text": "Transistor",
+     "descriptions": [
+      "Barrier potential. Forward and reverse bias for a pn junction diode. Characteristics of a pn diode. Application of pn junction diode.",
+      "Bipolar transistor: two pn junction devices (npn and pnp). Configuration of bipolar transistor: CC, CB and CE. Principles of operation and mode of connection of the three configurations of a transistor. Characteristics of an npn transistor (common emitter). Unipolar transistor: p-channel and n-channel of field effect transistor (JFET). Principles of operation of JFET. Semiconductor devices and their application: diac, triac, SCR, LED and zener diode. Application of a photo transistor Integrated circuits: simple integrated circuits and their uses.",
+      "Characteristics of radio waves.",
+      "Amplitude and frequency modulation and their waveforms."
+     ],
+     "parentId": 37,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 40,
+   "text": "Communication",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 41,
+     "text": "Electromagnetic waves",
+     "descriptions": [
+      "Advantages of frequency modulation (F.M.) over amplitude modulation"
+     ],
+     "parentId": 40,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 49,
+   "text": "Appliances",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 50,
+     "text": "Maintenance",
+     "descriptions": [
+      "Common faults that occur in electrical appliances (blender, electric iron, electric kettle, toaster, fluorescent lamps etc) such as short circuit, open circuit, earth fault etc."
+     ],
+     "parentId": 49,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "text": "Fundamentals of magnetism",
+   "descriptions": [],
+   "parentId": 9,
+   "subLabels": [
+    {
+     "id": 11,
+     "text": "Electromagnetic field",
+     "descriptions": [
+      "Electric field and properties: electric flux, electric flux density, electric field strength, permittivity and dielectric constant, potential gradient."
+     ],
+     "parentId": 10,
+     "subLabels": []
+    },
+    {
+     "id": 12,
+     "text": "Self and mutual induction",
+     "descriptions": [],
+     "parentId": 10,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "text": "Alternators",
+   "descriptions": [
+    "Principles of operation, parts, types (shunt, compound, series) and application."
+   ],
+   "parentId": 21,
+   "subLabels": [
+    {
+     "id": 23,
+     "text": "A.c. motors (three phase)",
+     "descriptions": [
+      "Methods of generating electrical power: diesel engine, steam engine, hydro-electric, nuclear, gas turbine."
+     ],
+     "parentId": 22,
+     "subLabels": []
+    },
+    {
+     "id": 24,
+     "text": "D.c. generators",
+     "descriptions": [
+      "Types of wiring: surface, conduit, trunking, ducting. Selection of materials, tools and accessories. Application of IEE wiring regulation regarding domestic installation."
+     ],
+     "parentId": 22,
+     "subLabels": []
+    },
+    {
+     "id": 25,
+     "text": "D.c. motors",
+     "descriptions": [
+      "Cables and accessories."
+     ],
+     "parentId": 22,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "text": "Machines boolean expression. plotting of labelled sinusoidal waveform for a complete cycle",
+   "descriptions": [
+    "Principles of operation, parts and methods of connecting field windings."
+   ],
+   "parentId": 21,
+   "subLabels": []
+  },
+  {
+   "id": 29,
+   "text": "Generating station",
+   "descriptions": [
+    "Cables and accessories. Current-carrying capacity of cable. Wiring of lighting and socket outlets and connection of plugs. Conduit, surface, trunking and ducting installations.",
+    "Protective devices Fuses and circuit breakers Discrimination of protective devices",
+    "Reasons for earthing."
+   ],
+   "parentId": 28,
+   "subLabels": []
+  },
+  {
+   "id": 31,
+   "text": "Electrical installation",
+   "descriptions": [
+    "Reasons for earthing. Methods of earthing. Earth loop impedance.",
+    "Types of fault: short circuit, open circuit and earth leakage. Methods of diagnosing and repair of faults in an installation and equipment such as fluorescent fitting, electric iron, electric fan, blender etc.",
+    "Continuity test, insulation resistance test, earth leakage test and polarity test."
+   ],
+   "parentId": 30,
+   "subLabels": []
+  },
+  {
+   "id": 32,
+   "text": "Earthing",
+   "descriptions": [],
+   "parentId": 30,
+   "subLabels": []
+  },
+  {
+   "id": 36,
+   "text": "Electron emission",
+   "descriptions": [],
+   "parentId": 35,
+   "subLabels": []
+  },
+  {
+   "id": 38,
+   "text": "Theory",
+   "descriptions": [
+    "Functions of electrodes, parameters and application.",
+    "Functions of electrodes in CRT."
+   ],
+   "parentId": 37,
+   "subLabels": []
+  },
+  {
+   "id": 39,
+   "text": "Transistor",
+   "descriptions": [
+    "Barrier potential. Forward and reverse bias for a pn junction diode. Characteristics of a pn diode. Application of pn junction diode.",
+    "Bipolar transistor: two pn junction devices (npn and pnp). Configuration of bipolar transistor: CC, CB and CE. Principles of operation and mode of connection of the three configurations of a transistor. Characteristics of an npn transistor (common emitter). Unipolar transistor: p-channel and n-channel of field effect transistor (JFET). Principles of operation of JFET. Semiconductor devices and their application: diac, triac, SCR, LED and zener diode. Application of a photo transistor Integrated circuits: simple integrated circuits and their uses.",
+    "Characteristics of radio waves.",
+    "Amplitude and frequency modulation and their waveforms."
+   ],
+   "parentId": 37,
+   "subLabels": []
+  },
+  {
+   "id": 41,
+   "text": "Electromagnetic waves",
+   "descriptions": [
+    "Advantages of frequency modulation (F.M.) over amplitude modulation"
+   ],
+   "parentId": 40,
+   "subLabels": []
+  },
+  {
+   "id": 50,
+   "text": "Maintenance",
+   "descriptions": [
+    "Common faults that occur in electrical appliances (blender, electric iron, electric kettle, toaster, fluorescent lamps etc) such as short circuit, open circuit, earth fault etc."
+   ],
+   "parentId": 49,
+   "subLabels": []
+  },
+  {
+   "id": 11,
+   "text": "Electromagnetic field",
+   "descriptions": [
+    "Electric field and properties: electric flux, electric flux density, electric field strength, permittivity and dielectric constant, potential gradient."
+   ],
+   "parentId": 10,
+   "subLabels": []
+  },
+  {
+   "id": 12,
+   "text": "Self and mutual induction",
+   "descriptions": [],
+   "parentId": 10,
+   "subLabels": []
+  },
+  {
+   "id": 23,
+   "text": "A.c. motors (three phase)",
+   "descriptions": [
+    "Methods of generating electrical power: diesel engine, steam engine, hydro-electric, nuclear, gas turbine."
+   ],
+   "parentId": 22,
+   "subLabels": []
+  },
+  {
+   "id": 24,
+   "text": "D.c. generators",
+   "descriptions": [
+    "Types of wiring: surface, conduit, trunking, ducting. Selection of materials, tools and accessories. Application of IEE wiring regulation regarding domestic installation."
+   ],
+   "parentId": 22,
+   "subLabels": []
+  },
+  {
+   "id": 25,
+   "text": "D.c. motors",
+   "descriptions": [
+    "Cables and accessories."
+   ],
+   "parentId": 22,
+   "subLabels": []
+  }
+ ]
+}

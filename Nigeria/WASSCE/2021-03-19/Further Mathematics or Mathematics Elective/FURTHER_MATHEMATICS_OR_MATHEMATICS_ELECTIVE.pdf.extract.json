@@ -1,1 +1,584 @@
-{"subject": "Further Mathematics or Mathematics Elective", "Grade": "None", "Curriculum": "NERDC", "labelsTree": [{"id": 4, "text": "Key:", "descriptions": null, "parentId": -1, "subLabels": [{"id": 5, "text": "I . pure mathematics", "descriptions": ["(i) Idea of a set", "defined by a property, Set notations and their meanings.", "(ii) Disjoint sets,", "Universal set and complement of set", "(iii) Venn diagrams,", "Use of sets", "And Venn", "diagrams to solve problems.", "(iv) Commutative", "and Associative laws, Distributive properties over union and intersection.", "Surds of the form  , a and a+b where a is rational, b is a positive integer and n is not a perfect square."], "parentId": 4, "subLabels": [{"id": 6, "text": "Sets", "descriptions": ["Properties: Closure, Commutativity, Associativity and Distributivity, Identity elements and inverses.", "(i) Rule of syntax: true or false", "statements, rule of logic applied to      arguments, implications and deductions.", "(ii) The truth table"], "parentId": 5, "subLabels": []}]}, {"id": 7, "text": "Surds", "descriptions": ["(i) Domain and co-", "domain of a function.", "(ii) One-to-one,", "onto, identity and constant mapping;"], "parentId": 4, "subLabels": []}, {"id": 8, "text": "Binary", "descriptions": [], "parentId": 4, "subLabels": []}, {"id": 9, "text": "Operations", "descriptions": ["(iii) Inverse of a", "function."], "parentId": 4, "subLabels": []}, {"id": 10, "text": "Logical", "descriptions": [], "parentId": 4, "subLabels": []}, {"id": 11, "text": "Reasoning", "descriptions": ["(iv) Composite of functions.", "(i) Linear Functions,", "Equations and Inequality"], "parentId": 4, "subLabels": []}, {"id": 12, "text": "Functions", "descriptions": ["(ii) Quadratic", "Functions, Equations and Inequalities"], "parentId": 4, "subLabels": []}, {"id": 13, "text": "Polynomial", "descriptions": [], "parentId": 4, "subLabels": []}, {"id": 14, "text": "Functions", "descriptions": ["(ii) Cubic Functions", "and Equations", "(i) Rational functions", "of the form", "Q(x) =  ,g(x)  0. where g(x) and", "f(x) are", "polynomials. e.g. f:x", "(ii) Resolution of"], "parentId": 4, "subLabels": []}]}, {"id": 21, "text": "( 5) currencies", "descriptions": null, "parentId": -1, "subLabels": [{"id": 22, "text": "The gambia", "descriptions": ["\u2013 - - 100 cents (c) = 1 Liberian Dollar (LD) - 100 kobo (k) = 1 Naira (N) - 100 cents (c) = 1 Leone (Le) 100 pence (p) = 1 pound (\u00a3) 100 cents (c) = 1 dollar ($)"], "parentId": 21, "subLabels": []}, {"id": 23, "text": "Ghana", "descriptions": [], "parentId": 21, "subLabels": []}, {"id": 24, "text": "Liberia", "descriptions": [], "parentId": 21, "subLabels": []}, {"id": 25, "text": "Nigeria", "descriptions": [], "parentId": 21, "subLabels": []}, {"id": 26, "text": "Sierra leone", "descriptions": [], "parentId": 21, "subLabels": []}, {"id": 27, "text": "Uk ", "descriptions": [], "parentId": 21, "subLabels": []}, {"id": 28, "text": "Usa ", "descriptions": [], "parentId": 21, "subLabels": []}, {"id": 29, "text": "French speaking territories 100 centimes (c) = 1 franc (fr)", "descriptions": [], "parentId": 21, "subLabels": []}, {"id": 30, "text": "Any other units used will be defined", "descriptions": [], "parentId": 21, "subLabels": []}]}], "labels": [{"id": 4, "text": "Key:", "descriptions": null, "parentId": -1, "subLabels": [{"id": 5, "text": "I . pure mathematics", "descriptions": ["(i) Idea of a set", "defined by a property, Set notations and their meanings.", "(ii) Disjoint sets,", "Universal set and complement of set", "(iii) Venn diagrams,", "Use of sets", "And Venn", "diagrams to solve problems.", "(iv) Commutative", "and Associative laws, Distributive properties over union and intersection.", "Surds of the form  , a and a+b where a is rational, b is a positive integer and n is not a perfect square."], "parentId": 4, "subLabels": [{"id": 6, "text": "Sets", "descriptions": ["Properties: Closure, Commutativity, Associativity and Distributivity, Identity elements and inverses.", "(i) Rule of syntax: true or false", "statements, rule of logic applied to      arguments, implications and deductions.", "(ii) The truth table"], "parentId": 5, "subLabels": []}]}, {"id": 7, "text": "Surds", "descriptions": ["(i) Domain and co-", "domain of a function.", "(ii) One-to-one,", "onto, identity and constant mapping;"], "parentId": 4, "subLabels": []}, {"id": 8, "text": "Binary", "descriptions": [], "parentId": 4, "subLabels": []}, {"id": 9, "text": "Operations", "descriptions": ["(iii) Inverse of a", "function."], "parentId": 4, "subLabels": []}, {"id": 10, "text": "Logical", "descriptions": [], "parentId": 4, "subLabels": []}, {"id": 11, "text": "Reasoning", "descriptions": ["(iv) Composite of functions.", "(i) Linear Functions,", "Equations and Inequality"], "parentId": 4, "subLabels": []}, {"id": 12, "text": "Functions", "descriptions": ["(ii) Quadratic", "Functions, Equations and Inequalities"], "parentId": 4, "subLabels": []}, {"id": 13, "text": "Polynomial", "descriptions": [], "parentId": 4, "subLabels": []}, {"id": 14, "text": "Functions", "descriptions": ["(ii) Cubic Functions", "and Equations", "(i) Rational functions", "of the form", "Q(x) =  ,g(x)  0. where g(x) and", "f(x) are", "polynomials. e.g. f:x", "(ii) Resolution of"], "parentId": 4, "subLabels": []}]}, {"id": 21, "text": "( 5) currencies", "descriptions": null, "parentId": -1, "subLabels": [{"id": 22, "text": "The gambia", "descriptions": ["\u2013 - - 100 cents (c) = 1 Liberian Dollar (LD) - 100 kobo (k) = 1 Naira (N) - 100 cents (c) = 1 Leone (Le) 100 pence (p) = 1 pound (\u00a3) 100 cents (c) = 1 dollar ($)"], "parentId": 21, "subLabels": []}, {"id": 23, "text": "Ghana", "descriptions": [], "parentId": 21, "subLabels": []}, {"id": 24, "text": "Liberia", "descriptions": [], "parentId": 21, "subLabels": []}, {"id": 25, "text": "Nigeria", "descriptions": [], "parentId": 21, "subLabels": []}, {"id": 26, "text": "Sierra leone", "descriptions": [], "parentId": 21, "subLabels": []}, {"id": 27, "text": "Uk ", "descriptions": [], "parentId": 21, "subLabels": []}, {"id": 28, "text": "Usa ", "descriptions": [], "parentId": 21, "subLabels": []}, {"id": 29, "text": "French speaking territories 100 centimes (c) = 1 franc (fr)", "descriptions": [], "parentId": 21, "subLabels": []}, {"id": 30, "text": "Any other units used will be defined", "descriptions": [], "parentId": 21, "subLabels": []}]}, {"id": 5, "text": "I . pure mathematics", "descriptions": ["(i) Idea of a set", "defined by a property, Set notations and their meanings.", "(ii) Disjoint sets,", "Universal set and complement of set", "(iii) Venn diagrams,", "Use of sets", "And Venn", "diagrams to solve problems.", "(iv) Commutative", "and Associative laws, Distributive properties over union and intersection.", "Surds of the form  , a and a+b where a is rational, b is a positive integer and n is not a perfect square."], "parentId": 4, "subLabels": [{"id": 6, "text": "Sets", "descriptions": ["Properties: Closure, Commutativity, Associativity and Distributivity, Identity elements and inverses.", "(i) Rule of syntax: true or false", "statements, rule of logic applied to      arguments, implications and deductions.", "(ii) The truth table"], "parentId": 5, "subLabels": []}]}, {"id": 7, "text": "Surds", "descriptions": ["(i) Domain and co-", "domain of a function.", "(ii) One-to-one,", "onto, identity and constant mapping;"], "parentId": 4, "subLabels": []}, {"id": 8, "text": "Binary", "descriptions": [], "parentId": 4, "subLabels": []}, {"id": 9, "text": "Operations", "descriptions": ["(iii) Inverse of a", "function."], "parentId": 4, "subLabels": []}, {"id": 10, "text": "Logical", "descriptions": [], "parentId": 4, "subLabels": []}, {"id": 11, "text": "Reasoning", "descriptions": ["(iv) Composite of functions.", "(i) Linear Functions,", "Equations and Inequality"], "parentId": 4, "subLabels": []}, {"id": 12, "text": "Functions", "descriptions": ["(ii) Quadratic", "Functions, Equations and Inequalities"], "parentId": 4, "subLabels": []}, {"id": 13, "text": "Polynomial", "descriptions": [], "parentId": 4, "subLabels": []}, {"id": 14, "text": "Functions", "descriptions": ["(ii) Cubic Functions", "and Equations", "(i) Rational functions", "of the form", "Q(x) =  ,g(x)  0. where g(x) and", "f(x) are", "polynomials. e.g. f:x", "(ii) Resolution of"], "parentId": 4, "subLabels": []}, {"id": 22, "text": "The gambia", "descriptions": ["\u2013 - - 100 cents (c) = 1 Liberian Dollar (LD) - 100 kobo (k) = 1 Naira (N) - 100 cents (c) = 1 Leone (Le) 100 pence (p) = 1 pound (\u00a3) 100 cents (c) = 1 dollar ($)"], "parentId": 21, "subLabels": []}, {"id": 23, "text": "Ghana", "descriptions": [], "parentId": 21, "subLabels": []}, {"id": 24, "text": "Liberia", "descriptions": [], "parentId": 21, "subLabels": []}, {"id": 25, "text": "Nigeria", "descriptions": [], "parentId": 21, "subLabels": []}, {"id": 26, "text": "Sierra leone", "descriptions": [], "parentId": 21, "subLabels": []}, {"id": 27, "text": "Uk ", "descriptions": [], "parentId": 21, "subLabels": []}, {"id": 28, "text": "Usa ", "descriptions": [], "parentId": 21, "subLabels": []}, {"id": 29, "text": "French speaking territories 100 centimes (c) = 1 franc (fr)", "descriptions": [], "parentId": 21, "subLabels": []}, {"id": 30, "text": "Any other units used will be defined", "descriptions": [], "parentId": 21, "subLabels": []}, {"id": 6, "text": "Sets", "descriptions": ["Properties: Closure, Commutativity, Associativity and Distributivity, Identity elements and inverses.", "(i) Rule of syntax: true or false", "statements, rule of logic applied to      arguments, implications and deductions.", "(ii) The truth table"], "parentId": 5, "subLabels": []}]}
+{
+ "subject": "Further Mathematics or Mathematics Elective",
+ "Grade": "None",
+ "Curriculum": "NERDC",
+ "labelsTree": [
+  {
+   "id": 4,
+   "text": "Key:",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 5,
+     "text": "I . pure mathematics",
+     "descriptions": [
+      "(i) Idea of a set",
+      "defined by a property, Set notations and their meanings.",
+      "(ii) Disjoint sets,",
+      "Universal set and complement of set",
+      "(iii) Venn diagrams,",
+      "Use of sets",
+      "And Venn",
+      "diagrams to solve problems.",
+      "(iv) Commutative",
+      "and Associative laws, Distributive properties over union and intersection.",
+      "Surds of the form  , a and a+b where a is rational, b is a positive integer and n is not a perfect square."
+     ],
+     "parentId": 4,
+     "subLabels": [
+      {
+       "id": 6,
+       "text": "Sets",
+       "descriptions": [
+        "Properties: Closure, Commutativity, Associativity and Distributivity, Identity elements and inverses.",
+        "(i) Rule of syntax: true or false",
+        "statements, rule of logic applied to      arguments, implications and deductions.",
+        "(ii) The truth table"
+       ],
+       "parentId": 5,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 7,
+     "text": "Surds",
+     "descriptions": [
+      "(i) Domain and co-",
+      "domain of a function.",
+      "(ii) One-to-one,",
+      "onto, identity and constant mapping;"
+     ],
+     "parentId": 4,
+     "subLabels": []
+    },
+    {
+     "id": 8,
+     "text": "Binary",
+     "descriptions": [],
+     "parentId": 4,
+     "subLabels": []
+    },
+    {
+     "id": 9,
+     "text": "Operations",
+     "descriptions": [
+      "(iii) Inverse of a",
+      "function."
+     ],
+     "parentId": 4,
+     "subLabels": []
+    },
+    {
+     "id": 10,
+     "text": "Logical",
+     "descriptions": [],
+     "parentId": 4,
+     "subLabels": []
+    },
+    {
+     "id": 11,
+     "text": "Reasoning",
+     "descriptions": [
+      "(iv) Composite of functions.",
+      "(i) Linear Functions,",
+      "Equations and Inequality"
+     ],
+     "parentId": 4,
+     "subLabels": []
+    },
+    {
+     "id": 12,
+     "text": "Functions",
+     "descriptions": [
+      "(ii) Quadratic",
+      "Functions, Equations and Inequalities"
+     ],
+     "parentId": 4,
+     "subLabels": []
+    },
+    {
+     "id": 13,
+     "text": "Polynomial",
+     "descriptions": [],
+     "parentId": 4,
+     "subLabels": []
+    },
+    {
+     "id": 14,
+     "text": "Functions",
+     "descriptions": [
+      "(ii) Cubic Functions",
+      "and Equations",
+      "(i) Rational functions",
+      "of the form",
+      "Q(x) =  ,g(x)  0. where g(x) and",
+      "f(x) are",
+      "polynomials. e.g. f:x",
+      "(ii) Resolution of"
+     ],
+     "parentId": 4,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "text": "( 5) currencies",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 22,
+     "text": "The gambia",
+     "descriptions": [
+      "\u2013 - - 100 cents (c) = 1 Liberian Dollar (LD) - 100 kobo (k) = 1 Naira (N) - 100 cents (c) = 1 Leone (Le) 100 pence (p) = 1 pound (\u00a3) 100 cents (c) = 1 dollar ($)"
+     ],
+     "parentId": 21,
+     "subLabels": []
+    },
+    {
+     "id": 23,
+     "text": "Ghana",
+     "descriptions": [],
+     "parentId": 21,
+     "subLabels": []
+    },
+    {
+     "id": 24,
+     "text": "Liberia",
+     "descriptions": [],
+     "parentId": 21,
+     "subLabels": []
+    },
+    {
+     "id": 25,
+     "text": "Nigeria",
+     "descriptions": [],
+     "parentId": 21,
+     "subLabels": []
+    },
+    {
+     "id": 26,
+     "text": "Sierra leone",
+     "descriptions": [],
+     "parentId": 21,
+     "subLabels": []
+    },
+    {
+     "id": 27,
+     "text": "Uk ",
+     "descriptions": [],
+     "parentId": 21,
+     "subLabels": []
+    },
+    {
+     "id": 28,
+     "text": "Usa ",
+     "descriptions": [],
+     "parentId": 21,
+     "subLabels": []
+    },
+    {
+     "id": 29,
+     "text": "French speaking territories 100 centimes (c) = 1 franc (fr)",
+     "descriptions": [],
+     "parentId": 21,
+     "subLabels": []
+    },
+    {
+     "id": 30,
+     "text": "Any other units used will be defined",
+     "descriptions": [],
+     "parentId": 21,
+     "subLabels": []
+    }
+   ]
+  }
+ ],
+ "labels": [
+  {
+   "id": 4,
+   "text": "Key:",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 5,
+     "text": "I . pure mathematics",
+     "descriptions": [
+      "(i) Idea of a set",
+      "defined by a property, Set notations and their meanings.",
+      "(ii) Disjoint sets,",
+      "Universal set and complement of set",
+      "(iii) Venn diagrams,",
+      "Use of sets",
+      "And Venn",
+      "diagrams to solve problems.",
+      "(iv) Commutative",
+      "and Associative laws, Distributive properties over union and intersection.",
+      "Surds of the form  , a and a+b where a is rational, b is a positive integer and n is not a perfect square."
+     ],
+     "parentId": 4,
+     "subLabels": [
+      {
+       "id": 6,
+       "text": "Sets",
+       "descriptions": [
+        "Properties: Closure, Commutativity, Associativity and Distributivity, Identity elements and inverses.",
+        "(i) Rule of syntax: true or false",
+        "statements, rule of logic applied to      arguments, implications and deductions.",
+        "(ii) The truth table"
+       ],
+       "parentId": 5,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 7,
+     "text": "Surds",
+     "descriptions": [
+      "(i) Domain and co-",
+      "domain of a function.",
+      "(ii) One-to-one,",
+      "onto, identity and constant mapping;"
+     ],
+     "parentId": 4,
+     "subLabels": []
+    },
+    {
+     "id": 8,
+     "text": "Binary",
+     "descriptions": [],
+     "parentId": 4,
+     "subLabels": []
+    },
+    {
+     "id": 9,
+     "text": "Operations",
+     "descriptions": [
+      "(iii) Inverse of a",
+      "function."
+     ],
+     "parentId": 4,
+     "subLabels": []
+    },
+    {
+     "id": 10,
+     "text": "Logical",
+     "descriptions": [],
+     "parentId": 4,
+     "subLabels": []
+    },
+    {
+     "id": 11,
+     "text": "Reasoning",
+     "descriptions": [
+      "(iv) Composite of functions.",
+      "(i) Linear Functions,",
+      "Equations and Inequality"
+     ],
+     "parentId": 4,
+     "subLabels": []
+    },
+    {
+     "id": 12,
+     "text": "Functions",
+     "descriptions": [
+      "(ii) Quadratic",
+      "Functions, Equations and Inequalities"
+     ],
+     "parentId": 4,
+     "subLabels": []
+    },
+    {
+     "id": 13,
+     "text": "Polynomial",
+     "descriptions": [],
+     "parentId": 4,
+     "subLabels": []
+    },
+    {
+     "id": 14,
+     "text": "Functions",
+     "descriptions": [
+      "(ii) Cubic Functions",
+      "and Equations",
+      "(i) Rational functions",
+      "of the form",
+      "Q(x) =  ,g(x)  0. where g(x) and",
+      "f(x) are",
+      "polynomials. e.g. f:x",
+      "(ii) Resolution of"
+     ],
+     "parentId": 4,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "text": "( 5) currencies",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 22,
+     "text": "The gambia",
+     "descriptions": [
+      "\u2013 - - 100 cents (c) = 1 Liberian Dollar (LD) - 100 kobo (k) = 1 Naira (N) - 100 cents (c) = 1 Leone (Le) 100 pence (p) = 1 pound (\u00a3) 100 cents (c) = 1 dollar ($)"
+     ],
+     "parentId": 21,
+     "subLabels": []
+    },
+    {
+     "id": 23,
+     "text": "Ghana",
+     "descriptions": [],
+     "parentId": 21,
+     "subLabels": []
+    },
+    {
+     "id": 24,
+     "text": "Liberia",
+     "descriptions": [],
+     "parentId": 21,
+     "subLabels": []
+    },
+    {
+     "id": 25,
+     "text": "Nigeria",
+     "descriptions": [],
+     "parentId": 21,
+     "subLabels": []
+    },
+    {
+     "id": 26,
+     "text": "Sierra leone",
+     "descriptions": [],
+     "parentId": 21,
+     "subLabels": []
+    },
+    {
+     "id": 27,
+     "text": "Uk ",
+     "descriptions": [],
+     "parentId": 21,
+     "subLabels": []
+    },
+    {
+     "id": 28,
+     "text": "Usa ",
+     "descriptions": [],
+     "parentId": 21,
+     "subLabels": []
+    },
+    {
+     "id": 29,
+     "text": "French speaking territories 100 centimes (c) = 1 franc (fr)",
+     "descriptions": [],
+     "parentId": 21,
+     "subLabels": []
+    },
+    {
+     "id": 30,
+     "text": "Any other units used will be defined",
+     "descriptions": [],
+     "parentId": 21,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "text": "I . pure mathematics",
+   "descriptions": [
+    "(i) Idea of a set",
+    "defined by a property, Set notations and their meanings.",
+    "(ii) Disjoint sets,",
+    "Universal set and complement of set",
+    "(iii) Venn diagrams,",
+    "Use of sets",
+    "And Venn",
+    "diagrams to solve problems.",
+    "(iv) Commutative",
+    "and Associative laws, Distributive properties over union and intersection.",
+    "Surds of the form  , a and a+b where a is rational, b is a positive integer and n is not a perfect square."
+   ],
+   "parentId": 4,
+   "subLabels": [
+    {
+     "id": 6,
+     "text": "Sets",
+     "descriptions": [
+      "Properties: Closure, Commutativity, Associativity and Distributivity, Identity elements and inverses.",
+      "(i) Rule of syntax: true or false",
+      "statements, rule of logic applied to      arguments, implications and deductions.",
+      "(ii) The truth table"
+     ],
+     "parentId": 5,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "text": "Surds",
+   "descriptions": [
+    "(i) Domain and co-",
+    "domain of a function.",
+    "(ii) One-to-one,",
+    "onto, identity and constant mapping;"
+   ],
+   "parentId": 4,
+   "subLabels": []
+  },
+  {
+   "id": 8,
+   "text": "Binary",
+   "descriptions": [],
+   "parentId": 4,
+   "subLabels": []
+  },
+  {
+   "id": 9,
+   "text": "Operations",
+   "descriptions": [
+    "(iii) Inverse of a",
+    "function."
+   ],
+   "parentId": 4,
+   "subLabels": []
+  },
+  {
+   "id": 10,
+   "text": "Logical",
+   "descriptions": [],
+   "parentId": 4,
+   "subLabels": []
+  },
+  {
+   "id": 11,
+   "text": "Reasoning",
+   "descriptions": [
+    "(iv) Composite of functions.",
+    "(i) Linear Functions,",
+    "Equations and Inequality"
+   ],
+   "parentId": 4,
+   "subLabels": []
+  },
+  {
+   "id": 12,
+   "text": "Functions",
+   "descriptions": [
+    "(ii) Quadratic",
+    "Functions, Equations and Inequalities"
+   ],
+   "parentId": 4,
+   "subLabels": []
+  },
+  {
+   "id": 13,
+   "text": "Polynomial",
+   "descriptions": [],
+   "parentId": 4,
+   "subLabels": []
+  },
+  {
+   "id": 14,
+   "text": "Functions",
+   "descriptions": [
+    "(ii) Cubic Functions",
+    "and Equations",
+    "(i) Rational functions",
+    "of the form",
+    "Q(x) =  ,g(x)  0. where g(x) and",
+    "f(x) are",
+    "polynomials. e.g. f:x",
+    "(ii) Resolution of"
+   ],
+   "parentId": 4,
+   "subLabels": []
+  },
+  {
+   "id": 22,
+   "text": "The gambia",
+   "descriptions": [
+    "\u2013 - - 100 cents (c) = 1 Liberian Dollar (LD) - 100 kobo (k) = 1 Naira (N) - 100 cents (c) = 1 Leone (Le) 100 pence (p) = 1 pound (\u00a3) 100 cents (c) = 1 dollar ($)"
+   ],
+   "parentId": 21,
+   "subLabels": []
+  },
+  {
+   "id": 23,
+   "text": "Ghana",
+   "descriptions": [],
+   "parentId": 21,
+   "subLabels": []
+  },
+  {
+   "id": 24,
+   "text": "Liberia",
+   "descriptions": [],
+   "parentId": 21,
+   "subLabels": []
+  },
+  {
+   "id": 25,
+   "text": "Nigeria",
+   "descriptions": [],
+   "parentId": 21,
+   "subLabels": []
+  },
+  {
+   "id": 26,
+   "text": "Sierra leone",
+   "descriptions": [],
+   "parentId": 21,
+   "subLabels": []
+  },
+  {
+   "id": 27,
+   "text": "Uk ",
+   "descriptions": [],
+   "parentId": 21,
+   "subLabels": []
+  },
+  {
+   "id": 28,
+   "text": "Usa ",
+   "descriptions": [],
+   "parentId": 21,
+   "subLabels": []
+  },
+  {
+   "id": 29,
+   "text": "French speaking territories 100 centimes (c) = 1 franc (fr)",
+   "descriptions": [],
+   "parentId": 21,
+   "subLabels": []
+  },
+  {
+   "id": 30,
+   "text": "Any other units used will be defined",
+   "descriptions": [],
+   "parentId": 21,
+   "subLabels": []
+  },
+  {
+   "id": 6,
+   "text": "Sets",
+   "descriptions": [
+    "Properties: Closure, Commutativity, Associativity and Distributivity, Identity elements and inverses.",
+    "(i) Rule of syntax: true or false",
+    "statements, rule of logic applied to      arguments, implications and deductions.",
+    "(ii) The truth table"
+   ],
+   "parentId": 5,
+   "subLabels": []
+  }
+ ]
+}

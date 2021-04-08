@@ -1,1 +1,794 @@
-{"subject": "Auto Mechanical Work", "Grade": "None", "Curriculum": "NERDC", "labelsTree": [{"id": 4, "text": "S/no. topics notes", "descriptions": null, "parentId": -1, "subLabels": [{"id": 5, "text": "13", "descriptions": ["Workshop management and enterprise"], "parentId": 4, "subLabels": []}]}, {"id": 9, "text": "Measuring tools", "descriptions": null, "parentId": -1, "subLabels": [{"id": 10, "text": "18 tyre pressure gauges 19 vernier caliper 20 surface gauges 21 surface plates 22 vee blocks 23 micrometer  screw gauge 24 dial gauge indicator with magnetic stand", "descriptions": ["5 5 5 1 6 5 2"], "parentId": 9, "subLabels": []}]}, {"id": 11, "text": "Machine tools", "descriptions": null, "parentId": -1, "subLabels": [{"id": 12, "text": "25 grinding machine with assorted wheels 26 bench grinder with wheels 27 valve grinding machine", "descriptions": ["1 1 1"], "parentId": 11, "subLabels": []}]}, {"id": 13, "text": "Joining metals", "descriptions": null, "parentId": -1, "subLabels": [{"id": 14, "text": "28 blow lamps 29 soldering iron", "descriptions": ["3 5"], "parentId": 13, "subLabels": []}]}, {"id": 15, "text": "Lubrication bay/tyre and wheel service", "descriptions": null, "parentId": -1, "subLabels": [{"id": 16, "text": "30 compressor (single phase motor driven type complete with spray gun, grease, hose) 31 wheel balancing machine (rim 13 \u2013 15) 32 portable tyre inflator 33 master vulcanizer 34 tyre changer complete with bead breaker 35 tyre repair kit comprising rasp, scissors, tyre knife, sticher, wire brush, etc 36 service station set of tool kit, plus special tools for removal of oil filter 37 pipe wrench, clamp/vice 38 wheel alignment gauge 39 clutch alignment jig 40 injector test machine 41 pullersof different sizes 42 work bench with vices 43 portable engine hoist", "descriptions": ["1 1 1 1 1 2 sets 2 sets 2 sets 1 set 2 1 2 2 1"], "parentId": 15, "subLabels": []}]}, {"id": 17, "text": "General/servicing and reconditioning", "descriptions": null, "parentId": -1, "subLabels": [{"id": 18, "text": "44 bottle jack (hydraulic) light and heavy 45 used vehicle tyres 46 trolley jacks 47 timing light 48 inspection pits 49 compression gauge 50 valve spring compressor (clamp) 51 coil spring compressor (for suspension) 52 torque wrench pre-set type 53 torque wrench dial type", "descriptions": ["1 1 2 1 1 2 2 2 2 2"], "parentId": 17, "subLabels": []}]}, {"id": 19, "text": "Tools/equipment", "descriptions": null, "parentId": -1, "subLabels": [{"id": 20, "text": "54 piston ring compressor expander 55 axle stands 56 diagnostic testing machine (exhaust gas analyzer)", "descriptions": ["2 5 1"], "parentId": 19, "subLabels": []}]}, {"id": 21, "text": "Other utilities", "descriptions": null, "parentId": -1, "subLabels": [{"id": 22, "text": "57 fire extinguisher 58 sand buckets 59 water buckets 60 complete engine,gearbox and final drive 61 workshop overalls 62 complete vehicle engine (petrol) (chart) 63 complete vehicle engine (diesel) (chart) 64 complete vehicle and chart", "descriptions": ["5 5 5 1 25 1 1 1"], "parentId": 21, "subLabels": []}]}, {"id": 23, "text": "Suggested reading list", "descriptions": null, "parentId": -1, "subLabels": [{"id": 24, "text": "S/n tittle 1 motor vehicle technology 2 motor vehicle technology (part 1,2,3 & 4) 3 automotive mechanics 4 fundamental of motor vehicle technology 5 automotive mechanics for schools and colleges 6 the automobile", "descriptions": ["AUTHOR", "J.A.DOLAN", "S.C .MUDD", "WILLIAM H.CROUSE and DONALD L. ANGLIN", "V.A.W HILLIER and PETER COOMBES", "ABA .N.EJEMBI and STEPHEN DAVID", "HARBANS SINGH REYAT"], "parentId": 23, "subLabels": []}]}], "labels": [{"id": 8, "text": "1. battery", "descriptions": null, "parentId": -1, "subLabels": [{"id": 9, "text": "1.5 testing and maintenance", "descriptions": ["Concept of battery", "Uses of battery", "Types, Constructional details and ratings", "Charging", "Definition, distinction between motor vehicle battery and other batteries", "Treatment should include vehicle battery assembly and as power source in soldering", "Lead-acid and Nickel-alkaline types", "Safety rules Electrolyte preparation Battery cleaning and connection Charging mode"], "parentId": 8, "subLabels": []}]}, {"id": 10, "text": "2. starting system", "descriptions": null, "parentId": -1, "subLabels": [{"id": 11, "text": "2.1 purpose and components of starting system", "descriptions": ["Safety rules Electrolyte preparation Battery cleaning and connection Charging mode State of charge Treatment should include electrolyte testing", "Specific gravity test of electrolyte Cell voltage and polarity tests Tools and equipment Treatment should include electrolyte topping up, hydrometer reading and interpretation, over-charging symptoms and idle-battery safe-keeping hint"], "parentId": 10, "subLabels": []}, {"id": 12, "text": "2.2 circuit diagram", "descriptions": [], "parentId": 10, "subLabels": []}, {"id": 13, "text": "2.3 types of starter motor", "descriptions": ["Treatment should include battery, flywheel, starter motor, switch and solenoid", "Drawing and reading of circuit diagram Treatment should include the location of the components and their sequential arrangement  in a vehicle."], "parentId": 10, "subLabels": []}, {"id": 14, "text": "2.4 repair of starter motors", "descriptions": ["Axial and Inertia. Treatment should include pinion engagements", "Dismantling and assembling Bushing and brush replacement Commutator soldering/repair"], "parentId": 10, "subLabels": []}]}, {"id": 16, "text": "System", "descriptions": null, "parentId": -1, "subLabels": [{"id": 17, "text": "3.1 purpose and components of ignition system", "descriptions": ["Treatment should include armature servicing, diagnosis and repairs/restoration"], "parentId": 16, "subLabels": []}, {"id": 18, "text": "3.2 circuit", "descriptions": [], "parentId": 16, "subLabels": []}, {"id": 19, "text": "Diagram", "descriptions": [], "parentId": 16, "subLabels": [{"id": 20, "text": "3.3 construction", "descriptions": [], "parentId": 19, "subLabels": []}]}, {"id": 21, "text": "And operation of ignition coil", "descriptions": [], "parentId": 16, "subLabels": [{"id": 22, "text": "3.4 types of ignition system", "descriptions": [], "parentId": 21, "subLabels": []}, {"id": 23, "text": "3.5 timing", "descriptions": [], "parentId": 21, "subLabels": []}, {"id": 24, "text": "3.6 faults and repairs", "descriptions": [], "parentId": 21, "subLabels": []}]}]}, {"id": 25, "text": "4. charging system", "descriptions": null, "parentId": -1, "subLabels": [{"id": 26, "text": "4.1 purpose and components of charging system", "descriptions": ["motor vehicle Treatment should include  switch, battery, cables, alternators, voltage regulators.", "Constructional details Conversion of a.c. to d.c.(rectification) Function of each part of an alternator", "Drawing and reading of circuit diagram Treatment should include graphical and pictorial representation, need for diagrammatic representation and how to remove and fix the charging system units"], "parentId": 25, "subLabels": []}, {"id": 27, "text": "4.2 alternator", "descriptions": [], "parentId": 25, "subLabels": [{"id": 28, "text": "4.3 circuit diagram", "descriptions": ["Brush and Bearing replacement Diode testing, repair and replacement Treatment should include bearing seizure, charging failure etc."], "parentId": 27, "subLabels": []}, {"id": 29, "text": "4.4 faults and repairs", "descriptions": ["Obligatory and non-obligatory lights", "Types Features Setting of head lamps", "Classification, drawing and reading of circuit diagram"], "parentId": 27, "subLabels": []}]}]}, {"id": 31, "text": "System", "descriptions": null, "parentId": -1, "subLabels": [{"id": 32, "text": "5.1 purpose and classification of lighting in a", "descriptions": ["Trouble shooting Treatment should include tools, equipment and procedures for repairing faults such as broken headlamp lens, bulb failure, non-aligned headlamps, open and short circuits etc."], "parentId": 31, "subLabels": []}, {"id": 33, "text": "Motor vehicle", "descriptions": ["Definition, uses and units Treatment should include needs for auxiliary system"], "parentId": 31, "subLabels": [{"id": 34, "text": "5.2 head lamps", "descriptions": ["Treatment should include water temperature gauge, oil pressure gauge, fuel gauge, horn relay, wiper switch, screen watcher pump, indicator and door switch"], "parentId": 33, "subLabels": []}, {"id": 35, "text": "5.3 circuit", "descriptions": [], "parentId": 33, "subLabels": []}]}, {"id": 36, "text": "Diagram", "descriptions": ["Troubleshooting"], "parentId": 31, "subLabels": [{"id": 37, "text": "5.4 maintenance", "descriptions": ["Treatment should include tools and equipment and Procedures for repairs of faults such as the failure of horn, screen wiper, oil pressure gauge, fuel gauge etc."], "parentId": 36, "subLabels": []}]}, {"id": 38, "text": "And repairs", "descriptions": [], "parentId": 31, "subLabels": []}]}, {"id": 40, "text": "System", "descriptions": null, "parentId": -1, "subLabels": [{"id": 41, "text": "6.1 concept and components of auxiliary system", "descriptions": [], "parentId": 40, "subLabels": []}, {"id": 42, "text": "6.2 constructional", "descriptions": [], "parentId": 40, "subLabels": []}, {"id": 43, "text": "Details and operation of auxiliary system component", "descriptions": [], "parentId": 40, "subLabels": [{"id": 44, "text": "6.3 maintenance", "descriptions": [], "parentId": 43, "subLabels": []}]}, {"id": 45, "text": "And repairs of auxiliary components", "descriptions": [], "parentId": 40, "subLabels": []}]}, {"id": 9, "text": "1.5 testing and maintenance", "descriptions": ["Concept of battery", "Uses of battery", "Types, Constructional details and ratings", "Charging", "Definition, distinction between motor vehicle battery and other batteries", "Treatment should include vehicle battery assembly and as power source in soldering", "Lead-acid and Nickel-alkaline types", "Safety rules Electrolyte preparation Battery cleaning and connection Charging mode"], "parentId": 8, "subLabels": []}, {"id": 11, "text": "2.1 purpose and components of starting system", "descriptions": ["Safety rules Electrolyte preparation Battery cleaning and connection Charging mode State of charge Treatment should include electrolyte testing", "Specific gravity test of electrolyte Cell voltage and polarity tests Tools and equipment Treatment should include electrolyte topping up, hydrometer reading and interpretation, over-charging symptoms and idle-battery safe-keeping hint"], "parentId": 10, "subLabels": []}, {"id": 12, "text": "2.2 circuit diagram", "descriptions": [], "parentId": 10, "subLabels": []}, {"id": 13, "text": "2.3 types of starter motor", "descriptions": ["Treatment should include battery, flywheel, starter motor, switch and solenoid", "Drawing and reading of circuit diagram Treatment should include the location of the components and their sequential arrangement  in a vehicle."], "parentId": 10, "subLabels": []}, {"id": 14, "text": "2.4 repair of starter motors", "descriptions": ["Axial and Inertia. Treatment should include pinion engagements", "Dismantling and assembling Bushing and brush replacement Commutator soldering/repair"], "parentId": 10, "subLabels": []}, {"id": 17, "text": "3.1 purpose and components of ignition system", "descriptions": ["Treatment should include armature servicing, diagnosis and repairs/restoration"], "parentId": 16, "subLabels": []}, {"id": 18, "text": "3.2 circuit", "descriptions": [], "parentId": 16, "subLabels": []}, {"id": 19, "text": "Diagram", "descriptions": [], "parentId": 16, "subLabels": [{"id": 20, "text": "3.3 construction", "descriptions": [], "parentId": 19, "subLabels": []}]}, {"id": 21, "text": "And operation of ignition coil", "descriptions": [], "parentId": 16, "subLabels": [{"id": 22, "text": "3.4 types of ignition system", "descriptions": [], "parentId": 21, "subLabels": []}, {"id": 23, "text": "3.5 timing", "descriptions": [], "parentId": 21, "subLabels": []}, {"id": 24, "text": "3.6 faults and repairs", "descriptions": [], "parentId": 21, "subLabels": []}]}, {"id": 26, "text": "4.1 purpose and components of charging system", "descriptions": ["motor vehicle Treatment should include  switch, battery, cables, alternators, voltage regulators.", "Constructional details Conversion of a.c. to d.c.(rectification) Function of each part of an alternator", "Drawing and reading of circuit diagram Treatment should include graphical and pictorial representation, need for diagrammatic representation and how to remove and fix the charging system units"], "parentId": 25, "subLabels": []}, {"id": 27, "text": "4.2 alternator", "descriptions": [], "parentId": 25, "subLabels": [{"id": 28, "text": "4.3 circuit diagram", "descriptions": ["Brush and Bearing replacement Diode testing, repair and replacement Treatment should include bearing seizure, charging failure etc."], "parentId": 27, "subLabels": []}, {"id": 29, "text": "4.4 faults and repairs", "descriptions": ["Obligatory and non-obligatory lights", "Types Features Setting of head lamps", "Classification, drawing and reading of circuit diagram"], "parentId": 27, "subLabels": []}]}, {"id": 32, "text": "5.1 purpose and classification of lighting in a", "descriptions": ["Trouble shooting Treatment should include tools, equipment and procedures for repairing faults such as broken headlamp lens, bulb failure, non-aligned headlamps, open and short circuits etc."], "parentId": 31, "subLabels": []}, {"id": 33, "text": "Motor vehicle", "descriptions": ["Definition, uses and units Treatment should include needs for auxiliary system"], "parentId": 31, "subLabels": [{"id": 34, "text": "5.2 head lamps", "descriptions": ["Treatment should include water temperature gauge, oil pressure gauge, fuel gauge, horn relay, wiper switch, screen watcher pump, indicator and door switch"], "parentId": 33, "subLabels": []}, {"id": 35, "text": "5.3 circuit", "descriptions": [], "parentId": 33, "subLabels": []}]}, {"id": 36, "text": "Diagram", "descriptions": ["Troubleshooting"], "parentId": 31, "subLabels": [{"id": 37, "text": "5.4 maintenance", "descriptions": ["Treatment should include tools and equipment and Procedures for repairs of faults such as the failure of horn, screen wiper, oil pressure gauge, fuel gauge etc."], "parentId": 36, "subLabels": []}]}, {"id": 38, "text": "And repairs", "descriptions": [], "parentId": 31, "subLabels": []}, {"id": 41, "text": "6.1 concept and components of auxiliary system", "descriptions": [], "parentId": 40, "subLabels": []}, {"id": 42, "text": "6.2 constructional", "descriptions": [], "parentId": 40, "subLabels": []}, {"id": 43, "text": "Details and operation of auxiliary system component", "descriptions": [], "parentId": 40, "subLabels": [{"id": 44, "text": "6.3 maintenance", "descriptions": [], "parentId": 43, "subLabels": []}]}, {"id": 45, "text": "And repairs of auxiliary components", "descriptions": [], "parentId": 40, "subLabels": []}, {"id": 20, "text": "3.3 construction", "descriptions": [], "parentId": 19, "subLabels": []}, {"id": 22, "text": "3.4 types of ignition system", "descriptions": [], "parentId": 21, "subLabels": []}, {"id": 23, "text": "3.5 timing", "descriptions": [], "parentId": 21, "subLabels": []}, {"id": 24, "text": "3.6 faults and repairs", "descriptions": [], "parentId": 21, "subLabels": []}, {"id": 28, "text": "4.3 circuit diagram", "descriptions": ["Brush and Bearing replacement Diode testing, repair and replacement Treatment should include bearing seizure, charging failure etc."], "parentId": 27, "subLabels": []}, {"id": 29, "text": "4.4 faults and repairs", "descriptions": ["Obligatory and non-obligatory lights", "Types Features Setting of head lamps", "Classification, drawing and reading of circuit diagram"], "parentId": 27, "subLabels": []}, {"id": 34, "text": "5.2 head lamps", "descriptions": ["Treatment should include water temperature gauge, oil pressure gauge, fuel gauge, horn relay, wiper switch, screen watcher pump, indicator and door switch"], "parentId": 33, "subLabels": []}, {"id": 35, "text": "5.3 circuit", "descriptions": [], "parentId": 33, "subLabels": []}, {"id": 37, "text": "5.4 maintenance", "descriptions": ["Treatment should include tools and equipment and Procedures for repairs of faults such as the failure of horn, screen wiper, oil pressure gauge, fuel gauge etc."], "parentId": 36, "subLabels": []}, {"id": 44, "text": "6.3 maintenance", "descriptions": [], "parentId": 43, "subLabels": []}]}
+{
+ "subject": "Auto Mechanical Work",
+ "Grade": "None",
+ "Curriculum": "NERDC",
+ "labelsTree": [
+  {
+   "id": 4,
+   "text": "S/no. topics notes",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 5,
+     "text": "13",
+     "descriptions": [
+      "Workshop management and enterprise"
+     ],
+     "parentId": 4,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "text": "Measuring tools",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 10,
+     "text": "18 tyre pressure gauges 19 vernier caliper 20 surface gauges 21 surface plates 22 vee blocks 23 micrometer  screw gauge 24 dial gauge indicator with magnetic stand",
+     "descriptions": [
+      "5 5 5 1 6 5 2"
+     ],
+     "parentId": 9,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "text": "Machine tools",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 12,
+     "text": "25 grinding machine with assorted wheels 26 bench grinder with wheels 27 valve grinding machine",
+     "descriptions": [
+      "1 1 1"
+     ],
+     "parentId": 11,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "text": "Joining metals",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 14,
+     "text": "28 blow lamps 29 soldering iron",
+     "descriptions": [
+      "3 5"
+     ],
+     "parentId": 13,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "text": "Lubrication bay/tyre and wheel service",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 16,
+     "text": "30 compressor (single phase motor driven type complete with spray gun, grease, hose) 31 wheel balancing machine (rim 13 \u2013 15) 32 portable tyre inflator 33 master vulcanizer 34 tyre changer complete with bead breaker 35 tyre repair kit comprising rasp, scissors, tyre knife, sticher, wire brush, etc 36 service station set of tool kit, plus special tools for removal of oil filter 37 pipe wrench, clamp/vice 38 wheel alignment gauge 39 clutch alignment jig 40 injector test machine 41 pullersof different sizes 42 work bench with vices 43 portable engine hoist",
+     "descriptions": [
+      "1 1 1 1 1 2 sets 2 sets 2 sets 1 set 2 1 2 2 1"
+     ],
+     "parentId": 15,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "text": "General/servicing and reconditioning",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 18,
+     "text": "44 bottle jack (hydraulic) light and heavy 45 used vehicle tyres 46 trolley jacks 47 timing light 48 inspection pits 49 compression gauge 50 valve spring compressor (clamp) 51 coil spring compressor (for suspension) 52 torque wrench pre-set type 53 torque wrench dial type",
+     "descriptions": [
+      "1 1 2 1 1 2 2 2 2 2"
+     ],
+     "parentId": 17,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "text": "Tools/equipment",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 20,
+     "text": "54 piston ring compressor expander 55 axle stands 56 diagnostic testing machine (exhaust gas analyzer)",
+     "descriptions": [
+      "2 5 1"
+     ],
+     "parentId": 19,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "text": "Other utilities",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 22,
+     "text": "57 fire extinguisher 58 sand buckets 59 water buckets 60 complete engine,gearbox and final drive 61 workshop overalls 62 complete vehicle engine (petrol) (chart) 63 complete vehicle engine (diesel) (chart) 64 complete vehicle and chart",
+     "descriptions": [
+      "5 5 5 1 25 1 1 1"
+     ],
+     "parentId": 21,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "text": "Suggested reading list",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 24,
+     "text": "S/n tittle 1 motor vehicle technology 2 motor vehicle technology (part 1,2,3 & 4) 3 automotive mechanics 4 fundamental of motor vehicle technology 5 automotive mechanics for schools and colleges 6 the automobile",
+     "descriptions": [
+      "AUTHOR",
+      "J.A.DOLAN",
+      "S.C .MUDD",
+      "WILLIAM H.CROUSE and DONALD L. ANGLIN",
+      "V.A.W HILLIER and PETER COOMBES",
+      "ABA .N.EJEMBI and STEPHEN DAVID",
+      "HARBANS SINGH REYAT"
+     ],
+     "parentId": 23,
+     "subLabels": []
+    }
+   ]
+  }
+ ],
+ "labels": [
+  {
+   "id": 8,
+   "text": "1. battery",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 9,
+     "text": "1.5 testing and maintenance",
+     "descriptions": [
+      "Concept of battery",
+      "Uses of battery",
+      "Types, Constructional details and ratings",
+      "Charging",
+      "Definition, distinction between motor vehicle battery and other batteries",
+      "Treatment should include vehicle battery assembly and as power source in soldering",
+      "Lead-acid and Nickel-alkaline types",
+      "Safety rules Electrolyte preparation Battery cleaning and connection Charging mode"
+     ],
+     "parentId": 8,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "text": "2. starting system",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 11,
+     "text": "2.1 purpose and components of starting system",
+     "descriptions": [
+      "Safety rules Electrolyte preparation Battery cleaning and connection Charging mode State of charge Treatment should include electrolyte testing",
+      "Specific gravity test of electrolyte Cell voltage and polarity tests Tools and equipment Treatment should include electrolyte topping up, hydrometer reading and interpretation, over-charging symptoms and idle-battery safe-keeping hint"
+     ],
+     "parentId": 10,
+     "subLabels": []
+    },
+    {
+     "id": 12,
+     "text": "2.2 circuit diagram",
+     "descriptions": [],
+     "parentId": 10,
+     "subLabels": []
+    },
+    {
+     "id": 13,
+     "text": "2.3 types of starter motor",
+     "descriptions": [
+      "Treatment should include battery, flywheel, starter motor, switch and solenoid",
+      "Drawing and reading of circuit diagram Treatment should include the location of the components and their sequential arrangement  in a vehicle."
+     ],
+     "parentId": 10,
+     "subLabels": []
+    },
+    {
+     "id": 14,
+     "text": "2.4 repair of starter motors",
+     "descriptions": [
+      "Axial and Inertia. Treatment should include pinion engagements",
+      "Dismantling and assembling Bushing and brush replacement Commutator soldering/repair"
+     ],
+     "parentId": 10,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "text": "System",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 17,
+     "text": "3.1 purpose and components of ignition system",
+     "descriptions": [
+      "Treatment should include armature servicing, diagnosis and repairs/restoration"
+     ],
+     "parentId": 16,
+     "subLabels": []
+    },
+    {
+     "id": 18,
+     "text": "3.2 circuit",
+     "descriptions": [],
+     "parentId": 16,
+     "subLabels": []
+    },
+    {
+     "id": 19,
+     "text": "Diagram",
+     "descriptions": [],
+     "parentId": 16,
+     "subLabels": [
+      {
+       "id": 20,
+       "text": "3.3 construction",
+       "descriptions": [],
+       "parentId": 19,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 21,
+     "text": "And operation of ignition coil",
+     "descriptions": [],
+     "parentId": 16,
+     "subLabels": [
+      {
+       "id": 22,
+       "text": "3.4 types of ignition system",
+       "descriptions": [],
+       "parentId": 21,
+       "subLabels": []
+      },
+      {
+       "id": 23,
+       "text": "3.5 timing",
+       "descriptions": [],
+       "parentId": 21,
+       "subLabels": []
+      },
+      {
+       "id": 24,
+       "text": "3.6 faults and repairs",
+       "descriptions": [],
+       "parentId": 21,
+       "subLabels": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "text": "4. charging system",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 26,
+     "text": "4.1 purpose and components of charging system",
+     "descriptions": [
+      "motor vehicle Treatment should include  switch, battery, cables, alternators, voltage regulators.",
+      "Constructional details Conversion of a.c. to d.c.(rectification) Function of each part of an alternator",
+      "Drawing and reading of circuit diagram Treatment should include graphical and pictorial representation, need for diagrammatic representation and how to remove and fix the charging system units"
+     ],
+     "parentId": 25,
+     "subLabels": []
+    },
+    {
+     "id": 27,
+     "text": "4.2 alternator",
+     "descriptions": [],
+     "parentId": 25,
+     "subLabels": [
+      {
+       "id": 28,
+       "text": "4.3 circuit diagram",
+       "descriptions": [
+        "Brush and Bearing replacement Diode testing, repair and replacement Treatment should include bearing seizure, charging failure etc."
+       ],
+       "parentId": 27,
+       "subLabels": []
+      },
+      {
+       "id": 29,
+       "text": "4.4 faults and repairs",
+       "descriptions": [
+        "Obligatory and non-obligatory lights",
+        "Types Features Setting of head lamps",
+        "Classification, drawing and reading of circuit diagram"
+       ],
+       "parentId": 27,
+       "subLabels": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 31,
+   "text": "System",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 32,
+     "text": "5.1 purpose and classification of lighting in a",
+     "descriptions": [
+      "Trouble shooting Treatment should include tools, equipment and procedures for repairing faults such as broken headlamp lens, bulb failure, non-aligned headlamps, open and short circuits etc."
+     ],
+     "parentId": 31,
+     "subLabels": []
+    },
+    {
+     "id": 33,
+     "text": "Motor vehicle",
+     "descriptions": [
+      "Definition, uses and units Treatment should include needs for auxiliary system"
+     ],
+     "parentId": 31,
+     "subLabels": [
+      {
+       "id": 34,
+       "text": "5.2 head lamps",
+       "descriptions": [
+        "Treatment should include water temperature gauge, oil pressure gauge, fuel gauge, horn relay, wiper switch, screen watcher pump, indicator and door switch"
+       ],
+       "parentId": 33,
+       "subLabels": []
+      },
+      {
+       "id": 35,
+       "text": "5.3 circuit",
+       "descriptions": [],
+       "parentId": 33,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 36,
+     "text": "Diagram",
+     "descriptions": [
+      "Troubleshooting"
+     ],
+     "parentId": 31,
+     "subLabels": [
+      {
+       "id": 37,
+       "text": "5.4 maintenance",
+       "descriptions": [
+        "Treatment should include tools and equipment and Procedures for repairs of faults such as the failure of horn, screen wiper, oil pressure gauge, fuel gauge etc."
+       ],
+       "parentId": 36,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 38,
+     "text": "And repairs",
+     "descriptions": [],
+     "parentId": 31,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 40,
+   "text": "System",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 41,
+     "text": "6.1 concept and components of auxiliary system",
+     "descriptions": [],
+     "parentId": 40,
+     "subLabels": []
+    },
+    {
+     "id": 42,
+     "text": "6.2 constructional",
+     "descriptions": [],
+     "parentId": 40,
+     "subLabels": []
+    },
+    {
+     "id": 43,
+     "text": "Details and operation of auxiliary system component",
+     "descriptions": [],
+     "parentId": 40,
+     "subLabels": [
+      {
+       "id": 44,
+       "text": "6.3 maintenance",
+       "descriptions": [],
+       "parentId": 43,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 45,
+     "text": "And repairs of auxiliary components",
+     "descriptions": [],
+     "parentId": 40,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "text": "1.5 testing and maintenance",
+   "descriptions": [
+    "Concept of battery",
+    "Uses of battery",
+    "Types, Constructional details and ratings",
+    "Charging",
+    "Definition, distinction between motor vehicle battery and other batteries",
+    "Treatment should include vehicle battery assembly and as power source in soldering",
+    "Lead-acid and Nickel-alkaline types",
+    "Safety rules Electrolyte preparation Battery cleaning and connection Charging mode"
+   ],
+   "parentId": 8,
+   "subLabels": []
+  },
+  {
+   "id": 11,
+   "text": "2.1 purpose and components of starting system",
+   "descriptions": [
+    "Safety rules Electrolyte preparation Battery cleaning and connection Charging mode State of charge Treatment should include electrolyte testing",
+    "Specific gravity test of electrolyte Cell voltage and polarity tests Tools and equipment Treatment should include electrolyte topping up, hydrometer reading and interpretation, over-charging symptoms and idle-battery safe-keeping hint"
+   ],
+   "parentId": 10,
+   "subLabels": []
+  },
+  {
+   "id": 12,
+   "text": "2.2 circuit diagram",
+   "descriptions": [],
+   "parentId": 10,
+   "subLabels": []
+  },
+  {
+   "id": 13,
+   "text": "2.3 types of starter motor",
+   "descriptions": [
+    "Treatment should include battery, flywheel, starter motor, switch and solenoid",
+    "Drawing and reading of circuit diagram Treatment should include the location of the components and their sequential arrangement  in a vehicle."
+   ],
+   "parentId": 10,
+   "subLabels": []
+  },
+  {
+   "id": 14,
+   "text": "2.4 repair of starter motors",
+   "descriptions": [
+    "Axial and Inertia. Treatment should include pinion engagements",
+    "Dismantling and assembling Bushing and brush replacement Commutator soldering/repair"
+   ],
+   "parentId": 10,
+   "subLabels": []
+  },
+  {
+   "id": 17,
+   "text": "3.1 purpose and components of ignition system",
+   "descriptions": [
+    "Treatment should include armature servicing, diagnosis and repairs/restoration"
+   ],
+   "parentId": 16,
+   "subLabels": []
+  },
+  {
+   "id": 18,
+   "text": "3.2 circuit",
+   "descriptions": [],
+   "parentId": 16,
+   "subLabels": []
+  },
+  {
+   "id": 19,
+   "text": "Diagram",
+   "descriptions": [],
+   "parentId": 16,
+   "subLabels": [
+    {
+     "id": 20,
+     "text": "3.3 construction",
+     "descriptions": [],
+     "parentId": 19,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "text": "And operation of ignition coil",
+   "descriptions": [],
+   "parentId": 16,
+   "subLabels": [
+    {
+     "id": 22,
+     "text": "3.4 types of ignition system",
+     "descriptions": [],
+     "parentId": 21,
+     "subLabels": []
+    },
+    {
+     "id": 23,
+     "text": "3.5 timing",
+     "descriptions": [],
+     "parentId": 21,
+     "subLabels": []
+    },
+    {
+     "id": 24,
+     "text": "3.6 faults and repairs",
+     "descriptions": [],
+     "parentId": 21,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "text": "4.1 purpose and components of charging system",
+   "descriptions": [
+    "motor vehicle Treatment should include  switch, battery, cables, alternators, voltage regulators.",
+    "Constructional details Conversion of a.c. to d.c.(rectification) Function of each part of an alternator",
+    "Drawing and reading of circuit diagram Treatment should include graphical and pictorial representation, need for diagrammatic representation and how to remove and fix the charging system units"
+   ],
+   "parentId": 25,
+   "subLabels": []
+  },
+  {
+   "id": 27,
+   "text": "4.2 alternator",
+   "descriptions": [],
+   "parentId": 25,
+   "subLabels": [
+    {
+     "id": 28,
+     "text": "4.3 circuit diagram",
+     "descriptions": [
+      "Brush and Bearing replacement Diode testing, repair and replacement Treatment should include bearing seizure, charging failure etc."
+     ],
+     "parentId": 27,
+     "subLabels": []
+    },
+    {
+     "id": 29,
+     "text": "4.4 faults and repairs",
+     "descriptions": [
+      "Obligatory and non-obligatory lights",
+      "Types Features Setting of head lamps",
+      "Classification, drawing and reading of circuit diagram"
+     ],
+     "parentId": 27,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 32,
+   "text": "5.1 purpose and classification of lighting in a",
+   "descriptions": [
+    "Trouble shooting Treatment should include tools, equipment and procedures for repairing faults such as broken headlamp lens, bulb failure, non-aligned headlamps, open and short circuits etc."
+   ],
+   "parentId": 31,
+   "subLabels": []
+  },
+  {
+   "id": 33,
+   "text": "Motor vehicle",
+   "descriptions": [
+    "Definition, uses and units Treatment should include needs for auxiliary system"
+   ],
+   "parentId": 31,
+   "subLabels": [
+    {
+     "id": 34,
+     "text": "5.2 head lamps",
+     "descriptions": [
+      "Treatment should include water temperature gauge, oil pressure gauge, fuel gauge, horn relay, wiper switch, screen watcher pump, indicator and door switch"
+     ],
+     "parentId": 33,
+     "subLabels": []
+    },
+    {
+     "id": 35,
+     "text": "5.3 circuit",
+     "descriptions": [],
+     "parentId": 33,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 36,
+   "text": "Diagram",
+   "descriptions": [
+    "Troubleshooting"
+   ],
+   "parentId": 31,
+   "subLabels": [
+    {
+     "id": 37,
+     "text": "5.4 maintenance",
+     "descriptions": [
+      "Treatment should include tools and equipment and Procedures for repairs of faults such as the failure of horn, screen wiper, oil pressure gauge, fuel gauge etc."
+     ],
+     "parentId": 36,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 38,
+   "text": "And repairs",
+   "descriptions": [],
+   "parentId": 31,
+   "subLabels": []
+  },
+  {
+   "id": 41,
+   "text": "6.1 concept and components of auxiliary system",
+   "descriptions": [],
+   "parentId": 40,
+   "subLabels": []
+  },
+  {
+   "id": 42,
+   "text": "6.2 constructional",
+   "descriptions": [],
+   "parentId": 40,
+   "subLabels": []
+  },
+  {
+   "id": 43,
+   "text": "Details and operation of auxiliary system component",
+   "descriptions": [],
+   "parentId": 40,
+   "subLabels": [
+    {
+     "id": 44,
+     "text": "6.3 maintenance",
+     "descriptions": [],
+     "parentId": 43,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 45,
+   "text": "And repairs of auxiliary components",
+   "descriptions": [],
+   "parentId": 40,
+   "subLabels": []
+  },
+  {
+   "id": 20,
+   "text": "3.3 construction",
+   "descriptions": [],
+   "parentId": 19,
+   "subLabels": []
+  },
+  {
+   "id": 22,
+   "text": "3.4 types of ignition system",
+   "descriptions": [],
+   "parentId": 21,
+   "subLabels": []
+  },
+  {
+   "id": 23,
+   "text": "3.5 timing",
+   "descriptions": [],
+   "parentId": 21,
+   "subLabels": []
+  },
+  {
+   "id": 24,
+   "text": "3.6 faults and repairs",
+   "descriptions": [],
+   "parentId": 21,
+   "subLabels": []
+  },
+  {
+   "id": 28,
+   "text": "4.3 circuit diagram",
+   "descriptions": [
+    "Brush and Bearing replacement Diode testing, repair and replacement Treatment should include bearing seizure, charging failure etc."
+   ],
+   "parentId": 27,
+   "subLabels": []
+  },
+  {
+   "id": 29,
+   "text": "4.4 faults and repairs",
+   "descriptions": [
+    "Obligatory and non-obligatory lights",
+    "Types Features Setting of head lamps",
+    "Classification, drawing and reading of circuit diagram"
+   ],
+   "parentId": 27,
+   "subLabels": []
+  },
+  {
+   "id": 34,
+   "text": "5.2 head lamps",
+   "descriptions": [
+    "Treatment should include water temperature gauge, oil pressure gauge, fuel gauge, horn relay, wiper switch, screen watcher pump, indicator and door switch"
+   ],
+   "parentId": 33,
+   "subLabels": []
+  },
+  {
+   "id": 35,
+   "text": "5.3 circuit",
+   "descriptions": [],
+   "parentId": 33,
+   "subLabels": []
+  },
+  {
+   "id": 37,
+   "text": "5.4 maintenance",
+   "descriptions": [
+    "Treatment should include tools and equipment and Procedures for repairs of faults such as the failure of horn, screen wiper, oil pressure gauge, fuel gauge etc."
+   ],
+   "parentId": 36,
+   "subLabels": []
+  },
+  {
+   "id": 44,
+   "text": "6.3 maintenance",
+   "descriptions": [],
+   "parentId": 43,
+   "subLabels": []
+  }
+ ]
+}

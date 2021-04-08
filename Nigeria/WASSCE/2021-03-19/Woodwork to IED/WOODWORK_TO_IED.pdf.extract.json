@@ -1,1 +1,897 @@
-{"subject": "Woodwork to IED", "Grade": "None", "Curriculum": "NERDC", "labelsTree": [{"id": 6, "text": "B.  theory", "descriptions": null, "parentId": -1, "subLabels": [{"id": 7, "text": "1", "descriptions": ["General Workshop Safety"], "parentId": 6, "subLabels": []}, {"id": 8, "text": "2", "descriptions": ["Hand tools"], "parentId": 6, "subLabels": []}, {"id": 9, "text": "3", "descriptions": ["Special Purpose Hand tools."], "parentId": 6, "subLabels": []}, {"id": 10, "text": "4", "descriptions": ["Portable Power tools."], "parentId": 6, "subLabels": []}, {"id": 11, "text": "5", "descriptions": ["Woodworking machines."], "parentId": 6, "subLabels": []}, {"id": 12, "text": "6", "descriptions": ["Maintenance"], "parentId": 6, "subLabels": []}, {"id": 13, "text": "7", "descriptions": ["West African Timbers in common use."], "parentId": 6, "subLabels": []}, {"id": 14, "text": "8", "descriptions": ["Timber Conversion"], "parentId": 6, "subLabels": []}, {"id": 15, "text": "9", "descriptions": ["Timber seasoning"], "parentId": 6, "subLabels": []}, {"id": 16, "text": "10", "descriptions": ["Timber defects"], "parentId": 6, "subLabels": []}, {"id": 17, "text": "11", "descriptions": ["Timber preservation"], "parentId": 6, "subLabels": []}, {"id": 18, "text": "12", "descriptions": ["Manufactured boards"], "parentId": 6, "subLabels": []}, {"id": 19, "text": "13", "descriptions": ["Timber Preparation"], "parentId": 6, "subLabels": []}, {"id": 20, "text": "14", "descriptions": ["Woodwork joints"], "parentId": 6, "subLabels": []}, {"id": 21, "text": "15", "descriptions": ["Wood finishes and finishing."], "parentId": 6, "subLabels": []}, {"id": 22, "text": "16", "descriptions": ["Wood abrasives"], "parentId": 6, "subLabels": []}, {"id": 23, "text": "17", "descriptions": ["Wood adhesives"], "parentId": 6, "subLabels": []}, {"id": 24, "text": "18", "descriptions": ["Wood fittings and fasteners"], "parentId": 6, "subLabels": []}, {"id": 25, "text": "19", "descriptions": ["Non-wood materials"], "parentId": 6, "subLabels": []}, {"id": 26, "text": "20", "descriptions": ["Veneers and Veneering"], "parentId": 6, "subLabels": []}, {"id": 27, "text": "21", "descriptions": ["Wood shaping and bending."], "parentId": 6, "subLabels": []}, {"id": 28, "text": "22", "descriptions": ["Design and Drawing"], "parentId": 6, "subLabels": []}, {"id": 29, "text": "22", "descriptions": ["Drawing"], "parentId": 6, "subLabels": []}, {"id": 30, "text": "23", "descriptions": ["Project Design and Construction."], "parentId": 6, "subLabels": []}, {"id": 31, "text": "24", "descriptions": ["Upholstery", "(a)   The wood lathe: Parts and accessories.", "(b)   Turning tools: chisels, gouges, calipers, etc.", "Wood turning (c)  Turning operations: face plate turning, turning between centres and boring."], "parentId": 6, "subLabels": []}, {"id": 32, "text": "25", "descriptions": ["(d)  Suitable wood for turning: abura, ebony, mahogany, etc.", "(e)   Projects: vase, bowl, candle holder, etc.", "Wood carving and sculpture (a)   Carving: incise and relief.", "(b)   Sculpture: Production of simple ornaments."], "parentId": 6, "subLabels": []}, {"id": 33, "text": "26", "descriptions": ["(c)   Tools e.g. chisels, gouges, knives, files, etc.", "Surface Decoration Types: inlaying, veneering, marquetry, lamination, laminated plastics, mouldings, etc."], "parentId": 6, "subLabels": []}, {"id": 34, "text": "27", "descriptions": ["Mass Production (a)   Concept and principles."], "parentId": 6, "subLabels": []}, {"id": 35, "text": "28", "descriptions": ["(b)   Processes:  Market survey, design, production, quality assurance, sales/marketing, management, procurement, cost estimation, tooling up for production."], "parentId": 6, "subLabels": []}]}, {"id": 39, "text": "Only", "descriptions": null, "parentId": -1, "subLabels": [{"id": 40, "text": "29. entrepreneurship in", "descriptions": [], "parentId": 39, "subLabels": [{"id": 41, "text": "Woodworking", "descriptions": [], "parentId": 40, "subLabels": []}]}]}], "labels": [{"id": 6, "text": "B.  theory", "descriptions": null, "parentId": -1, "subLabels": [{"id": 7, "text": "1", "descriptions": ["General Workshop Safety"], "parentId": 6, "subLabels": []}, {"id": 8, "text": "2", "descriptions": ["Hand tools"], "parentId": 6, "subLabels": []}, {"id": 9, "text": "3", "descriptions": ["Special Purpose Hand tools."], "parentId": 6, "subLabels": []}, {"id": 10, "text": "4", "descriptions": ["Portable Power tools."], "parentId": 6, "subLabels": []}, {"id": 11, "text": "5", "descriptions": ["Woodworking machines."], "parentId": 6, "subLabels": []}, {"id": 12, "text": "6", "descriptions": ["Maintenance"], "parentId": 6, "subLabels": []}, {"id": 13, "text": "7", "descriptions": ["West African Timbers in common use."], "parentId": 6, "subLabels": []}, {"id": 14, "text": "8", "descriptions": ["Timber Conversion"], "parentId": 6, "subLabels": []}, {"id": 15, "text": "9", "descriptions": ["Timber seasoning"], "parentId": 6, "subLabels": []}, {"id": 16, "text": "10", "descriptions": ["Timber defects"], "parentId": 6, "subLabels": []}, {"id": 17, "text": "11", "descriptions": ["Timber preservation"], "parentId": 6, "subLabels": []}, {"id": 18, "text": "12", "descriptions": ["Manufactured boards"], "parentId": 6, "subLabels": []}, {"id": 19, "text": "13", "descriptions": ["Timber Preparation"], "parentId": 6, "subLabels": []}, {"id": 20, "text": "14", "descriptions": ["Woodwork joints"], "parentId": 6, "subLabels": []}, {"id": 21, "text": "15", "descriptions": ["Wood finishes and finishing."], "parentId": 6, "subLabels": []}, {"id": 22, "text": "16", "descriptions": ["Wood abrasives"], "parentId": 6, "subLabels": []}, {"id": 23, "text": "17", "descriptions": ["Wood adhesives"], "parentId": 6, "subLabels": []}, {"id": 24, "text": "18", "descriptions": ["Wood fittings and fasteners"], "parentId": 6, "subLabels": []}, {"id": 25, "text": "19", "descriptions": ["Non-wood materials"], "parentId": 6, "subLabels": []}, {"id": 26, "text": "20", "descriptions": ["Veneers and Veneering"], "parentId": 6, "subLabels": []}, {"id": 27, "text": "21", "descriptions": ["Wood shaping and bending."], "parentId": 6, "subLabels": []}, {"id": 28, "text": "22", "descriptions": ["Design and Drawing"], "parentId": 6, "subLabels": []}, {"id": 29, "text": "22", "descriptions": ["Drawing"], "parentId": 6, "subLabels": []}, {"id": 30, "text": "23", "descriptions": ["Project Design and Construction."], "parentId": 6, "subLabels": []}, {"id": 31, "text": "24", "descriptions": ["Upholstery", "(a)   The wood lathe: Parts and accessories.", "(b)   Turning tools: chisels, gouges, calipers, etc.", "Wood turning (c)  Turning operations: face plate turning, turning between centres and boring."], "parentId": 6, "subLabels": []}, {"id": 32, "text": "25", "descriptions": ["(d)  Suitable wood for turning: abura, ebony, mahogany, etc.", "(e)   Projects: vase, bowl, candle holder, etc.", "Wood carving and sculpture (a)   Carving: incise and relief.", "(b)   Sculpture: Production of simple ornaments."], "parentId": 6, "subLabels": []}, {"id": 33, "text": "26", "descriptions": ["(c)   Tools e.g. chisels, gouges, knives, files, etc.", "Surface Decoration Types: inlaying, veneering, marquetry, lamination, laminated plastics, mouldings, etc."], "parentId": 6, "subLabels": []}, {"id": 34, "text": "27", "descriptions": ["Mass Production (a)   Concept and principles."], "parentId": 6, "subLabels": []}, {"id": 35, "text": "28", "descriptions": ["(b)   Processes:  Market survey, design, production, quality assurance, sales/marketing, management, procurement, cost estimation, tooling up for production."], "parentId": 6, "subLabels": []}]}, {"id": 39, "text": "Only", "descriptions": null, "parentId": -1, "subLabels": [{"id": 40, "text": "29. entrepreneurship in", "descriptions": [], "parentId": 39, "subLabels": [{"id": 41, "text": "Woodworking", "descriptions": [], "parentId": 40, "subLabels": []}]}]}, {"id": 7, "text": "1", "descriptions": ["General Workshop Safety"], "parentId": 6, "subLabels": []}, {"id": 8, "text": "2", "descriptions": ["Hand tools"], "parentId": 6, "subLabels": []}, {"id": 9, "text": "3", "descriptions": ["Special Purpose Hand tools."], "parentId": 6, "subLabels": []}, {"id": 10, "text": "4", "descriptions": ["Portable Power tools."], "parentId": 6, "subLabels": []}, {"id": 11, "text": "5", "descriptions": ["Woodworking machines."], "parentId": 6, "subLabels": []}, {"id": 12, "text": "6", "descriptions": ["Maintenance"], "parentId": 6, "subLabels": []}, {"id": 13, "text": "7", "descriptions": ["West African Timbers in common use."], "parentId": 6, "subLabels": []}, {"id": 14, "text": "8", "descriptions": ["Timber Conversion"], "parentId": 6, "subLabels": []}, {"id": 15, "text": "9", "descriptions": ["Timber seasoning"], "parentId": 6, "subLabels": []}, {"id": 16, "text": "10", "descriptions": ["Timber defects"], "parentId": 6, "subLabels": []}, {"id": 17, "text": "11", "descriptions": ["Timber preservation"], "parentId": 6, "subLabels": []}, {"id": 18, "text": "12", "descriptions": ["Manufactured boards"], "parentId": 6, "subLabels": []}, {"id": 19, "text": "13", "descriptions": ["Timber Preparation"], "parentId": 6, "subLabels": []}, {"id": 20, "text": "14", "descriptions": ["Woodwork joints"], "parentId": 6, "subLabels": []}, {"id": 21, "text": "15", "descriptions": ["Wood finishes and finishing."], "parentId": 6, "subLabels": []}, {"id": 22, "text": "16", "descriptions": ["Wood abrasives"], "parentId": 6, "subLabels": []}, {"id": 23, "text": "17", "descriptions": ["Wood adhesives"], "parentId": 6, "subLabels": []}, {"id": 24, "text": "18", "descriptions": ["Wood fittings and fasteners"], "parentId": 6, "subLabels": []}, {"id": 25, "text": "19", "descriptions": ["Non-wood materials"], "parentId": 6, "subLabels": []}, {"id": 26, "text": "20", "descriptions": ["Veneers and Veneering"], "parentId": 6, "subLabels": []}, {"id": 27, "text": "21", "descriptions": ["Wood shaping and bending."], "parentId": 6, "subLabels": []}, {"id": 28, "text": "22", "descriptions": ["Design and Drawing"], "parentId": 6, "subLabels": []}, {"id": 29, "text": "22", "descriptions": ["Drawing"], "parentId": 6, "subLabels": []}, {"id": 30, "text": "23", "descriptions": ["Project Design and Construction."], "parentId": 6, "subLabels": []}, {"id": 31, "text": "24", "descriptions": ["Upholstery", "(a)   The wood lathe: Parts and accessories.", "(b)   Turning tools: chisels, gouges, calipers, etc.", "Wood turning (c)  Turning operations: face plate turning, turning between centres and boring."], "parentId": 6, "subLabels": []}, {"id": 32, "text": "25", "descriptions": ["(d)  Suitable wood for turning: abura, ebony, mahogany, etc.", "(e)   Projects: vase, bowl, candle holder, etc.", "Wood carving and sculpture (a)   Carving: incise and relief.", "(b)   Sculpture: Production of simple ornaments."], "parentId": 6, "subLabels": []}, {"id": 33, "text": "26", "descriptions": ["(c)   Tools e.g. chisels, gouges, knives, files, etc.", "Surface Decoration Types: inlaying, veneering, marquetry, lamination, laminated plastics, mouldings, etc."], "parentId": 6, "subLabels": []}, {"id": 34, "text": "27", "descriptions": ["Mass Production (a)   Concept and principles."], "parentId": 6, "subLabels": []}, {"id": 35, "text": "28", "descriptions": ["(b)   Processes:  Market survey, design, production, quality assurance, sales/marketing, management, procurement, cost estimation, tooling up for production."], "parentId": 6, "subLabels": []}, {"id": 40, "text": "29. entrepreneurship in", "descriptions": [], "parentId": 39, "subLabels": [{"id": 41, "text": "Woodworking", "descriptions": [], "parentId": 40, "subLabels": []}]}, {"id": 41, "text": "Woodworking", "descriptions": [], "parentId": 40, "subLabels": []}]}
+{
+ "subject": "Woodwork to IED",
+ "Grade": "None",
+ "Curriculum": "NERDC",
+ "labelsTree": [
+  {
+   "id": 6,
+   "text": "B.  theory",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 7,
+     "text": "1",
+     "descriptions": [
+      "General Workshop Safety"
+     ],
+     "parentId": 6,
+     "subLabels": []
+    },
+    {
+     "id": 8,
+     "text": "2",
+     "descriptions": [
+      "Hand tools"
+     ],
+     "parentId": 6,
+     "subLabels": []
+    },
+    {
+     "id": 9,
+     "text": "3",
+     "descriptions": [
+      "Special Purpose Hand tools."
+     ],
+     "parentId": 6,
+     "subLabels": []
+    },
+    {
+     "id": 10,
+     "text": "4",
+     "descriptions": [
+      "Portable Power tools."
+     ],
+     "parentId": 6,
+     "subLabels": []
+    },
+    {
+     "id": 11,
+     "text": "5",
+     "descriptions": [
+      "Woodworking machines."
+     ],
+     "parentId": 6,
+     "subLabels": []
+    },
+    {
+     "id": 12,
+     "text": "6",
+     "descriptions": [
+      "Maintenance"
+     ],
+     "parentId": 6,
+     "subLabels": []
+    },
+    {
+     "id": 13,
+     "text": "7",
+     "descriptions": [
+      "West African Timbers in common use."
+     ],
+     "parentId": 6,
+     "subLabels": []
+    },
+    {
+     "id": 14,
+     "text": "8",
+     "descriptions": [
+      "Timber Conversion"
+     ],
+     "parentId": 6,
+     "subLabels": []
+    },
+    {
+     "id": 15,
+     "text": "9",
+     "descriptions": [
+      "Timber seasoning"
+     ],
+     "parentId": 6,
+     "subLabels": []
+    },
+    {
+     "id": 16,
+     "text": "10",
+     "descriptions": [
+      "Timber defects"
+     ],
+     "parentId": 6,
+     "subLabels": []
+    },
+    {
+     "id": 17,
+     "text": "11",
+     "descriptions": [
+      "Timber preservation"
+     ],
+     "parentId": 6,
+     "subLabels": []
+    },
+    {
+     "id": 18,
+     "text": "12",
+     "descriptions": [
+      "Manufactured boards"
+     ],
+     "parentId": 6,
+     "subLabels": []
+    },
+    {
+     "id": 19,
+     "text": "13",
+     "descriptions": [
+      "Timber Preparation"
+     ],
+     "parentId": 6,
+     "subLabels": []
+    },
+    {
+     "id": 20,
+     "text": "14",
+     "descriptions": [
+      "Woodwork joints"
+     ],
+     "parentId": 6,
+     "subLabels": []
+    },
+    {
+     "id": 21,
+     "text": "15",
+     "descriptions": [
+      "Wood finishes and finishing."
+     ],
+     "parentId": 6,
+     "subLabels": []
+    },
+    {
+     "id": 22,
+     "text": "16",
+     "descriptions": [
+      "Wood abrasives"
+     ],
+     "parentId": 6,
+     "subLabels": []
+    },
+    {
+     "id": 23,
+     "text": "17",
+     "descriptions": [
+      "Wood adhesives"
+     ],
+     "parentId": 6,
+     "subLabels": []
+    },
+    {
+     "id": 24,
+     "text": "18",
+     "descriptions": [
+      "Wood fittings and fasteners"
+     ],
+     "parentId": 6,
+     "subLabels": []
+    },
+    {
+     "id": 25,
+     "text": "19",
+     "descriptions": [
+      "Non-wood materials"
+     ],
+     "parentId": 6,
+     "subLabels": []
+    },
+    {
+     "id": 26,
+     "text": "20",
+     "descriptions": [
+      "Veneers and Veneering"
+     ],
+     "parentId": 6,
+     "subLabels": []
+    },
+    {
+     "id": 27,
+     "text": "21",
+     "descriptions": [
+      "Wood shaping and bending."
+     ],
+     "parentId": 6,
+     "subLabels": []
+    },
+    {
+     "id": 28,
+     "text": "22",
+     "descriptions": [
+      "Design and Drawing"
+     ],
+     "parentId": 6,
+     "subLabels": []
+    },
+    {
+     "id": 29,
+     "text": "22",
+     "descriptions": [
+      "Drawing"
+     ],
+     "parentId": 6,
+     "subLabels": []
+    },
+    {
+     "id": 30,
+     "text": "23",
+     "descriptions": [
+      "Project Design and Construction."
+     ],
+     "parentId": 6,
+     "subLabels": []
+    },
+    {
+     "id": 31,
+     "text": "24",
+     "descriptions": [
+      "Upholstery",
+      "(a)   The wood lathe: Parts and accessories.",
+      "(b)   Turning tools: chisels, gouges, calipers, etc.",
+      "Wood turning (c)  Turning operations: face plate turning, turning between centres and boring."
+     ],
+     "parentId": 6,
+     "subLabels": []
+    },
+    {
+     "id": 32,
+     "text": "25",
+     "descriptions": [
+      "(d)  Suitable wood for turning: abura, ebony, mahogany, etc.",
+      "(e)   Projects: vase, bowl, candle holder, etc.",
+      "Wood carving and sculpture (a)   Carving: incise and relief.",
+      "(b)   Sculpture: Production of simple ornaments."
+     ],
+     "parentId": 6,
+     "subLabels": []
+    },
+    {
+     "id": 33,
+     "text": "26",
+     "descriptions": [
+      "(c)   Tools e.g. chisels, gouges, knives, files, etc.",
+      "Surface Decoration Types: inlaying, veneering, marquetry, lamination, laminated plastics, mouldings, etc."
+     ],
+     "parentId": 6,
+     "subLabels": []
+    },
+    {
+     "id": 34,
+     "text": "27",
+     "descriptions": [
+      "Mass Production (a)   Concept and principles."
+     ],
+     "parentId": 6,
+     "subLabels": []
+    },
+    {
+     "id": 35,
+     "text": "28",
+     "descriptions": [
+      "(b)   Processes:  Market survey, design, production, quality assurance, sales/marketing, management, procurement, cost estimation, tooling up for production."
+     ],
+     "parentId": 6,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 39,
+   "text": "Only",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 40,
+     "text": "29. entrepreneurship in",
+     "descriptions": [],
+     "parentId": 39,
+     "subLabels": [
+      {
+       "id": 41,
+       "text": "Woodworking",
+       "descriptions": [],
+       "parentId": 40,
+       "subLabels": []
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "labels": [
+  {
+   "id": 6,
+   "text": "B.  theory",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 7,
+     "text": "1",
+     "descriptions": [
+      "General Workshop Safety"
+     ],
+     "parentId": 6,
+     "subLabels": []
+    },
+    {
+     "id": 8,
+     "text": "2",
+     "descriptions": [
+      "Hand tools"
+     ],
+     "parentId": 6,
+     "subLabels": []
+    },
+    {
+     "id": 9,
+     "text": "3",
+     "descriptions": [
+      "Special Purpose Hand tools."
+     ],
+     "parentId": 6,
+     "subLabels": []
+    },
+    {
+     "id": 10,
+     "text": "4",
+     "descriptions": [
+      "Portable Power tools."
+     ],
+     "parentId": 6,
+     "subLabels": []
+    },
+    {
+     "id": 11,
+     "text": "5",
+     "descriptions": [
+      "Woodworking machines."
+     ],
+     "parentId": 6,
+     "subLabels": []
+    },
+    {
+     "id": 12,
+     "text": "6",
+     "descriptions": [
+      "Maintenance"
+     ],
+     "parentId": 6,
+     "subLabels": []
+    },
+    {
+     "id": 13,
+     "text": "7",
+     "descriptions": [
+      "West African Timbers in common use."
+     ],
+     "parentId": 6,
+     "subLabels": []
+    },
+    {
+     "id": 14,
+     "text": "8",
+     "descriptions": [
+      "Timber Conversion"
+     ],
+     "parentId": 6,
+     "subLabels": []
+    },
+    {
+     "id": 15,
+     "text": "9",
+     "descriptions": [
+      "Timber seasoning"
+     ],
+     "parentId": 6,
+     "subLabels": []
+    },
+    {
+     "id": 16,
+     "text": "10",
+     "descriptions": [
+      "Timber defects"
+     ],
+     "parentId": 6,
+     "subLabels": []
+    },
+    {
+     "id": 17,
+     "text": "11",
+     "descriptions": [
+      "Timber preservation"
+     ],
+     "parentId": 6,
+     "subLabels": []
+    },
+    {
+     "id": 18,
+     "text": "12",
+     "descriptions": [
+      "Manufactured boards"
+     ],
+     "parentId": 6,
+     "subLabels": []
+    },
+    {
+     "id": 19,
+     "text": "13",
+     "descriptions": [
+      "Timber Preparation"
+     ],
+     "parentId": 6,
+     "subLabels": []
+    },
+    {
+     "id": 20,
+     "text": "14",
+     "descriptions": [
+      "Woodwork joints"
+     ],
+     "parentId": 6,
+     "subLabels": []
+    },
+    {
+     "id": 21,
+     "text": "15",
+     "descriptions": [
+      "Wood finishes and finishing."
+     ],
+     "parentId": 6,
+     "subLabels": []
+    },
+    {
+     "id": 22,
+     "text": "16",
+     "descriptions": [
+      "Wood abrasives"
+     ],
+     "parentId": 6,
+     "subLabels": []
+    },
+    {
+     "id": 23,
+     "text": "17",
+     "descriptions": [
+      "Wood adhesives"
+     ],
+     "parentId": 6,
+     "subLabels": []
+    },
+    {
+     "id": 24,
+     "text": "18",
+     "descriptions": [
+      "Wood fittings and fasteners"
+     ],
+     "parentId": 6,
+     "subLabels": []
+    },
+    {
+     "id": 25,
+     "text": "19",
+     "descriptions": [
+      "Non-wood materials"
+     ],
+     "parentId": 6,
+     "subLabels": []
+    },
+    {
+     "id": 26,
+     "text": "20",
+     "descriptions": [
+      "Veneers and Veneering"
+     ],
+     "parentId": 6,
+     "subLabels": []
+    },
+    {
+     "id": 27,
+     "text": "21",
+     "descriptions": [
+      "Wood shaping and bending."
+     ],
+     "parentId": 6,
+     "subLabels": []
+    },
+    {
+     "id": 28,
+     "text": "22",
+     "descriptions": [
+      "Design and Drawing"
+     ],
+     "parentId": 6,
+     "subLabels": []
+    },
+    {
+     "id": 29,
+     "text": "22",
+     "descriptions": [
+      "Drawing"
+     ],
+     "parentId": 6,
+     "subLabels": []
+    },
+    {
+     "id": 30,
+     "text": "23",
+     "descriptions": [
+      "Project Design and Construction."
+     ],
+     "parentId": 6,
+     "subLabels": []
+    },
+    {
+     "id": 31,
+     "text": "24",
+     "descriptions": [
+      "Upholstery",
+      "(a)   The wood lathe: Parts and accessories.",
+      "(b)   Turning tools: chisels, gouges, calipers, etc.",
+      "Wood turning (c)  Turning operations: face plate turning, turning between centres and boring."
+     ],
+     "parentId": 6,
+     "subLabels": []
+    },
+    {
+     "id": 32,
+     "text": "25",
+     "descriptions": [
+      "(d)  Suitable wood for turning: abura, ebony, mahogany, etc.",
+      "(e)   Projects: vase, bowl, candle holder, etc.",
+      "Wood carving and sculpture (a)   Carving: incise and relief.",
+      "(b)   Sculpture: Production of simple ornaments."
+     ],
+     "parentId": 6,
+     "subLabels": []
+    },
+    {
+     "id": 33,
+     "text": "26",
+     "descriptions": [
+      "(c)   Tools e.g. chisels, gouges, knives, files, etc.",
+      "Surface Decoration Types: inlaying, veneering, marquetry, lamination, laminated plastics, mouldings, etc."
+     ],
+     "parentId": 6,
+     "subLabels": []
+    },
+    {
+     "id": 34,
+     "text": "27",
+     "descriptions": [
+      "Mass Production (a)   Concept and principles."
+     ],
+     "parentId": 6,
+     "subLabels": []
+    },
+    {
+     "id": 35,
+     "text": "28",
+     "descriptions": [
+      "(b)   Processes:  Market survey, design, production, quality assurance, sales/marketing, management, procurement, cost estimation, tooling up for production."
+     ],
+     "parentId": 6,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 39,
+   "text": "Only",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 40,
+     "text": "29. entrepreneurship in",
+     "descriptions": [],
+     "parentId": 39,
+     "subLabels": [
+      {
+       "id": 41,
+       "text": "Woodworking",
+       "descriptions": [],
+       "parentId": 40,
+       "subLabels": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "text": "1",
+   "descriptions": [
+    "General Workshop Safety"
+   ],
+   "parentId": 6,
+   "subLabels": []
+  },
+  {
+   "id": 8,
+   "text": "2",
+   "descriptions": [
+    "Hand tools"
+   ],
+   "parentId": 6,
+   "subLabels": []
+  },
+  {
+   "id": 9,
+   "text": "3",
+   "descriptions": [
+    "Special Purpose Hand tools."
+   ],
+   "parentId": 6,
+   "subLabels": []
+  },
+  {
+   "id": 10,
+   "text": "4",
+   "descriptions": [
+    "Portable Power tools."
+   ],
+   "parentId": 6,
+   "subLabels": []
+  },
+  {
+   "id": 11,
+   "text": "5",
+   "descriptions": [
+    "Woodworking machines."
+   ],
+   "parentId": 6,
+   "subLabels": []
+  },
+  {
+   "id": 12,
+   "text": "6",
+   "descriptions": [
+    "Maintenance"
+   ],
+   "parentId": 6,
+   "subLabels": []
+  },
+  {
+   "id": 13,
+   "text": "7",
+   "descriptions": [
+    "West African Timbers in common use."
+   ],
+   "parentId": 6,
+   "subLabels": []
+  },
+  {
+   "id": 14,
+   "text": "8",
+   "descriptions": [
+    "Timber Conversion"
+   ],
+   "parentId": 6,
+   "subLabels": []
+  },
+  {
+   "id": 15,
+   "text": "9",
+   "descriptions": [
+    "Timber seasoning"
+   ],
+   "parentId": 6,
+   "subLabels": []
+  },
+  {
+   "id": 16,
+   "text": "10",
+   "descriptions": [
+    "Timber defects"
+   ],
+   "parentId": 6,
+   "subLabels": []
+  },
+  {
+   "id": 17,
+   "text": "11",
+   "descriptions": [
+    "Timber preservation"
+   ],
+   "parentId": 6,
+   "subLabels": []
+  },
+  {
+   "id": 18,
+   "text": "12",
+   "descriptions": [
+    "Manufactured boards"
+   ],
+   "parentId": 6,
+   "subLabels": []
+  },
+  {
+   "id": 19,
+   "text": "13",
+   "descriptions": [
+    "Timber Preparation"
+   ],
+   "parentId": 6,
+   "subLabels": []
+  },
+  {
+   "id": 20,
+   "text": "14",
+   "descriptions": [
+    "Woodwork joints"
+   ],
+   "parentId": 6,
+   "subLabels": []
+  },
+  {
+   "id": 21,
+   "text": "15",
+   "descriptions": [
+    "Wood finishes and finishing."
+   ],
+   "parentId": 6,
+   "subLabels": []
+  },
+  {
+   "id": 22,
+   "text": "16",
+   "descriptions": [
+    "Wood abrasives"
+   ],
+   "parentId": 6,
+   "subLabels": []
+  },
+  {
+   "id": 23,
+   "text": "17",
+   "descriptions": [
+    "Wood adhesives"
+   ],
+   "parentId": 6,
+   "subLabels": []
+  },
+  {
+   "id": 24,
+   "text": "18",
+   "descriptions": [
+    "Wood fittings and fasteners"
+   ],
+   "parentId": 6,
+   "subLabels": []
+  },
+  {
+   "id": 25,
+   "text": "19",
+   "descriptions": [
+    "Non-wood materials"
+   ],
+   "parentId": 6,
+   "subLabels": []
+  },
+  {
+   "id": 26,
+   "text": "20",
+   "descriptions": [
+    "Veneers and Veneering"
+   ],
+   "parentId": 6,
+   "subLabels": []
+  },
+  {
+   "id": 27,
+   "text": "21",
+   "descriptions": [
+    "Wood shaping and bending."
+   ],
+   "parentId": 6,
+   "subLabels": []
+  },
+  {
+   "id": 28,
+   "text": "22",
+   "descriptions": [
+    "Design and Drawing"
+   ],
+   "parentId": 6,
+   "subLabels": []
+  },
+  {
+   "id": 29,
+   "text": "22",
+   "descriptions": [
+    "Drawing"
+   ],
+   "parentId": 6,
+   "subLabels": []
+  },
+  {
+   "id": 30,
+   "text": "23",
+   "descriptions": [
+    "Project Design and Construction."
+   ],
+   "parentId": 6,
+   "subLabels": []
+  },
+  {
+   "id": 31,
+   "text": "24",
+   "descriptions": [
+    "Upholstery",
+    "(a)   The wood lathe: Parts and accessories.",
+    "(b)   Turning tools: chisels, gouges, calipers, etc.",
+    "Wood turning (c)  Turning operations: face plate turning, turning between centres and boring."
+   ],
+   "parentId": 6,
+   "subLabels": []
+  },
+  {
+   "id": 32,
+   "text": "25",
+   "descriptions": [
+    "(d)  Suitable wood for turning: abura, ebony, mahogany, etc.",
+    "(e)   Projects: vase, bowl, candle holder, etc.",
+    "Wood carving and sculpture (a)   Carving: incise and relief.",
+    "(b)   Sculpture: Production of simple ornaments."
+   ],
+   "parentId": 6,
+   "subLabels": []
+  },
+  {
+   "id": 33,
+   "text": "26",
+   "descriptions": [
+    "(c)   Tools e.g. chisels, gouges, knives, files, etc.",
+    "Surface Decoration Types: inlaying, veneering, marquetry, lamination, laminated plastics, mouldings, etc."
+   ],
+   "parentId": 6,
+   "subLabels": []
+  },
+  {
+   "id": 34,
+   "text": "27",
+   "descriptions": [
+    "Mass Production (a)   Concept and principles."
+   ],
+   "parentId": 6,
+   "subLabels": []
+  },
+  {
+   "id": 35,
+   "text": "28",
+   "descriptions": [
+    "(b)   Processes:  Market survey, design, production, quality assurance, sales/marketing, management, procurement, cost estimation, tooling up for production."
+   ],
+   "parentId": 6,
+   "subLabels": []
+  },
+  {
+   "id": 40,
+   "text": "29. entrepreneurship in",
+   "descriptions": [],
+   "parentId": 39,
+   "subLabels": [
+    {
+     "id": 41,
+     "text": "Woodworking",
+     "descriptions": [],
+     "parentId": 40,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 41,
+   "text": "Woodworking",
+   "descriptions": [],
+   "parentId": 40,
+   "subLabels": []
+  }
+ ]
+}

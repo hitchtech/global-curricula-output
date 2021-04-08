@@ -1,1 +1,2175 @@
-{"subject": "Foods and Nutrition", "Grade": "None", "Curriculum": "NERDC", "labelsTree": [{"id": 2, "text": "I. nutrition and health", "descriptions": null, "parentId": -1, "subLabels": [{"id": 3, "text": "(1) introduction to foods and nutrition", "descriptions": ["(a) Meaning", "(b) Basic knowledge of Nutrition", "(c) Importance of Human Nutrition", "(d)Factors affecting Foods and Nutrition"], "parentId": 2, "subLabels": []}, {"id": 4, "text": "(2)  careers associated with", "descriptions": ["(e)  Food Habits"], "parentId": 2, "subLabels": []}, {"id": 5, "text": "Foods  and nutrition", "descriptions": ["(a)  Careers associated with Foods and Nutrition", "(b)  Factors that influence career choices"], "parentId": 2, "subLabels": []}, {"id": 6, "text": "(3)  basic food nutrients", "descriptions": ["(c)  Characteristics required for Foods and Nutrition careers", "(a)  The nutrients and their nutritive values", "(b)  Functions of the different nutrients", "(c)  Sources of the different nutrients", "(d)  Dietary deficiencies", "(e) Metabolism,(digestion and absorption of foods carbohydrate, protein, fat).", "(f)  Knowledge and use of food composition table", "(g)  Food tests: simple physical and chemical tests of food stuffs to detect presence of nutrients in foods e.g. proteins, fats and carbohydrates."], "parentId": 2, "subLabels": []}, {"id": 7, "text": "(4)  meal management", "descriptions": ["(i)  Meal planning terms", "(ii)  Reasons for planning meals", "(iii) Factors in planning meals"], "parentId": 2, "subLabels": [{"id": 8, "text": "Meal planning", "descriptions": ["(iv) General principles of meal planning", "(v) Meal patterns", "(i)  Nutritional needs for different groups e.g. pregnant, lactating", "mothers, infants and children, adolescents, adults and the aged, vegetarians.", "(ii)  Planning meals for people in health condition e.g. HIV & AIDS,", "invalids, convalescents, overweight, underweight, hypertension, diabetes etc."], "parentId": 7, "subLabels": []}]}, {"id": 9, "text": "Special", "descriptions": [], "parentId": 2, "subLabels": []}, {"id": 10, "text": "Nutritional", "descriptions": [], "parentId": 2, "subLabels": []}, {"id": 11, "text": "Needs", "descriptions": [], "parentId": 2, "subLabels": []}]}, {"id": 13, "text": "And equipment", "descriptions": null, "parentId": -1, "subLabels": [{"id": 14, "text": "(1) the kitchen", "descriptions": ["(c)   Factors to consider when planning.", "(d)   Cleaning agents and abrasives (commercial and local).", "(a)   Classes and types of equipment", "(b)   Selection, use, care and storage of large and small equipment, fixtures and appliances."], "parentId": 13, "subLabels": []}, {"id": 15, "text": "(2)  kitchen equipment", "descriptions": ["(a)   Types of kitchen accidents"], "parentId": 13, "subLabels": []}, {"id": 16, "text": "And   tools", "descriptions": ["(b)   Causes and prevention of accidents"], "parentId": 13, "subLabels": [{"id": 17, "text": "(3)  safety in the kitchen", "descriptions": ["(c)    Content and use of first aid box", "(d)    Simple first aid treatment"], "parentId": 16, "subLabels": []}, {"id": 18, "text": "(4)  sanitation in the kitchen", "descriptions": ["and pest control.", "(c)  Food hygiene e.g. handling of foods, food borne diseases, food", "sanitation laws.", "(a)   Personal Hygiene", "(b)   Kitchen Hygiene e.g. general cleaning, waste disposal, pests"], "parentId": 16, "subLabels": []}]}]}, {"id": 19, "text": "Iii. food commodities", "descriptions": null, "parentId": -1, "subLabels": [{"id": 20, "text": "(1)animal and animal products - milk and milk products", "descriptions": ["Kinds/types and structure", "Selection"], "parentId": 19, "subLabels": []}, {"id": 21, "text": "E.g", "descriptions": ["Storage"], "parentId": 19, "subLabels": [{"id": 22, "text": "Cheese, yoghurt", "descriptions": [], "parentId": 21, "subLabels": []}]}]}, {"id": 23, "text": "Iii.", "descriptions": null, "parentId": -1, "subLabels": [{"id": 24, "text": "(2)  cereals/grains", "descriptions": ["(a)  Kinds and forms", "(b)  Importance of cereals and grains: -  versatility -  thickening -  cheap source of energy/good source of roughage"], "parentId": 23, "subLabels": []}, {"id": 25, "text": "(3)  fruits and vegetables", "descriptions": ["(a)  Classification of fruits/Classification of vegetables.", "(b)   Structure, nutritive value and storage.", "(c)   Important of fruits and vegetables in the diet, etc."], "parentId": 23, "subLabels": []}, {"id": 26, "text": "(4)  legumes and oily seeds", "descriptions": ["(a) Classification of legumes, oily seeds", "(b)  Importance of legumes and oily seeds in the diet, etc."], "parentId": 23, "subLabels": []}, {"id": 27, "text": "(5)  fats and oils", "descriptions": ["(a)  Kinds and classification -  vegetable fats and oils -  animal fats and oils", "(b)  Uses in diet"], "parentId": 23, "subLabels": []}, {"id": 28, "text": "(6)  starchy roots and plantain", "descriptions": ["(c)  Uses in the body", "(d)  Health implications of fats and oils", "(a)  Types of starchy roots", "(b)  Types of plantain", "(c)  Types of dishes"], "parentId": 23, "subLabels": []}]}, {"id": 29, "text": "Iv. foodstorage and preservation", "descriptions": null, "parentId": -1, "subLabels": [{"id": 30, "text": "(1)  food spoilage", "descriptions": ["(a)  Meaning of food spoilage", "(b)  Causes and agents of food spoilage", "(a)  Meaning and importance of preservation"], "parentId": 29, "subLabels": []}, {"id": 31, "text": "(2)  food preservation", "descriptions": ["(b)  General principles underlying food preservation", "(c)  Methods of food preservation", "(a)  Meaning and importance of food storage"], "parentId": 29, "subLabels": []}, {"id": 32, "text": "(3)  food storage", "descriptions": ["(b)  Storage of perishable and non perishable foods", "(c)  Storage space and equipment e.g. refrigeration, deep freezer, cupboards, shelves, granaries, barns etc."], "parentId": 29, "subLabels": []}]}, {"id": 33, "text": "V. food preparation", "descriptions": null, "parentId": -1, "subLabels": [{"id": 34, "text": "(1)  principles underlying cooking", "descriptions": ["(a) Explanation of the concept of cooking", "(b) Reasons for cooking food", "(a)  Moist heat methods e.g. boiling, stewing, steaming etc."], "parentId": 33, "subLabels": []}, {"id": 35, "text": "(2)  methods of cooking", "descriptions": ["(b)  Dry heat methods e.g. baking, roasting, grilling, frying etc.", "(c)  Effects of heat on different food commodities e.g. animal", "products, cereals and grains, fats and oil etc.", "Methods of heat transfer and meaning -  Convection  -  liquid, gases -   Radiation    -  space -   conduction  -   solid metal"], "parentId": 33, "subLabels": []}, {"id": 36, "text": "(3)  transfer of heat", "descriptions": [], "parentId": 33, "subLabels": []}, {"id": 37, "text": "(3)  transfer of heat", "descriptions": ["Explanation of cooking terms"], "parentId": 33, "subLabels": []}, {"id": 38, "text": "(4)cooking terms", "descriptions": ["(a)  Definitions"], "parentId": 33, "subLabels": []}, {"id": 39, "text": "(5)  food additives", "descriptions": ["(b)  Types of food additives", "(c)  Functions of additives", "(d)  Selection and use of additives", "(e)   Food adulteration"], "parentId": 33, "subLabels": []}, {"id": 40, "text": "(6)   flour cookery and confectionery", "descriptions": [], "parentId": 33, "subLabels": [{"id": 41, "text": "(a) types of flour", "descriptions": ["(i)  Types of flour", "(ii)   Ingredients in flour"], "parentId": 40, "subLabels": []}]}, {"id": 42, "text": "(b) basic ingredients in flour cookery", "descriptions": ["(iii)  Uses of flour", "- Flour, fat, sugar, eggs"], "parentId": 33, "subLabels": [{"id": 43, "text": "Raising agents", "descriptions": ["(i) Types of raising agents, i.e., steam, carbon dioxide and air", "(ii) Sources:- boiling liquid \u2013 steam, baking powder - carbon dioxide whisking - air"], "parentId": 42, "subLabels": []}, {"id": 44, "text": "Batters and doughs", "descriptions": [], "parentId": 42, "subLabels": []}, {"id": 45, "text": "Cakes", "descriptions": ["-  rubbed in -  creamed -  whisked -  melted -  sponge mixtures"], "parentId": 42, "subLabels": []}, {"id": 46, "text": "Pastries", "descriptions": ["(i)  Types of Pastries", "Shortcrust, suet, flaky, etc.", "(ii) Principles underlying pastry making", "(iii) Pastry dishes e.g. turn over; jam tartlets, cornish pasties, etc."], "parentId": 42, "subLabels": []}]}, {"id": 47, "text": "(g)  yeast mixtures", "descriptions": ["(i)  Definition", "(ii) Ways of preparing yeast mixture", "(iii) Important points in preparing yeast mixture", "(iv) Yeast dishes \u2013 bread loaves, bread rolls, doughnut"], "parentId": 33, "subLabels": []}, {"id": 48, "text": "(h)  cake decoration", "descriptions": ["(i) Types of icing e.g. butter icing, royal icing"], "parentId": 33, "subLabels": []}, {"id": 49, "text": "Icing", "descriptions": ["(ii) Uses of icing", "(iii) Preparation of icing", "(iv) Using royal icing and butter icing"], "parentId": 33, "subLabels": []}]}, {"id": 50, "text": "Vi. beverages", "descriptions": null, "parentId": -1, "subLabels": [{"id": 51, "text": "(1) classification of beverages", "descriptions": ["(a)  Non-alcoholic beverages - coffee and tea - cocoa drink - milk and egg drinks - fruit juices and fruit drinks - beef tea and lemon grass", "(b)  Alcoholic - beer - wine"], "parentId": 50, "subLabels": []}, {"id": 52, "text": "(2)  importance of beverages", "descriptions": ["-  Nutritive values etc."], "parentId": 50, "subLabels": []}, {"id": 53, "text": "(3)  principles underlining preparation of beverage", "descriptions": ["-   Tea, coffee, cocoa etc."], "parentId": 50, "subLabels": []}, {"id": 54, "text": "Vii. convenience foods (a)  types of convenience foods (b)  selection and uses of convenience foods", "descriptions": [], "parentId": 50, "subLabels": [{"id": 55, "text": "(c)  advantages and disadvantages of using convenience foods", "descriptions": [], "parentId": 54, "subLabels": []}, {"id": 56, "text": "(d)  preparation of dishes using convenience foods ", "descriptions": [], "parentId": 54, "subLabels": []}]}, {"id": 57, "text": "Viii. rechauff\u00e9 (leftover) foods (a)  explanation (b)  importance of using left over goods", "descriptions": [], "parentId": 50, "subLabels": [{"id": 58, "text": "(c)  rules/guidelines for using leftover foods", "descriptions": [], "parentId": 57, "subLabels": []}, {"id": 59, "text": "(d)rechauff\u00e9 dishes", "descriptions": [], "parentId": 57, "subLabels": []}]}]}, {"id": 61, "text": "Ix dishes", "descriptions": null, "parentId": -1, "subLabels": [{"id": 62, "text": "(2)  table setting and etiquette", "descriptions": ["(c)  Types of festive dishes/special occasion dishes", "(d) Preparation of festive dishes/special occasion", "dishes", "(1)  Entertainment", "(a)  Explanation", "(b)  Types of parties", "(c)  Occasions for parties", "(d)   Points to consider when selecting types of parties", "(e)   Factors that contribute to the success of parties", "(a)  Explanation e.g. table setting, cover, etc", "(b)  Setting tables and tray for different meal and occasion", "(c)  Table appointments", "(d)   Table manners/etiquette", "(a)  Types of meal service -  Informal meal service -  formal meal service"], "parentId": 61, "subLabels": []}, {"id": 63, "text": "(3)  meal service style", "descriptions": ["(b)  Factors determining choice of service styles types of party", "(c)  Foods for special occasions e. g. birthday, naming ceremonies, weddings etc.", "(e)   Factors that contribute to the success of parties"], "parentId": 61, "subLabels": []}]}, {"id": 64, "text": "Xi experimental cookery", "descriptions": null, "parentId": -1, "subLabels": [{"id": 65, "text": "(1)   research into local dishes and drinks", "descriptions": ["(a)  Importance of research in Foods and Nutrition", "(b)  Collection of information (data)", "(c)  Research into local dishes", "(d)   Development of new recipes", "(e)   Improving existing recipes based on methods of preparation, Nutritive value, time and energy use and  service/"], "parentId": 64, "subLabels": []}, {"id": 66, "text": "(2)  experiments", "descriptions": ["presentation", "(a)  Using fruits e.g. passion fruit, samia, royal palm fruit", "(b)  Other types of flour e.g. root, cereal and legumes, etc."], "parentId": 64, "subLabels": []}]}, {"id": 67, "text": "Xii consumer education", "descriptions": null, "parentId": -1, "subLabels": [{"id": 68, "text": "(1)  consumer education", "descriptions": ["(a)  Meaning and principles", "(b)  consumer agents", "(a)  Explanation", "(b)  Factors to consider when budgeting"], "parentId": 67, "subLabels": []}]}, {"id": 69, "text": "Xii", "descriptions": null, "parentId": -1, "subLabels": [{"id": 70, "text": "(2)  food budgeting", "descriptions": ["(b)  Factors to consider when budgeting", "(a)  Guidelines for shopping for food"], "parentId": 69, "subLabels": []}, {"id": 71, "text": "(3)  food purchasing", "descriptions": ["(b)  Guidelines for bulk purchasing", "(c)  Reasons for buying in bulk", "(d)   Advantages and disadvantages of bulk purchasing"], "parentId": 69, "subLabels": []}]}, {"id": 72, "text": "Xii self employment", "descriptions": null, "parentId": -1, "subLabels": [{"id": 73, "text": "(1)  setting up and managing a catering enterprise", "descriptions": ["(a)  Explanation of terms -  entrepreneur -  entrepreneurship -  enterprise", "(b)  Characteristics of an entrepreneur", "(c)  Advantages and disadvantages of an entrepreneur", "(d)   Setting up a catering entrepreneur", "(e)   Some catering enterprises", "(f)   Factors contributing to the success of an enterprise", "(a)  Explanation of work ethics", "(b)  Good work ethics"], "parentId": 72, "subLabels": []}, {"id": 74, "text": "(2)  work ethics", "descriptions": ["(a)  Explanation of Food Packaging"], "parentId": 72, "subLabels": []}, {"id": 75, "text": "(3)  packaging", "descriptions": ["(b)  Reasons why food is packaged", "(c)  Qualities of packaging materials", "(d)  Types of packaging materials"], "parentId": 72, "subLabels": []}]}], "labels": [{"id": 2, "text": "I. nutrition and health", "descriptions": null, "parentId": -1, "subLabels": [{"id": 3, "text": "(1) introduction to foods and nutrition", "descriptions": ["(a) Meaning", "(b) Basic knowledge of Nutrition", "(c) Importance of Human Nutrition", "(d)Factors affecting Foods and Nutrition"], "parentId": 2, "subLabels": []}, {"id": 4, "text": "(2)  careers associated with", "descriptions": ["(e)  Food Habits"], "parentId": 2, "subLabels": []}, {"id": 5, "text": "Foods  and nutrition", "descriptions": ["(a)  Careers associated with Foods and Nutrition", "(b)  Factors that influence career choices"], "parentId": 2, "subLabels": []}, {"id": 6, "text": "(3)  basic food nutrients", "descriptions": ["(c)  Characteristics required for Foods and Nutrition careers", "(a)  The nutrients and their nutritive values", "(b)  Functions of the different nutrients", "(c)  Sources of the different nutrients", "(d)  Dietary deficiencies", "(e) Metabolism,(digestion and absorption of foods carbohydrate, protein, fat).", "(f)  Knowledge and use of food composition table", "(g)  Food tests: simple physical and chemical tests of food stuffs to detect presence of nutrients in foods e.g. proteins, fats and carbohydrates."], "parentId": 2, "subLabels": []}, {"id": 7, "text": "(4)  meal management", "descriptions": ["(i)  Meal planning terms", "(ii)  Reasons for planning meals", "(iii) Factors in planning meals"], "parentId": 2, "subLabels": [{"id": 8, "text": "Meal planning", "descriptions": ["(iv) General principles of meal planning", "(v) Meal patterns", "(i)  Nutritional needs for different groups e.g. pregnant, lactating", "mothers, infants and children, adolescents, adults and the aged, vegetarians.", "(ii)  Planning meals for people in health condition e.g. HIV & AIDS,", "invalids, convalescents, overweight, underweight, hypertension, diabetes etc."], "parentId": 7, "subLabels": []}]}, {"id": 9, "text": "Special", "descriptions": [], "parentId": 2, "subLabels": []}, {"id": 10, "text": "Nutritional", "descriptions": [], "parentId": 2, "subLabels": []}, {"id": 11, "text": "Needs", "descriptions": [], "parentId": 2, "subLabels": []}]}, {"id": 13, "text": "And equipment", "descriptions": null, "parentId": -1, "subLabels": [{"id": 14, "text": "(1) the kitchen", "descriptions": ["(c)   Factors to consider when planning.", "(d)   Cleaning agents and abrasives (commercial and local).", "(a)   Classes and types of equipment", "(b)   Selection, use, care and storage of large and small equipment, fixtures and appliances."], "parentId": 13, "subLabels": []}, {"id": 15, "text": "(2)  kitchen equipment", "descriptions": ["(a)   Types of kitchen accidents"], "parentId": 13, "subLabels": []}, {"id": 16, "text": "And   tools", "descriptions": ["(b)   Causes and prevention of accidents"], "parentId": 13, "subLabels": [{"id": 17, "text": "(3)  safety in the kitchen", "descriptions": ["(c)    Content and use of first aid box", "(d)    Simple first aid treatment"], "parentId": 16, "subLabels": []}, {"id": 18, "text": "(4)  sanitation in the kitchen", "descriptions": ["and pest control.", "(c)  Food hygiene e.g. handling of foods, food borne diseases, food", "sanitation laws.", "(a)   Personal Hygiene", "(b)   Kitchen Hygiene e.g. general cleaning, waste disposal, pests"], "parentId": 16, "subLabels": []}]}]}, {"id": 19, "text": "Iii. food commodities", "descriptions": null, "parentId": -1, "subLabels": [{"id": 20, "text": "(1)animal and animal products - milk and milk products", "descriptions": ["Kinds/types and structure", "Selection"], "parentId": 19, "subLabels": []}, {"id": 21, "text": "E.g", "descriptions": ["Storage"], "parentId": 19, "subLabels": [{"id": 22, "text": "Cheese, yoghurt", "descriptions": [], "parentId": 21, "subLabels": []}]}]}, {"id": 23, "text": "Iii.", "descriptions": null, "parentId": -1, "subLabels": [{"id": 24, "text": "(2)  cereals/grains", "descriptions": ["(a)  Kinds and forms", "(b)  Importance of cereals and grains: -  versatility -  thickening -  cheap source of energy/good source of roughage"], "parentId": 23, "subLabels": []}, {"id": 25, "text": "(3)  fruits and vegetables", "descriptions": ["(a)  Classification of fruits/Classification of vegetables.", "(b)   Structure, nutritive value and storage.", "(c)   Important of fruits and vegetables in the diet, etc."], "parentId": 23, "subLabels": []}, {"id": 26, "text": "(4)  legumes and oily seeds", "descriptions": ["(a) Classification of legumes, oily seeds", "(b)  Importance of legumes and oily seeds in the diet, etc."], "parentId": 23, "subLabels": []}, {"id": 27, "text": "(5)  fats and oils", "descriptions": ["(a)  Kinds and classification -  vegetable fats and oils -  animal fats and oils", "(b)  Uses in diet"], "parentId": 23, "subLabels": []}, {"id": 28, "text": "(6)  starchy roots and plantain", "descriptions": ["(c)  Uses in the body", "(d)  Health implications of fats and oils", "(a)  Types of starchy roots", "(b)  Types of plantain", "(c)  Types of dishes"], "parentId": 23, "subLabels": []}]}, {"id": 29, "text": "Iv. foodstorage and preservation", "descriptions": null, "parentId": -1, "subLabels": [{"id": 30, "text": "(1)  food spoilage", "descriptions": ["(a)  Meaning of food spoilage", "(b)  Causes and agents of food spoilage", "(a)  Meaning and importance of preservation"], "parentId": 29, "subLabels": []}, {"id": 31, "text": "(2)  food preservation", "descriptions": ["(b)  General principles underlying food preservation", "(c)  Methods of food preservation", "(a)  Meaning and importance of food storage"], "parentId": 29, "subLabels": []}, {"id": 32, "text": "(3)  food storage", "descriptions": ["(b)  Storage of perishable and non perishable foods", "(c)  Storage space and equipment e.g. refrigeration, deep freezer, cupboards, shelves, granaries, barns etc."], "parentId": 29, "subLabels": []}]}, {"id": 33, "text": "V. food preparation", "descriptions": null, "parentId": -1, "subLabels": [{"id": 34, "text": "(1)  principles underlying cooking", "descriptions": ["(a) Explanation of the concept of cooking", "(b) Reasons for cooking food", "(a)  Moist heat methods e.g. boiling, stewing, steaming etc."], "parentId": 33, "subLabels": []}, {"id": 35, "text": "(2)  methods of cooking", "descriptions": ["(b)  Dry heat methods e.g. baking, roasting, grilling, frying etc.", "(c)  Effects of heat on different food commodities e.g. animal", "products, cereals and grains, fats and oil etc.", "Methods of heat transfer and meaning -  Convection  -  liquid, gases -   Radiation    -  space -   conduction  -   solid metal"], "parentId": 33, "subLabels": []}, {"id": 36, "text": "(3)  transfer of heat", "descriptions": [], "parentId": 33, "subLabels": []}, {"id": 37, "text": "(3)  transfer of heat", "descriptions": ["Explanation of cooking terms"], "parentId": 33, "subLabels": []}, {"id": 38, "text": "(4)cooking terms", "descriptions": ["(a)  Definitions"], "parentId": 33, "subLabels": []}, {"id": 39, "text": "(5)  food additives", "descriptions": ["(b)  Types of food additives", "(c)  Functions of additives", "(d)  Selection and use of additives", "(e)   Food adulteration"], "parentId": 33, "subLabels": []}, {"id": 40, "text": "(6)   flour cookery and confectionery", "descriptions": [], "parentId": 33, "subLabels": [{"id": 41, "text": "(a) types of flour", "descriptions": ["(i)  Types of flour", "(ii)   Ingredients in flour"], "parentId": 40, "subLabels": []}]}, {"id": 42, "text": "(b) basic ingredients in flour cookery", "descriptions": ["(iii)  Uses of flour", "- Flour, fat, sugar, eggs"], "parentId": 33, "subLabels": [{"id": 43, "text": "Raising agents", "descriptions": ["(i) Types of raising agents, i.e., steam, carbon dioxide and air", "(ii) Sources:- boiling liquid \u2013 steam, baking powder - carbon dioxide whisking - air"], "parentId": 42, "subLabels": []}, {"id": 44, "text": "Batters and doughs", "descriptions": [], "parentId": 42, "subLabels": []}, {"id": 45, "text": "Cakes", "descriptions": ["-  rubbed in -  creamed -  whisked -  melted -  sponge mixtures"], "parentId": 42, "subLabels": []}, {"id": 46, "text": "Pastries", "descriptions": ["(i)  Types of Pastries", "Shortcrust, suet, flaky, etc.", "(ii) Principles underlying pastry making", "(iii) Pastry dishes e.g. turn over; jam tartlets, cornish pasties, etc."], "parentId": 42, "subLabels": []}]}, {"id": 47, "text": "(g)  yeast mixtures", "descriptions": ["(i)  Definition", "(ii) Ways of preparing yeast mixture", "(iii) Important points in preparing yeast mixture", "(iv) Yeast dishes \u2013 bread loaves, bread rolls, doughnut"], "parentId": 33, "subLabels": []}, {"id": 48, "text": "(h)  cake decoration", "descriptions": ["(i) Types of icing e.g. butter icing, royal icing"], "parentId": 33, "subLabels": []}, {"id": 49, "text": "Icing", "descriptions": ["(ii) Uses of icing", "(iii) Preparation of icing", "(iv) Using royal icing and butter icing"], "parentId": 33, "subLabels": []}]}, {"id": 50, "text": "Vi. beverages", "descriptions": null, "parentId": -1, "subLabels": [{"id": 51, "text": "(1) classification of beverages", "descriptions": ["(a)  Non-alcoholic beverages - coffee and tea - cocoa drink - milk and egg drinks - fruit juices and fruit drinks - beef tea and lemon grass", "(b)  Alcoholic - beer - wine"], "parentId": 50, "subLabels": []}, {"id": 52, "text": "(2)  importance of beverages", "descriptions": ["-  Nutritive values etc."], "parentId": 50, "subLabels": []}, {"id": 53, "text": "(3)  principles underlining preparation of beverage", "descriptions": ["-   Tea, coffee, cocoa etc."], "parentId": 50, "subLabels": []}, {"id": 54, "text": "Vii. convenience foods (a)  types of convenience foods (b)  selection and uses of convenience foods", "descriptions": [], "parentId": 50, "subLabels": [{"id": 55, "text": "(c)  advantages and disadvantages of using convenience foods", "descriptions": [], "parentId": 54, "subLabels": []}, {"id": 56, "text": "(d)  preparation of dishes using convenience foods ", "descriptions": [], "parentId": 54, "subLabels": []}]}, {"id": 57, "text": "Viii. rechauff\u00e9 (leftover) foods (a)  explanation (b)  importance of using left over goods", "descriptions": [], "parentId": 50, "subLabels": [{"id": 58, "text": "(c)  rules/guidelines for using leftover foods", "descriptions": [], "parentId": 57, "subLabels": []}, {"id": 59, "text": "(d)rechauff\u00e9 dishes", "descriptions": [], "parentId": 57, "subLabels": []}]}]}, {"id": 61, "text": "Ix dishes", "descriptions": null, "parentId": -1, "subLabels": [{"id": 62, "text": "(2)  table setting and etiquette", "descriptions": ["(c)  Types of festive dishes/special occasion dishes", "(d) Preparation of festive dishes/special occasion", "dishes", "(1)  Entertainment", "(a)  Explanation", "(b)  Types of parties", "(c)  Occasions for parties", "(d)   Points to consider when selecting types of parties", "(e)   Factors that contribute to the success of parties", "(a)  Explanation e.g. table setting, cover, etc", "(b)  Setting tables and tray for different meal and occasion", "(c)  Table appointments", "(d)   Table manners/etiquette", "(a)  Types of meal service -  Informal meal service -  formal meal service"], "parentId": 61, "subLabels": []}, {"id": 63, "text": "(3)  meal service style", "descriptions": ["(b)  Factors determining choice of service styles types of party", "(c)  Foods for special occasions e. g. birthday, naming ceremonies, weddings etc.", "(e)   Factors that contribute to the success of parties"], "parentId": 61, "subLabels": []}]}, {"id": 64, "text": "Xi experimental cookery", "descriptions": null, "parentId": -1, "subLabels": [{"id": 65, "text": "(1)   research into local dishes and drinks", "descriptions": ["(a)  Importance of research in Foods and Nutrition", "(b)  Collection of information (data)", "(c)  Research into local dishes", "(d)   Development of new recipes", "(e)   Improving existing recipes based on methods of preparation, Nutritive value, time and energy use and  service/"], "parentId": 64, "subLabels": []}, {"id": 66, "text": "(2)  experiments", "descriptions": ["presentation", "(a)  Using fruits e.g. passion fruit, samia, royal palm fruit", "(b)  Other types of flour e.g. root, cereal and legumes, etc."], "parentId": 64, "subLabels": []}]}, {"id": 67, "text": "Xii consumer education", "descriptions": null, "parentId": -1, "subLabels": [{"id": 68, "text": "(1)  consumer education", "descriptions": ["(a)  Meaning and principles", "(b)  consumer agents", "(a)  Explanation", "(b)  Factors to consider when budgeting"], "parentId": 67, "subLabels": []}]}, {"id": 69, "text": "Xii", "descriptions": null, "parentId": -1, "subLabels": [{"id": 70, "text": "(2)  food budgeting", "descriptions": ["(b)  Factors to consider when budgeting", "(a)  Guidelines for shopping for food"], "parentId": 69, "subLabels": []}, {"id": 71, "text": "(3)  food purchasing", "descriptions": ["(b)  Guidelines for bulk purchasing", "(c)  Reasons for buying in bulk", "(d)   Advantages and disadvantages of bulk purchasing"], "parentId": 69, "subLabels": []}]}, {"id": 72, "text": "Xii self employment", "descriptions": null, "parentId": -1, "subLabels": [{"id": 73, "text": "(1)  setting up and managing a catering enterprise", "descriptions": ["(a)  Explanation of terms -  entrepreneur -  entrepreneurship -  enterprise", "(b)  Characteristics of an entrepreneur", "(c)  Advantages and disadvantages of an entrepreneur", "(d)   Setting up a catering entrepreneur", "(e)   Some catering enterprises", "(f)   Factors contributing to the success of an enterprise", "(a)  Explanation of work ethics", "(b)  Good work ethics"], "parentId": 72, "subLabels": []}, {"id": 74, "text": "(2)  work ethics", "descriptions": ["(a)  Explanation of Food Packaging"], "parentId": 72, "subLabels": []}, {"id": 75, "text": "(3)  packaging", "descriptions": ["(b)  Reasons why food is packaged", "(c)  Qualities of packaging materials", "(d)  Types of packaging materials"], "parentId": 72, "subLabels": []}]}, {"id": 3, "text": "(1) introduction to foods and nutrition", "descriptions": ["(a) Meaning", "(b) Basic knowledge of Nutrition", "(c) Importance of Human Nutrition", "(d)Factors affecting Foods and Nutrition"], "parentId": 2, "subLabels": []}, {"id": 4, "text": "(2)  careers associated with", "descriptions": ["(e)  Food Habits"], "parentId": 2, "subLabels": []}, {"id": 5, "text": "Foods  and nutrition", "descriptions": ["(a)  Careers associated with Foods and Nutrition", "(b)  Factors that influence career choices"], "parentId": 2, "subLabels": []}, {"id": 6, "text": "(3)  basic food nutrients", "descriptions": ["(c)  Characteristics required for Foods and Nutrition careers", "(a)  The nutrients and their nutritive values", "(b)  Functions of the different nutrients", "(c)  Sources of the different nutrients", "(d)  Dietary deficiencies", "(e) Metabolism,(digestion and absorption of foods carbohydrate, protein, fat).", "(f)  Knowledge and use of food composition table", "(g)  Food tests: simple physical and chemical tests of food stuffs to detect presence of nutrients in foods e.g. proteins, fats and carbohydrates."], "parentId": 2, "subLabels": []}, {"id": 7, "text": "(4)  meal management", "descriptions": ["(i)  Meal planning terms", "(ii)  Reasons for planning meals", "(iii) Factors in planning meals"], "parentId": 2, "subLabels": [{"id": 8, "text": "Meal planning", "descriptions": ["(iv) General principles of meal planning", "(v) Meal patterns", "(i)  Nutritional needs for different groups e.g. pregnant, lactating", "mothers, infants and children, adolescents, adults and the aged, vegetarians.", "(ii)  Planning meals for people in health condition e.g. HIV & AIDS,", "invalids, convalescents, overweight, underweight, hypertension, diabetes etc."], "parentId": 7, "subLabels": []}]}, {"id": 9, "text": "Special", "descriptions": [], "parentId": 2, "subLabels": []}, {"id": 10, "text": "Nutritional", "descriptions": [], "parentId": 2, "subLabels": []}, {"id": 11, "text": "Needs", "descriptions": [], "parentId": 2, "subLabels": []}, {"id": 14, "text": "(1) the kitchen", "descriptions": ["(c)   Factors to consider when planning.", "(d)   Cleaning agents and abrasives (commercial and local).", "(a)   Classes and types of equipment", "(b)   Selection, use, care and storage of large and small equipment, fixtures and appliances."], "parentId": 13, "subLabels": []}, {"id": 15, "text": "(2)  kitchen equipment", "descriptions": ["(a)   Types of kitchen accidents"], "parentId": 13, "subLabels": []}, {"id": 16, "text": "And   tools", "descriptions": ["(b)   Causes and prevention of accidents"], "parentId": 13, "subLabels": [{"id": 17, "text": "(3)  safety in the kitchen", "descriptions": ["(c)    Content and use of first aid box", "(d)    Simple first aid treatment"], "parentId": 16, "subLabels": []}, {"id": 18, "text": "(4)  sanitation in the kitchen", "descriptions": ["and pest control.", "(c)  Food hygiene e.g. handling of foods, food borne diseases, food", "sanitation laws.", "(a)   Personal Hygiene", "(b)   Kitchen Hygiene e.g. general cleaning, waste disposal, pests"], "parentId": 16, "subLabels": []}]}, {"id": 20, "text": "(1)animal and animal products - milk and milk products", "descriptions": ["Kinds/types and structure", "Selection"], "parentId": 19, "subLabels": []}, {"id": 21, "text": "E.g", "descriptions": ["Storage"], "parentId": 19, "subLabels": [{"id": 22, "text": "Cheese, yoghurt", "descriptions": [], "parentId": 21, "subLabels": []}]}, {"id": 24, "text": "(2)  cereals/grains", "descriptions": ["(a)  Kinds and forms", "(b)  Importance of cereals and grains: -  versatility -  thickening -  cheap source of energy/good source of roughage"], "parentId": 23, "subLabels": []}, {"id": 25, "text": "(3)  fruits and vegetables", "descriptions": ["(a)  Classification of fruits/Classification of vegetables.", "(b)   Structure, nutritive value and storage.", "(c)   Important of fruits and vegetables in the diet, etc."], "parentId": 23, "subLabels": []}, {"id": 26, "text": "(4)  legumes and oily seeds", "descriptions": ["(a) Classification of legumes, oily seeds", "(b)  Importance of legumes and oily seeds in the diet, etc."], "parentId": 23, "subLabels": []}, {"id": 27, "text": "(5)  fats and oils", "descriptions": ["(a)  Kinds and classification -  vegetable fats and oils -  animal fats and oils", "(b)  Uses in diet"], "parentId": 23, "subLabels": []}, {"id": 28, "text": "(6)  starchy roots and plantain", "descriptions": ["(c)  Uses in the body", "(d)  Health implications of fats and oils", "(a)  Types of starchy roots", "(b)  Types of plantain", "(c)  Types of dishes"], "parentId": 23, "subLabels": []}, {"id": 30, "text": "(1)  food spoilage", "descriptions": ["(a)  Meaning of food spoilage", "(b)  Causes and agents of food spoilage", "(a)  Meaning and importance of preservation"], "parentId": 29, "subLabels": []}, {"id": 31, "text": "(2)  food preservation", "descriptions": ["(b)  General principles underlying food preservation", "(c)  Methods of food preservation", "(a)  Meaning and importance of food storage"], "parentId": 29, "subLabels": []}, {"id": 32, "text": "(3)  food storage", "descriptions": ["(b)  Storage of perishable and non perishable foods", "(c)  Storage space and equipment e.g. refrigeration, deep freezer, cupboards, shelves, granaries, barns etc."], "parentId": 29, "subLabels": []}, {"id": 34, "text": "(1)  principles underlying cooking", "descriptions": ["(a) Explanation of the concept of cooking", "(b) Reasons for cooking food", "(a)  Moist heat methods e.g. boiling, stewing, steaming etc."], "parentId": 33, "subLabels": []}, {"id": 35, "text": "(2)  methods of cooking", "descriptions": ["(b)  Dry heat methods e.g. baking, roasting, grilling, frying etc.", "(c)  Effects of heat on different food commodities e.g. animal", "products, cereals and grains, fats and oil etc.", "Methods of heat transfer and meaning -  Convection  -  liquid, gases -   Radiation    -  space -   conduction  -   solid metal"], "parentId": 33, "subLabels": []}, {"id": 36, "text": "(3)  transfer of heat", "descriptions": [], "parentId": 33, "subLabels": []}, {"id": 37, "text": "(3)  transfer of heat", "descriptions": ["Explanation of cooking terms"], "parentId": 33, "subLabels": []}, {"id": 38, "text": "(4)cooking terms", "descriptions": ["(a)  Definitions"], "parentId": 33, "subLabels": []}, {"id": 39, "text": "(5)  food additives", "descriptions": ["(b)  Types of food additives", "(c)  Functions of additives", "(d)  Selection and use of additives", "(e)   Food adulteration"], "parentId": 33, "subLabels": []}, {"id": 40, "text": "(6)   flour cookery and confectionery", "descriptions": [], "parentId": 33, "subLabels": [{"id": 41, "text": "(a) types of flour", "descriptions": ["(i)  Types of flour", "(ii)   Ingredients in flour"], "parentId": 40, "subLabels": []}]}, {"id": 42, "text": "(b) basic ingredients in flour cookery", "descriptions": ["(iii)  Uses of flour", "- Flour, fat, sugar, eggs"], "parentId": 33, "subLabels": [{"id": 43, "text": "Raising agents", "descriptions": ["(i) Types of raising agents, i.e., steam, carbon dioxide and air", "(ii) Sources:- boiling liquid \u2013 steam, baking powder - carbon dioxide whisking - air"], "parentId": 42, "subLabels": []}, {"id": 44, "text": "Batters and doughs", "descriptions": [], "parentId": 42, "subLabels": []}, {"id": 45, "text": "Cakes", "descriptions": ["-  rubbed in -  creamed -  whisked -  melted -  sponge mixtures"], "parentId": 42, "subLabels": []}, {"id": 46, "text": "Pastries", "descriptions": ["(i)  Types of Pastries", "Shortcrust, suet, flaky, etc.", "(ii) Principles underlying pastry making", "(iii) Pastry dishes e.g. turn over; jam tartlets, cornish pasties, etc."], "parentId": 42, "subLabels": []}]}, {"id": 47, "text": "(g)  yeast mixtures", "descriptions": ["(i)  Definition", "(ii) Ways of preparing yeast mixture", "(iii) Important points in preparing yeast mixture", "(iv) Yeast dishes \u2013 bread loaves, bread rolls, doughnut"], "parentId": 33, "subLabels": []}, {"id": 48, "text": "(h)  cake decoration", "descriptions": ["(i) Types of icing e.g. butter icing, royal icing"], "parentId": 33, "subLabels": []}, {"id": 49, "text": "Icing", "descriptions": ["(ii) Uses of icing", "(iii) Preparation of icing", "(iv) Using royal icing and butter icing"], "parentId": 33, "subLabels": []}, {"id": 51, "text": "(1) classification of beverages", "descriptions": ["(a)  Non-alcoholic beverages - coffee and tea - cocoa drink - milk and egg drinks - fruit juices and fruit drinks - beef tea and lemon grass", "(b)  Alcoholic - beer - wine"], "parentId": 50, "subLabels": []}, {"id": 52, "text": "(2)  importance of beverages", "descriptions": ["-  Nutritive values etc."], "parentId": 50, "subLabels": []}, {"id": 53, "text": "(3)  principles underlining preparation of beverage", "descriptions": ["-   Tea, coffee, cocoa etc."], "parentId": 50, "subLabels": []}, {"id": 54, "text": "Vii. convenience foods (a)  types of convenience foods (b)  selection and uses of convenience foods", "descriptions": [], "parentId": 50, "subLabels": [{"id": 55, "text": "(c)  advantages and disadvantages of using convenience foods", "descriptions": [], "parentId": 54, "subLabels": []}, {"id": 56, "text": "(d)  preparation of dishes using convenience foods ", "descriptions": [], "parentId": 54, "subLabels": []}]}, {"id": 57, "text": "Viii. rechauff\u00e9 (leftover) foods (a)  explanation (b)  importance of using left over goods", "descriptions": [], "parentId": 50, "subLabels": [{"id": 58, "text": "(c)  rules/guidelines for using leftover foods", "descriptions": [], "parentId": 57, "subLabels": []}, {"id": 59, "text": "(d)rechauff\u00e9 dishes", "descriptions": [], "parentId": 57, "subLabels": []}]}, {"id": 62, "text": "(2)  table setting and etiquette", "descriptions": ["(c)  Types of festive dishes/special occasion dishes", "(d) Preparation of festive dishes/special occasion", "dishes", "(1)  Entertainment", "(a)  Explanation", "(b)  Types of parties", "(c)  Occasions for parties", "(d)   Points to consider when selecting types of parties", "(e)   Factors that contribute to the success of parties", "(a)  Explanation e.g. table setting, cover, etc", "(b)  Setting tables and tray for different meal and occasion", "(c)  Table appointments", "(d)   Table manners/etiquette", "(a)  Types of meal service -  Informal meal service -  formal meal service"], "parentId": 61, "subLabels": []}, {"id": 63, "text": "(3)  meal service style", "descriptions": ["(b)  Factors determining choice of service styles types of party", "(c)  Foods for special occasions e. g. birthday, naming ceremonies, weddings etc.", "(e)   Factors that contribute to the success of parties"], "parentId": 61, "subLabels": []}, {"id": 65, "text": "(1)   research into local dishes and drinks", "descriptions": ["(a)  Importance of research in Foods and Nutrition", "(b)  Collection of information (data)", "(c)  Research into local dishes", "(d)   Development of new recipes", "(e)   Improving existing recipes based on methods of preparation, Nutritive value, time and energy use and  service/"], "parentId": 64, "subLabels": []}, {"id": 66, "text": "(2)  experiments", "descriptions": ["presentation", "(a)  Using fruits e.g. passion fruit, samia, royal palm fruit", "(b)  Other types of flour e.g. root, cereal and legumes, etc."], "parentId": 64, "subLabels": []}, {"id": 68, "text": "(1)  consumer education", "descriptions": ["(a)  Meaning and principles", "(b)  consumer agents", "(a)  Explanation", "(b)  Factors to consider when budgeting"], "parentId": 67, "subLabels": []}, {"id": 70, "text": "(2)  food budgeting", "descriptions": ["(b)  Factors to consider when budgeting", "(a)  Guidelines for shopping for food"], "parentId": 69, "subLabels": []}, {"id": 71, "text": "(3)  food purchasing", "descriptions": ["(b)  Guidelines for bulk purchasing", "(c)  Reasons for buying in bulk", "(d)   Advantages and disadvantages of bulk purchasing"], "parentId": 69, "subLabels": []}, {"id": 73, "text": "(1)  setting up and managing a catering enterprise", "descriptions": ["(a)  Explanation of terms -  entrepreneur -  entrepreneurship -  enterprise", "(b)  Characteristics of an entrepreneur", "(c)  Advantages and disadvantages of an entrepreneur", "(d)   Setting up a catering entrepreneur", "(e)   Some catering enterprises", "(f)   Factors contributing to the success of an enterprise", "(a)  Explanation of work ethics", "(b)  Good work ethics"], "parentId": 72, "subLabels": []}, {"id": 74, "text": "(2)  work ethics", "descriptions": ["(a)  Explanation of Food Packaging"], "parentId": 72, "subLabels": []}, {"id": 75, "text": "(3)  packaging", "descriptions": ["(b)  Reasons why food is packaged", "(c)  Qualities of packaging materials", "(d)  Types of packaging materials"], "parentId": 72, "subLabels": []}, {"id": 8, "text": "Meal planning", "descriptions": ["(iv) General principles of meal planning", "(v) Meal patterns", "(i)  Nutritional needs for different groups e.g. pregnant, lactating", "mothers, infants and children, adolescents, adults and the aged, vegetarians.", "(ii)  Planning meals for people in health condition e.g. HIV & AIDS,", "invalids, convalescents, overweight, underweight, hypertension, diabetes etc."], "parentId": 7, "subLabels": []}, {"id": 17, "text": "(3)  safety in the kitchen", "descriptions": ["(c)    Content and use of first aid box", "(d)    Simple first aid treatment"], "parentId": 16, "subLabels": []}, {"id": 18, "text": "(4)  sanitation in the kitchen", "descriptions": ["and pest control.", "(c)  Food hygiene e.g. handling of foods, food borne diseases, food", "sanitation laws.", "(a)   Personal Hygiene", "(b)   Kitchen Hygiene e.g. general cleaning, waste disposal, pests"], "parentId": 16, "subLabels": []}, {"id": 22, "text": "Cheese, yoghurt", "descriptions": [], "parentId": 21, "subLabels": []}, {"id": 41, "text": "(a) types of flour", "descriptions": ["(i)  Types of flour", "(ii)   Ingredients in flour"], "parentId": 40, "subLabels": []}, {"id": 43, "text": "Raising agents", "descriptions": ["(i) Types of raising agents, i.e., steam, carbon dioxide and air", "(ii) Sources:- boiling liquid \u2013 steam, baking powder - carbon dioxide whisking - air"], "parentId": 42, "subLabels": []}, {"id": 44, "text": "Batters and doughs", "descriptions": [], "parentId": 42, "subLabels": []}, {"id": 45, "text": "Cakes", "descriptions": ["-  rubbed in -  creamed -  whisked -  melted -  sponge mixtures"], "parentId": 42, "subLabels": []}, {"id": 46, "text": "Pastries", "descriptions": ["(i)  Types of Pastries", "Shortcrust, suet, flaky, etc.", "(ii) Principles underlying pastry making", "(iii) Pastry dishes e.g. turn over; jam tartlets, cornish pasties, etc."], "parentId": 42, "subLabels": []}, {"id": 55, "text": "(c)  advantages and disadvantages of using convenience foods", "descriptions": [], "parentId": 54, "subLabels": []}, {"id": 56, "text": "(d)  preparation of dishes using convenience foods ", "descriptions": [], "parentId": 54, "subLabels": []}, {"id": 58, "text": "(c)  rules/guidelines for using leftover foods", "descriptions": [], "parentId": 57, "subLabels": []}, {"id": 59, "text": "(d)rechauff\u00e9 dishes", "descriptions": [], "parentId": 57, "subLabels": []}]}
+{
+ "subject": "Foods and Nutrition",
+ "Grade": "None",
+ "Curriculum": "NERDC",
+ "labelsTree": [
+  {
+   "id": 2,
+   "text": "I. nutrition and health",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 3,
+     "text": "(1) introduction to foods and nutrition",
+     "descriptions": [
+      "(a) Meaning",
+      "(b) Basic knowledge of Nutrition",
+      "(c) Importance of Human Nutrition",
+      "(d)Factors affecting Foods and Nutrition"
+     ],
+     "parentId": 2,
+     "subLabels": []
+    },
+    {
+     "id": 4,
+     "text": "(2)  careers associated with",
+     "descriptions": [
+      "(e)  Food Habits"
+     ],
+     "parentId": 2,
+     "subLabels": []
+    },
+    {
+     "id": 5,
+     "text": "Foods  and nutrition",
+     "descriptions": [
+      "(a)  Careers associated with Foods and Nutrition",
+      "(b)  Factors that influence career choices"
+     ],
+     "parentId": 2,
+     "subLabels": []
+    },
+    {
+     "id": 6,
+     "text": "(3)  basic food nutrients",
+     "descriptions": [
+      "(c)  Characteristics required for Foods and Nutrition careers",
+      "(a)  The nutrients and their nutritive values",
+      "(b)  Functions of the different nutrients",
+      "(c)  Sources of the different nutrients",
+      "(d)  Dietary deficiencies",
+      "(e) Metabolism,(digestion and absorption of foods carbohydrate, protein, fat).",
+      "(f)  Knowledge and use of food composition table",
+      "(g)  Food tests: simple physical and chemical tests of food stuffs to detect presence of nutrients in foods e.g. proteins, fats and carbohydrates."
+     ],
+     "parentId": 2,
+     "subLabels": []
+    },
+    {
+     "id": 7,
+     "text": "(4)  meal management",
+     "descriptions": [
+      "(i)  Meal planning terms",
+      "(ii)  Reasons for planning meals",
+      "(iii) Factors in planning meals"
+     ],
+     "parentId": 2,
+     "subLabels": [
+      {
+       "id": 8,
+       "text": "Meal planning",
+       "descriptions": [
+        "(iv) General principles of meal planning",
+        "(v) Meal patterns",
+        "(i)  Nutritional needs for different groups e.g. pregnant, lactating",
+        "mothers, infants and children, adolescents, adults and the aged, vegetarians.",
+        "(ii)  Planning meals for people in health condition e.g. HIV & AIDS,",
+        "invalids, convalescents, overweight, underweight, hypertension, diabetes etc."
+       ],
+       "parentId": 7,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 9,
+     "text": "Special",
+     "descriptions": [],
+     "parentId": 2,
+     "subLabels": []
+    },
+    {
+     "id": 10,
+     "text": "Nutritional",
+     "descriptions": [],
+     "parentId": 2,
+     "subLabels": []
+    },
+    {
+     "id": 11,
+     "text": "Needs",
+     "descriptions": [],
+     "parentId": 2,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "text": "And equipment",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 14,
+     "text": "(1) the kitchen",
+     "descriptions": [
+      "(c)   Factors to consider when planning.",
+      "(d)   Cleaning agents and abrasives (commercial and local).",
+      "(a)   Classes and types of equipment",
+      "(b)   Selection, use, care and storage of large and small equipment, fixtures and appliances."
+     ],
+     "parentId": 13,
+     "subLabels": []
+    },
+    {
+     "id": 15,
+     "text": "(2)  kitchen equipment",
+     "descriptions": [
+      "(a)   Types of kitchen accidents"
+     ],
+     "parentId": 13,
+     "subLabels": []
+    },
+    {
+     "id": 16,
+     "text": "And   tools",
+     "descriptions": [
+      "(b)   Causes and prevention of accidents"
+     ],
+     "parentId": 13,
+     "subLabels": [
+      {
+       "id": 17,
+       "text": "(3)  safety in the kitchen",
+       "descriptions": [
+        "(c)    Content and use of first aid box",
+        "(d)    Simple first aid treatment"
+       ],
+       "parentId": 16,
+       "subLabels": []
+      },
+      {
+       "id": 18,
+       "text": "(4)  sanitation in the kitchen",
+       "descriptions": [
+        "and pest control.",
+        "(c)  Food hygiene e.g. handling of foods, food borne diseases, food",
+        "sanitation laws.",
+        "(a)   Personal Hygiene",
+        "(b)   Kitchen Hygiene e.g. general cleaning, waste disposal, pests"
+       ],
+       "parentId": 16,
+       "subLabels": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "text": "Iii. food commodities",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 20,
+     "text": "(1)animal and animal products - milk and milk products",
+     "descriptions": [
+      "Kinds/types and structure",
+      "Selection"
+     ],
+     "parentId": 19,
+     "subLabels": []
+    },
+    {
+     "id": 21,
+     "text": "E.g",
+     "descriptions": [
+      "Storage"
+     ],
+     "parentId": 19,
+     "subLabels": [
+      {
+       "id": 22,
+       "text": "Cheese, yoghurt",
+       "descriptions": [],
+       "parentId": 21,
+       "subLabels": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "text": "Iii.",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 24,
+     "text": "(2)  cereals/grains",
+     "descriptions": [
+      "(a)  Kinds and forms",
+      "(b)  Importance of cereals and grains: -  versatility -  thickening -  cheap source of energy/good source of roughage"
+     ],
+     "parentId": 23,
+     "subLabels": []
+    },
+    {
+     "id": 25,
+     "text": "(3)  fruits and vegetables",
+     "descriptions": [
+      "(a)  Classification of fruits/Classification of vegetables.",
+      "(b)   Structure, nutritive value and storage.",
+      "(c)   Important of fruits and vegetables in the diet, etc."
+     ],
+     "parentId": 23,
+     "subLabels": []
+    },
+    {
+     "id": 26,
+     "text": "(4)  legumes and oily seeds",
+     "descriptions": [
+      "(a) Classification of legumes, oily seeds",
+      "(b)  Importance of legumes and oily seeds in the diet, etc."
+     ],
+     "parentId": 23,
+     "subLabels": []
+    },
+    {
+     "id": 27,
+     "text": "(5)  fats and oils",
+     "descriptions": [
+      "(a)  Kinds and classification -  vegetable fats and oils -  animal fats and oils",
+      "(b)  Uses in diet"
+     ],
+     "parentId": 23,
+     "subLabels": []
+    },
+    {
+     "id": 28,
+     "text": "(6)  starchy roots and plantain",
+     "descriptions": [
+      "(c)  Uses in the body",
+      "(d)  Health implications of fats and oils",
+      "(a)  Types of starchy roots",
+      "(b)  Types of plantain",
+      "(c)  Types of dishes"
+     ],
+     "parentId": 23,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 29,
+   "text": "Iv. foodstorage and preservation",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 30,
+     "text": "(1)  food spoilage",
+     "descriptions": [
+      "(a)  Meaning of food spoilage",
+      "(b)  Causes and agents of food spoilage",
+      "(a)  Meaning and importance of preservation"
+     ],
+     "parentId": 29,
+     "subLabels": []
+    },
+    {
+     "id": 31,
+     "text": "(2)  food preservation",
+     "descriptions": [
+      "(b)  General principles underlying food preservation",
+      "(c)  Methods of food preservation",
+      "(a)  Meaning and importance of food storage"
+     ],
+     "parentId": 29,
+     "subLabels": []
+    },
+    {
+     "id": 32,
+     "text": "(3)  food storage",
+     "descriptions": [
+      "(b)  Storage of perishable and non perishable foods",
+      "(c)  Storage space and equipment e.g. refrigeration, deep freezer, cupboards, shelves, granaries, barns etc."
+     ],
+     "parentId": 29,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 33,
+   "text": "V. food preparation",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 34,
+     "text": "(1)  principles underlying cooking",
+     "descriptions": [
+      "(a) Explanation of the concept of cooking",
+      "(b) Reasons for cooking food",
+      "(a)  Moist heat methods e.g. boiling, stewing, steaming etc."
+     ],
+     "parentId": 33,
+     "subLabels": []
+    },
+    {
+     "id": 35,
+     "text": "(2)  methods of cooking",
+     "descriptions": [
+      "(b)  Dry heat methods e.g. baking, roasting, grilling, frying etc.",
+      "(c)  Effects of heat on different food commodities e.g. animal",
+      "products, cereals and grains, fats and oil etc.",
+      "Methods of heat transfer and meaning -  Convection  -  liquid, gases -   Radiation    -  space -   conduction  -   solid metal"
+     ],
+     "parentId": 33,
+     "subLabels": []
+    },
+    {
+     "id": 36,
+     "text": "(3)  transfer of heat",
+     "descriptions": [],
+     "parentId": 33,
+     "subLabels": []
+    },
+    {
+     "id": 37,
+     "text": "(3)  transfer of heat",
+     "descriptions": [
+      "Explanation of cooking terms"
+     ],
+     "parentId": 33,
+     "subLabels": []
+    },
+    {
+     "id": 38,
+     "text": "(4)cooking terms",
+     "descriptions": [
+      "(a)  Definitions"
+     ],
+     "parentId": 33,
+     "subLabels": []
+    },
+    {
+     "id": 39,
+     "text": "(5)  food additives",
+     "descriptions": [
+      "(b)  Types of food additives",
+      "(c)  Functions of additives",
+      "(d)  Selection and use of additives",
+      "(e)   Food adulteration"
+     ],
+     "parentId": 33,
+     "subLabels": []
+    },
+    {
+     "id": 40,
+     "text": "(6)   flour cookery and confectionery",
+     "descriptions": [],
+     "parentId": 33,
+     "subLabels": [
+      {
+       "id": 41,
+       "text": "(a) types of flour",
+       "descriptions": [
+        "(i)  Types of flour",
+        "(ii)   Ingredients in flour"
+       ],
+       "parentId": 40,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 42,
+     "text": "(b) basic ingredients in flour cookery",
+     "descriptions": [
+      "(iii)  Uses of flour",
+      "- Flour, fat, sugar, eggs"
+     ],
+     "parentId": 33,
+     "subLabels": [
+      {
+       "id": 43,
+       "text": "Raising agents",
+       "descriptions": [
+        "(i) Types of raising agents, i.e., steam, carbon dioxide and air",
+        "(ii) Sources:- boiling liquid \u2013 steam, baking powder - carbon dioxide whisking - air"
+       ],
+       "parentId": 42,
+       "subLabels": []
+      },
+      {
+       "id": 44,
+       "text": "Batters and doughs",
+       "descriptions": [],
+       "parentId": 42,
+       "subLabels": []
+      },
+      {
+       "id": 45,
+       "text": "Cakes",
+       "descriptions": [
+        "-  rubbed in -  creamed -  whisked -  melted -  sponge mixtures"
+       ],
+       "parentId": 42,
+       "subLabels": []
+      },
+      {
+       "id": 46,
+       "text": "Pastries",
+       "descriptions": [
+        "(i)  Types of Pastries",
+        "Shortcrust, suet, flaky, etc.",
+        "(ii) Principles underlying pastry making",
+        "(iii) Pastry dishes e.g. turn over; jam tartlets, cornish pasties, etc."
+       ],
+       "parentId": 42,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 47,
+     "text": "(g)  yeast mixtures",
+     "descriptions": [
+      "(i)  Definition",
+      "(ii) Ways of preparing yeast mixture",
+      "(iii) Important points in preparing yeast mixture",
+      "(iv) Yeast dishes \u2013 bread loaves, bread rolls, doughnut"
+     ],
+     "parentId": 33,
+     "subLabels": []
+    },
+    {
+     "id": 48,
+     "text": "(h)  cake decoration",
+     "descriptions": [
+      "(i) Types of icing e.g. butter icing, royal icing"
+     ],
+     "parentId": 33,
+     "subLabels": []
+    },
+    {
+     "id": 49,
+     "text": "Icing",
+     "descriptions": [
+      "(ii) Uses of icing",
+      "(iii) Preparation of icing",
+      "(iv) Using royal icing and butter icing"
+     ],
+     "parentId": 33,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 50,
+   "text": "Vi. beverages",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 51,
+     "text": "(1) classification of beverages",
+     "descriptions": [
+      "(a)  Non-alcoholic beverages - coffee and tea - cocoa drink - milk and egg drinks - fruit juices and fruit drinks - beef tea and lemon grass",
+      "(b)  Alcoholic - beer - wine"
+     ],
+     "parentId": 50,
+     "subLabels": []
+    },
+    {
+     "id": 52,
+     "text": "(2)  importance of beverages",
+     "descriptions": [
+      "-  Nutritive values etc."
+     ],
+     "parentId": 50,
+     "subLabels": []
+    },
+    {
+     "id": 53,
+     "text": "(3)  principles underlining preparation of beverage",
+     "descriptions": [
+      "-   Tea, coffee, cocoa etc."
+     ],
+     "parentId": 50,
+     "subLabels": []
+    },
+    {
+     "id": 54,
+     "text": "Vii. convenience foods (a)  types of convenience foods (b)  selection and uses of convenience foods",
+     "descriptions": [],
+     "parentId": 50,
+     "subLabels": [
+      {
+       "id": 55,
+       "text": "(c)  advantages and disadvantages of using convenience foods",
+       "descriptions": [],
+       "parentId": 54,
+       "subLabels": []
+      },
+      {
+       "id": 56,
+       "text": "(d)  preparation of dishes using convenience foods ",
+       "descriptions": [],
+       "parentId": 54,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 57,
+     "text": "Viii. rechauff\u00e9 (leftover) foods (a)  explanation (b)  importance of using left over goods",
+     "descriptions": [],
+     "parentId": 50,
+     "subLabels": [
+      {
+       "id": 58,
+       "text": "(c)  rules/guidelines for using leftover foods",
+       "descriptions": [],
+       "parentId": 57,
+       "subLabels": []
+      },
+      {
+       "id": 59,
+       "text": "(d)rechauff\u00e9 dishes",
+       "descriptions": [],
+       "parentId": 57,
+       "subLabels": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 61,
+   "text": "Ix dishes",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 62,
+     "text": "(2)  table setting and etiquette",
+     "descriptions": [
+      "(c)  Types of festive dishes/special occasion dishes",
+      "(d) Preparation of festive dishes/special occasion",
+      "dishes",
+      "(1)  Entertainment",
+      "(a)  Explanation",
+      "(b)  Types of parties",
+      "(c)  Occasions for parties",
+      "(d)   Points to consider when selecting types of parties",
+      "(e)   Factors that contribute to the success of parties",
+      "(a)  Explanation e.g. table setting, cover, etc",
+      "(b)  Setting tables and tray for different meal and occasion",
+      "(c)  Table appointments",
+      "(d)   Table manners/etiquette",
+      "(a)  Types of meal service -  Informal meal service -  formal meal service"
+     ],
+     "parentId": 61,
+     "subLabels": []
+    },
+    {
+     "id": 63,
+     "text": "(3)  meal service style",
+     "descriptions": [
+      "(b)  Factors determining choice of service styles types of party",
+      "(c)  Foods for special occasions e. g. birthday, naming ceremonies, weddings etc.",
+      "(e)   Factors that contribute to the success of parties"
+     ],
+     "parentId": 61,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 64,
+   "text": "Xi experimental cookery",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 65,
+     "text": "(1)   research into local dishes and drinks",
+     "descriptions": [
+      "(a)  Importance of research in Foods and Nutrition",
+      "(b)  Collection of information (data)",
+      "(c)  Research into local dishes",
+      "(d)   Development of new recipes",
+      "(e)   Improving existing recipes based on methods of preparation, Nutritive value, time and energy use and  service/"
+     ],
+     "parentId": 64,
+     "subLabels": []
+    },
+    {
+     "id": 66,
+     "text": "(2)  experiments",
+     "descriptions": [
+      "presentation",
+      "(a)  Using fruits e.g. passion fruit, samia, royal palm fruit",
+      "(b)  Other types of flour e.g. root, cereal and legumes, etc."
+     ],
+     "parentId": 64,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 67,
+   "text": "Xii consumer education",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 68,
+     "text": "(1)  consumer education",
+     "descriptions": [
+      "(a)  Meaning and principles",
+      "(b)  consumer agents",
+      "(a)  Explanation",
+      "(b)  Factors to consider when budgeting"
+     ],
+     "parentId": 67,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 69,
+   "text": "Xii",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 70,
+     "text": "(2)  food budgeting",
+     "descriptions": [
+      "(b)  Factors to consider when budgeting",
+      "(a)  Guidelines for shopping for food"
+     ],
+     "parentId": 69,
+     "subLabels": []
+    },
+    {
+     "id": 71,
+     "text": "(3)  food purchasing",
+     "descriptions": [
+      "(b)  Guidelines for bulk purchasing",
+      "(c)  Reasons for buying in bulk",
+      "(d)   Advantages and disadvantages of bulk purchasing"
+     ],
+     "parentId": 69,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 72,
+   "text": "Xii self employment",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 73,
+     "text": "(1)  setting up and managing a catering enterprise",
+     "descriptions": [
+      "(a)  Explanation of terms -  entrepreneur -  entrepreneurship -  enterprise",
+      "(b)  Characteristics of an entrepreneur",
+      "(c)  Advantages and disadvantages of an entrepreneur",
+      "(d)   Setting up a catering entrepreneur",
+      "(e)   Some catering enterprises",
+      "(f)   Factors contributing to the success of an enterprise",
+      "(a)  Explanation of work ethics",
+      "(b)  Good work ethics"
+     ],
+     "parentId": 72,
+     "subLabels": []
+    },
+    {
+     "id": 74,
+     "text": "(2)  work ethics",
+     "descriptions": [
+      "(a)  Explanation of Food Packaging"
+     ],
+     "parentId": 72,
+     "subLabels": []
+    },
+    {
+     "id": 75,
+     "text": "(3)  packaging",
+     "descriptions": [
+      "(b)  Reasons why food is packaged",
+      "(c)  Qualities of packaging materials",
+      "(d)  Types of packaging materials"
+     ],
+     "parentId": 72,
+     "subLabels": []
+    }
+   ]
+  }
+ ],
+ "labels": [
+  {
+   "id": 2,
+   "text": "I. nutrition and health",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 3,
+     "text": "(1) introduction to foods and nutrition",
+     "descriptions": [
+      "(a) Meaning",
+      "(b) Basic knowledge of Nutrition",
+      "(c) Importance of Human Nutrition",
+      "(d)Factors affecting Foods and Nutrition"
+     ],
+     "parentId": 2,
+     "subLabels": []
+    },
+    {
+     "id": 4,
+     "text": "(2)  careers associated with",
+     "descriptions": [
+      "(e)  Food Habits"
+     ],
+     "parentId": 2,
+     "subLabels": []
+    },
+    {
+     "id": 5,
+     "text": "Foods  and nutrition",
+     "descriptions": [
+      "(a)  Careers associated with Foods and Nutrition",
+      "(b)  Factors that influence career choices"
+     ],
+     "parentId": 2,
+     "subLabels": []
+    },
+    {
+     "id": 6,
+     "text": "(3)  basic food nutrients",
+     "descriptions": [
+      "(c)  Characteristics required for Foods and Nutrition careers",
+      "(a)  The nutrients and their nutritive values",
+      "(b)  Functions of the different nutrients",
+      "(c)  Sources of the different nutrients",
+      "(d)  Dietary deficiencies",
+      "(e) Metabolism,(digestion and absorption of foods carbohydrate, protein, fat).",
+      "(f)  Knowledge and use of food composition table",
+      "(g)  Food tests: simple physical and chemical tests of food stuffs to detect presence of nutrients in foods e.g. proteins, fats and carbohydrates."
+     ],
+     "parentId": 2,
+     "subLabels": []
+    },
+    {
+     "id": 7,
+     "text": "(4)  meal management",
+     "descriptions": [
+      "(i)  Meal planning terms",
+      "(ii)  Reasons for planning meals",
+      "(iii) Factors in planning meals"
+     ],
+     "parentId": 2,
+     "subLabels": [
+      {
+       "id": 8,
+       "text": "Meal planning",
+       "descriptions": [
+        "(iv) General principles of meal planning",
+        "(v) Meal patterns",
+        "(i)  Nutritional needs for different groups e.g. pregnant, lactating",
+        "mothers, infants and children, adolescents, adults and the aged, vegetarians.",
+        "(ii)  Planning meals for people in health condition e.g. HIV & AIDS,",
+        "invalids, convalescents, overweight, underweight, hypertension, diabetes etc."
+       ],
+       "parentId": 7,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 9,
+     "text": "Special",
+     "descriptions": [],
+     "parentId": 2,
+     "subLabels": []
+    },
+    {
+     "id": 10,
+     "text": "Nutritional",
+     "descriptions": [],
+     "parentId": 2,
+     "subLabels": []
+    },
+    {
+     "id": 11,
+     "text": "Needs",
+     "descriptions": [],
+     "parentId": 2,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "text": "And equipment",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 14,
+     "text": "(1) the kitchen",
+     "descriptions": [
+      "(c)   Factors to consider when planning.",
+      "(d)   Cleaning agents and abrasives (commercial and local).",
+      "(a)   Classes and types of equipment",
+      "(b)   Selection, use, care and storage of large and small equipment, fixtures and appliances."
+     ],
+     "parentId": 13,
+     "subLabels": []
+    },
+    {
+     "id": 15,
+     "text": "(2)  kitchen equipment",
+     "descriptions": [
+      "(a)   Types of kitchen accidents"
+     ],
+     "parentId": 13,
+     "subLabels": []
+    },
+    {
+     "id": 16,
+     "text": "And   tools",
+     "descriptions": [
+      "(b)   Causes and prevention of accidents"
+     ],
+     "parentId": 13,
+     "subLabels": [
+      {
+       "id": 17,
+       "text": "(3)  safety in the kitchen",
+       "descriptions": [
+        "(c)    Content and use of first aid box",
+        "(d)    Simple first aid treatment"
+       ],
+       "parentId": 16,
+       "subLabels": []
+      },
+      {
+       "id": 18,
+       "text": "(4)  sanitation in the kitchen",
+       "descriptions": [
+        "and pest control.",
+        "(c)  Food hygiene e.g. handling of foods, food borne diseases, food",
+        "sanitation laws.",
+        "(a)   Personal Hygiene",
+        "(b)   Kitchen Hygiene e.g. general cleaning, waste disposal, pests"
+       ],
+       "parentId": 16,
+       "subLabels": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "text": "Iii. food commodities",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 20,
+     "text": "(1)animal and animal products - milk and milk products",
+     "descriptions": [
+      "Kinds/types and structure",
+      "Selection"
+     ],
+     "parentId": 19,
+     "subLabels": []
+    },
+    {
+     "id": 21,
+     "text": "E.g",
+     "descriptions": [
+      "Storage"
+     ],
+     "parentId": 19,
+     "subLabels": [
+      {
+       "id": 22,
+       "text": "Cheese, yoghurt",
+       "descriptions": [],
+       "parentId": 21,
+       "subLabels": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "text": "Iii.",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 24,
+     "text": "(2)  cereals/grains",
+     "descriptions": [
+      "(a)  Kinds and forms",
+      "(b)  Importance of cereals and grains: -  versatility -  thickening -  cheap source of energy/good source of roughage"
+     ],
+     "parentId": 23,
+     "subLabels": []
+    },
+    {
+     "id": 25,
+     "text": "(3)  fruits and vegetables",
+     "descriptions": [
+      "(a)  Classification of fruits/Classification of vegetables.",
+      "(b)   Structure, nutritive value and storage.",
+      "(c)   Important of fruits and vegetables in the diet, etc."
+     ],
+     "parentId": 23,
+     "subLabels": []
+    },
+    {
+     "id": 26,
+     "text": "(4)  legumes and oily seeds",
+     "descriptions": [
+      "(a) Classification of legumes, oily seeds",
+      "(b)  Importance of legumes and oily seeds in the diet, etc."
+     ],
+     "parentId": 23,
+     "subLabels": []
+    },
+    {
+     "id": 27,
+     "text": "(5)  fats and oils",
+     "descriptions": [
+      "(a)  Kinds and classification -  vegetable fats and oils -  animal fats and oils",
+      "(b)  Uses in diet"
+     ],
+     "parentId": 23,
+     "subLabels": []
+    },
+    {
+     "id": 28,
+     "text": "(6)  starchy roots and plantain",
+     "descriptions": [
+      "(c)  Uses in the body",
+      "(d)  Health implications of fats and oils",
+      "(a)  Types of starchy roots",
+      "(b)  Types of plantain",
+      "(c)  Types of dishes"
+     ],
+     "parentId": 23,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 29,
+   "text": "Iv. foodstorage and preservation",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 30,
+     "text": "(1)  food spoilage",
+     "descriptions": [
+      "(a)  Meaning of food spoilage",
+      "(b)  Causes and agents of food spoilage",
+      "(a)  Meaning and importance of preservation"
+     ],
+     "parentId": 29,
+     "subLabels": []
+    },
+    {
+     "id": 31,
+     "text": "(2)  food preservation",
+     "descriptions": [
+      "(b)  General principles underlying food preservation",
+      "(c)  Methods of food preservation",
+      "(a)  Meaning and importance of food storage"
+     ],
+     "parentId": 29,
+     "subLabels": []
+    },
+    {
+     "id": 32,
+     "text": "(3)  food storage",
+     "descriptions": [
+      "(b)  Storage of perishable and non perishable foods",
+      "(c)  Storage space and equipment e.g. refrigeration, deep freezer, cupboards, shelves, granaries, barns etc."
+     ],
+     "parentId": 29,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 33,
+   "text": "V. food preparation",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 34,
+     "text": "(1)  principles underlying cooking",
+     "descriptions": [
+      "(a) Explanation of the concept of cooking",
+      "(b) Reasons for cooking food",
+      "(a)  Moist heat methods e.g. boiling, stewing, steaming etc."
+     ],
+     "parentId": 33,
+     "subLabels": []
+    },
+    {
+     "id": 35,
+     "text": "(2)  methods of cooking",
+     "descriptions": [
+      "(b)  Dry heat methods e.g. baking, roasting, grilling, frying etc.",
+      "(c)  Effects of heat on different food commodities e.g. animal",
+      "products, cereals and grains, fats and oil etc.",
+      "Methods of heat transfer and meaning -  Convection  -  liquid, gases -   Radiation    -  space -   conduction  -   solid metal"
+     ],
+     "parentId": 33,
+     "subLabels": []
+    },
+    {
+     "id": 36,
+     "text": "(3)  transfer of heat",
+     "descriptions": [],
+     "parentId": 33,
+     "subLabels": []
+    },
+    {
+     "id": 37,
+     "text": "(3)  transfer of heat",
+     "descriptions": [
+      "Explanation of cooking terms"
+     ],
+     "parentId": 33,
+     "subLabels": []
+    },
+    {
+     "id": 38,
+     "text": "(4)cooking terms",
+     "descriptions": [
+      "(a)  Definitions"
+     ],
+     "parentId": 33,
+     "subLabels": []
+    },
+    {
+     "id": 39,
+     "text": "(5)  food additives",
+     "descriptions": [
+      "(b)  Types of food additives",
+      "(c)  Functions of additives",
+      "(d)  Selection and use of additives",
+      "(e)   Food adulteration"
+     ],
+     "parentId": 33,
+     "subLabels": []
+    },
+    {
+     "id": 40,
+     "text": "(6)   flour cookery and confectionery",
+     "descriptions": [],
+     "parentId": 33,
+     "subLabels": [
+      {
+       "id": 41,
+       "text": "(a) types of flour",
+       "descriptions": [
+        "(i)  Types of flour",
+        "(ii)   Ingredients in flour"
+       ],
+       "parentId": 40,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 42,
+     "text": "(b) basic ingredients in flour cookery",
+     "descriptions": [
+      "(iii)  Uses of flour",
+      "- Flour, fat, sugar, eggs"
+     ],
+     "parentId": 33,
+     "subLabels": [
+      {
+       "id": 43,
+       "text": "Raising agents",
+       "descriptions": [
+        "(i) Types of raising agents, i.e., steam, carbon dioxide and air",
+        "(ii) Sources:- boiling liquid \u2013 steam, baking powder - carbon dioxide whisking - air"
+       ],
+       "parentId": 42,
+       "subLabels": []
+      },
+      {
+       "id": 44,
+       "text": "Batters and doughs",
+       "descriptions": [],
+       "parentId": 42,
+       "subLabels": []
+      },
+      {
+       "id": 45,
+       "text": "Cakes",
+       "descriptions": [
+        "-  rubbed in -  creamed -  whisked -  melted -  sponge mixtures"
+       ],
+       "parentId": 42,
+       "subLabels": []
+      },
+      {
+       "id": 46,
+       "text": "Pastries",
+       "descriptions": [
+        "(i)  Types of Pastries",
+        "Shortcrust, suet, flaky, etc.",
+        "(ii) Principles underlying pastry making",
+        "(iii) Pastry dishes e.g. turn over; jam tartlets, cornish pasties, etc."
+       ],
+       "parentId": 42,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 47,
+     "text": "(g)  yeast mixtures",
+     "descriptions": [
+      "(i)  Definition",
+      "(ii) Ways of preparing yeast mixture",
+      "(iii) Important points in preparing yeast mixture",
+      "(iv) Yeast dishes \u2013 bread loaves, bread rolls, doughnut"
+     ],
+     "parentId": 33,
+     "subLabels": []
+    },
+    {
+     "id": 48,
+     "text": "(h)  cake decoration",
+     "descriptions": [
+      "(i) Types of icing e.g. butter icing, royal icing"
+     ],
+     "parentId": 33,
+     "subLabels": []
+    },
+    {
+     "id": 49,
+     "text": "Icing",
+     "descriptions": [
+      "(ii) Uses of icing",
+      "(iii) Preparation of icing",
+      "(iv) Using royal icing and butter icing"
+     ],
+     "parentId": 33,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 50,
+   "text": "Vi. beverages",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 51,
+     "text": "(1) classification of beverages",
+     "descriptions": [
+      "(a)  Non-alcoholic beverages - coffee and tea - cocoa drink - milk and egg drinks - fruit juices and fruit drinks - beef tea and lemon grass",
+      "(b)  Alcoholic - beer - wine"
+     ],
+     "parentId": 50,
+     "subLabels": []
+    },
+    {
+     "id": 52,
+     "text": "(2)  importance of beverages",
+     "descriptions": [
+      "-  Nutritive values etc."
+     ],
+     "parentId": 50,
+     "subLabels": []
+    },
+    {
+     "id": 53,
+     "text": "(3)  principles underlining preparation of beverage",
+     "descriptions": [
+      "-   Tea, coffee, cocoa etc."
+     ],
+     "parentId": 50,
+     "subLabels": []
+    },
+    {
+     "id": 54,
+     "text": "Vii. convenience foods (a)  types of convenience foods (b)  selection and uses of convenience foods",
+     "descriptions": [],
+     "parentId": 50,
+     "subLabels": [
+      {
+       "id": 55,
+       "text": "(c)  advantages and disadvantages of using convenience foods",
+       "descriptions": [],
+       "parentId": 54,
+       "subLabels": []
+      },
+      {
+       "id": 56,
+       "text": "(d)  preparation of dishes using convenience foods ",
+       "descriptions": [],
+       "parentId": 54,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 57,
+     "text": "Viii. rechauff\u00e9 (leftover) foods (a)  explanation (b)  importance of using left over goods",
+     "descriptions": [],
+     "parentId": 50,
+     "subLabels": [
+      {
+       "id": 58,
+       "text": "(c)  rules/guidelines for using leftover foods",
+       "descriptions": [],
+       "parentId": 57,
+       "subLabels": []
+      },
+      {
+       "id": 59,
+       "text": "(d)rechauff\u00e9 dishes",
+       "descriptions": [],
+       "parentId": 57,
+       "subLabels": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 61,
+   "text": "Ix dishes",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 62,
+     "text": "(2)  table setting and etiquette",
+     "descriptions": [
+      "(c)  Types of festive dishes/special occasion dishes",
+      "(d) Preparation of festive dishes/special occasion",
+      "dishes",
+      "(1)  Entertainment",
+      "(a)  Explanation",
+      "(b)  Types of parties",
+      "(c)  Occasions for parties",
+      "(d)   Points to consider when selecting types of parties",
+      "(e)   Factors that contribute to the success of parties",
+      "(a)  Explanation e.g. table setting, cover, etc",
+      "(b)  Setting tables and tray for different meal and occasion",
+      "(c)  Table appointments",
+      "(d)   Table manners/etiquette",
+      "(a)  Types of meal service -  Informal meal service -  formal meal service"
+     ],
+     "parentId": 61,
+     "subLabels": []
+    },
+    {
+     "id": 63,
+     "text": "(3)  meal service style",
+     "descriptions": [
+      "(b)  Factors determining choice of service styles types of party",
+      "(c)  Foods for special occasions e. g. birthday, naming ceremonies, weddings etc.",
+      "(e)   Factors that contribute to the success of parties"
+     ],
+     "parentId": 61,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 64,
+   "text": "Xi experimental cookery",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 65,
+     "text": "(1)   research into local dishes and drinks",
+     "descriptions": [
+      "(a)  Importance of research in Foods and Nutrition",
+      "(b)  Collection of information (data)",
+      "(c)  Research into local dishes",
+      "(d)   Development of new recipes",
+      "(e)   Improving existing recipes based on methods of preparation, Nutritive value, time and energy use and  service/"
+     ],
+     "parentId": 64,
+     "subLabels": []
+    },
+    {
+     "id": 66,
+     "text": "(2)  experiments",
+     "descriptions": [
+      "presentation",
+      "(a)  Using fruits e.g. passion fruit, samia, royal palm fruit",
+      "(b)  Other types of flour e.g. root, cereal and legumes, etc."
+     ],
+     "parentId": 64,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 67,
+   "text": "Xii consumer education",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 68,
+     "text": "(1)  consumer education",
+     "descriptions": [
+      "(a)  Meaning and principles",
+      "(b)  consumer agents",
+      "(a)  Explanation",
+      "(b)  Factors to consider when budgeting"
+     ],
+     "parentId": 67,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 69,
+   "text": "Xii",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 70,
+     "text": "(2)  food budgeting",
+     "descriptions": [
+      "(b)  Factors to consider when budgeting",
+      "(a)  Guidelines for shopping for food"
+     ],
+     "parentId": 69,
+     "subLabels": []
+    },
+    {
+     "id": 71,
+     "text": "(3)  food purchasing",
+     "descriptions": [
+      "(b)  Guidelines for bulk purchasing",
+      "(c)  Reasons for buying in bulk",
+      "(d)   Advantages and disadvantages of bulk purchasing"
+     ],
+     "parentId": 69,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 72,
+   "text": "Xii self employment",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 73,
+     "text": "(1)  setting up and managing a catering enterprise",
+     "descriptions": [
+      "(a)  Explanation of terms -  entrepreneur -  entrepreneurship -  enterprise",
+      "(b)  Characteristics of an entrepreneur",
+      "(c)  Advantages and disadvantages of an entrepreneur",
+      "(d)   Setting up a catering entrepreneur",
+      "(e)   Some catering enterprises",
+      "(f)   Factors contributing to the success of an enterprise",
+      "(a)  Explanation of work ethics",
+      "(b)  Good work ethics"
+     ],
+     "parentId": 72,
+     "subLabels": []
+    },
+    {
+     "id": 74,
+     "text": "(2)  work ethics",
+     "descriptions": [
+      "(a)  Explanation of Food Packaging"
+     ],
+     "parentId": 72,
+     "subLabels": []
+    },
+    {
+     "id": 75,
+     "text": "(3)  packaging",
+     "descriptions": [
+      "(b)  Reasons why food is packaged",
+      "(c)  Qualities of packaging materials",
+      "(d)  Types of packaging materials"
+     ],
+     "parentId": 72,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "text": "(1) introduction to foods and nutrition",
+   "descriptions": [
+    "(a) Meaning",
+    "(b) Basic knowledge of Nutrition",
+    "(c) Importance of Human Nutrition",
+    "(d)Factors affecting Foods and Nutrition"
+   ],
+   "parentId": 2,
+   "subLabels": []
+  },
+  {
+   "id": 4,
+   "text": "(2)  careers associated with",
+   "descriptions": [
+    "(e)  Food Habits"
+   ],
+   "parentId": 2,
+   "subLabels": []
+  },
+  {
+   "id": 5,
+   "text": "Foods  and nutrition",
+   "descriptions": [
+    "(a)  Careers associated with Foods and Nutrition",
+    "(b)  Factors that influence career choices"
+   ],
+   "parentId": 2,
+   "subLabels": []
+  },
+  {
+   "id": 6,
+   "text": "(3)  basic food nutrients",
+   "descriptions": [
+    "(c)  Characteristics required for Foods and Nutrition careers",
+    "(a)  The nutrients and their nutritive values",
+    "(b)  Functions of the different nutrients",
+    "(c)  Sources of the different nutrients",
+    "(d)  Dietary deficiencies",
+    "(e) Metabolism,(digestion and absorption of foods carbohydrate, protein, fat).",
+    "(f)  Knowledge and use of food composition table",
+    "(g)  Food tests: simple physical and chemical tests of food stuffs to detect presence of nutrients in foods e.g. proteins, fats and carbohydrates."
+   ],
+   "parentId": 2,
+   "subLabels": []
+  },
+  {
+   "id": 7,
+   "text": "(4)  meal management",
+   "descriptions": [
+    "(i)  Meal planning terms",
+    "(ii)  Reasons for planning meals",
+    "(iii) Factors in planning meals"
+   ],
+   "parentId": 2,
+   "subLabels": [
+    {
+     "id": 8,
+     "text": "Meal planning",
+     "descriptions": [
+      "(iv) General principles of meal planning",
+      "(v) Meal patterns",
+      "(i)  Nutritional needs for different groups e.g. pregnant, lactating",
+      "mothers, infants and children, adolescents, adults and the aged, vegetarians.",
+      "(ii)  Planning meals for people in health condition e.g. HIV & AIDS,",
+      "invalids, convalescents, overweight, underweight, hypertension, diabetes etc."
+     ],
+     "parentId": 7,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "text": "Special",
+   "descriptions": [],
+   "parentId": 2,
+   "subLabels": []
+  },
+  {
+   "id": 10,
+   "text": "Nutritional",
+   "descriptions": [],
+   "parentId": 2,
+   "subLabels": []
+  },
+  {
+   "id": 11,
+   "text": "Needs",
+   "descriptions": [],
+   "parentId": 2,
+   "subLabels": []
+  },
+  {
+   "id": 14,
+   "text": "(1) the kitchen",
+   "descriptions": [
+    "(c)   Factors to consider when planning.",
+    "(d)   Cleaning agents and abrasives (commercial and local).",
+    "(a)   Classes and types of equipment",
+    "(b)   Selection, use, care and storage of large and small equipment, fixtures and appliances."
+   ],
+   "parentId": 13,
+   "subLabels": []
+  },
+  {
+   "id": 15,
+   "text": "(2)  kitchen equipment",
+   "descriptions": [
+    "(a)   Types of kitchen accidents"
+   ],
+   "parentId": 13,
+   "subLabels": []
+  },
+  {
+   "id": 16,
+   "text": "And   tools",
+   "descriptions": [
+    "(b)   Causes and prevention of accidents"
+   ],
+   "parentId": 13,
+   "subLabels": [
+    {
+     "id": 17,
+     "text": "(3)  safety in the kitchen",
+     "descriptions": [
+      "(c)    Content and use of first aid box",
+      "(d)    Simple first aid treatment"
+     ],
+     "parentId": 16,
+     "subLabels": []
+    },
+    {
+     "id": 18,
+     "text": "(4)  sanitation in the kitchen",
+     "descriptions": [
+      "and pest control.",
+      "(c)  Food hygiene e.g. handling of foods, food borne diseases, food",
+      "sanitation laws.",
+      "(a)   Personal Hygiene",
+      "(b)   Kitchen Hygiene e.g. general cleaning, waste disposal, pests"
+     ],
+     "parentId": 16,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "text": "(1)animal and animal products - milk and milk products",
+   "descriptions": [
+    "Kinds/types and structure",
+    "Selection"
+   ],
+   "parentId": 19,
+   "subLabels": []
+  },
+  {
+   "id": 21,
+   "text": "E.g",
+   "descriptions": [
+    "Storage"
+   ],
+   "parentId": 19,
+   "subLabels": [
+    {
+     "id": 22,
+     "text": "Cheese, yoghurt",
+     "descriptions": [],
+     "parentId": 21,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "text": "(2)  cereals/grains",
+   "descriptions": [
+    "(a)  Kinds and forms",
+    "(b)  Importance of cereals and grains: -  versatility -  thickening -  cheap source of energy/good source of roughage"
+   ],
+   "parentId": 23,
+   "subLabels": []
+  },
+  {
+   "id": 25,
+   "text": "(3)  fruits and vegetables",
+   "descriptions": [
+    "(a)  Classification of fruits/Classification of vegetables.",
+    "(b)   Structure, nutritive value and storage.",
+    "(c)   Important of fruits and vegetables in the diet, etc."
+   ],
+   "parentId": 23,
+   "subLabels": []
+  },
+  {
+   "id": 26,
+   "text": "(4)  legumes and oily seeds",
+   "descriptions": [
+    "(a) Classification of legumes, oily seeds",
+    "(b)  Importance of legumes and oily seeds in the diet, etc."
+   ],
+   "parentId": 23,
+   "subLabels": []
+  },
+  {
+   "id": 27,
+   "text": "(5)  fats and oils",
+   "descriptions": [
+    "(a)  Kinds and classification -  vegetable fats and oils -  animal fats and oils",
+    "(b)  Uses in diet"
+   ],
+   "parentId": 23,
+   "subLabels": []
+  },
+  {
+   "id": 28,
+   "text": "(6)  starchy roots and plantain",
+   "descriptions": [
+    "(c)  Uses in the body",
+    "(d)  Health implications of fats and oils",
+    "(a)  Types of starchy roots",
+    "(b)  Types of plantain",
+    "(c)  Types of dishes"
+   ],
+   "parentId": 23,
+   "subLabels": []
+  },
+  {
+   "id": 30,
+   "text": "(1)  food spoilage",
+   "descriptions": [
+    "(a)  Meaning of food spoilage",
+    "(b)  Causes and agents of food spoilage",
+    "(a)  Meaning and importance of preservation"
+   ],
+   "parentId": 29,
+   "subLabels": []
+  },
+  {
+   "id": 31,
+   "text": "(2)  food preservation",
+   "descriptions": [
+    "(b)  General principles underlying food preservation",
+    "(c)  Methods of food preservation",
+    "(a)  Meaning and importance of food storage"
+   ],
+   "parentId": 29,
+   "subLabels": []
+  },
+  {
+   "id": 32,
+   "text": "(3)  food storage",
+   "descriptions": [
+    "(b)  Storage of perishable and non perishable foods",
+    "(c)  Storage space and equipment e.g. refrigeration, deep freezer, cupboards, shelves, granaries, barns etc."
+   ],
+   "parentId": 29,
+   "subLabels": []
+  },
+  {
+   "id": 34,
+   "text": "(1)  principles underlying cooking",
+   "descriptions": [
+    "(a) Explanation of the concept of cooking",
+    "(b) Reasons for cooking food",
+    "(a)  Moist heat methods e.g. boiling, stewing, steaming etc."
+   ],
+   "parentId": 33,
+   "subLabels": []
+  },
+  {
+   "id": 35,
+   "text": "(2)  methods of cooking",
+   "descriptions": [
+    "(b)  Dry heat methods e.g. baking, roasting, grilling, frying etc.",
+    "(c)  Effects of heat on different food commodities e.g. animal",
+    "products, cereals and grains, fats and oil etc.",
+    "Methods of heat transfer and meaning -  Convection  -  liquid, gases -   Radiation    -  space -   conduction  -   solid metal"
+   ],
+   "parentId": 33,
+   "subLabels": []
+  },
+  {
+   "id": 36,
+   "text": "(3)  transfer of heat",
+   "descriptions": [],
+   "parentId": 33,
+   "subLabels": []
+  },
+  {
+   "id": 37,
+   "text": "(3)  transfer of heat",
+   "descriptions": [
+    "Explanation of cooking terms"
+   ],
+   "parentId": 33,
+   "subLabels": []
+  },
+  {
+   "id": 38,
+   "text": "(4)cooking terms",
+   "descriptions": [
+    "(a)  Definitions"
+   ],
+   "parentId": 33,
+   "subLabels": []
+  },
+  {
+   "id": 39,
+   "text": "(5)  food additives",
+   "descriptions": [
+    "(b)  Types of food additives",
+    "(c)  Functions of additives",
+    "(d)  Selection and use of additives",
+    "(e)   Food adulteration"
+   ],
+   "parentId": 33,
+   "subLabels": []
+  },
+  {
+   "id": 40,
+   "text": "(6)   flour cookery and confectionery",
+   "descriptions": [],
+   "parentId": 33,
+   "subLabels": [
+    {
+     "id": 41,
+     "text": "(a) types of flour",
+     "descriptions": [
+      "(i)  Types of flour",
+      "(ii)   Ingredients in flour"
+     ],
+     "parentId": 40,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 42,
+   "text": "(b) basic ingredients in flour cookery",
+   "descriptions": [
+    "(iii)  Uses of flour",
+    "- Flour, fat, sugar, eggs"
+   ],
+   "parentId": 33,
+   "subLabels": [
+    {
+     "id": 43,
+     "text": "Raising agents",
+     "descriptions": [
+      "(i) Types of raising agents, i.e., steam, carbon dioxide and air",
+      "(ii) Sources:- boiling liquid \u2013 steam, baking powder - carbon dioxide whisking - air"
+     ],
+     "parentId": 42,
+     "subLabels": []
+    },
+    {
+     "id": 44,
+     "text": "Batters and doughs",
+     "descriptions": [],
+     "parentId": 42,
+     "subLabels": []
+    },
+    {
+     "id": 45,
+     "text": "Cakes",
+     "descriptions": [
+      "-  rubbed in -  creamed -  whisked -  melted -  sponge mixtures"
+     ],
+     "parentId": 42,
+     "subLabels": []
+    },
+    {
+     "id": 46,
+     "text": "Pastries",
+     "descriptions": [
+      "(i)  Types of Pastries",
+      "Shortcrust, suet, flaky, etc.",
+      "(ii) Principles underlying pastry making",
+      "(iii) Pastry dishes e.g. turn over; jam tartlets, cornish pasties, etc."
+     ],
+     "parentId": 42,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 47,
+   "text": "(g)  yeast mixtures",
+   "descriptions": [
+    "(i)  Definition",
+    "(ii) Ways of preparing yeast mixture",
+    "(iii) Important points in preparing yeast mixture",
+    "(iv) Yeast dishes \u2013 bread loaves, bread rolls, doughnut"
+   ],
+   "parentId": 33,
+   "subLabels": []
+  },
+  {
+   "id": 48,
+   "text": "(h)  cake decoration",
+   "descriptions": [
+    "(i) Types of icing e.g. butter icing, royal icing"
+   ],
+   "parentId": 33,
+   "subLabels": []
+  },
+  {
+   "id": 49,
+   "text": "Icing",
+   "descriptions": [
+    "(ii) Uses of icing",
+    "(iii) Preparation of icing",
+    "(iv) Using royal icing and butter icing"
+   ],
+   "parentId": 33,
+   "subLabels": []
+  },
+  {
+   "id": 51,
+   "text": "(1) classification of beverages",
+   "descriptions": [
+    "(a)  Non-alcoholic beverages - coffee and tea - cocoa drink - milk and egg drinks - fruit juices and fruit drinks - beef tea and lemon grass",
+    "(b)  Alcoholic - beer - wine"
+   ],
+   "parentId": 50,
+   "subLabels": []
+  },
+  {
+   "id": 52,
+   "text": "(2)  importance of beverages",
+   "descriptions": [
+    "-  Nutritive values etc."
+   ],
+   "parentId": 50,
+   "subLabels": []
+  },
+  {
+   "id": 53,
+   "text": "(3)  principles underlining preparation of beverage",
+   "descriptions": [
+    "-   Tea, coffee, cocoa etc."
+   ],
+   "parentId": 50,
+   "subLabels": []
+  },
+  {
+   "id": 54,
+   "text": "Vii. convenience foods (a)  types of convenience foods (b)  selection and uses of convenience foods",
+   "descriptions": [],
+   "parentId": 50,
+   "subLabels": [
+    {
+     "id": 55,
+     "text": "(c)  advantages and disadvantages of using convenience foods",
+     "descriptions": [],
+     "parentId": 54,
+     "subLabels": []
+    },
+    {
+     "id": 56,
+     "text": "(d)  preparation of dishes using convenience foods ",
+     "descriptions": [],
+     "parentId": 54,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 57,
+   "text": "Viii. rechauff\u00e9 (leftover) foods (a)  explanation (b)  importance of using left over goods",
+   "descriptions": [],
+   "parentId": 50,
+   "subLabels": [
+    {
+     "id": 58,
+     "text": "(c)  rules/guidelines for using leftover foods",
+     "descriptions": [],
+     "parentId": 57,
+     "subLabels": []
+    },
+    {
+     "id": 59,
+     "text": "(d)rechauff\u00e9 dishes",
+     "descriptions": [],
+     "parentId": 57,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 62,
+   "text": "(2)  table setting and etiquette",
+   "descriptions": [
+    "(c)  Types of festive dishes/special occasion dishes",
+    "(d) Preparation of festive dishes/special occasion",
+    "dishes",
+    "(1)  Entertainment",
+    "(a)  Explanation",
+    "(b)  Types of parties",
+    "(c)  Occasions for parties",
+    "(d)   Points to consider when selecting types of parties",
+    "(e)   Factors that contribute to the success of parties",
+    "(a)  Explanation e.g. table setting, cover, etc",
+    "(b)  Setting tables and tray for different meal and occasion",
+    "(c)  Table appointments",
+    "(d)   Table manners/etiquette",
+    "(a)  Types of meal service -  Informal meal service -  formal meal service"
+   ],
+   "parentId": 61,
+   "subLabels": []
+  },
+  {
+   "id": 63,
+   "text": "(3)  meal service style",
+   "descriptions": [
+    "(b)  Factors determining choice of service styles types of party",
+    "(c)  Foods for special occasions e. g. birthday, naming ceremonies, weddings etc.",
+    "(e)   Factors that contribute to the success of parties"
+   ],
+   "parentId": 61,
+   "subLabels": []
+  },
+  {
+   "id": 65,
+   "text": "(1)   research into local dishes and drinks",
+   "descriptions": [
+    "(a)  Importance of research in Foods and Nutrition",
+    "(b)  Collection of information (data)",
+    "(c)  Research into local dishes",
+    "(d)   Development of new recipes",
+    "(e)   Improving existing recipes based on methods of preparation, Nutritive value, time and energy use and  service/"
+   ],
+   "parentId": 64,
+   "subLabels": []
+  },
+  {
+   "id": 66,
+   "text": "(2)  experiments",
+   "descriptions": [
+    "presentation",
+    "(a)  Using fruits e.g. passion fruit, samia, royal palm fruit",
+    "(b)  Other types of flour e.g. root, cereal and legumes, etc."
+   ],
+   "parentId": 64,
+   "subLabels": []
+  },
+  {
+   "id": 68,
+   "text": "(1)  consumer education",
+   "descriptions": [
+    "(a)  Meaning and principles",
+    "(b)  consumer agents",
+    "(a)  Explanation",
+    "(b)  Factors to consider when budgeting"
+   ],
+   "parentId": 67,
+   "subLabels": []
+  },
+  {
+   "id": 70,
+   "text": "(2)  food budgeting",
+   "descriptions": [
+    "(b)  Factors to consider when budgeting",
+    "(a)  Guidelines for shopping for food"
+   ],
+   "parentId": 69,
+   "subLabels": []
+  },
+  {
+   "id": 71,
+   "text": "(3)  food purchasing",
+   "descriptions": [
+    "(b)  Guidelines for bulk purchasing",
+    "(c)  Reasons for buying in bulk",
+    "(d)   Advantages and disadvantages of bulk purchasing"
+   ],
+   "parentId": 69,
+   "subLabels": []
+  },
+  {
+   "id": 73,
+   "text": "(1)  setting up and managing a catering enterprise",
+   "descriptions": [
+    "(a)  Explanation of terms -  entrepreneur -  entrepreneurship -  enterprise",
+    "(b)  Characteristics of an entrepreneur",
+    "(c)  Advantages and disadvantages of an entrepreneur",
+    "(d)   Setting up a catering entrepreneur",
+    "(e)   Some catering enterprises",
+    "(f)   Factors contributing to the success of an enterprise",
+    "(a)  Explanation of work ethics",
+    "(b)  Good work ethics"
+   ],
+   "parentId": 72,
+   "subLabels": []
+  },
+  {
+   "id": 74,
+   "text": "(2)  work ethics",
+   "descriptions": [
+    "(a)  Explanation of Food Packaging"
+   ],
+   "parentId": 72,
+   "subLabels": []
+  },
+  {
+   "id": 75,
+   "text": "(3)  packaging",
+   "descriptions": [
+    "(b)  Reasons why food is packaged",
+    "(c)  Qualities of packaging materials",
+    "(d)  Types of packaging materials"
+   ],
+   "parentId": 72,
+   "subLabels": []
+  },
+  {
+   "id": 8,
+   "text": "Meal planning",
+   "descriptions": [
+    "(iv) General principles of meal planning",
+    "(v) Meal patterns",
+    "(i)  Nutritional needs for different groups e.g. pregnant, lactating",
+    "mothers, infants and children, adolescents, adults and the aged, vegetarians.",
+    "(ii)  Planning meals for people in health condition e.g. HIV & AIDS,",
+    "invalids, convalescents, overweight, underweight, hypertension, diabetes etc."
+   ],
+   "parentId": 7,
+   "subLabels": []
+  },
+  {
+   "id": 17,
+   "text": "(3)  safety in the kitchen",
+   "descriptions": [
+    "(c)    Content and use of first aid box",
+    "(d)    Simple first aid treatment"
+   ],
+   "parentId": 16,
+   "subLabels": []
+  },
+  {
+   "id": 18,
+   "text": "(4)  sanitation in the kitchen",
+   "descriptions": [
+    "and pest control.",
+    "(c)  Food hygiene e.g. handling of foods, food borne diseases, food",
+    "sanitation laws.",
+    "(a)   Personal Hygiene",
+    "(b)   Kitchen Hygiene e.g. general cleaning, waste disposal, pests"
+   ],
+   "parentId": 16,
+   "subLabels": []
+  },
+  {
+   "id": 22,
+   "text": "Cheese, yoghurt",
+   "descriptions": [],
+   "parentId": 21,
+   "subLabels": []
+  },
+  {
+   "id": 41,
+   "text": "(a) types of flour",
+   "descriptions": [
+    "(i)  Types of flour",
+    "(ii)   Ingredients in flour"
+   ],
+   "parentId": 40,
+   "subLabels": []
+  },
+  {
+   "id": 43,
+   "text": "Raising agents",
+   "descriptions": [
+    "(i) Types of raising agents, i.e., steam, carbon dioxide and air",
+    "(ii) Sources:- boiling liquid \u2013 steam, baking powder - carbon dioxide whisking - air"
+   ],
+   "parentId": 42,
+   "subLabels": []
+  },
+  {
+   "id": 44,
+   "text": "Batters and doughs",
+   "descriptions": [],
+   "parentId": 42,
+   "subLabels": []
+  },
+  {
+   "id": 45,
+   "text": "Cakes",
+   "descriptions": [
+    "-  rubbed in -  creamed -  whisked -  melted -  sponge mixtures"
+   ],
+   "parentId": 42,
+   "subLabels": []
+  },
+  {
+   "id": 46,
+   "text": "Pastries",
+   "descriptions": [
+    "(i)  Types of Pastries",
+    "Shortcrust, suet, flaky, etc.",
+    "(ii) Principles underlying pastry making",
+    "(iii) Pastry dishes e.g. turn over; jam tartlets, cornish pasties, etc."
+   ],
+   "parentId": 42,
+   "subLabels": []
+  },
+  {
+   "id": 55,
+   "text": "(c)  advantages and disadvantages of using convenience foods",
+   "descriptions": [],
+   "parentId": 54,
+   "subLabels": []
+  },
+  {
+   "id": 56,
+   "text": "(d)  preparation of dishes using convenience foods ",
+   "descriptions": [],
+   "parentId": 54,
+   "subLabels": []
+  },
+  {
+   "id": 58,
+   "text": "(c)  rules/guidelines for using leftover foods",
+   "descriptions": [],
+   "parentId": 57,
+   "subLabels": []
+  },
+  {
+   "id": 59,
+   "text": "(d)rechauff\u00e9 dishes",
+   "descriptions": [],
+   "parentId": 57,
+   "subLabels": []
+  }
+ ]
+}

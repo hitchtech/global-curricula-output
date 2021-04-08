@@ -1,1 +1,69 @@
-{"subject": "Igbo", "Grade": "None", "Curriculum": "NERDC", "labelsTree": [{"id": 18, "text": "List of igbo texts for consideration: 2016-2020", "descriptions": null, "parentId": -1, "subLabels": [{"id": 19, "text": "Prose ezennxnx", "descriptions": ["Xwa Ad[gh[ Ka Echere Agxgx M.O. KanxNgozi F."], "parentId": 18, "subLabels": []}, {"id": 20, "text": "Nwadike i.u", "descriptions": ["Okoro C.L"], "parentId": 18, "subLabels": []}, {"id": 21, "text": "Iroaganachi j", "descriptions": ["Qfqmata C."], "parentId": 18, "subLabels": []}]}, {"id": 24, "text": "Okesorongwere", "descriptions": null, "parentId": -1, "subLabels": [{"id": 25, "text": "Qgbalx f.c", "descriptions": ["Nwadike I.U"], "parentId": 24, "subLabels": []}, {"id": 26, "text": "Drama", "descriptions": ["Nke M JiKa Nwaozuzu G.I."], "parentId": 24, "subLabels": []}]}], "labels": []}
+{
+ "subject": "Igbo",
+ "Grade": "None",
+ "Curriculum": "NERDC",
+ "labelsTree": [
+  {
+   "id": 18,
+   "text": "List of igbo texts for consideration: 2016-2020",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 19,
+     "text": "Prose ezennxnx",
+     "descriptions": [
+      "Xwa Ad[gh[ Ka Echere Agxgx M.O. KanxNgozi F."
+     ],
+     "parentId": 18,
+     "subLabels": []
+    },
+    {
+     "id": 20,
+     "text": "Nwadike i.u",
+     "descriptions": [
+      "Okoro C.L"
+     ],
+     "parentId": 18,
+     "subLabels": []
+    },
+    {
+     "id": 21,
+     "text": "Iroaganachi j",
+     "descriptions": [
+      "Qfqmata C."
+     ],
+     "parentId": 18,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "text": "Okesorongwere",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 25,
+     "text": "Qgbalx f.c",
+     "descriptions": [
+      "Nwadike I.U"
+     ],
+     "parentId": 24,
+     "subLabels": []
+    },
+    {
+     "id": 26,
+     "text": "Drama",
+     "descriptions": [
+      "Nke M JiKa Nwaozuzu G.I."
+     ],
+     "parentId": 24,
+     "subLabels": []
+    }
+   ]
+  }
+ ],
+ "labels": []
+}

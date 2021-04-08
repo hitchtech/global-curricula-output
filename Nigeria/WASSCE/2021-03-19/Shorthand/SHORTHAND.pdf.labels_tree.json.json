@@ -1,1 +1,91 @@
-{"subject": "Shorthand", "Grade": "None", "Curriculum": "NERDC", "labelsTree": [{"id": 6, "text": "Reading list", "descriptions": null, "parentId": -1, "subLabels": [{"id": 7, "text": "First course", "descriptions": ["- -"], "parentId": 6, "subLabels": []}, {"id": 8, "text": "First course review", "descriptions": [], "parentId": 6, "subLabels": []}, {"id": 9, "text": "Pitman 2000 phrase book", "descriptions": [], "parentId": 6, "subLabels": []}, {"id": 10, "text": "First dictionary ", "descriptions": ["Pitman 2000 shorthand"], "parentId": 6, "subLabels": []}, {"id": 11, "text": "700 common words", "descriptions": ["- Pitman 2000"], "parentId": 6, "subLabels": [{"id": 12, "text": "Office skills magazines", "descriptions": [], "parentId": 11, "subLabels": []}, {"id": 13, "text": "Journals", "descriptions": [], "parentId": 11, "subLabels": []}, {"id": 14, "text": "Speed development ", "descriptions": ["Pitman 2000"], "parentId": 11, "subLabels": []}, {"id": 15, "text": "Speed builder ", "descriptions": ["Bryan Coombs", "Bryan Coombs"], "parentId": 11, "subLabels": []}]}]}], "labels": []}
+{
+ "subject": "Shorthand",
+ "Grade": "None",
+ "Curriculum": "NERDC",
+ "labelsTree": [
+  {
+   "id": 6,
+   "text": "Reading list",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 7,
+     "text": "First course",
+     "descriptions": [
+      "- -"
+     ],
+     "parentId": 6,
+     "subLabels": []
+    },
+    {
+     "id": 8,
+     "text": "First course review",
+     "descriptions": [],
+     "parentId": 6,
+     "subLabels": []
+    },
+    {
+     "id": 9,
+     "text": "Pitman 2000 phrase book",
+     "descriptions": [],
+     "parentId": 6,
+     "subLabels": []
+    },
+    {
+     "id": 10,
+     "text": "First dictionary ",
+     "descriptions": [
+      "Pitman 2000 shorthand"
+     ],
+     "parentId": 6,
+     "subLabels": []
+    },
+    {
+     "id": 11,
+     "text": "700 common words",
+     "descriptions": [
+      "- Pitman 2000"
+     ],
+     "parentId": 6,
+     "subLabels": [
+      {
+       "id": 12,
+       "text": "Office skills magazines",
+       "descriptions": [],
+       "parentId": 11,
+       "subLabels": []
+      },
+      {
+       "id": 13,
+       "text": "Journals",
+       "descriptions": [],
+       "parentId": 11,
+       "subLabels": []
+      },
+      {
+       "id": 14,
+       "text": "Speed development ",
+       "descriptions": [
+        "Pitman 2000"
+       ],
+       "parentId": 11,
+       "subLabels": []
+      },
+      {
+       "id": 15,
+       "text": "Speed builder ",
+       "descriptions": [
+        "Bryan Coombs",
+        "Bryan Coombs"
+       ],
+       "parentId": 11,
+       "subLabels": []
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "labels": []
+}

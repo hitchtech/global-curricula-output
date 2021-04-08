@@ -1,1 +1,661 @@
-{"subject": "Electronics or Basic Electronics", "Grade": "None", "Curriculum": "NERDC", "labelsTree": [{"id": 4, "text": "Alternative to practical test", "descriptions": null, "parentId": -1, "subLabels": [{"id": 5, "text": "Alternatively, in the event that materials for the actual practical test cannot be", "descriptions": ["acquired, the"], "parentId": 4, "subLabels": []}, {"id": 6, "text": "Council may consider testing theoretically, candidates\u2019 level of acquisition of the practical skills prescribed in the syllabus. for this alternative test, there will be two compulsory questions to be answered within 2 hours for 100 marks", "descriptions": [], "parentId": 4, "subLabels": []}]}, {"id": 11, "text": "Measuring instruments", "descriptions": null, "parentId": -1, "subLabels": [{"id": 12, "text": "Concepts of measuring instrument principles of operation and protection of measuring instruments", "descriptions": ["Qualitative treatment should include :"], "parentId": 11, "subLabels": []}]}, {"id": 13, "text": "Semiconductor", "descriptions": null, "parentId": -1, "subLabels": [{"id": 14, "text": "Concepts of semiconductor semiconductor materials (silicon, germanium etc.) doping formation of p-type and n-type semiconductors", "descriptions": ["Qualitative treatment should include : Thermionic emission; photoemission; secondary emission and field emission. Relate it to diode, triode, tetrode, pentode, and cathode ray tube.", "Qualitative treatment only which should include: Classification \u2013 analogue and digital Types and uses of multimeter, voltmeter, ammeter, ohmmeter, oscilloscope etc."], "parentId": 13, "subLabels": []}]}, {"id": 15, "text": "Semiconductor diodes", "descriptions": null, "parentId": -1, "subLabels": [{"id": 16, "text": "Concept of diodes", "descriptions": ["Qualitative treatment only."], "parentId": 15, "subLabels": []}, {"id": 17, "text": "Biasing of diodes", "descriptions": [], "parentId": 15, "subLabels": []}]}, {"id": 18, "text": "Transistors", "descriptions": null, "parentId": -1, "subLabels": [{"id": 19, "text": "Concepts of transistor", "descriptions": ["Treatment  should include operational principles of diodes", "Type of diodes Diode ratings \u2013 voltage, current and power Application of diodes Construction of a simple circuit using a P-N junction diode Practical demonstration of I-V characteristics of P-N junction diode in the forward and reverse bias modes."], "parentId": 18, "subLabels": []}]}, {"id": 21, "text": "Devices", "descriptions": null, "parentId": -1, "subLabels": [{"id": 22, "text": "Thermistor, diac, triac and thyristor", "descriptions": ["Meaning of transistor, biasing of transistor, Uses and advantages. BJT characteristics Advantages of transistor over valves Advantages of MOSFET over BJT"], "parentId": 21, "subLabels": []}, {"id": 23, "text": "Etc", "descriptions": [], "parentId": 21, "subLabels": []}]}, {"id": 26, "text": "Electric current", "descriptions": null, "parentId": -1, "subLabels": [{"id": 27, "text": "Structure of atom", "descriptions": ["Formation, function and principles of Operation. Transistor as a switch, inverter, an amplifier Verification of BJT characteristics. Input, output and transfer characteristics Transfer configuration Qualitative treatment only \u2013 formation, functions and principles of operation Advantages over discrete components"], "parentId": 26, "subLabels": []}]}, {"id": 29, "text": "Current and resistance", "descriptions": null, "parentId": -1, "subLabels": [{"id": 30, "text": "Current, voltage and resistance", "descriptions": [], "parentId": 29, "subLabels": []}]}, {"id": 31, "text": "Electric power", "descriptions": null, "parentId": -1, "subLabels": [{"id": 32, "text": "Concept of electric power", "descriptions": ["Construction of simple circuit to demonstrate Ohm\u2019s law"], "parentId": 31, "subLabels": []}]}, {"id": 49, "text": "(non-sinusoidal)", "descriptions": null, "parentId": -1, "subLabels": [{"id": 50, "text": "Principles of operation and applications", "descriptions": ["Application of oscillator", "Types of multivibrators (monostable, bistable and astable)"], "parentId": 49, "subLabels": []}]}, {"id": 51, "text": "Digital basics", "descriptions": null, "parentId": -1, "subLabels": [{"id": 52, "text": "Number system", "descriptions": ["Different number system e.g. binary, octal and hexadecimal Simple calculation in binary number Conversion from one base to another and vice-versa Addition and subtraction of binary numbers"], "parentId": 51, "subLabels": []}]}, {"id": 54, "text": "Transducers and sensors", "descriptions": null, "parentId": -1, "subLabels": [{"id": 55, "text": "Electromagnetic waves. characteristics of radio waves principles of radio waves", "descriptions": ["Relationship between velocity frequency and wave length Meaning of radio communication Modulation and demodulation Advantages of F.M. over A.M. Phase modulation (mention only)", "Types of radio receivers Advantages of superheterodyne over direct input receiver Use faulty radio and detect and repair fault Project work on construction and designing of a simple radio receiver"], "parentId": 54, "subLabels": []}, {"id": 56, "text": "Acoustic transducer", "descriptions": ["Types of control circuits(open and close loop) Principle of operation of open  loop and close loop", "Qualitative treatment only"], "parentId": 54, "subLabels": []}]}, {"id": 62, "text": "Induction/transformers", "descriptions": null, "parentId": -1, "subLabels": [{"id": 63, "text": "Electromagnetic field", "descriptions": [], "parentId": 62, "subLabels": []}]}], "labels": [{"id": 4, "text": "Alternative to practical test", "descriptions": null, "parentId": -1, "subLabels": [{"id": 5, "text": "Alternatively, in the event that materials for the actual practical test cannot be", "descriptions": ["acquired, the"], "parentId": 4, "subLabels": []}, {"id": 6, "text": "Council may consider testing theoretically, candidates\u2019 level of acquisition of the practical skills prescribed in the syllabus. for this alternative test, there will be two compulsory questions to be answered within 2 hours for 100 marks", "descriptions": [], "parentId": 4, "subLabels": []}]}, {"id": 11, "text": "Measuring instruments", "descriptions": null, "parentId": -1, "subLabels": [{"id": 12, "text": "Concepts of measuring instrument principles of operation and protection of measuring instruments", "descriptions": ["Qualitative treatment should include :"], "parentId": 11, "subLabels": []}]}, {"id": 13, "text": "Semiconductor", "descriptions": null, "parentId": -1, "subLabels": [{"id": 14, "text": "Concepts of semiconductor semiconductor materials (silicon, germanium etc.) doping formation of p-type and n-type semiconductors", "descriptions": ["Qualitative treatment should include : Thermionic emission; photoemission; secondary emission and field emission. Relate it to diode, triode, tetrode, pentode, and cathode ray tube.", "Qualitative treatment only which should include: Classification \u2013 analogue and digital Types and uses of multimeter, voltmeter, ammeter, ohmmeter, oscilloscope etc."], "parentId": 13, "subLabels": []}]}, {"id": 15, "text": "Semiconductor diodes", "descriptions": null, "parentId": -1, "subLabels": [{"id": 16, "text": "Concept of diodes", "descriptions": ["Qualitative treatment only."], "parentId": 15, "subLabels": []}, {"id": 17, "text": "Biasing of diodes", "descriptions": [], "parentId": 15, "subLabels": []}]}, {"id": 18, "text": "Transistors", "descriptions": null, "parentId": -1, "subLabels": [{"id": 19, "text": "Concepts of transistor", "descriptions": ["Treatment  should include operational principles of diodes", "Type of diodes Diode ratings \u2013 voltage, current and power Application of diodes Construction of a simple circuit using a P-N junction diode Practical demonstration of I-V characteristics of P-N junction diode in the forward and reverse bias modes."], "parentId": 18, "subLabels": []}]}, {"id": 21, "text": "Devices", "descriptions": null, "parentId": -1, "subLabels": [{"id": 22, "text": "Thermistor, diac, triac and thyristor", "descriptions": ["Meaning of transistor, biasing of transistor, Uses and advantages. BJT characteristics Advantages of transistor over valves Advantages of MOSFET over BJT"], "parentId": 21, "subLabels": []}, {"id": 23, "text": "Etc", "descriptions": [], "parentId": 21, "subLabels": []}]}, {"id": 26, "text": "Electric current", "descriptions": null, "parentId": -1, "subLabels": [{"id": 27, "text": "Structure of atom", "descriptions": ["Formation, function and principles of Operation. Transistor as a switch, inverter, an amplifier Verification of BJT characteristics. Input, output and transfer characteristics Transfer configuration Qualitative treatment only \u2013 formation, functions and principles of operation Advantages over discrete components"], "parentId": 26, "subLabels": []}]}, {"id": 29, "text": "Current and resistance", "descriptions": null, "parentId": -1, "subLabels": [{"id": 30, "text": "Current, voltage and resistance", "descriptions": [], "parentId": 29, "subLabels": []}]}, {"id": 31, "text": "Electric power", "descriptions": null, "parentId": -1, "subLabels": [{"id": 32, "text": "Concept of electric power", "descriptions": ["Construction of simple circuit to demonstrate Ohm\u2019s law"], "parentId": 31, "subLabels": []}]}, {"id": 49, "text": "(non-sinusoidal)", "descriptions": null, "parentId": -1, "subLabels": [{"id": 50, "text": "Principles of operation and applications", "descriptions": ["Application of oscillator", "Types of multivibrators (monostable, bistable and astable)"], "parentId": 49, "subLabels": []}]}, {"id": 51, "text": "Digital basics", "descriptions": null, "parentId": -1, "subLabels": [{"id": 52, "text": "Number system", "descriptions": ["Different number system e.g. binary, octal and hexadecimal Simple calculation in binary number Conversion from one base to another and vice-versa Addition and subtraction of binary numbers"], "parentId": 51, "subLabels": []}]}, {"id": 54, "text": "Transducers and sensors", "descriptions": null, "parentId": -1, "subLabels": [{"id": 55, "text": "Electromagnetic waves. characteristics of radio waves principles of radio waves", "descriptions": ["Relationship between velocity frequency and wave length Meaning of radio communication Modulation and demodulation Advantages of F.M. over A.M. Phase modulation (mention only)", "Types of radio receivers Advantages of superheterodyne over direct input receiver Use faulty radio and detect and repair fault Project work on construction and designing of a simple radio receiver"], "parentId": 54, "subLabels": []}, {"id": 56, "text": "Acoustic transducer", "descriptions": ["Types of control circuits(open and close loop) Principle of operation of open  loop and close loop", "Qualitative treatment only"], "parentId": 54, "subLabels": []}]}, {"id": 62, "text": "Induction/transformers", "descriptions": null, "parentId": -1, "subLabels": [{"id": 63, "text": "Electromagnetic field", "descriptions": [], "parentId": 62, "subLabels": []}]}, {"id": 5, "text": "Alternatively, in the event that materials for the actual practical test cannot be", "descriptions": ["acquired, the"], "parentId": 4, "subLabels": []}, {"id": 6, "text": "Council may consider testing theoretically, candidates\u2019 level of acquisition of the practical skills prescribed in the syllabus. for this alternative test, there will be two compulsory questions to be answered within 2 hours for 100 marks", "descriptions": [], "parentId": 4, "subLabels": []}, {"id": 12, "text": "Concepts of measuring instrument principles of operation and protection of measuring instruments", "descriptions": ["Qualitative treatment should include :"], "parentId": 11, "subLabels": []}, {"id": 14, "text": "Concepts of semiconductor semiconductor materials (silicon, germanium etc.) doping formation of p-type and n-type semiconductors", "descriptions": ["Qualitative treatment should include : Thermionic emission; photoemission; secondary emission and field emission. Relate it to diode, triode, tetrode, pentode, and cathode ray tube.", "Qualitative treatment only which should include: Classification \u2013 analogue and digital Types and uses of multimeter, voltmeter, ammeter, ohmmeter, oscilloscope etc."], "parentId": 13, "subLabels": []}, {"id": 16, "text": "Concept of diodes", "descriptions": ["Qualitative treatment only."], "parentId": 15, "subLabels": []}, {"id": 17, "text": "Biasing of diodes", "descriptions": [], "parentId": 15, "subLabels": []}, {"id": 19, "text": "Concepts of transistor", "descriptions": ["Treatment  should include operational principles of diodes", "Type of diodes Diode ratings \u2013 voltage, current and power Application of diodes Construction of a simple circuit using a P-N junction diode Practical demonstration of I-V characteristics of P-N junction diode in the forward and reverse bias modes."], "parentId": 18, "subLabels": []}, {"id": 22, "text": "Thermistor, diac, triac and thyristor", "descriptions": ["Meaning of transistor, biasing of transistor, Uses and advantages. BJT characteristics Advantages of transistor over valves Advantages of MOSFET over BJT"], "parentId": 21, "subLabels": []}, {"id": 23, "text": "Etc", "descriptions": [], "parentId": 21, "subLabels": []}, {"id": 27, "text": "Structure of atom", "descriptions": ["Formation, function and principles of Operation. Transistor as a switch, inverter, an amplifier Verification of BJT characteristics. Input, output and transfer characteristics Transfer configuration Qualitative treatment only \u2013 formation, functions and principles of operation Advantages over discrete components"], "parentId": 26, "subLabels": []}, {"id": 30, "text": "Current, voltage and resistance", "descriptions": [], "parentId": 29, "subLabels": []}, {"id": 32, "text": "Concept of electric power", "descriptions": ["Construction of simple circuit to demonstrate Ohm\u2019s law"], "parentId": 31, "subLabels": []}, {"id": 50, "text": "Principles of operation and applications", "descriptions": ["Application of oscillator", "Types of multivibrators (monostable, bistable and astable)"], "parentId": 49, "subLabels": []}, {"id": 52, "text": "Number system", "descriptions": ["Different number system e.g. binary, octal and hexadecimal Simple calculation in binary number Conversion from one base to another and vice-versa Addition and subtraction of binary numbers"], "parentId": 51, "subLabels": []}, {"id": 55, "text": "Electromagnetic waves. characteristics of radio waves principles of radio waves", "descriptions": ["Relationship between velocity frequency and wave length Meaning of radio communication Modulation and demodulation Advantages of F.M. over A.M. Phase modulation (mention only)", "Types of radio receivers Advantages of superheterodyne over direct input receiver Use faulty radio and detect and repair fault Project work on construction and designing of a simple radio receiver"], "parentId": 54, "subLabels": []}, {"id": 56, "text": "Acoustic transducer", "descriptions": ["Types of control circuits(open and close loop) Principle of operation of open  loop and close loop", "Qualitative treatment only"], "parentId": 54, "subLabels": []}, {"id": 63, "text": "Electromagnetic field", "descriptions": [], "parentId": 62, "subLabels": []}]}
+{
+ "subject": "Electronics or Basic Electronics",
+ "Grade": "None",
+ "Curriculum": "NERDC",
+ "labelsTree": [
+  {
+   "id": 4,
+   "text": "Alternative to practical test",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 5,
+     "text": "Alternatively, in the event that materials for the actual practical test cannot be",
+     "descriptions": [
+      "acquired, the"
+     ],
+     "parentId": 4,
+     "subLabels": []
+    },
+    {
+     "id": 6,
+     "text": "Council may consider testing theoretically, candidates\u2019 level of acquisition of the practical skills prescribed in the syllabus. for this alternative test, there will be two compulsory questions to be answered within 2 hours for 100 marks",
+     "descriptions": [],
+     "parentId": 4,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "text": "Measuring instruments",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 12,
+     "text": "Concepts of measuring instrument principles of operation and protection of measuring instruments",
+     "descriptions": [
+      "Qualitative treatment should include :"
+     ],
+     "parentId": 11,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "text": "Semiconductor",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 14,
+     "text": "Concepts of semiconductor semiconductor materials (silicon, germanium etc.) doping formation of p-type and n-type semiconductors",
+     "descriptions": [
+      "Qualitative treatment should include : Thermionic emission; photoemission; secondary emission and field emission. Relate it to diode, triode, tetrode, pentode, and cathode ray tube.",
+      "Qualitative treatment only which should include: Classification \u2013 analogue and digital Types and uses of multimeter, voltmeter, ammeter, ohmmeter, oscilloscope etc."
+     ],
+     "parentId": 13,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "text": "Semiconductor diodes",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 16,
+     "text": "Concept of diodes",
+     "descriptions": [
+      "Qualitative treatment only."
+     ],
+     "parentId": 15,
+     "subLabels": []
+    },
+    {
+     "id": 17,
+     "text": "Biasing of diodes",
+     "descriptions": [],
+     "parentId": 15,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "text": "Transistors",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 19,
+     "text": "Concepts of transistor",
+     "descriptions": [
+      "Treatment  should include operational principles of diodes",
+      "Type of diodes Diode ratings \u2013 voltage, current and power Application of diodes Construction of a simple circuit using a P-N junction diode Practical demonstration of I-V characteristics of P-N junction diode in the forward and reverse bias modes."
+     ],
+     "parentId": 18,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "text": "Devices",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 22,
+     "text": "Thermistor, diac, triac and thyristor",
+     "descriptions": [
+      "Meaning of transistor, biasing of transistor, Uses and advantages. BJT characteristics Advantages of transistor over valves Advantages of MOSFET over BJT"
+     ],
+     "parentId": 21,
+     "subLabels": []
+    },
+    {
+     "id": 23,
+     "text": "Etc",
+     "descriptions": [],
+     "parentId": 21,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "text": "Electric current",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 27,
+     "text": "Structure of atom",
+     "descriptions": [
+      "Formation, function and principles of Operation. Transistor as a switch, inverter, an amplifier Verification of BJT characteristics. Input, output and transfer characteristics Transfer configuration Qualitative treatment only \u2013 formation, functions and principles of operation Advantages over discrete components"
+     ],
+     "parentId": 26,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 29,
+   "text": "Current and resistance",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 30,
+     "text": "Current, voltage and resistance",
+     "descriptions": [],
+     "parentId": 29,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 31,
+   "text": "Electric power",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 32,
+     "text": "Concept of electric power",
+     "descriptions": [
+      "Construction of simple circuit to demonstrate Ohm\u2019s law"
+     ],
+     "parentId": 31,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 49,
+   "text": "(non-sinusoidal)",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 50,
+     "text": "Principles of operation and applications",
+     "descriptions": [
+      "Application of oscillator",
+      "Types of multivibrators (monostable, bistable and astable)"
+     ],
+     "parentId": 49,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 51,
+   "text": "Digital basics",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 52,
+     "text": "Number system",
+     "descriptions": [
+      "Different number system e.g. binary, octal and hexadecimal Simple calculation in binary number Conversion from one base to another and vice-versa Addition and subtraction of binary numbers"
+     ],
+     "parentId": 51,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 54,
+   "text": "Transducers and sensors",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 55,
+     "text": "Electromagnetic waves. characteristics of radio waves principles of radio waves",
+     "descriptions": [
+      "Relationship between velocity frequency and wave length Meaning of radio communication Modulation and demodulation Advantages of F.M. over A.M. Phase modulation (mention only)",
+      "Types of radio receivers Advantages of superheterodyne over direct input receiver Use faulty radio and detect and repair fault Project work on construction and designing of a simple radio receiver"
+     ],
+     "parentId": 54,
+     "subLabels": []
+    },
+    {
+     "id": 56,
+     "text": "Acoustic transducer",
+     "descriptions": [
+      "Types of control circuits(open and close loop) Principle of operation of open  loop and close loop",
+      "Qualitative treatment only"
+     ],
+     "parentId": 54,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 62,
+   "text": "Induction/transformers",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 63,
+     "text": "Electromagnetic field",
+     "descriptions": [],
+     "parentId": 62,
+     "subLabels": []
+    }
+   ]
+  }
+ ],
+ "labels": [
+  {
+   "id": 4,
+   "text": "Alternative to practical test",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 5,
+     "text": "Alternatively, in the event that materials for the actual practical test cannot be",
+     "descriptions": [
+      "acquired, the"
+     ],
+     "parentId": 4,
+     "subLabels": []
+    },
+    {
+     "id": 6,
+     "text": "Council may consider testing theoretically, candidates\u2019 level of acquisition of the practical skills prescribed in the syllabus. for this alternative test, there will be two compulsory questions to be answered within 2 hours for 100 marks",
+     "descriptions": [],
+     "parentId": 4,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "text": "Measuring instruments",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 12,
+     "text": "Concepts of measuring instrument principles of operation and protection of measuring instruments",
+     "descriptions": [
+      "Qualitative treatment should include :"
+     ],
+     "parentId": 11,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "text": "Semiconductor",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 14,
+     "text": "Concepts of semiconductor semiconductor materials (silicon, germanium etc.) doping formation of p-type and n-type semiconductors",
+     "descriptions": [
+      "Qualitative treatment should include : Thermionic emission; photoemission; secondary emission and field emission. Relate it to diode, triode, tetrode, pentode, and cathode ray tube.",
+      "Qualitative treatment only which should include: Classification \u2013 analogue and digital Types and uses of multimeter, voltmeter, ammeter, ohmmeter, oscilloscope etc."
+     ],
+     "parentId": 13,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "text": "Semiconductor diodes",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 16,
+     "text": "Concept of diodes",
+     "descriptions": [
+      "Qualitative treatment only."
+     ],
+     "parentId": 15,
+     "subLabels": []
+    },
+    {
+     "id": 17,
+     "text": "Biasing of diodes",
+     "descriptions": [],
+     "parentId": 15,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "text": "Transistors",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 19,
+     "text": "Concepts of transistor",
+     "descriptions": [
+      "Treatment  should include operational principles of diodes",
+      "Type of diodes Diode ratings \u2013 voltage, current and power Application of diodes Construction of a simple circuit using a P-N junction diode Practical demonstration of I-V characteristics of P-N junction diode in the forward and reverse bias modes."
+     ],
+     "parentId": 18,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "text": "Devices",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 22,
+     "text": "Thermistor, diac, triac and thyristor",
+     "descriptions": [
+      "Meaning of transistor, biasing of transistor, Uses and advantages. BJT characteristics Advantages of transistor over valves Advantages of MOSFET over BJT"
+     ],
+     "parentId": 21,
+     "subLabels": []
+    },
+    {
+     "id": 23,
+     "text": "Etc",
+     "descriptions": [],
+     "parentId": 21,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "text": "Electric current",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 27,
+     "text": "Structure of atom",
+     "descriptions": [
+      "Formation, function and principles of Operation. Transistor as a switch, inverter, an amplifier Verification of BJT characteristics. Input, output and transfer characteristics Transfer configuration Qualitative treatment only \u2013 formation, functions and principles of operation Advantages over discrete components"
+     ],
+     "parentId": 26,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 29,
+   "text": "Current and resistance",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 30,
+     "text": "Current, voltage and resistance",
+     "descriptions": [],
+     "parentId": 29,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 31,
+   "text": "Electric power",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 32,
+     "text": "Concept of electric power",
+     "descriptions": [
+      "Construction of simple circuit to demonstrate Ohm\u2019s law"
+     ],
+     "parentId": 31,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 49,
+   "text": "(non-sinusoidal)",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 50,
+     "text": "Principles of operation and applications",
+     "descriptions": [
+      "Application of oscillator",
+      "Types of multivibrators (monostable, bistable and astable)"
+     ],
+     "parentId": 49,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 51,
+   "text": "Digital basics",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 52,
+     "text": "Number system",
+     "descriptions": [
+      "Different number system e.g. binary, octal and hexadecimal Simple calculation in binary number Conversion from one base to another and vice-versa Addition and subtraction of binary numbers"
+     ],
+     "parentId": 51,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 54,
+   "text": "Transducers and sensors",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 55,
+     "text": "Electromagnetic waves. characteristics of radio waves principles of radio waves",
+     "descriptions": [
+      "Relationship between velocity frequency and wave length Meaning of radio communication Modulation and demodulation Advantages of F.M. over A.M. Phase modulation (mention only)",
+      "Types of radio receivers Advantages of superheterodyne over direct input receiver Use faulty radio and detect and repair fault Project work on construction and designing of a simple radio receiver"
+     ],
+     "parentId": 54,
+     "subLabels": []
+    },
+    {
+     "id": 56,
+     "text": "Acoustic transducer",
+     "descriptions": [
+      "Types of control circuits(open and close loop) Principle of operation of open  loop and close loop",
+      "Qualitative treatment only"
+     ],
+     "parentId": 54,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 62,
+   "text": "Induction/transformers",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 63,
+     "text": "Electromagnetic field",
+     "descriptions": [],
+     "parentId": 62,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "text": "Alternatively, in the event that materials for the actual practical test cannot be",
+   "descriptions": [
+    "acquired, the"
+   ],
+   "parentId": 4,
+   "subLabels": []
+  },
+  {
+   "id": 6,
+   "text": "Council may consider testing theoretically, candidates\u2019 level of acquisition of the practical skills prescribed in the syllabus. for this alternative test, there will be two compulsory questions to be answered within 2 hours for 100 marks",
+   "descriptions": [],
+   "parentId": 4,
+   "subLabels": []
+  },
+  {
+   "id": 12,
+   "text": "Concepts of measuring instrument principles of operation and protection of measuring instruments",
+   "descriptions": [
+    "Qualitative treatment should include :"
+   ],
+   "parentId": 11,
+   "subLabels": []
+  },
+  {
+   "id": 14,
+   "text": "Concepts of semiconductor semiconductor materials (silicon, germanium etc.) doping formation of p-type and n-type semiconductors",
+   "descriptions": [
+    "Qualitative treatment should include : Thermionic emission; photoemission; secondary emission and field emission. Relate it to diode, triode, tetrode, pentode, and cathode ray tube.",
+    "Qualitative treatment only which should include: Classification \u2013 analogue and digital Types and uses of multimeter, voltmeter, ammeter, ohmmeter, oscilloscope etc."
+   ],
+   "parentId": 13,
+   "subLabels": []
+  },
+  {
+   "id": 16,
+   "text": "Concept of diodes",
+   "descriptions": [
+    "Qualitative treatment only."
+   ],
+   "parentId": 15,
+   "subLabels": []
+  },
+  {
+   "id": 17,
+   "text": "Biasing of diodes",
+   "descriptions": [],
+   "parentId": 15,
+   "subLabels": []
+  },
+  {
+   "id": 19,
+   "text": "Concepts of transistor",
+   "descriptions": [
+    "Treatment  should include operational principles of diodes",
+    "Type of diodes Diode ratings \u2013 voltage, current and power Application of diodes Construction of a simple circuit using a P-N junction diode Practical demonstration of I-V characteristics of P-N junction diode in the forward and reverse bias modes."
+   ],
+   "parentId": 18,
+   "subLabels": []
+  },
+  {
+   "id": 22,
+   "text": "Thermistor, diac, triac and thyristor",
+   "descriptions": [
+    "Meaning of transistor, biasing of transistor, Uses and advantages. BJT characteristics Advantages of transistor over valves Advantages of MOSFET over BJT"
+   ],
+   "parentId": 21,
+   "subLabels": []
+  },
+  {
+   "id": 23,
+   "text": "Etc",
+   "descriptions": [],
+   "parentId": 21,
+   "subLabels": []
+  },
+  {
+   "id": 27,
+   "text": "Structure of atom",
+   "descriptions": [
+    "Formation, function and principles of Operation. Transistor as a switch, inverter, an amplifier Verification of BJT characteristics. Input, output and transfer characteristics Transfer configuration Qualitative treatment only \u2013 formation, functions and principles of operation Advantages over discrete components"
+   ],
+   "parentId": 26,
+   "subLabels": []
+  },
+  {
+   "id": 30,
+   "text": "Current, voltage and resistance",
+   "descriptions": [],
+   "parentId": 29,
+   "subLabels": []
+  },
+  {
+   "id": 32,
+   "text": "Concept of electric power",
+   "descriptions": [
+    "Construction of simple circuit to demonstrate Ohm\u2019s law"
+   ],
+   "parentId": 31,
+   "subLabels": []
+  },
+  {
+   "id": 50,
+   "text": "Principles of operation and applications",
+   "descriptions": [
+    "Application of oscillator",
+    "Types of multivibrators (monostable, bistable and astable)"
+   ],
+   "parentId": 49,
+   "subLabels": []
+  },
+  {
+   "id": 52,
+   "text": "Number system",
+   "descriptions": [
+    "Different number system e.g. binary, octal and hexadecimal Simple calculation in binary number Conversion from one base to another and vice-versa Addition and subtraction of binary numbers"
+   ],
+   "parentId": 51,
+   "subLabels": []
+  },
+  {
+   "id": 55,
+   "text": "Electromagnetic waves. characteristics of radio waves principles of radio waves",
+   "descriptions": [
+    "Relationship between velocity frequency and wave length Meaning of radio communication Modulation and demodulation Advantages of F.M. over A.M. Phase modulation (mention only)",
+    "Types of radio receivers Advantages of superheterodyne over direct input receiver Use faulty radio and detect and repair fault Project work on construction and designing of a simple radio receiver"
+   ],
+   "parentId": 54,
+   "subLabels": []
+  },
+  {
+   "id": 56,
+   "text": "Acoustic transducer",
+   "descriptions": [
+    "Types of control circuits(open and close loop) Principle of operation of open  loop and close loop",
+    "Qualitative treatment only"
+   ],
+   "parentId": 54,
+   "subLabels": []
+  },
+  {
+   "id": 63,
+   "text": "Electromagnetic field",
+   "descriptions": [],
+   "parentId": 62,
+   "subLabels": []
+  }
+ ]
+}

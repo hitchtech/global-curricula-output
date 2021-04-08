@@ -1,1 +1,140 @@
-{"subject": "Gsm Phones Maintenance and Repairs", "Grade": "None", "Curriculum": "NERDC", "labelsTree": [{"id": 10, "text": "Functions", "descriptions": null, "parentId": -1, "subLabels": [{"id": 11, "text": "1 electronic components in mobile phones 2    preventive maintenance 3    corrective maintenance", "descriptions": ["unlocking software, flashing software firmware installation etc. List safety rules and regulations. Safe use of maintenance tools. Basic safety facilities in the mobile phone workshop (first aid box, fire extinguishers etc.) Identification of hardware problems such as damaged screen, charging ports, mouthpiece, earpiece, keyboard etc. Identification of software problems such as; \u2018contact service provider\u2019, \u2018phone lock code\u2019, \u2018invalid SIM\u2019, \u2018SIM card rejected\u2019 etc."], "parentId": 10, "subLabels": []}, {"id": 12, "text": "Structure of mobile phones", "descriptions": [], "parentId": 10, "subLabels": []}]}, {"id": 13, "text": "Trouble-shooting", "descriptions": null, "parentId": -1, "subLabels": [{"id": 14, "text": "Basic trouble-shooting", "descriptions": ["Identification of faulty components (using visuals, continuity test, open circuit, short circuit etc.) Test voltages on PCB (voltage levels at various points and voltage specification of IC pins) Trouble-shooting techniques\u2014metering methods, signal tracing/injection, component testing, visual inspections etc. Trouble shooting Surface Mount Devices (SMD)/ Ball Grid Array (BGA) etc.", "Use of software codes for faults finding. Fault find related to software (SIM locked, SIM rejected, hanging problem, restart problem etc.) Flashing of mobile phones\u2014flashing devices, flashing software and their uses Phone lock/security unlocking/resetting counters"], "parentId": 13, "subLabels": []}, {"id": 15, "text": "Fault finding in software", "descriptions": [], "parentId": 13, "subLabels": []}]}], "labels": [{"id": 10, "text": "Functions", "descriptions": null, "parentId": -1, "subLabels": [{"id": 11, "text": "1 electronic components in mobile phones 2    preventive maintenance 3    corrective maintenance", "descriptions": ["unlocking software, flashing software firmware installation etc. List safety rules and regulations. Safe use of maintenance tools. Basic safety facilities in the mobile phone workshop (first aid box, fire extinguishers etc.) Identification of hardware problems such as damaged screen, charging ports, mouthpiece, earpiece, keyboard etc. Identification of software problems such as; \u2018contact service provider\u2019, \u2018phone lock code\u2019, \u2018invalid SIM\u2019, \u2018SIM card rejected\u2019 etc."], "parentId": 10, "subLabels": []}, {"id": 12, "text": "Structure of mobile phones", "descriptions": [], "parentId": 10, "subLabels": []}]}, {"id": 13, "text": "Trouble-shooting", "descriptions": null, "parentId": -1, "subLabels": [{"id": 14, "text": "Basic trouble-shooting", "descriptions": ["Identification of faulty components (using visuals, continuity test, open circuit, short circuit etc.) Test voltages on PCB (voltage levels at various points and voltage specification of IC pins) Trouble-shooting techniques\u2014metering methods, signal tracing/injection, component testing, visual inspections etc. Trouble shooting Surface Mount Devices (SMD)/ Ball Grid Array (BGA) etc.", "Use of software codes for faults finding. Fault find related to software (SIM locked, SIM rejected, hanging problem, restart problem etc.) Flashing of mobile phones\u2014flashing devices, flashing software and their uses Phone lock/security unlocking/resetting counters"], "parentId": 13, "subLabels": []}, {"id": 15, "text": "Fault finding in software", "descriptions": [], "parentId": 13, "subLabels": []}]}, {"id": 11, "text": "1 electronic components in mobile phones 2    preventive maintenance 3    corrective maintenance", "descriptions": ["unlocking software, flashing software firmware installation etc. List safety rules and regulations. Safe use of maintenance tools. Basic safety facilities in the mobile phone workshop (first aid box, fire extinguishers etc.) Identification of hardware problems such as damaged screen, charging ports, mouthpiece, earpiece, keyboard etc. Identification of software problems such as; \u2018contact service provider\u2019, \u2018phone lock code\u2019, \u2018invalid SIM\u2019, \u2018SIM card rejected\u2019 etc."], "parentId": 10, "subLabels": []}, {"id": 12, "text": "Structure of mobile phones", "descriptions": [], "parentId": 10, "subLabels": []}, {"id": 14, "text": "Basic trouble-shooting", "descriptions": ["Identification of faulty components (using visuals, continuity test, open circuit, short circuit etc.) Test voltages on PCB (voltage levels at various points and voltage specification of IC pins) Trouble-shooting techniques\u2014metering methods, signal tracing/injection, component testing, visual inspections etc. Trouble shooting Surface Mount Devices (SMD)/ Ball Grid Array (BGA) etc.", "Use of software codes for faults finding. Fault find related to software (SIM locked, SIM rejected, hanging problem, restart problem etc.) Flashing of mobile phones\u2014flashing devices, flashing software and their uses Phone lock/security unlocking/resetting counters"], "parentId": 13, "subLabels": []}, {"id": 15, "text": "Fault finding in software", "descriptions": [], "parentId": 13, "subLabels": []}]}
+{
+ "subject": "Gsm Phones Maintenance and Repairs",
+ "Grade": "None",
+ "Curriculum": "NERDC",
+ "labelsTree": [
+  {
+   "id": 10,
+   "text": "Functions",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 11,
+     "text": "1 electronic components in mobile phones 2    preventive maintenance 3    corrective maintenance",
+     "descriptions": [
+      "unlocking software, flashing software firmware installation etc. List safety rules and regulations. Safe use of maintenance tools. Basic safety facilities in the mobile phone workshop (first aid box, fire extinguishers etc.) Identification of hardware problems such as damaged screen, charging ports, mouthpiece, earpiece, keyboard etc. Identification of software problems such as; \u2018contact service provider\u2019, \u2018phone lock code\u2019, \u2018invalid SIM\u2019, \u2018SIM card rejected\u2019 etc."
+     ],
+     "parentId": 10,
+     "subLabels": []
+    },
+    {
+     "id": 12,
+     "text": "Structure of mobile phones",
+     "descriptions": [],
+     "parentId": 10,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "text": "Trouble-shooting",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 14,
+     "text": "Basic trouble-shooting",
+     "descriptions": [
+      "Identification of faulty components (using visuals, continuity test, open circuit, short circuit etc.) Test voltages on PCB (voltage levels at various points and voltage specification of IC pins) Trouble-shooting techniques\u2014metering methods, signal tracing/injection, component testing, visual inspections etc. Trouble shooting Surface Mount Devices (SMD)/ Ball Grid Array (BGA) etc.",
+      "Use of software codes for faults finding. Fault find related to software (SIM locked, SIM rejected, hanging problem, restart problem etc.) Flashing of mobile phones\u2014flashing devices, flashing software and their uses Phone lock/security unlocking/resetting counters"
+     ],
+     "parentId": 13,
+     "subLabels": []
+    },
+    {
+     "id": 15,
+     "text": "Fault finding in software",
+     "descriptions": [],
+     "parentId": 13,
+     "subLabels": []
+    }
+   ]
+  }
+ ],
+ "labels": [
+  {
+   "id": 10,
+   "text": "Functions",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 11,
+     "text": "1 electronic components in mobile phones 2    preventive maintenance 3    corrective maintenance",
+     "descriptions": [
+      "unlocking software, flashing software firmware installation etc. List safety rules and regulations. Safe use of maintenance tools. Basic safety facilities in the mobile phone workshop (first aid box, fire extinguishers etc.) Identification of hardware problems such as damaged screen, charging ports, mouthpiece, earpiece, keyboard etc. Identification of software problems such as; \u2018contact service provider\u2019, \u2018phone lock code\u2019, \u2018invalid SIM\u2019, \u2018SIM card rejected\u2019 etc."
+     ],
+     "parentId": 10,
+     "subLabels": []
+    },
+    {
+     "id": 12,
+     "text": "Structure of mobile phones",
+     "descriptions": [],
+     "parentId": 10,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "text": "Trouble-shooting",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 14,
+     "text": "Basic trouble-shooting",
+     "descriptions": [
+      "Identification of faulty components (using visuals, continuity test, open circuit, short circuit etc.) Test voltages on PCB (voltage levels at various points and voltage specification of IC pins) Trouble-shooting techniques\u2014metering methods, signal tracing/injection, component testing, visual inspections etc. Trouble shooting Surface Mount Devices (SMD)/ Ball Grid Array (BGA) etc.",
+      "Use of software codes for faults finding. Fault find related to software (SIM locked, SIM rejected, hanging problem, restart problem etc.) Flashing of mobile phones\u2014flashing devices, flashing software and their uses Phone lock/security unlocking/resetting counters"
+     ],
+     "parentId": 13,
+     "subLabels": []
+    },
+    {
+     "id": 15,
+     "text": "Fault finding in software",
+     "descriptions": [],
+     "parentId": 13,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "text": "1 electronic components in mobile phones 2    preventive maintenance 3    corrective maintenance",
+   "descriptions": [
+    "unlocking software, flashing software firmware installation etc. List safety rules and regulations. Safe use of maintenance tools. Basic safety facilities in the mobile phone workshop (first aid box, fire extinguishers etc.) Identification of hardware problems such as damaged screen, charging ports, mouthpiece, earpiece, keyboard etc. Identification of software problems such as; \u2018contact service provider\u2019, \u2018phone lock code\u2019, \u2018invalid SIM\u2019, \u2018SIM card rejected\u2019 etc."
+   ],
+   "parentId": 10,
+   "subLabels": []
+  },
+  {
+   "id": 12,
+   "text": "Structure of mobile phones",
+   "descriptions": [],
+   "parentId": 10,
+   "subLabels": []
+  },
+  {
+   "id": 14,
+   "text": "Basic trouble-shooting",
+   "descriptions": [
+    "Identification of faulty components (using visuals, continuity test, open circuit, short circuit etc.) Test voltages on PCB (voltage levels at various points and voltage specification of IC pins) Trouble-shooting techniques\u2014metering methods, signal tracing/injection, component testing, visual inspections etc. Trouble shooting Surface Mount Devices (SMD)/ Ball Grid Array (BGA) etc.",
+    "Use of software codes for faults finding. Fault find related to software (SIM locked, SIM rejected, hanging problem, restart problem etc.) Flashing of mobile phones\u2014flashing devices, flashing software and their uses Phone lock/security unlocking/resetting counters"
+   ],
+   "parentId": 13,
+   "subLabels": []
+  },
+  {
+   "id": 15,
+   "text": "Fault finding in software",
+   "descriptions": [],
+   "parentId": 13,
+   "subLabels": []
+  }
+ ]
+}

@@ -1,1 +1,67 @@
-{"subject": "Printing Craft Practice", "Grade": "None", "Curriculum": "NERDC", "labelsTree": [{"id": 7, "text": "Suggested reading list", "descriptions": null, "parentId": -1, "subLabels": [{"id": 8, "text": "S/n tittle 1 printing technology 2 comprehensive graphic art 3 screen printing techniques 4 an approach to printing management 5 graphic communication in nigeria", "descriptions": ["AUTHOR", "Adams Faux", "Dr Ervin A, Denis Dr John D,Jenkins", "Albert Kosloff M,A", "Soji Adeniyan", "Abdul Rasheed Afolabi"], "parentId": 7, "subLabels": []}]}], "labels": [{"id": 7, "text": "Suggested reading list", "descriptions": null, "parentId": -1, "subLabels": [{"id": 8, "text": "S/n tittle 1 printing technology 2 comprehensive graphic art 3 screen printing techniques 4 an approach to printing management 5 graphic communication in nigeria", "descriptions": ["AUTHOR", "Adams Faux", "Dr Ervin A, Denis Dr John D,Jenkins", "Albert Kosloff M,A", "Soji Adeniyan", "Abdul Rasheed Afolabi"], "parentId": 7, "subLabels": []}]}, {"id": 8, "text": "S/n tittle 1 printing technology 2 comprehensive graphic art 3 screen printing techniques 4 an approach to printing management 5 graphic communication in nigeria", "descriptions": ["AUTHOR", "Adams Faux", "Dr Ervin A, Denis Dr John D,Jenkins", "Albert Kosloff M,A", "Soji Adeniyan", "Abdul Rasheed Afolabi"], "parentId": 7, "subLabels": []}]}
+{
+ "subject": "Printing Craft Practice",
+ "Grade": "None",
+ "Curriculum": "NERDC",
+ "labelsTree": [
+  {
+   "id": 7,
+   "text": "Suggested reading list",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 8,
+     "text": "S/n tittle 1 printing technology 2 comprehensive graphic art 3 screen printing techniques 4 an approach to printing management 5 graphic communication in nigeria",
+     "descriptions": [
+      "AUTHOR",
+      "Adams Faux",
+      "Dr Ervin A, Denis Dr John D,Jenkins",
+      "Albert Kosloff M,A",
+      "Soji Adeniyan",
+      "Abdul Rasheed Afolabi"
+     ],
+     "parentId": 7,
+     "subLabels": []
+    }
+   ]
+  }
+ ],
+ "labels": [
+  {
+   "id": 7,
+   "text": "Suggested reading list",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 8,
+     "text": "S/n tittle 1 printing technology 2 comprehensive graphic art 3 screen printing techniques 4 an approach to printing management 5 graphic communication in nigeria",
+     "descriptions": [
+      "AUTHOR",
+      "Adams Faux",
+      "Dr Ervin A, Denis Dr John D,Jenkins",
+      "Albert Kosloff M,A",
+      "Soji Adeniyan",
+      "Abdul Rasheed Afolabi"
+     ],
+     "parentId": 7,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "text": "S/n tittle 1 printing technology 2 comprehensive graphic art 3 screen printing techniques 4 an approach to printing management 5 graphic communication in nigeria",
+   "descriptions": [
+    "AUTHOR",
+    "Adams Faux",
+    "Dr Ervin A, Denis Dr John D,Jenkins",
+    "Albert Kosloff M,A",
+    "Soji Adeniyan",
+    "Abdul Rasheed Afolabi"
+   ],
+   "parentId": 7,
+   "subLabels": []
+  }
+ ]
+}

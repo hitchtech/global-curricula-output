@@ -1,1 +1,212 @@
-{"subject": "Technical Drawing", "Grade": "None", "Curriculum": "NERDC", "labelsTree": [{"id": 3, "text": "Plane geometry", "descriptions": null, "parentId": -1, "subLabels": [{"id": 4, "text": "2 3 4 8 10 11", "descriptions": ["1 Drawing materials and equipment, types of drawing and applications", "Lines, lettering and dimensioning", "Division of lines and its applications", "Scales and their uses", "Tangents and tangency", "Similar figures and areas", "Loci"], "parentId": 3, "subLabels": []}]}, {"id": 6, "text": "Geometry", "descriptions": null, "parentId": -1, "subLabels": [{"id": 7, "text": "12 13 14 15 16 17 18", "descriptions": ["Lines in space and planes", "Pictorial drawing: isometric, oblique, perspective", "Orthographic projection", "Auxiliary projections", "Sectional views and true shapes", "Development of surfaces", "Intersection /Interpenetration"], "parentId": 6, "subLabels": []}]}, {"id": 8, "text": "Symbols and conventions", "descriptions": null, "parentId": -1, "subLabels": [{"id": 9, "text": "19", "descriptions": ["Symbols and conventions used in plane and solid geometry"], "parentId": 8, "subLabels": []}]}, {"id": 10, "text": "Vector geometry", "descriptions": null, "parentId": -1, "subLabels": [{"id": 11, "text": "20 21 22 23", "descriptions": ["Forces: co-planer,con-current and parallel", "Simple framed structure", "Shearing force and bending moment  diagrams"], "parentId": 10, "subLabels": []}, {"id": 12, "text": "Note: vector geometry is for candidates in ghana only and will be examined in paper 2", "descriptions": ["Centre of gravity of lamina"], "parentId": 10, "subLabels": []}]}, {"id": 13, "text": "Building drawing", "descriptions": null, "parentId": -1, "subLabels": [{"id": 14, "text": "1 2 3 4 5 6 7 8", "descriptions": ["Freehand sketching and identification of building tools", "Foundations and Floors", "Openings \u2013 windows, doors and arches", "Stairs and staircases", "Roofs", "Constructional details of parts of buildings", "Working drawings of buildings", "Building materials, freehand sketching, symbols and conventions"], "parentId": 13, "subLabels": []}]}, {"id": 15, "text": "Mechanical drawing", "descriptions": null, "parentId": -1, "subLabels": [{"id": 16, "text": "1 2 3 4 5 6 7", "descriptions": ["Freehand sketching and identification  of mechanical tools", "Dimensioning", "Screw threads, fasteners and locking devices", "Sectioning", "Pictorial drawing", "Working and assembly drawing.", "Symbols, conventions and abbreviations"], "parentId": 15, "subLabels": []}]}, {"id": 17, "text": "List of recommended textbooks", "descriptions": null, "parentId": -1, "subLabels": [{"id": 18, "text": "S/n text books authors 1 technical drawing for school certificate and", "descriptions": ["PUBLISHERS"], "parentId": 17, "subLabels": [{"id": 19, "text": "G.c.e (metric edition) j.n green", "descriptions": ["SPECTRUM BOOKS"], "parentId": 18, "subLabels": []}]}, {"id": 20, "text": "2 engineering drawing with worked examples  1 & 2 (3 rd edition) m.a parker", "descriptions": [], "parentId": 17, "subLabels": [{"id": 21, "text": "And", "descriptions": ["NELSON THORNS LTD"], "parentId": 20, "subLabels": []}, {"id": 22, "text": "F.pickup", "descriptions": [], "parentId": 20, "subLabels": []}]}, {"id": 23, "text": "3 geometric and engineering drawing k.morling", "descriptions": [], "parentId": 17, "subLabels": [{"id": 24, "text": "Drawing option w.e.kudor", "descriptions": [], "parentId": 23, "subLabels": []}]}]}], "labels": []}
+{
+ "subject": "Technical Drawing",
+ "Grade": "None",
+ "Curriculum": "NERDC",
+ "labelsTree": [
+  {
+   "id": 3,
+   "text": "Plane geometry",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 4,
+     "text": "2 3 4 8 10 11",
+     "descriptions": [
+      "1 Drawing materials and equipment, types of drawing and applications",
+      "Lines, lettering and dimensioning",
+      "Division of lines and its applications",
+      "Scales and their uses",
+      "Tangents and tangency",
+      "Similar figures and areas",
+      "Loci"
+     ],
+     "parentId": 3,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "text": "Geometry",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 7,
+     "text": "12 13 14 15 16 17 18",
+     "descriptions": [
+      "Lines in space and planes",
+      "Pictorial drawing: isometric, oblique, perspective",
+      "Orthographic projection",
+      "Auxiliary projections",
+      "Sectional views and true shapes",
+      "Development of surfaces",
+      "Intersection /Interpenetration"
+     ],
+     "parentId": 6,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "text": "Symbols and conventions",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 9,
+     "text": "19",
+     "descriptions": [
+      "Symbols and conventions used in plane and solid geometry"
+     ],
+     "parentId": 8,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "text": "Vector geometry",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 11,
+     "text": "20 21 22 23",
+     "descriptions": [
+      "Forces: co-planer,con-current and parallel",
+      "Simple framed structure",
+      "Shearing force and bending moment  diagrams"
+     ],
+     "parentId": 10,
+     "subLabels": []
+    },
+    {
+     "id": 12,
+     "text": "Note: vector geometry is for candidates in ghana only and will be examined in paper 2",
+     "descriptions": [
+      "Centre of gravity of lamina"
+     ],
+     "parentId": 10,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "text": "Building drawing",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 14,
+     "text": "1 2 3 4 5 6 7 8",
+     "descriptions": [
+      "Freehand sketching and identification of building tools",
+      "Foundations and Floors",
+      "Openings \u2013 windows, doors and arches",
+      "Stairs and staircases",
+      "Roofs",
+      "Constructional details of parts of buildings",
+      "Working drawings of buildings",
+      "Building materials, freehand sketching, symbols and conventions"
+     ],
+     "parentId": 13,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "text": "Mechanical drawing",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 16,
+     "text": "1 2 3 4 5 6 7",
+     "descriptions": [
+      "Freehand sketching and identification  of mechanical tools",
+      "Dimensioning",
+      "Screw threads, fasteners and locking devices",
+      "Sectioning",
+      "Pictorial drawing",
+      "Working and assembly drawing.",
+      "Symbols, conventions and abbreviations"
+     ],
+     "parentId": 15,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "text": "List of recommended textbooks",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 18,
+     "text": "S/n text books authors 1 technical drawing for school certificate and",
+     "descriptions": [
+      "PUBLISHERS"
+     ],
+     "parentId": 17,
+     "subLabels": [
+      {
+       "id": 19,
+       "text": "G.c.e (metric edition) j.n green",
+       "descriptions": [
+        "SPECTRUM BOOKS"
+       ],
+       "parentId": 18,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 20,
+     "text": "2 engineering drawing with worked examples  1 & 2 (3 rd edition) m.a parker",
+     "descriptions": [],
+     "parentId": 17,
+     "subLabels": [
+      {
+       "id": 21,
+       "text": "And",
+       "descriptions": [
+        "NELSON THORNS LTD"
+       ],
+       "parentId": 20,
+       "subLabels": []
+      },
+      {
+       "id": 22,
+       "text": "F.pickup",
+       "descriptions": [],
+       "parentId": 20,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 23,
+     "text": "3 geometric and engineering drawing k.morling",
+     "descriptions": [],
+     "parentId": 17,
+     "subLabels": [
+      {
+       "id": 24,
+       "text": "Drawing option w.e.kudor",
+       "descriptions": [],
+       "parentId": 23,
+       "subLabels": []
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "labels": []
+}

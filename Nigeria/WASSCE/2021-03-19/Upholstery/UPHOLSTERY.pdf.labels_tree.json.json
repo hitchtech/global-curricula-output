@@ -1,1 +1,353 @@
-{"subject": "Upholstery", "Grade": "None", "Curriculum": "NERDC", "labelsTree": [{"id": 2, "text": "Detailed syllabus", "descriptions": null, "parentId": -1, "subLabels": [{"id": 3, "text": "1 2 3 4 4 5 6 7 8 9", "descriptions": ["Introduction to upholstery.", "Upholstery workshop safety.", "Upholstery tools and machines.", "Upholstery materials.", "Upholstery materials.", "Upholstery design and drawing.", "Upholstery construction and repair.", "Maintenance and repair of upholstery tools and machines.", "Upholstery workshop management.", "Introduction to entrepreneurship."], "parentId": 2, "subLabels": []}]}, {"id": 4, "text": "Tools, equipment and machines", "descriptions": null, "parentId": -1, "subLabels": [{"id": 5, "text": "Hand tools equipment", "descriptions": [], "parentId": 4, "subLabels": [{"id": 6, "text": "1. hammers (30 n o ) drawing sets", "descriptions": ["(30 No) \u201c \u201c"], "parentId": 5, "subLabels": []}, {"id": 7, "text": "2. pair of pincer (30 n o ) tee squares", "descriptions": [], "parentId": 5, "subLabels": []}, {"id": 8, "text": "3. pair of scissors (225 mm) (30 n o ) drawing boards", "descriptions": [], "parentId": 5, "subLabels": []}, {"id": 9, "text": "4. needles (30 n o ) set squares \u201c", "descriptions": [], "parentId": 5, "subLabels": []}, {"id": 10, "text": "5. staplers (30 n o ) drawing curves              \u201c", "descriptions": [], "parentId": 5, "subLabels": []}, {"id": 11, "text": "6. ripping tools (30 n o ) mechanical sharpeners  \u201c", "descriptions": [], "parentId": 5, "subLabels": []}, {"id": 12, "text": "7. webbing stretchers (30 n o ) drawing templates        \u201c", "descriptions": [], "parentId": 5, "subLabels": []}]}, {"id": 13, "text": "Power tools", "descriptions": [], "parentId": 4, "subLabels": [{"id": 14, "text": "1. jig saws. (5 no.)", "descriptions": [], "parentId": 13, "subLabels": []}, {"id": 15, "text": "2. electric staplers. \u201c", "descriptions": [], "parentId": 13, "subLabels": []}, {"id": 16, "text": "3. glue guns. \u201c", "descriptions": [], "parentId": 13, "subLabels": []}, {"id": 17, "text": "4. electric cutters. \u201c", "descriptions": [], "parentId": 13, "subLabels": []}, {"id": 18, "text": "5. power screw drivers. \u201c", "descriptions": [], "parentId": 13, "subLabels": []}, {"id": 19, "text": "6. pressing irons. \u201c", "descriptions": [], "parentId": 13, "subLabels": []}, {"id": 20, "text": "7. drills. \u201c", "descriptions": [], "parentId": 13, "subLabels": []}, {"id": 21, "text": "8. routers", "descriptions": [], "parentId": 13, "subLabels": []}]}, {"id": 22, "text": "Machines", "descriptions": [], "parentId": 4, "subLabels": [{"id": 23, "text": "1. manual sewing machines (5 n o )", "descriptions": [], "parentId": 22, "subLabels": []}, {"id": 24, "text": "2. drilling machine (2 n o )", "descriptions": [], "parentId": 22, "subLabels": []}, {"id": 25, "text": "3. band saw (2 n o )", "descriptions": [], "parentId": 22, "subLabels": []}, {"id": 26, "text": "4. circular saw (2 n o )", "descriptions": [], "parentId": 22, "subLabels": []}, {"id": 27, "text": "5. ironing machine (2 n o )", "descriptions": [], "parentId": 22, "subLabels": []}, {"id": 28, "text": "6. buttoning machine (5 n o )", "descriptions": [], "parentId": 22, "subLabels": []}, {"id": 29, "text": "7. electric sewing machines (2 n o )", "descriptions": [], "parentId": 22, "subLabels": []}]}, {"id": 30, "text": "List of materials", "descriptions": [], "parentId": 4, "subLabels": [{"id": 31, "text": "1. 450 x380mm latex foam", "descriptions": [], "parentId": 30, "subLabels": []}, {"id": 32, "text": "2. 750 x 560 mm soft synthetic leather", "descriptions": [], "parentId": 30, "subLabels": []}, {"id": 33, "text": "3. 4000mm 3 cord", "descriptions": [], "parentId": 30, "subLabels": []}, {"id": 34, "text": "4. 1 small roll matching colour sewing thread", "descriptions": [], "parentId": 30, "subLabels": []}, {"id": 35, "text": "5. 470 x 400mm calico", "descriptions": [], "parentId": 30, "subLabels": []}, {"id": 36, "text": "6. 6mm upholstery staples", "descriptions": [], "parentId": 30, "subLabels": []}, {"id": 37, "text": "7. 450 x 380mm    18mm plywood", "descriptions": [], "parentId": 30, "subLabels": []}]}, {"id": 38, "text": "Special tools", "descriptions": [], "parentId": 4, "subLabels": [{"id": 39, "text": "1. manual sewing machine", "descriptions": [], "parentId": 38, "subLabels": []}, {"id": 40, "text": "2. portable power drill with appropriate bit", "descriptions": [], "parentId": 38, "subLabels": []}, {"id": 41, "text": "3. staple gun", "descriptions": [], "parentId": 38, "subLabels": []}]}]}, {"id": 42, "text": "Suggested reading list", "descriptions": null, "parentId": -1, "subLabels": [{"id": 43, "text": "1 2 3", "descriptions": ["C. Howes F. A. M. U.", "John A. Walton", "E. A. Nnenji"], "parentId": 42, "subLabels": [{"id": 44, "text": "4", "descriptions": ["H. C. Kazanas,", "Roy S. Klein and John R. Lindbeck."], "parentId": 43, "subLabels": []}]}, {"id": 45, "text": "5 6 7 8 9 10 11", "descriptions": ["Henry Sisk", "Koontz and O\u2019Donald", "William F. Tierney", "Argent Jeanne", "Groneman, Christ H.", "Tinelife Books", "Tavntone books"], "parentId": 42, "subLabels": []}]}], "labels": []}
+{
+ "subject": "Upholstery",
+ "Grade": "None",
+ "Curriculum": "NERDC",
+ "labelsTree": [
+  {
+   "id": 2,
+   "text": "Detailed syllabus",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 3,
+     "text": "1 2 3 4 4 5 6 7 8 9",
+     "descriptions": [
+      "Introduction to upholstery.",
+      "Upholstery workshop safety.",
+      "Upholstery tools and machines.",
+      "Upholstery materials.",
+      "Upholstery materials.",
+      "Upholstery design and drawing.",
+      "Upholstery construction and repair.",
+      "Maintenance and repair of upholstery tools and machines.",
+      "Upholstery workshop management.",
+      "Introduction to entrepreneurship."
+     ],
+     "parentId": 2,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "text": "Tools, equipment and machines",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 5,
+     "text": "Hand tools equipment",
+     "descriptions": [],
+     "parentId": 4,
+     "subLabels": [
+      {
+       "id": 6,
+       "text": "1. hammers (30 n o ) drawing sets",
+       "descriptions": [
+        "(30 No) \u201c \u201c"
+       ],
+       "parentId": 5,
+       "subLabels": []
+      },
+      {
+       "id": 7,
+       "text": "2. pair of pincer (30 n o ) tee squares",
+       "descriptions": [],
+       "parentId": 5,
+       "subLabels": []
+      },
+      {
+       "id": 8,
+       "text": "3. pair of scissors (225 mm) (30 n o ) drawing boards",
+       "descriptions": [],
+       "parentId": 5,
+       "subLabels": []
+      },
+      {
+       "id": 9,
+       "text": "4. needles (30 n o ) set squares \u201c",
+       "descriptions": [],
+       "parentId": 5,
+       "subLabels": []
+      },
+      {
+       "id": 10,
+       "text": "5. staplers (30 n o ) drawing curves              \u201c",
+       "descriptions": [],
+       "parentId": 5,
+       "subLabels": []
+      },
+      {
+       "id": 11,
+       "text": "6. ripping tools (30 n o ) mechanical sharpeners  \u201c",
+       "descriptions": [],
+       "parentId": 5,
+       "subLabels": []
+      },
+      {
+       "id": 12,
+       "text": "7. webbing stretchers (30 n o ) drawing templates        \u201c",
+       "descriptions": [],
+       "parentId": 5,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 13,
+     "text": "Power tools",
+     "descriptions": [],
+     "parentId": 4,
+     "subLabels": [
+      {
+       "id": 14,
+       "text": "1. jig saws. (5 no.)",
+       "descriptions": [],
+       "parentId": 13,
+       "subLabels": []
+      },
+      {
+       "id": 15,
+       "text": "2. electric staplers. \u201c",
+       "descriptions": [],
+       "parentId": 13,
+       "subLabels": []
+      },
+      {
+       "id": 16,
+       "text": "3. glue guns. \u201c",
+       "descriptions": [],
+       "parentId": 13,
+       "subLabels": []
+      },
+      {
+       "id": 17,
+       "text": "4. electric cutters. \u201c",
+       "descriptions": [],
+       "parentId": 13,
+       "subLabels": []
+      },
+      {
+       "id": 18,
+       "text": "5. power screw drivers. \u201c",
+       "descriptions": [],
+       "parentId": 13,
+       "subLabels": []
+      },
+      {
+       "id": 19,
+       "text": "6. pressing irons. \u201c",
+       "descriptions": [],
+       "parentId": 13,
+       "subLabels": []
+      },
+      {
+       "id": 20,
+       "text": "7. drills. \u201c",
+       "descriptions": [],
+       "parentId": 13,
+       "subLabels": []
+      },
+      {
+       "id": 21,
+       "text": "8. routers",
+       "descriptions": [],
+       "parentId": 13,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 22,
+     "text": "Machines",
+     "descriptions": [],
+     "parentId": 4,
+     "subLabels": [
+      {
+       "id": 23,
+       "text": "1. manual sewing machines (5 n o )",
+       "descriptions": [],
+       "parentId": 22,
+       "subLabels": []
+      },
+      {
+       "id": 24,
+       "text": "2. drilling machine (2 n o )",
+       "descriptions": [],
+       "parentId": 22,
+       "subLabels": []
+      },
+      {
+       "id": 25,
+       "text": "3. band saw (2 n o )",
+       "descriptions": [],
+       "parentId": 22,
+       "subLabels": []
+      },
+      {
+       "id": 26,
+       "text": "4. circular saw (2 n o )",
+       "descriptions": [],
+       "parentId": 22,
+       "subLabels": []
+      },
+      {
+       "id": 27,
+       "text": "5. ironing machine (2 n o )",
+       "descriptions": [],
+       "parentId": 22,
+       "subLabels": []
+      },
+      {
+       "id": 28,
+       "text": "6. buttoning machine (5 n o )",
+       "descriptions": [],
+       "parentId": 22,
+       "subLabels": []
+      },
+      {
+       "id": 29,
+       "text": "7. electric sewing machines (2 n o )",
+       "descriptions": [],
+       "parentId": 22,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 30,
+     "text": "List of materials",
+     "descriptions": [],
+     "parentId": 4,
+     "subLabels": [
+      {
+       "id": 31,
+       "text": "1. 450 x380mm latex foam",
+       "descriptions": [],
+       "parentId": 30,
+       "subLabels": []
+      },
+      {
+       "id": 32,
+       "text": "2. 750 x 560 mm soft synthetic leather",
+       "descriptions": [],
+       "parentId": 30,
+       "subLabels": []
+      },
+      {
+       "id": 33,
+       "text": "3. 4000mm 3 cord",
+       "descriptions": [],
+       "parentId": 30,
+       "subLabels": []
+      },
+      {
+       "id": 34,
+       "text": "4. 1 small roll matching colour sewing thread",
+       "descriptions": [],
+       "parentId": 30,
+       "subLabels": []
+      },
+      {
+       "id": 35,
+       "text": "5. 470 x 400mm calico",
+       "descriptions": [],
+       "parentId": 30,
+       "subLabels": []
+      },
+      {
+       "id": 36,
+       "text": "6. 6mm upholstery staples",
+       "descriptions": [],
+       "parentId": 30,
+       "subLabels": []
+      },
+      {
+       "id": 37,
+       "text": "7. 450 x 380mm    18mm plywood",
+       "descriptions": [],
+       "parentId": 30,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 38,
+     "text": "Special tools",
+     "descriptions": [],
+     "parentId": 4,
+     "subLabels": [
+      {
+       "id": 39,
+       "text": "1. manual sewing machine",
+       "descriptions": [],
+       "parentId": 38,
+       "subLabels": []
+      },
+      {
+       "id": 40,
+       "text": "2. portable power drill with appropriate bit",
+       "descriptions": [],
+       "parentId": 38,
+       "subLabels": []
+      },
+      {
+       "id": 41,
+       "text": "3. staple gun",
+       "descriptions": [],
+       "parentId": 38,
+       "subLabels": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 42,
+   "text": "Suggested reading list",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 43,
+     "text": "1 2 3",
+     "descriptions": [
+      "C. Howes F. A. M. U.",
+      "John A. Walton",
+      "E. A. Nnenji"
+     ],
+     "parentId": 42,
+     "subLabels": [
+      {
+       "id": 44,
+       "text": "4",
+       "descriptions": [
+        "H. C. Kazanas,",
+        "Roy S. Klein and John R. Lindbeck."
+       ],
+       "parentId": 43,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 45,
+     "text": "5 6 7 8 9 10 11",
+     "descriptions": [
+      "Henry Sisk",
+      "Koontz and O\u2019Donald",
+      "William F. Tierney",
+      "Argent Jeanne",
+      "Groneman, Christ H.",
+      "Tinelife Books",
+      "Tavntone books"
+     ],
+     "parentId": 42,
+     "subLabels": []
+    }
+   ]
+  }
+ ],
+ "labels": []
+}

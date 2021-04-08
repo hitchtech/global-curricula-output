@@ -1,1 +1,228 @@
-{"subject": "Salesmanship", "Grade": "None", "Curriculum": "NERDC", "labelsTree": [{"id": 14, "text": "Sales forecasting:", "descriptions": null, "parentId": -1, "subLabels": [{"id": 15, "text": "Definition of sales forecast, methods of sales forecasting, uses and users of sales forecasting, advantages and disadvantages of sales forecasting, meaning of market survey, importance of market survey to salesman and producer", "descriptions": ["Definition, Types of advertising Types of advertising media, Advantages and disadvantages Reasons for advertising to the company and the salesman."], "parentId": 14, "subLabels": []}]}], "labels": [{"id": 2, "text": "Detailed syllabus", "descriptions": null, "parentId": -1, "subLabels": [{"id": 3, "text": "1 2 3 4", "descriptions": ["Safety and first aid in the workshop.", "Energy, matter and power.", "(a)    Energy", "(b)    Nature of matter.", "Temperature and pressure.", "(a)    Temperature and          its", "measurement", "Refrigeration and air conditioning systems.", "(a)   Introduction to refrigeration."], "parentId": 2, "subLabels": [{"id": 4, "text": "5", "descriptions": ["Compressors, Condenses and Evaporators", "(a)    Compressors", "(b)    Condensers."], "parentId": 3, "subLabels": []}, {"id": 5, "text": "6", "descriptions": ["Workshop practices.", "(a)    Basic tools used in refrigeration and         air-", "conditioning         workshops", "(b)    Fault diagnosis and trouble shooting."], "parentId": 3, "subLabels": []}]}, {"id": 6, "text": "7", "descriptions": ["Installation processes", "(a)    Piping, Ducting and Trunking", "(b)   Motors and generators", "(c)   Cold room"], "parentId": 2, "subLabels": [{"id": 7, "text": "8", "descriptions": ["Insulation processes Insulation of refrigeration and air-conditioning system."], "parentId": 6, "subLabels": []}, {"id": 8, "text": "9", "descriptions": ["Entrepreneurship.", "(a)    Business concept.", "(b)    Marketing", "(c)    Accounting"], "parentId": 6, "subLabels": []}]}]}, {"id": 3, "text": "1 2 3 4", "descriptions": ["Safety and first aid in the workshop.", "Energy, matter and power.", "(a)    Energy", "(b)    Nature of matter.", "Temperature and pressure.", "(a)    Temperature and          its", "measurement", "Refrigeration and air conditioning systems.", "(a)   Introduction to refrigeration."], "parentId": 2, "subLabels": [{"id": 4, "text": "5", "descriptions": ["Compressors, Condenses and Evaporators", "(a)    Compressors", "(b)    Condensers."], "parentId": 3, "subLabels": []}, {"id": 5, "text": "6", "descriptions": ["Workshop practices.", "(a)    Basic tools used in refrigeration and         air-", "conditioning         workshops", "(b)    Fault diagnosis and trouble shooting."], "parentId": 3, "subLabels": []}]}, {"id": 6, "text": "7", "descriptions": ["Installation processes", "(a)    Piping, Ducting and Trunking", "(b)   Motors and generators", "(c)   Cold room"], "parentId": 2, "subLabels": [{"id": 7, "text": "8", "descriptions": ["Insulation processes Insulation of refrigeration and air-conditioning system."], "parentId": 6, "subLabels": []}, {"id": 8, "text": "9", "descriptions": ["Entrepreneurship.", "(a)    Business concept.", "(b)    Marketing", "(c)    Accounting"], "parentId": 6, "subLabels": []}]}, {"id": 4, "text": "5", "descriptions": ["Compressors, Condenses and Evaporators", "(a)    Compressors", "(b)    Condensers."], "parentId": 3, "subLabels": []}, {"id": 5, "text": "6", "descriptions": ["Workshop practices.", "(a)    Basic tools used in refrigeration and         air-", "conditioning         workshops", "(b)    Fault diagnosis and trouble shooting."], "parentId": 3, "subLabels": []}, {"id": 7, "text": "8", "descriptions": ["Insulation processes Insulation of refrigeration and air-conditioning system."], "parentId": 6, "subLabels": []}, {"id": 8, "text": "9", "descriptions": ["Entrepreneurship.", "(a)    Business concept.", "(b)    Marketing", "(c)    Accounting"], "parentId": 6, "subLabels": []}]}
+{
+ "subject": "Salesmanship",
+ "Grade": "None",
+ "Curriculum": "NERDC",
+ "labelsTree": [
+  {
+   "id": 14,
+   "text": "Sales forecasting:",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 15,
+     "text": "Definition of sales forecast, methods of sales forecasting, uses and users of sales forecasting, advantages and disadvantages of sales forecasting, meaning of market survey, importance of market survey to salesman and producer",
+     "descriptions": [
+      "Definition, Types of advertising Types of advertising media, Advantages and disadvantages Reasons for advertising to the company and the salesman."
+     ],
+     "parentId": 14,
+     "subLabels": []
+    }
+   ]
+  }
+ ],
+ "labels": [
+  {
+   "id": 2,
+   "text": "Detailed syllabus",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 3,
+     "text": "1 2 3 4",
+     "descriptions": [
+      "Safety and first aid in the workshop.",
+      "Energy, matter and power.",
+      "(a)    Energy",
+      "(b)    Nature of matter.",
+      "Temperature and pressure.",
+      "(a)    Temperature and          its",
+      "measurement",
+      "Refrigeration and air conditioning systems.",
+      "(a)   Introduction to refrigeration."
+     ],
+     "parentId": 2,
+     "subLabels": [
+      {
+       "id": 4,
+       "text": "5",
+       "descriptions": [
+        "Compressors, Condenses and Evaporators",
+        "(a)    Compressors",
+        "(b)    Condensers."
+       ],
+       "parentId": 3,
+       "subLabels": []
+      },
+      {
+       "id": 5,
+       "text": "6",
+       "descriptions": [
+        "Workshop practices.",
+        "(a)    Basic tools used in refrigeration and         air-",
+        "conditioning         workshops",
+        "(b)    Fault diagnosis and trouble shooting."
+       ],
+       "parentId": 3,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 6,
+     "text": "7",
+     "descriptions": [
+      "Installation processes",
+      "(a)    Piping, Ducting and Trunking",
+      "(b)   Motors and generators",
+      "(c)   Cold room"
+     ],
+     "parentId": 2,
+     "subLabels": [
+      {
+       "id": 7,
+       "text": "8",
+       "descriptions": [
+        "Insulation processes Insulation of refrigeration and air-conditioning system."
+       ],
+       "parentId": 6,
+       "subLabels": []
+      },
+      {
+       "id": 8,
+       "text": "9",
+       "descriptions": [
+        "Entrepreneurship.",
+        "(a)    Business concept.",
+        "(b)    Marketing",
+        "(c)    Accounting"
+       ],
+       "parentId": 6,
+       "subLabels": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "text": "1 2 3 4",
+   "descriptions": [
+    "Safety and first aid in the workshop.",
+    "Energy, matter and power.",
+    "(a)    Energy",
+    "(b)    Nature of matter.",
+    "Temperature and pressure.",
+    "(a)    Temperature and          its",
+    "measurement",
+    "Refrigeration and air conditioning systems.",
+    "(a)   Introduction to refrigeration."
+   ],
+   "parentId": 2,
+   "subLabels": [
+    {
+     "id": 4,
+     "text": "5",
+     "descriptions": [
+      "Compressors, Condenses and Evaporators",
+      "(a)    Compressors",
+      "(b)    Condensers."
+     ],
+     "parentId": 3,
+     "subLabels": []
+    },
+    {
+     "id": 5,
+     "text": "6",
+     "descriptions": [
+      "Workshop practices.",
+      "(a)    Basic tools used in refrigeration and         air-",
+      "conditioning         workshops",
+      "(b)    Fault diagnosis and trouble shooting."
+     ],
+     "parentId": 3,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "text": "7",
+   "descriptions": [
+    "Installation processes",
+    "(a)    Piping, Ducting and Trunking",
+    "(b)   Motors and generators",
+    "(c)   Cold room"
+   ],
+   "parentId": 2,
+   "subLabels": [
+    {
+     "id": 7,
+     "text": "8",
+     "descriptions": [
+      "Insulation processes Insulation of refrigeration and air-conditioning system."
+     ],
+     "parentId": 6,
+     "subLabels": []
+    },
+    {
+     "id": 8,
+     "text": "9",
+     "descriptions": [
+      "Entrepreneurship.",
+      "(a)    Business concept.",
+      "(b)    Marketing",
+      "(c)    Accounting"
+     ],
+     "parentId": 6,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "text": "5",
+   "descriptions": [
+    "Compressors, Condenses and Evaporators",
+    "(a)    Compressors",
+    "(b)    Condensers."
+   ],
+   "parentId": 3,
+   "subLabels": []
+  },
+  {
+   "id": 5,
+   "text": "6",
+   "descriptions": [
+    "Workshop practices.",
+    "(a)    Basic tools used in refrigeration and         air-",
+    "conditioning         workshops",
+    "(b)    Fault diagnosis and trouble shooting."
+   ],
+   "parentId": 3,
+   "subLabels": []
+  },
+  {
+   "id": 7,
+   "text": "8",
+   "descriptions": [
+    "Insulation processes Insulation of refrigeration and air-conditioning system."
+   ],
+   "parentId": 6,
+   "subLabels": []
+  },
+  {
+   "id": 8,
+   "text": "9",
+   "descriptions": [
+    "Entrepreneurship.",
+    "(a)    Business concept.",
+    "(b)    Marketing",
+    "(c)    Accounting"
+   ],
+   "parentId": 6,
+   "subLabels": []
+  }
+ ]
+}

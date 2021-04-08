@@ -1,1 +1,191 @@
-{"subject": "Computer Studies", "Grade": "None", "Curriculum": "NERDC", "labelsTree": [{"id": 6, "text": "Evolution", "descriptions": null, "parentId": -1, "subLabels": [{"id": 7, "text": "Computing devices i (pre-computing age- 19 th century)", "descriptions": ["Slide Rule ; Napier\u2019s bone; Pascal\u2019s calculator; Leibnitz multiplier; Jacquad loom; Charles Babbage\u2019s analytical engine; Hollerith Census Machine; Burrough\u2019s Machine.", "Contribution of each of the founder of these devices to modern computers."], "parentId": 6, "subLabels": []}, {"id": 8, "text": "Computing devices ii (20 th century to date)", "descriptions": ["Features, components and uses of: -ENIAC -EDVAC -UNIVAC 1 -Desktop Personal Computers -Laptop and Notebook computers -Palmtop. - Definition of a Computer; - Two main constituents of a Computer"], "parentId": 6, "subLabels": []}]}, {"id": 10, "text": "Of computing", "descriptions": null, "parentId": -1, "subLabels": [{"id": 11, "text": "Overview of computing system", "descriptions": ["Characteristics of Computers -   Electronic in nature; -   Accuracy; -   Speed; -   Interactive etc. -    Definition and examples of data and information;"], "parentId": 10, "subLabels": []}, {"id": 12, "text": "Data and information", "descriptions": ["Differences between data and information.", "Sources of security breaches:"], "parentId": 10, "subLabels": []}]}, {"id": 14, "text": "Ethics and human issues", "descriptions": null, "parentId": -1, "subLabels": [{"id": 15, "text": "Security and ethics", "descriptions": ["Virus, worms and Trojan horses; Poor implementation of network; Poor implementation or lack of ICT policies; Carelessness- giving out personal and vital information on the net without careful screening. Hackers, spammers etc. input devices"], "parentId": 14, "subLabels": []}]}, {"id": 17, "text": "Hardware", "descriptions": null, "parentId": -1, "subLabels": [{"id": 18, "text": "Input devices", "descriptions": [], "parentId": 17, "subLabels": []}, {"id": 19, "text": "Output devices", "descriptions": [], "parentId": 17, "subLabels": []}]}, {"id": 21, "text": "Software", "descriptions": null, "parentId": -1, "subLabels": [{"id": 22, "text": "System software", "descriptions": [], "parentId": 21, "subLabels": []}]}, {"id": 24, "text": "Application", "descriptions": null, "parentId": -1, "subLabels": [{"id": 25, "text": "Word processing", "descriptions": [], "parentId": 24, "subLabels": []}]}, {"id": 27, "text": "Computer files", "descriptions": null, "parentId": -1, "subLabels": [{"id": 28, "text": "Concept of computer files", "descriptions": [], "parentId": 27, "subLabels": []}]}, {"id": 30, "text": "Operations", "descriptions": null, "parentId": -1, "subLabels": [{"id": 31, "text": "Booting and shutting down process", "descriptions": [], "parentId": 30, "subLabels": []}]}, {"id": 34, "text": "Technology(ict)", "descriptions": null, "parentId": -1, "subLabels": [{"id": 35, "text": "Communication systems", "descriptions": [], "parentId": 34, "subLabels": []}]}, {"id": 38, "text": "Solving skills", "descriptions": null, "parentId": -1, "subLabels": [{"id": 39, "text": "Programming language(pl)", "descriptions": [], "parentId": 38, "subLabels": []}]}], "labels": []}
+{
+ "subject": "Computer Studies",
+ "Grade": "None",
+ "Curriculum": "NERDC",
+ "labelsTree": [
+  {
+   "id": 6,
+   "text": "Evolution",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 7,
+     "text": "Computing devices i (pre-computing age- 19 th century)",
+     "descriptions": [
+      "Slide Rule ; Napier\u2019s bone; Pascal\u2019s calculator; Leibnitz multiplier; Jacquad loom; Charles Babbage\u2019s analytical engine; Hollerith Census Machine; Burrough\u2019s Machine.",
+      "Contribution of each of the founder of these devices to modern computers."
+     ],
+     "parentId": 6,
+     "subLabels": []
+    },
+    {
+     "id": 8,
+     "text": "Computing devices ii (20 th century to date)",
+     "descriptions": [
+      "Features, components and uses of: -ENIAC -EDVAC -UNIVAC 1 -Desktop Personal Computers -Laptop and Notebook computers -Palmtop. - Definition of a Computer; - Two main constituents of a Computer"
+     ],
+     "parentId": 6,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "text": "Of computing",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 11,
+     "text": "Overview of computing system",
+     "descriptions": [
+      "Characteristics of Computers -   Electronic in nature; -   Accuracy; -   Speed; -   Interactive etc. -    Definition and examples of data and information;"
+     ],
+     "parentId": 10,
+     "subLabels": []
+    },
+    {
+     "id": 12,
+     "text": "Data and information",
+     "descriptions": [
+      "Differences between data and information.",
+      "Sources of security breaches:"
+     ],
+     "parentId": 10,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "text": "Ethics and human issues",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 15,
+     "text": "Security and ethics",
+     "descriptions": [
+      "Virus, worms and Trojan horses; Poor implementation of network; Poor implementation or lack of ICT policies; Carelessness- giving out personal and vital information on the net without careful screening. Hackers, spammers etc. input devices"
+     ],
+     "parentId": 14,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "text": "Hardware",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 18,
+     "text": "Input devices",
+     "descriptions": [],
+     "parentId": 17,
+     "subLabels": []
+    },
+    {
+     "id": 19,
+     "text": "Output devices",
+     "descriptions": [],
+     "parentId": 17,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "text": "Software",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 22,
+     "text": "System software",
+     "descriptions": [],
+     "parentId": 21,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "text": "Application",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 25,
+     "text": "Word processing",
+     "descriptions": [],
+     "parentId": 24,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "text": "Computer files",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 28,
+     "text": "Concept of computer files",
+     "descriptions": [],
+     "parentId": 27,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 30,
+   "text": "Operations",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 31,
+     "text": "Booting and shutting down process",
+     "descriptions": [],
+     "parentId": 30,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 34,
+   "text": "Technology(ict)",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 35,
+     "text": "Communication systems",
+     "descriptions": [],
+     "parentId": 34,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 38,
+   "text": "Solving skills",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 39,
+     "text": "Programming language(pl)",
+     "descriptions": [],
+     "parentId": 38,
+     "subLabels": []
+    }
+   ]
+  }
+ ],
+ "labels": []
+}

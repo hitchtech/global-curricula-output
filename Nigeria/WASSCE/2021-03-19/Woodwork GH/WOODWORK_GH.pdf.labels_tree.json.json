@@ -1,1 +1,1885 @@
-{"subject": "Woodwork GH", "Grade": "None", "Curriculum": "NERDC", "labelsTree": [{"id": 8, "text": "Machines", "descriptions": null, "parentId": -1, "subLabels": [{"id": 9, "text": "3.1  types of machines", "descriptions": ["Identification, functions of parts, uses listed machines:"], "parentId": 8, "subLabels": []}, {"id": 10, "text": "Safety precautions relating to the", "descriptions": ["(a) Grinding wheel.", "(b)   Circular saw bench, cross-cut", "saw, bandsaw, dimension saw.", "(c)   Surfacer or jointer, thicknesser.", "(d)   Chain, chisels, horizontal borer.", "(e)   Lathe, spindle moudler, drum sander, jig saw, router.", "(f)   Drilling machine."], "parentId": 8, "subLabels": [{"id": 11, "text": "3.2  safety aids uses of guards, jigs, fences, push", "descriptions": ["sticks, push blocks, and structure."], "parentId": 10, "subLabels": []}]}, {"id": 12, "text": "Gauges", "descriptions": [], "parentId": 8, "subLabels": [{"id": 13, "text": "4. materials", "descriptions": [], "parentId": 12, "subLabels": []}, {"id": 14, "text": "4.1  timber", "descriptions": [], "parentId": 12, "subLabels": []}, {"id": 15, "text": "4.1.1  classification (i) hardwoods and softwoods", "descriptions": [], "parentId": 12, "subLabels": [{"id": 16, "text": "(ii)   differences between hardwoods", "descriptions": [], "parentId": 15, "subLabels": []}]}, {"id": 17, "text": "4.1.2  parts of a tree (i)   identification and functions of the parts of a growing treee, i.e roots, trunk and crown", "descriptions": [], "parentId": 12, "subLabels": [{"id": 18, "text": "(ii)   identification and functions of the cross-sectional parts of a tree, i.e bark, bast, cambium layer, annual/growth rings, medullary rays, sapwood, heartwood and pith", "descriptions": [], "parentId": 17, "subLabels": []}, {"id": 19, "text": "(iii) effects of the characteristics of the cross-sectional parts of a tree on timber for woodwork", "descriptions": [], "parentId": 17, "subLabels": []}]}, {"id": 20, "text": "4.1.3  surface quality of timber identification of timber by the following characteristics", "descriptions": [], "parentId": 12, "subLabels": [{"id": 21, "text": "(i) grain (i.e straight, inter-lock, wavy, diagonal, etc.)", "descriptions": [], "parentId": 20, "subLabels": []}, {"id": 22, "text": "(ii)   texture", "descriptions": [], "parentId": 20, "subLabels": []}, {"id": 23, "text": "(iii) figure", "descriptions": [], "parentId": 20, "subLabels": []}, {"id": 24, "text": "(iv) colour", "descriptions": [], "parentId": 20, "subLabels": []}]}, {"id": 25, "text": "4.1.4  mechanic definition of the following properties: properties hardness, strength (i.e tensile, compressive and shear), elasticity, toughness", "descriptions": [], "parentId": 12, "subLabels": []}, {"id": 26, "text": "4.1.5.  conversion of timber description and sketching of the following methods of conversion", "descriptions": [], "parentId": 12, "subLabels": [{"id": 27, "text": "(i)   plain/through and through/live sawing", "descriptions": [], "parentId": 26, "subLabels": []}, {"id": 28, "text": "(ii)   tangential/back/flat/rake sawing", "descriptions": [], "parentId": 26, "subLabels": []}, {"id": 29, "text": "(iii) quarter/radial/rift sawing", "descriptions": [], "parentId": 26, "subLabels": []}, {"id": 30, "text": "(iv) boxed-heart sawing", "descriptions": [], "parentId": 26, "subLabels": []}]}, {"id": 31, "text": "4.1.6  marketable size identification and sketching of the following marketable sizes", "descriptions": [], "parentId": 12, "subLabels": [{"id": 32, "text": "Log, baulk, plank, strip, batten, square, scantling, flitch, board", "descriptions": [], "parentId": 31, "subLabels": []}]}, {"id": 33, "text": "4.1.7  seasoning description of the following methods of seasoning", "descriptions": [], "parentId": 12, "subLabels": [{"id": 34, "text": "(i)   natural or open air seasoning", "descriptions": [], "parentId": 33, "subLabels": []}, {"id": 35, "text": "(ii)   artificial or kiln seasoning", "descriptions": [], "parentId": 33, "subLabels": []}, {"id": 36, "text": "(iii) water seasoning", "descriptions": [], "parentId": 33, "subLabels": []}, {"id": 37, "text": "(iv) chemical seasoning", "descriptions": [], "parentId": 33, "subLabels": []}]}, {"id": 38, "text": "4.1.8  determination of  moisture description of the following methods content of determining moisture content", "descriptions": [], "parentId": 12, "subLabels": [{"id": 39, "text": "(i)   oven dry method", "descriptions": [], "parentId": 38, "subLabels": []}, {"id": 40, "text": "(ii)   moisture meter method", "descriptions": [], "parentId": 38, "subLabels": []}]}, {"id": 41, "text": "4.1.9  wood preservation (i)  reasons for preserving timber", "descriptions": [], "parentId": 12, "subLabels": []}, {"id": 42, "text": "(ii)  types of preservatives - tar oil", "descriptions": [], "parentId": 12, "subLabels": []}]}, {"id": 43, "text": "Water borne, organic solvent", "descriptions": [], "parentId": 8, "subLabels": [{"id": 44, "text": "(iii) qualities of an ideal preservative", "descriptions": [], "parentId": 43, "subLabels": []}, {"id": 45, "text": "(iv) method of application", "descriptions": [], "parentId": 43, "subLabels": [{"id": 46, "text": "(i)  pressure treatment (i.e full cell and empty cell)", "descriptions": [], "parentId": 45, "subLabels": []}, {"id": 47, "text": "(ii)  non-pressure treatment (i.e spraying, impregnation, brushing, dippipng, hot and cold treatment, steeping)", "descriptions": [], "parentId": 45, "subLabels": []}]}, {"id": 48, "text": "4.1.10  defects in timber identification, causes and sketching of the following types of defect in timber", "descriptions": [], "parentId": 43, "subLabels": [{"id": 49, "text": "(i)   natural defects, e.g. knots, burr, grains", "descriptions": [], "parentId": 48, "subLabels": []}, {"id": 50, "text": "(ii)  defects caused by organisms, e.g rots, bores", "descriptions": [], "parentId": 48, "subLabels": []}, {"id": 51, "text": "(iii)  wood processing defect, e.g. diagonal grain, upset, compression shakes", "descriptions": [], "parentId": 48, "subLabels": []}, {"id": 52, "text": "(iv)  seasoning defects, e.g splits, warp, shakes, honey combing, case hardening", "descriptions": [], "parentId": 48, "subLabels": []}]}, {"id": 53, "text": "4.1.11  west african timber (i)         characteristics, similarities and differences, uses and working qualities of the following west", "descriptions": [], "parentId": 43, "subLabels": [{"id": 54, "text": "African timbers", "descriptions": [], "parentId": 53, "subLabels": []}, {"id": 55, "text": "Iroko (odum), abura, mahogany, obeche (wawa), walnut, afara, ebony, danta, emery", "descriptions": [], "parentId": 53, "subLabels": []}]}]}, {"id": 56, "text": "Shedua, mansonia, afromosia (kokrodua), avodire, kusia", "descriptions": [], "parentId": 8, "subLabels": [{"id": 57, "text": "(ii)   effects of depletion of timber species", "descriptions": [], "parentId": 56, "subLabels": []}, {"id": 58, "text": "4.1.12  veneers identification, description and sketching of the following", "descriptions": [], "parentId": 56, "subLabels": [{"id": 59, "text": "(i)  methods of production, i.e rotary, slicing, sawing", "descriptions": [], "parentId": 58, "subLabels": []}, {"id": 60, "text": "(ii)types of veneers, i.e face, core and back veneers", "descriptions": [], "parentId": 58, "subLabels": []}]}, {"id": 61, "text": "4.1.13  manufactured  boards identification, description, uses and sketching", "descriptions": [], "parentId": 56, "subLabels": []}]}, {"id": 62, "text": "Of: plywood, blockboard, laminboard, chipboard, particle board, batten board, hardboard, fibre board", "descriptions": [], "parentId": 8, "subLabels": [{"id": 63, "text": "4.2  surface decoration identification and sketching of tools: identification and description of the following", "descriptions": [], "parentId": 62, "subLabels": []}]}, {"id": 64, "text": "Methods of surface decoration: inlaying, veneering (hammer and caul, marquetry, laminated plastics, edging (i.e solid wood, plastics, metals, veneer), mouldings (i.e round, ovolo, reeding, carvetto/hollow, cyma recta/ogee, cyma reversa, scotia, bead, fluting), incised and relief carving", "descriptions": [], "parentId": 8, "subLabels": [{"id": 65, "text": "4.3  non-wood material", "descriptions": [], "parentId": 64, "subLabels": []}, {"id": 66, "text": "4.3.1  metals (i)  classification: ferrous and non-ferrous", "descriptions": [], "parentId": 64, "subLabels": [{"id": 67, "text": "(ii)  types of ferrous metals: low carbon steel", "descriptions": [], "parentId": 66, "subLabels": []}]}]}, {"id": 68, "text": "Dead/mild steel", "descriptions": [], "parentId": 8, "subLabels": [{"id": 69, "text": "(iii)  types of non-ferrous metals", "descriptions": [], "parentId": 68, "subLabels": []}, {"id": 70, "text": "Aluminium, lead, copper, tin", "descriptions": [], "parentId": 68, "subLabels": []}, {"id": 71, "text": "(iv)  physical properties of metals", "descriptions": [], "parentId": 68, "subLabels": []}]}, {"id": 72, "text": "Hardness/softness", "descriptions": [], "parentId": 8, "subLabels": [{"id": 73, "text": "(v)  basic chemical characteristics of different metals", "descriptions": [], "parentId": 72, "subLabels": []}, {"id": 74, "text": "4.3.2  nails identification, description, uses and sketching", "descriptions": [], "parentId": 72, "subLabels": []}]}, {"id": 75, "text": "Of:  french or wire nails; oval wire nails; lost-head nails; panel pin; veneer pin; cut tack; upholstery nails; roofing nails", "descriptions": [], "parentId": 8, "subLabels": [{"id": 76, "text": "4.3.3  screws identification, description, uses and sketching", "descriptions": [], "parentId": 75, "subLabels": []}]}, {"id": 77, "text": "Of: countersunk head; raised head; round head; philip\u2019s head; coach screws", "descriptions": [], "parentId": 8, "subLabels": [{"id": 78, "text": "4.3.4  plastics (i)  types - thermosetting and thermoplastics", "descriptions": [], "parentId": 77, "subLabels": [{"id": 79, "text": "(ii)  differences between the types and their common properties", "descriptions": [], "parentId": 78, "subLabels": []}, {"id": 80, "text": "(iii)  items made from the two types of  plastics", "descriptions": [], "parentId": 78, "subLabels": []}, {"id": 81, "text": "(iv)  uses of plastics", "descriptions": [], "parentId": 78, "subLabels": []}]}, {"id": 82, "text": "4.3.5  glass identification and uses of:  opaque", "descriptions": [], "parentId": 77, "subLabels": []}]}, {"id": 83, "text": "Transparent and decorative glasses", "descriptions": [], "parentId": 8, "subLabels": [{"id": 84, "text": "4.3.6  leather (i)  types - natural and artificial", "descriptions": [], "parentId": 83, "subLabels": [{"id": 85, "text": "(ii)  differences between the types", "descriptions": [], "parentId": 84, "subLabels": []}, {"id": 86, "text": "(iii)  uses of leather, e.g furniture, belts, bags", "descriptions": [], "parentId": 84, "subLabels": []}]}, {"id": 87, "text": "4.3.7  abrasives identification, uses and description of process of manufacture of glass paper", "descriptions": [], "parentId": 83, "subLabels": []}]}, {"id": 88, "text": "And garnet paper", "descriptions": [], "parentId": 8, "subLabels": [{"id": 89, "text": "4.3.8  fittings identification, description, uses and sketching", "descriptions": [], "parentId": 88, "subLabels": []}]}, {"id": 90, "text": "Of:  locks; hinges; bolts; catches; castors; stays", "descriptions": [], "parentId": 8, "subLabels": [{"id": 91, "text": "4.3.9  adhesives identification, characteristics, preparation and application, uses, safety precaution", "descriptions": [], "parentId": 90, "subLabels": []}]}, {"id": 92, "text": "During application of", "descriptions": [], "parentId": 8, "subLabels": [{"id": 93, "text": "(i)  protein:  animal, casein", "descriptions": [], "parentId": 92, "subLabels": []}, {"id": 94, "text": "(ii)  synthetic: urea, phenol, melamine formaldehydes", "descriptions": [], "parentId": 92, "subLabels": []}, {"id": 95, "text": "(iii)  contact:  rubber based (evostick)", "descriptions": [], "parentId": 92, "subLabels": []}, {"id": 96, "text": "5. surface", "descriptions": [], "parentId": 92, "subLabels": []}]}, {"id": 97, "text": "Preparation (a)  description of process, tools and materials requried for various surface preparation: planing, scraping, sanding,  filling, staining, bleaching, spraying and polishing", "descriptions": [], "parentId": 8, "subLabels": [{"id": 98, "text": "6. finishes types, characteristics, uses, methods application, safety precautions in the use of the following:", "descriptions": [], "parentId": 97, "subLabels": [{"id": 99, "text": "Paints, vanishes, lacquers, polishes, laminated", "descriptions": [], "parentId": 98, "subLabels": []}]}]}, {"id": 100, "text": "Plastics", "descriptions": [], "parentId": 8, "subLabels": [{"id": 101, "text": "7. methods  of types and description of methods", "descriptions": [], "parentId": 100, "subLabels": []}]}, {"id": 102, "text": "Shaping  and (i)  obtaining sawn shapes from solid bending  wood wood", "descriptions": [], "parentId": 8, "subLabels": [{"id": 103, "text": "(ii)  shaping by lamination", "descriptions": [], "parentId": 102, "subLabels": []}, {"id": 104, "text": "(iii)  shaping by curved bending", "descriptions": [], "parentId": 102, "subLabels": []}, {"id": 105, "text": "8. woodwork  joints classification, uses and sketching of the", "descriptions": [], "parentId": 102, "subLabels": []}]}, {"id": 106, "text": "Following:", "descriptions": [], "parentId": 8, "subLabels": [{"id": 107, "text": "(a)  angle joints - mortice and tenon, dowel", "descriptions": [], "parentId": 106, "subLabels": []}]}, {"id": 108, "text": "Dovetails, housing, halving, comb, plain mitre", "descriptions": [], "parentId": 8, "subLabels": [{"id": 109, "text": "(b)  widening joints - dowel, tongue and groove", "descriptions": [], "parentId": 108, "subLabels": []}]}, {"id": 110, "text": "Loose tongue, rebated butt, slot screw, plain butt", "descriptions": [], "parentId": 8, "subLabels": [{"id": 111, "text": "(c)   framing joints:- mortice and tenon, bridle, mitre", "descriptions": [], "parentId": 110, "subLabels": []}]}, {"id": 112, "text": "Dowelled, halving", "descriptions": [], "parentId": 8, "subLabels": [{"id": 113, "text": "9. upholstery (a)  tools", "descriptions": [], "parentId": 112, "subLabels": [{"id": 114, "text": "Identification, uses and sketching of the following:- tack hammer, strainer, curved and straight needle, tack", "descriptions": [], "parentId": 113, "subLabels": []}]}]}, {"id": 115, "text": "Remover, stapler, sewing machine, webbing stretcher, ripping chisel", "descriptions": [], "parentId": 8, "subLabels": [{"id": 116, "text": "(b)  materials", "descriptions": [], "parentId": 115, "subLabels": [{"id": 117, "text": "Types, differences and uses of the following:", "descriptions": [], "parentId": 116, "subLabels": []}, {"id": 118, "text": "(i)       webbing - twine or cord, thread, spring, jute", "descriptions": [], "parentId": 116, "subLabels": []}]}]}, {"id": 119, "text": "Hesian or baft", "descriptions": [], "parentId": 8, "subLabels": [{"id": 120, "text": "(ii)       padding - foam, kapok, feathers, coconut fibres", "descriptions": [], "parentId": 119, "subLabels": []}, {"id": 121, "text": "(iii)      covering - fabric, natural and artificial leathers", "descriptions": [], "parentId": 119, "subLabels": []}, {"id": 122, "text": "(iv)      tacking - stud, tack nails", "descriptions": [], "parentId": 119, "subLabels": []}, {"id": 123, "text": "(c)  (i)      upholstery parts - frame, platform", "descriptions": [], "parentId": 119, "subLabels": []}]}, {"id": 124, "text": "Studding/padding, covering", "descriptions": [], "parentId": 8, "subLabels": [{"id": 125, "text": "(ii)     types of platform (fixed and loose) and their uses", "descriptions": [], "parentId": 124, "subLabels": []}, {"id": 126, "text": "10. design andmaking (a)  factors affecting design - fitness for purpose, proportion, material, construction, finishing, cost", "descriptions": [], "parentId": 124, "subLabels": [{"id": 127, "text": "(b)  (i)   problem identification and writing of brief", "descriptions": [], "parentId": 126, "subLabels": []}, {"id": 128, "text": "(ii)  stating conditions and constraints relating to suggested solution", "descriptions": [], "parentId": 126, "subLabels": []}, {"id": 129, "text": "(iii) writing of specifications (i.e function, materials, construction, cost, ergonomics, aesthetics) for possible solutions", "descriptions": [], "parentId": 126, "subLabels": []}]}, {"id": 130, "text": "(c)  generating solutions", "descriptions": [], "parentId": 124, "subLabels": [{"id": 131, "text": "(i) sources of information to generate ideas", "descriptions": [], "parentId": 130, "subLabels": []}]}]}, {"id": 132, "text": "In solving problems, e.g. research, interviews, observations", "descriptions": [], "parentId": 8, "subLabels": [{"id": 133, "text": "(ii)   preliminary sketches \u2013 freehand sketching of designs", "descriptions": [], "parentId": 132, "subLabels": []}, {"id": 134, "text": "(d)   preparation of solution", "descriptions": [], "parentId": 132, "subLabels": [{"id": 135, "text": "(i)   drawing in isometric view", "descriptions": [], "parentId": 134, "subLabels": []}, {"id": 136, "text": "(ii)   preparation of working drawing in", "descriptions": [], "parentId": 134, "subLabels": []}]}]}, {"id": 137, "text": "First and third angle orthographic projection", "descriptions": [], "parentId": 8, "subLabels": [{"id": 138, "text": "(iii)  preparation of cutting list", "descriptions": [], "parentId": 137, "subLabels": []}, {"id": 139, "text": "(e)   estimation of the cost of materials", "descriptions": [], "parentId": 137, "subLabels": []}, {"id": 140, "text": "(f)   making of the artefact", "descriptions": [], "parentId": 137, "subLabels": [{"id": 141, "text": "(i)   preparation of the materials", "descriptions": [], "parentId": 140, "subLabels": []}, {"id": 142, "text": "(ii)   construction of the artefact", "descriptions": [], "parentId": 140, "subLabels": []}, {"id": 143, "text": "Working drawings should be related to the", "descriptions": [], "parentId": 140, "subLabels": []}]}]}, {"id": 144, "text": "Artefact constructed; -  tools are correctly used; -   appropriate joints are used; -   sequence of operation are followed; -   safety precautions are observed; -  appropriate finishes are  applied", "descriptions": [], "parentId": 8, "subLabels": [{"id": 145, "text": "(g) evaluating the artefact: - the steps are", "descriptions": [], "parentId": 144, "subLabels": [{"id": 146, "text": "(i)    purpose of the artefact", "descriptions": [], "parentId": 145, "subLabels": []}, {"id": 147, "text": "(ii)   specifications of artefact", "descriptions": [], "parentId": 145, "subLabels": []}, {"id": 148, "text": "(iii)  whether the artefact serves the specifications", "descriptions": [], "parentId": 145, "subLabels": []}, {"id": 149, "text": "(iv) strengths and weaknesses of artefact", "descriptions": [], "parentId": 145, "subLabels": []}]}, {"id": 150, "text": "(v)  areas of possible improvement", "descriptions": [], "parentId": 144, "subLabels": []}, {"id": 151, "text": "(vi)  judgment as to whether artefact is excellent, good, satisfactory, poor", "descriptions": [], "parentId": 144, "subLabels": []}, {"id": 152, "text": "11. mensuration (a)  estimation, calculations involving linear, area", "descriptions": [], "parentId": 144, "subLabels": []}]}, {"id": 153, "text": "Volume, percentage", "descriptions": [], "parentId": 8, "subLabels": [{"id": 154, "text": "(b) calculation of unit and total cost of a job", "descriptions": [], "parentId": 153, "subLabels": []}, {"id": 155, "text": "(c)  explanation of the various", "descriptions": [], "parentId": 153, "subLabels": []}]}, {"id": 156, "text": "Elements involved in costing of a job; i.e materials, labour, overhead expenses, packaging, portage, sales expenses, advertising, net profit, tax", "descriptions": [], "parentId": 8, "subLabels": [{"id": 157, "text": "12. wood turning (a)  the lathe \u2013 identification and function of parts and accessories: bed, stands, headstock, tailstock, tool rest", "descriptions": [], "parentId": 156, "subLabels": []}]}, {"id": 158, "text": "Centres,face plates", "descriptions": [], "parentId": 8, "subLabels": [{"id": 159, "text": "(b) wood turning tools: identification", "descriptions": [], "parentId": 158, "subLabels": []}]}, {"id": 160, "text": "Uses and sketching of the following", "descriptions": [], "parentId": 8, "subLabels": [{"id": 161, "text": "(i)  scraping tools", "descriptions": [], "parentId": 160, "subLabels": []}, {"id": 162, "text": "(ii)  cutting tools", "descriptions": [], "parentId": 160, "subLabels": []}, {"id": 163, "text": "(c)  (i)  types of turning operations: face plate turning", "descriptions": [], "parentId": 160, "subLabels": []}]}, {"id": 164, "text": "Between                                                                           centres turning, boring", "descriptions": [], "parentId": 8, "subLabels": [{"id": 165, "text": "(ii)   articles produced from turning operations: flower vase, cup, egg holder, bowl, candle", "descriptions": [], "parentId": 164, "subLabels": []}]}, {"id": 166, "text": "Holder, decorative mouldings, police baton, rolling pin, table legs", "descriptions": [], "parentId": 8, "subLabels": [{"id": 167, "text": "13. mass   production explanation of stages in mass production", "descriptions": [], "parentId": 166, "subLabels": [{"id": 168, "text": "(a)  preparation of design and working drawings", "descriptions": [], "parentId": 167, "subLabels": []}, {"id": 169, "text": "(b)  preparation of workshop rod/ setting", "descriptions": [], "parentId": 167, "subLabels": []}]}]}, {"id": 170, "text": "Out", "descriptions": [], "parentId": 8, "subLabels": [{"id": 171, "text": "(c)  making of prototype", "descriptions": [], "parentId": 170, "subLabels": []}, {"id": 172, "text": "(d)  preparation of cutting list", "descriptions": [], "parentId": 170, "subLabels": []}, {"id": 173, "text": "(e)  preparation of materials", "descriptions": [], "parentId": 170, "subLabels": []}, {"id": 174, "text": "(f)  marking out using template", "descriptions": [], "parentId": 170, "subLabels": []}, {"id": 175, "text": "(g)  production of parts \u2013 use of jigs; division of labour", "descriptions": [], "parentId": 170, "subLabels": []}, {"id": 176, "text": "(h)  trial run", "descriptions": [], "parentId": 170, "subLabels": []}, {"id": 177, "text": "(i)  assembly line \u2013 trial assembly and final assembly", "descriptions": [], "parentId": 170, "subLabels": []}, {"id": 178, "text": "(j)  application of finishing", "descriptions": [], "parentId": 170, "subLabels": []}, {"id": 179, "text": "(k)  quality control", "descriptions": [], "parentId": 170, "subLabels": []}]}]}], "labels": [{"id": 4, "text": "Theory and design", "descriptions": null, "parentId": -1, "subLabels": [{"id": 5, "text": "1", "descriptions": ["General Workshop Safety"], "parentId": 4, "subLabels": []}, {"id": 6, "text": "2", "descriptions": ["Hand tools"], "parentId": 4, "subLabels": []}, {"id": 7, "text": "3", "descriptions": ["Special Purpose Hand tools."], "parentId": 4, "subLabels": []}, {"id": 8, "text": "4", "descriptions": ["Portable Power tools."], "parentId": 4, "subLabels": []}, {"id": 9, "text": "5", "descriptions": ["Woodworking machines."], "parentId": 4, "subLabels": []}, {"id": 10, "text": "6", "descriptions": ["Maintenance"], "parentId": 4, "subLabels": []}, {"id": 11, "text": "7", "descriptions": ["West African Timbers in common use."], "parentId": 4, "subLabels": []}, {"id": 12, "text": "8", "descriptions": ["Timber Conversion"], "parentId": 4, "subLabels": []}, {"id": 13, "text": "9", "descriptions": ["Timber seasoning"], "parentId": 4, "subLabels": []}, {"id": 14, "text": "10", "descriptions": ["Timber defects"], "parentId": 4, "subLabels": []}, {"id": 15, "text": "11", "descriptions": ["Timber preservation"], "parentId": 4, "subLabels": []}, {"id": 16, "text": "12", "descriptions": ["Manufactured boards"], "parentId": 4, "subLabels": []}, {"id": 17, "text": "13", "descriptions": ["Timber Preparation"], "parentId": 4, "subLabels": []}, {"id": 18, "text": "14", "descriptions": ["Woodwork joints"], "parentId": 4, "subLabels": []}, {"id": 19, "text": "15", "descriptions": ["Wood finishes and finishing."], "parentId": 4, "subLabels": []}, {"id": 20, "text": "16", "descriptions": ["Wood abrasives"], "parentId": 4, "subLabels": []}, {"id": 21, "text": "17", "descriptions": ["Wood adhesives"], "parentId": 4, "subLabels": []}, {"id": 22, "text": "18", "descriptions": ["Wood fittings and fasteners"], "parentId": 4, "subLabels": []}, {"id": 23, "text": "19", "descriptions": ["Non-wood materials"], "parentId": 4, "subLabels": []}, {"id": 24, "text": "20", "descriptions": ["Veneers and Veneering"], "parentId": 4, "subLabels": []}, {"id": 25, "text": "20", "descriptions": ["Veneers and Veneering"], "parentId": 4, "subLabels": []}, {"id": 26, "text": "21", "descriptions": ["Wood shaping and bending."], "parentId": 4, "subLabels": []}, {"id": 27, "text": "22", "descriptions": ["Design and Drawing"], "parentId": 4, "subLabels": []}, {"id": 28, "text": "23", "descriptions": ["Project Design and Construction."], "parentId": 4, "subLabels": []}, {"id": 29, "text": "24", "descriptions": ["Upholstery"], "parentId": 4, "subLabels": []}, {"id": 30, "text": "25", "descriptions": ["Wood turning"], "parentId": 4, "subLabels": []}, {"id": 31, "text": "26", "descriptions": ["Wood carving and sculpture"], "parentId": 4, "subLabels": []}, {"id": 32, "text": "27", "descriptions": ["Surface Decoration"], "parentId": 4, "subLabels": []}, {"id": 33, "text": "28", "descriptions": ["Mass Production"], "parentId": 4, "subLabels": []}]}, {"id": 38, "text": "Gambia only", "descriptions": null, "parentId": -1, "subLabels": [{"id": 39, "text": "29. entrepreneurship in", "descriptions": ["(a)   Types of business organisation e.g. sole proprietorship, partnership,", "cooperatives etc.", "(b)   Business", "opportunities in", "Woodworking: e.g. merchandizing, spray painting, upholstery work, wood turning."], "parentId": 38, "subLabels": [{"id": 40, "text": "Woodworking", "descriptions": ["(c)    Business plans:", "format and content.", "(d)    Sources of fund e.g. gifts, personal savings,", "loans, inheritance, cooperatives etc."], "parentId": 39, "subLabels": []}]}]}, {"id": 5, "text": "1", "descriptions": ["General Workshop Safety"], "parentId": 4, "subLabels": []}, {"id": 6, "text": "2", "descriptions": ["Hand tools"], "parentId": 4, "subLabels": []}, {"id": 7, "text": "3", "descriptions": ["Special Purpose Hand tools."], "parentId": 4, "subLabels": []}, {"id": 8, "text": "4", "descriptions": ["Portable Power tools."], "parentId": 4, "subLabels": []}, {"id": 9, "text": "5", "descriptions": ["Woodworking machines."], "parentId": 4, "subLabels": []}, {"id": 10, "text": "6", "descriptions": ["Maintenance"], "parentId": 4, "subLabels": []}, {"id": 11, "text": "7", "descriptions": ["West African Timbers in common use."], "parentId": 4, "subLabels": []}, {"id": 12, "text": "8", "descriptions": ["Timber Conversion"], "parentId": 4, "subLabels": []}, {"id": 13, "text": "9", "descriptions": ["Timber seasoning"], "parentId": 4, "subLabels": []}, {"id": 14, "text": "10", "descriptions": ["Timber defects"], "parentId": 4, "subLabels": []}, {"id": 15, "text": "11", "descriptions": ["Timber preservation"], "parentId": 4, "subLabels": []}, {"id": 16, "text": "12", "descriptions": ["Manufactured boards"], "parentId": 4, "subLabels": []}, {"id": 17, "text": "13", "descriptions": ["Timber Preparation"], "parentId": 4, "subLabels": []}, {"id": 18, "text": "14", "descriptions": ["Woodwork joints"], "parentId": 4, "subLabels": []}, {"id": 19, "text": "15", "descriptions": ["Wood finishes and finishing."], "parentId": 4, "subLabels": []}, {"id": 20, "text": "16", "descriptions": ["Wood abrasives"], "parentId": 4, "subLabels": []}, {"id": 21, "text": "17", "descriptions": ["Wood adhesives"], "parentId": 4, "subLabels": []}, {"id": 22, "text": "18", "descriptions": ["Wood fittings and fasteners"], "parentId": 4, "subLabels": []}, {"id": 23, "text": "19", "descriptions": ["Non-wood materials"], "parentId": 4, "subLabels": []}, {"id": 24, "text": "20", "descriptions": ["Veneers and Veneering"], "parentId": 4, "subLabels": []}, {"id": 25, "text": "20", "descriptions": ["Veneers and Veneering"], "parentId": 4, "subLabels": []}, {"id": 26, "text": "21", "descriptions": ["Wood shaping and bending."], "parentId": 4, "subLabels": []}, {"id": 27, "text": "22", "descriptions": ["Design and Drawing"], "parentId": 4, "subLabels": []}, {"id": 28, "text": "23", "descriptions": ["Project Design and Construction."], "parentId": 4, "subLabels": []}, {"id": 29, "text": "24", "descriptions": ["Upholstery"], "parentId": 4, "subLabels": []}, {"id": 30, "text": "25", "descriptions": ["Wood turning"], "parentId": 4, "subLabels": []}, {"id": 31, "text": "26", "descriptions": ["Wood carving and sculpture"], "parentId": 4, "subLabels": []}, {"id": 32, "text": "27", "descriptions": ["Surface Decoration"], "parentId": 4, "subLabels": []}, {"id": 33, "text": "28", "descriptions": ["Mass Production"], "parentId": 4, "subLabels": []}, {"id": 39, "text": "29. entrepreneurship in", "descriptions": ["(a)   Types of business organisation e.g. sole proprietorship, partnership,", "cooperatives etc.", "(b)   Business", "opportunities in", "Woodworking: e.g. merchandizing, spray painting, upholstery work, wood turning."], "parentId": 38, "subLabels": [{"id": 40, "text": "Woodworking", "descriptions": ["(c)    Business plans:", "format and content.", "(d)    Sources of fund e.g. gifts, personal savings,", "loans, inheritance, cooperatives etc."], "parentId": 39, "subLabels": []}]}, {"id": 40, "text": "Woodworking", "descriptions": ["(c)    Business plans:", "format and content.", "(d)    Sources of fund e.g. gifts, personal savings,", "loans, inheritance, cooperatives etc."], "parentId": 39, "subLabels": []}]}
+{
+ "subject": "Woodwork GH",
+ "Grade": "None",
+ "Curriculum": "NERDC",
+ "labelsTree": [
+  {
+   "id": 8,
+   "text": "Machines",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 9,
+     "text": "3.1  types of machines",
+     "descriptions": [
+      "Identification, functions of parts, uses listed machines:"
+     ],
+     "parentId": 8,
+     "subLabels": []
+    },
+    {
+     "id": 10,
+     "text": "Safety precautions relating to the",
+     "descriptions": [
+      "(a) Grinding wheel.",
+      "(b)   Circular saw bench, cross-cut",
+      "saw, bandsaw, dimension saw.",
+      "(c)   Surfacer or jointer, thicknesser.",
+      "(d)   Chain, chisels, horizontal borer.",
+      "(e)   Lathe, spindle moudler, drum sander, jig saw, router.",
+      "(f)   Drilling machine."
+     ],
+     "parentId": 8,
+     "subLabels": [
+      {
+       "id": 11,
+       "text": "3.2  safety aids uses of guards, jigs, fences, push",
+       "descriptions": [
+        "sticks, push blocks, and structure."
+       ],
+       "parentId": 10,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 12,
+     "text": "Gauges",
+     "descriptions": [],
+     "parentId": 8,
+     "subLabels": [
+      {
+       "id": 13,
+       "text": "4. materials",
+       "descriptions": [],
+       "parentId": 12,
+       "subLabels": []
+      },
+      {
+       "id": 14,
+       "text": "4.1  timber",
+       "descriptions": [],
+       "parentId": 12,
+       "subLabels": []
+      },
+      {
+       "id": 15,
+       "text": "4.1.1  classification (i) hardwoods and softwoods",
+       "descriptions": [],
+       "parentId": 12,
+       "subLabels": [
+        {
+         "id": 16,
+         "text": "(ii)   differences between hardwoods",
+         "descriptions": [],
+         "parentId": 15,
+         "subLabels": []
+        }
+       ]
+      },
+      {
+       "id": 17,
+       "text": "4.1.2  parts of a tree (i)   identification and functions of the parts of a growing treee, i.e roots, trunk and crown",
+       "descriptions": [],
+       "parentId": 12,
+       "subLabels": [
+        {
+         "id": 18,
+         "text": "(ii)   identification and functions of the cross-sectional parts of a tree, i.e bark, bast, cambium layer, annual/growth rings, medullary rays, sapwood, heartwood and pith",
+         "descriptions": [],
+         "parentId": 17,
+         "subLabels": []
+        },
+        {
+         "id": 19,
+         "text": "(iii) effects of the characteristics of the cross-sectional parts of a tree on timber for woodwork",
+         "descriptions": [],
+         "parentId": 17,
+         "subLabels": []
+        }
+       ]
+      },
+      {
+       "id": 20,
+       "text": "4.1.3  surface quality of timber identification of timber by the following characteristics",
+       "descriptions": [],
+       "parentId": 12,
+       "subLabels": [
+        {
+         "id": 21,
+         "text": "(i) grain (i.e straight, inter-lock, wavy, diagonal, etc.)",
+         "descriptions": [],
+         "parentId": 20,
+         "subLabels": []
+        },
+        {
+         "id": 22,
+         "text": "(ii)   texture",
+         "descriptions": [],
+         "parentId": 20,
+         "subLabels": []
+        },
+        {
+         "id": 23,
+         "text": "(iii) figure",
+         "descriptions": [],
+         "parentId": 20,
+         "subLabels": []
+        },
+        {
+         "id": 24,
+         "text": "(iv) colour",
+         "descriptions": [],
+         "parentId": 20,
+         "subLabels": []
+        }
+       ]
+      },
+      {
+       "id": 25,
+       "text": "4.1.4  mechanic definition of the following properties: properties hardness, strength (i.e tensile, compressive and shear), elasticity, toughness",
+       "descriptions": [],
+       "parentId": 12,
+       "subLabels": []
+      },
+      {
+       "id": 26,
+       "text": "4.1.5.  conversion of timber description and sketching of the following methods of conversion",
+       "descriptions": [],
+       "parentId": 12,
+       "subLabels": [
+        {
+         "id": 27,
+         "text": "(i)   plain/through and through/live sawing",
+         "descriptions": [],
+         "parentId": 26,
+         "subLabels": []
+        },
+        {
+         "id": 28,
+         "text": "(ii)   tangential/back/flat/rake sawing",
+         "descriptions": [],
+         "parentId": 26,
+         "subLabels": []
+        },
+        {
+         "id": 29,
+         "text": "(iii) quarter/radial/rift sawing",
+         "descriptions": [],
+         "parentId": 26,
+         "subLabels": []
+        },
+        {
+         "id": 30,
+         "text": "(iv) boxed-heart sawing",
+         "descriptions": [],
+         "parentId": 26,
+         "subLabels": []
+        }
+       ]
+      },
+      {
+       "id": 31,
+       "text": "4.1.6  marketable size identification and sketching of the following marketable sizes",
+       "descriptions": [],
+       "parentId": 12,
+       "subLabels": [
+        {
+         "id": 32,
+         "text": "Log, baulk, plank, strip, batten, square, scantling, flitch, board",
+         "descriptions": [],
+         "parentId": 31,
+         "subLabels": []
+        }
+       ]
+      },
+      {
+       "id": 33,
+       "text": "4.1.7  seasoning description of the following methods of seasoning",
+       "descriptions": [],
+       "parentId": 12,
+       "subLabels": [
+        {
+         "id": 34,
+         "text": "(i)   natural or open air seasoning",
+         "descriptions": [],
+         "parentId": 33,
+         "subLabels": []
+        },
+        {
+         "id": 35,
+         "text": "(ii)   artificial or kiln seasoning",
+         "descriptions": [],
+         "parentId": 33,
+         "subLabels": []
+        },
+        {
+         "id": 36,
+         "text": "(iii) water seasoning",
+         "descriptions": [],
+         "parentId": 33,
+         "subLabels": []
+        },
+        {
+         "id": 37,
+         "text": "(iv) chemical seasoning",
+         "descriptions": [],
+         "parentId": 33,
+         "subLabels": []
+        }
+       ]
+      },
+      {
+       "id": 38,
+       "text": "4.1.8  determination of  moisture description of the following methods content of determining moisture content",
+       "descriptions": [],
+       "parentId": 12,
+       "subLabels": [
+        {
+         "id": 39,
+         "text": "(i)   oven dry method",
+         "descriptions": [],
+         "parentId": 38,
+         "subLabels": []
+        },
+        {
+         "id": 40,
+         "text": "(ii)   moisture meter method",
+         "descriptions": [],
+         "parentId": 38,
+         "subLabels": []
+        }
+       ]
+      },
+      {
+       "id": 41,
+       "text": "4.1.9  wood preservation (i)  reasons for preserving timber",
+       "descriptions": [],
+       "parentId": 12,
+       "subLabels": []
+      },
+      {
+       "id": 42,
+       "text": "(ii)  types of preservatives - tar oil",
+       "descriptions": [],
+       "parentId": 12,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 43,
+     "text": "Water borne, organic solvent",
+     "descriptions": [],
+     "parentId": 8,
+     "subLabels": [
+      {
+       "id": 44,
+       "text": "(iii) qualities of an ideal preservative",
+       "descriptions": [],
+       "parentId": 43,
+       "subLabels": []
+      },
+      {
+       "id": 45,
+       "text": "(iv) method of application",
+       "descriptions": [],
+       "parentId": 43,
+       "subLabels": [
+        {
+         "id": 46,
+         "text": "(i)  pressure treatment (i.e full cell and empty cell)",
+         "descriptions": [],
+         "parentId": 45,
+         "subLabels": []
+        },
+        {
+         "id": 47,
+         "text": "(ii)  non-pressure treatment (i.e spraying, impregnation, brushing, dippipng, hot and cold treatment, steeping)",
+         "descriptions": [],
+         "parentId": 45,
+         "subLabels": []
+        }
+       ]
+      },
+      {
+       "id": 48,
+       "text": "4.1.10  defects in timber identification, causes and sketching of the following types of defect in timber",
+       "descriptions": [],
+       "parentId": 43,
+       "subLabels": [
+        {
+         "id": 49,
+         "text": "(i)   natural defects, e.g. knots, burr, grains",
+         "descriptions": [],
+         "parentId": 48,
+         "subLabels": []
+        },
+        {
+         "id": 50,
+         "text": "(ii)  defects caused by organisms, e.g rots, bores",
+         "descriptions": [],
+         "parentId": 48,
+         "subLabels": []
+        },
+        {
+         "id": 51,
+         "text": "(iii)  wood processing defect, e.g. diagonal grain, upset, compression shakes",
+         "descriptions": [],
+         "parentId": 48,
+         "subLabels": []
+        },
+        {
+         "id": 52,
+         "text": "(iv)  seasoning defects, e.g splits, warp, shakes, honey combing, case hardening",
+         "descriptions": [],
+         "parentId": 48,
+         "subLabels": []
+        }
+       ]
+      },
+      {
+       "id": 53,
+       "text": "4.1.11  west african timber (i)         characteristics, similarities and differences, uses and working qualities of the following west",
+       "descriptions": [],
+       "parentId": 43,
+       "subLabels": [
+        {
+         "id": 54,
+         "text": "African timbers",
+         "descriptions": [],
+         "parentId": 53,
+         "subLabels": []
+        },
+        {
+         "id": 55,
+         "text": "Iroko (odum), abura, mahogany, obeche (wawa), walnut, afara, ebony, danta, emery",
+         "descriptions": [],
+         "parentId": 53,
+         "subLabels": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": 56,
+     "text": "Shedua, mansonia, afromosia (kokrodua), avodire, kusia",
+     "descriptions": [],
+     "parentId": 8,
+     "subLabels": [
+      {
+       "id": 57,
+       "text": "(ii)   effects of depletion of timber species",
+       "descriptions": [],
+       "parentId": 56,
+       "subLabels": []
+      },
+      {
+       "id": 58,
+       "text": "4.1.12  veneers identification, description and sketching of the following",
+       "descriptions": [],
+       "parentId": 56,
+       "subLabels": [
+        {
+         "id": 59,
+         "text": "(i)  methods of production, i.e rotary, slicing, sawing",
+         "descriptions": [],
+         "parentId": 58,
+         "subLabels": []
+        },
+        {
+         "id": 60,
+         "text": "(ii)types of veneers, i.e face, core and back veneers",
+         "descriptions": [],
+         "parentId": 58,
+         "subLabels": []
+        }
+       ]
+      },
+      {
+       "id": 61,
+       "text": "4.1.13  manufactured  boards identification, description, uses and sketching",
+       "descriptions": [],
+       "parentId": 56,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 62,
+     "text": "Of: plywood, blockboard, laminboard, chipboard, particle board, batten board, hardboard, fibre board",
+     "descriptions": [],
+     "parentId": 8,
+     "subLabels": [
+      {
+       "id": 63,
+       "text": "4.2  surface decoration identification and sketching of tools: identification and description of the following",
+       "descriptions": [],
+       "parentId": 62,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 64,
+     "text": "Methods of surface decoration: inlaying, veneering (hammer and caul, marquetry, laminated plastics, edging (i.e solid wood, plastics, metals, veneer), mouldings (i.e round, ovolo, reeding, carvetto/hollow, cyma recta/ogee, cyma reversa, scotia, bead, fluting), incised and relief carving",
+     "descriptions": [],
+     "parentId": 8,
+     "subLabels": [
+      {
+       "id": 65,
+       "text": "4.3  non-wood material",
+       "descriptions": [],
+       "parentId": 64,
+       "subLabels": []
+      },
+      {
+       "id": 66,
+       "text": "4.3.1  metals (i)  classification: ferrous and non-ferrous",
+       "descriptions": [],
+       "parentId": 64,
+       "subLabels": [
+        {
+         "id": 67,
+         "text": "(ii)  types of ferrous metals: low carbon steel",
+         "descriptions": [],
+         "parentId": 66,
+         "subLabels": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": 68,
+     "text": "Dead/mild steel",
+     "descriptions": [],
+     "parentId": 8,
+     "subLabels": [
+      {
+       "id": 69,
+       "text": "(iii)  types of non-ferrous metals",
+       "descriptions": [],
+       "parentId": 68,
+       "subLabels": []
+      },
+      {
+       "id": 70,
+       "text": "Aluminium, lead, copper, tin",
+       "descriptions": [],
+       "parentId": 68,
+       "subLabels": []
+      },
+      {
+       "id": 71,
+       "text": "(iv)  physical properties of metals",
+       "descriptions": [],
+       "parentId": 68,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 72,
+     "text": "Hardness/softness",
+     "descriptions": [],
+     "parentId": 8,
+     "subLabels": [
+      {
+       "id": 73,
+       "text": "(v)  basic chemical characteristics of different metals",
+       "descriptions": [],
+       "parentId": 72,
+       "subLabels": []
+      },
+      {
+       "id": 74,
+       "text": "4.3.2  nails identification, description, uses and sketching",
+       "descriptions": [],
+       "parentId": 72,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 75,
+     "text": "Of:  french or wire nails; oval wire nails; lost-head nails; panel pin; veneer pin; cut tack; upholstery nails; roofing nails",
+     "descriptions": [],
+     "parentId": 8,
+     "subLabels": [
+      {
+       "id": 76,
+       "text": "4.3.3  screws identification, description, uses and sketching",
+       "descriptions": [],
+       "parentId": 75,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 77,
+     "text": "Of: countersunk head; raised head; round head; philip\u2019s head; coach screws",
+     "descriptions": [],
+     "parentId": 8,
+     "subLabels": [
+      {
+       "id": 78,
+       "text": "4.3.4  plastics (i)  types - thermosetting and thermoplastics",
+       "descriptions": [],
+       "parentId": 77,
+       "subLabels": [
+        {
+         "id": 79,
+         "text": "(ii)  differences between the types and their common properties",
+         "descriptions": [],
+         "parentId": 78,
+         "subLabels": []
+        },
+        {
+         "id": 80,
+         "text": "(iii)  items made from the two types of  plastics",
+         "descriptions": [],
+         "parentId": 78,
+         "subLabels": []
+        },
+        {
+         "id": 81,
+         "text": "(iv)  uses of plastics",
+         "descriptions": [],
+         "parentId": 78,
+         "subLabels": []
+        }
+       ]
+      },
+      {
+       "id": 82,
+       "text": "4.3.5  glass identification and uses of:  opaque",
+       "descriptions": [],
+       "parentId": 77,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 83,
+     "text": "Transparent and decorative glasses",
+     "descriptions": [],
+     "parentId": 8,
+     "subLabels": [
+      {
+       "id": 84,
+       "text": "4.3.6  leather (i)  types - natural and artificial",
+       "descriptions": [],
+       "parentId": 83,
+       "subLabels": [
+        {
+         "id": 85,
+         "text": "(ii)  differences between the types",
+         "descriptions": [],
+         "parentId": 84,
+         "subLabels": []
+        },
+        {
+         "id": 86,
+         "text": "(iii)  uses of leather, e.g furniture, belts, bags",
+         "descriptions": [],
+         "parentId": 84,
+         "subLabels": []
+        }
+       ]
+      },
+      {
+       "id": 87,
+       "text": "4.3.7  abrasives identification, uses and description of process of manufacture of glass paper",
+       "descriptions": [],
+       "parentId": 83,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 88,
+     "text": "And garnet paper",
+     "descriptions": [],
+     "parentId": 8,
+     "subLabels": [
+      {
+       "id": 89,
+       "text": "4.3.8  fittings identification, description, uses and sketching",
+       "descriptions": [],
+       "parentId": 88,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 90,
+     "text": "Of:  locks; hinges; bolts; catches; castors; stays",
+     "descriptions": [],
+     "parentId": 8,
+     "subLabels": [
+      {
+       "id": 91,
+       "text": "4.3.9  adhesives identification, characteristics, preparation and application, uses, safety precaution",
+       "descriptions": [],
+       "parentId": 90,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 92,
+     "text": "During application of",
+     "descriptions": [],
+     "parentId": 8,
+     "subLabels": [
+      {
+       "id": 93,
+       "text": "(i)  protein:  animal, casein",
+       "descriptions": [],
+       "parentId": 92,
+       "subLabels": []
+      },
+      {
+       "id": 94,
+       "text": "(ii)  synthetic: urea, phenol, melamine formaldehydes",
+       "descriptions": [],
+       "parentId": 92,
+       "subLabels": []
+      },
+      {
+       "id": 95,
+       "text": "(iii)  contact:  rubber based (evostick)",
+       "descriptions": [],
+       "parentId": 92,
+       "subLabels": []
+      },
+      {
+       "id": 96,
+       "text": "5. surface",
+       "descriptions": [],
+       "parentId": 92,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 97,
+     "text": "Preparation (a)  description of process, tools and materials requried for various surface preparation: planing, scraping, sanding,  filling, staining, bleaching, spraying and polishing",
+     "descriptions": [],
+     "parentId": 8,
+     "subLabels": [
+      {
+       "id": 98,
+       "text": "6. finishes types, characteristics, uses, methods application, safety precautions in the use of the following:",
+       "descriptions": [],
+       "parentId": 97,
+       "subLabels": [
+        {
+         "id": 99,
+         "text": "Paints, vanishes, lacquers, polishes, laminated",
+         "descriptions": [],
+         "parentId": 98,
+         "subLabels": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": 100,
+     "text": "Plastics",
+     "descriptions": [],
+     "parentId": 8,
+     "subLabels": [
+      {
+       "id": 101,
+       "text": "7. methods  of types and description of methods",
+       "descriptions": [],
+       "parentId": 100,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 102,
+     "text": "Shaping  and (i)  obtaining sawn shapes from solid bending  wood wood",
+     "descriptions": [],
+     "parentId": 8,
+     "subLabels": [
+      {
+       "id": 103,
+       "text": "(ii)  shaping by lamination",
+       "descriptions": [],
+       "parentId": 102,
+       "subLabels": []
+      },
+      {
+       "id": 104,
+       "text": "(iii)  shaping by curved bending",
+       "descriptions": [],
+       "parentId": 102,
+       "subLabels": []
+      },
+      {
+       "id": 105,
+       "text": "8. woodwork  joints classification, uses and sketching of the",
+       "descriptions": [],
+       "parentId": 102,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 106,
+     "text": "Following:",
+     "descriptions": [],
+     "parentId": 8,
+     "subLabels": [
+      {
+       "id": 107,
+       "text": "(a)  angle joints - mortice and tenon, dowel",
+       "descriptions": [],
+       "parentId": 106,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 108,
+     "text": "Dovetails, housing, halving, comb, plain mitre",
+     "descriptions": [],
+     "parentId": 8,
+     "subLabels": [
+      {
+       "id": 109,
+       "text": "(b)  widening joints - dowel, tongue and groove",
+       "descriptions": [],
+       "parentId": 108,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 110,
+     "text": "Loose tongue, rebated butt, slot screw, plain butt",
+     "descriptions": [],
+     "parentId": 8,
+     "subLabels": [
+      {
+       "id": 111,
+       "text": "(c)   framing joints:- mortice and tenon, bridle, mitre",
+       "descriptions": [],
+       "parentId": 110,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 112,
+     "text": "Dowelled, halving",
+     "descriptions": [],
+     "parentId": 8,
+     "subLabels": [
+      {
+       "id": 113,
+       "text": "9. upholstery (a)  tools",
+       "descriptions": [],
+       "parentId": 112,
+       "subLabels": [
+        {
+         "id": 114,
+         "text": "Identification, uses and sketching of the following:- tack hammer, strainer, curved and straight needle, tack",
+         "descriptions": [],
+         "parentId": 113,
+         "subLabels": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": 115,
+     "text": "Remover, stapler, sewing machine, webbing stretcher, ripping chisel",
+     "descriptions": [],
+     "parentId": 8,
+     "subLabels": [
+      {
+       "id": 116,
+       "text": "(b)  materials",
+       "descriptions": [],
+       "parentId": 115,
+       "subLabels": [
+        {
+         "id": 117,
+         "text": "Types, differences and uses of the following:",
+         "descriptions": [],
+         "parentId": 116,
+         "subLabels": []
+        },
+        {
+         "id": 118,
+         "text": "(i)       webbing - twine or cord, thread, spring, jute",
+         "descriptions": [],
+         "parentId": 116,
+         "subLabels": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": 119,
+     "text": "Hesian or baft",
+     "descriptions": [],
+     "parentId": 8,
+     "subLabels": [
+      {
+       "id": 120,
+       "text": "(ii)       padding - foam, kapok, feathers, coconut fibres",
+       "descriptions": [],
+       "parentId": 119,
+       "subLabels": []
+      },
+      {
+       "id": 121,
+       "text": "(iii)      covering - fabric, natural and artificial leathers",
+       "descriptions": [],
+       "parentId": 119,
+       "subLabels": []
+      },
+      {
+       "id": 122,
+       "text": "(iv)      tacking - stud, tack nails",
+       "descriptions": [],
+       "parentId": 119,
+       "subLabels": []
+      },
+      {
+       "id": 123,
+       "text": "(c)  (i)      upholstery parts - frame, platform",
+       "descriptions": [],
+       "parentId": 119,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 124,
+     "text": "Studding/padding, covering",
+     "descriptions": [],
+     "parentId": 8,
+     "subLabels": [
+      {
+       "id": 125,
+       "text": "(ii)     types of platform (fixed and loose) and their uses",
+       "descriptions": [],
+       "parentId": 124,
+       "subLabels": []
+      },
+      {
+       "id": 126,
+       "text": "10. design andmaking (a)  factors affecting design - fitness for purpose, proportion, material, construction, finishing, cost",
+       "descriptions": [],
+       "parentId": 124,
+       "subLabels": [
+        {
+         "id": 127,
+         "text": "(b)  (i)   problem identification and writing of brief",
+         "descriptions": [],
+         "parentId": 126,
+         "subLabels": []
+        },
+        {
+         "id": 128,
+         "text": "(ii)  stating conditions and constraints relating to suggested solution",
+         "descriptions": [],
+         "parentId": 126,
+         "subLabels": []
+        },
+        {
+         "id": 129,
+         "text": "(iii) writing of specifications (i.e function, materials, construction, cost, ergonomics, aesthetics) for possible solutions",
+         "descriptions": [],
+         "parentId": 126,
+         "subLabels": []
+        }
+       ]
+      },
+      {
+       "id": 130,
+       "text": "(c)  generating solutions",
+       "descriptions": [],
+       "parentId": 124,
+       "subLabels": [
+        {
+         "id": 131,
+         "text": "(i) sources of information to generate ideas",
+         "descriptions": [],
+         "parentId": 130,
+         "subLabels": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": 132,
+     "text": "In solving problems, e.g. research, interviews, observations",
+     "descriptions": [],
+     "parentId": 8,
+     "subLabels": [
+      {
+       "id": 133,
+       "text": "(ii)   preliminary sketches \u2013 freehand sketching of designs",
+       "descriptions": [],
+       "parentId": 132,
+       "subLabels": []
+      },
+      {
+       "id": 134,
+       "text": "(d)   preparation of solution",
+       "descriptions": [],
+       "parentId": 132,
+       "subLabels": [
+        {
+         "id": 135,
+         "text": "(i)   drawing in isometric view",
+         "descriptions": [],
+         "parentId": 134,
+         "subLabels": []
+        },
+        {
+         "id": 136,
+         "text": "(ii)   preparation of working drawing in",
+         "descriptions": [],
+         "parentId": 134,
+         "subLabels": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": 137,
+     "text": "First and third angle orthographic projection",
+     "descriptions": [],
+     "parentId": 8,
+     "subLabels": [
+      {
+       "id": 138,
+       "text": "(iii)  preparation of cutting list",
+       "descriptions": [],
+       "parentId": 137,
+       "subLabels": []
+      },
+      {
+       "id": 139,
+       "text": "(e)   estimation of the cost of materials",
+       "descriptions": [],
+       "parentId": 137,
+       "subLabels": []
+      },
+      {
+       "id": 140,
+       "text": "(f)   making of the artefact",
+       "descriptions": [],
+       "parentId": 137,
+       "subLabels": [
+        {
+         "id": 141,
+         "text": "(i)   preparation of the materials",
+         "descriptions": [],
+         "parentId": 140,
+         "subLabels": []
+        },
+        {
+         "id": 142,
+         "text": "(ii)   construction of the artefact",
+         "descriptions": [],
+         "parentId": 140,
+         "subLabels": []
+        },
+        {
+         "id": 143,
+         "text": "Working drawings should be related to the",
+         "descriptions": [],
+         "parentId": 140,
+         "subLabels": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": 144,
+     "text": "Artefact constructed; -  tools are correctly used; -   appropriate joints are used; -   sequence of operation are followed; -   safety precautions are observed; -  appropriate finishes are  applied",
+     "descriptions": [],
+     "parentId": 8,
+     "subLabels": [
+      {
+       "id": 145,
+       "text": "(g) evaluating the artefact: - the steps are",
+       "descriptions": [],
+       "parentId": 144,
+       "subLabels": [
+        {
+         "id": 146,
+         "text": "(i)    purpose of the artefact",
+         "descriptions": [],
+         "parentId": 145,
+         "subLabels": []
+        },
+        {
+         "id": 147,
+         "text": "(ii)   specifications of artefact",
+         "descriptions": [],
+         "parentId": 145,
+         "subLabels": []
+        },
+        {
+         "id": 148,
+         "text": "(iii)  whether the artefact serves the specifications",
+         "descriptions": [],
+         "parentId": 145,
+         "subLabels": []
+        },
+        {
+         "id": 149,
+         "text": "(iv) strengths and weaknesses of artefact",
+         "descriptions": [],
+         "parentId": 145,
+         "subLabels": []
+        }
+       ]
+      },
+      {
+       "id": 150,
+       "text": "(v)  areas of possible improvement",
+       "descriptions": [],
+       "parentId": 144,
+       "subLabels": []
+      },
+      {
+       "id": 151,
+       "text": "(vi)  judgment as to whether artefact is excellent, good, satisfactory, poor",
+       "descriptions": [],
+       "parentId": 144,
+       "subLabels": []
+      },
+      {
+       "id": 152,
+       "text": "11. mensuration (a)  estimation, calculations involving linear, area",
+       "descriptions": [],
+       "parentId": 144,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 153,
+     "text": "Volume, percentage",
+     "descriptions": [],
+     "parentId": 8,
+     "subLabels": [
+      {
+       "id": 154,
+       "text": "(b) calculation of unit and total cost of a job",
+       "descriptions": [],
+       "parentId": 153,
+       "subLabels": []
+      },
+      {
+       "id": 155,
+       "text": "(c)  explanation of the various",
+       "descriptions": [],
+       "parentId": 153,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 156,
+     "text": "Elements involved in costing of a job; i.e materials, labour, overhead expenses, packaging, portage, sales expenses, advertising, net profit, tax",
+     "descriptions": [],
+     "parentId": 8,
+     "subLabels": [
+      {
+       "id": 157,
+       "text": "12. wood turning (a)  the lathe \u2013 identification and function of parts and accessories: bed, stands, headstock, tailstock, tool rest",
+       "descriptions": [],
+       "parentId": 156,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 158,
+     "text": "Centres,face plates",
+     "descriptions": [],
+     "parentId": 8,
+     "subLabels": [
+      {
+       "id": 159,
+       "text": "(b) wood turning tools: identification",
+       "descriptions": [],
+       "parentId": 158,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 160,
+     "text": "Uses and sketching of the following",
+     "descriptions": [],
+     "parentId": 8,
+     "subLabels": [
+      {
+       "id": 161,
+       "text": "(i)  scraping tools",
+       "descriptions": [],
+       "parentId": 160,
+       "subLabels": []
+      },
+      {
+       "id": 162,
+       "text": "(ii)  cutting tools",
+       "descriptions": [],
+       "parentId": 160,
+       "subLabels": []
+      },
+      {
+       "id": 163,
+       "text": "(c)  (i)  types of turning operations: face plate turning",
+       "descriptions": [],
+       "parentId": 160,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 164,
+     "text": "Between                                                                           centres turning, boring",
+     "descriptions": [],
+     "parentId": 8,
+     "subLabels": [
+      {
+       "id": 165,
+       "text": "(ii)   articles produced from turning operations: flower vase, cup, egg holder, bowl, candle",
+       "descriptions": [],
+       "parentId": 164,
+       "subLabels": []
+      }
+     ]
+    },
+    {
+     "id": 166,
+     "text": "Holder, decorative mouldings, police baton, rolling pin, table legs",
+     "descriptions": [],
+     "parentId": 8,
+     "subLabels": [
+      {
+       "id": 167,
+       "text": "13. mass   production explanation of stages in mass production",
+       "descriptions": [],
+       "parentId": 166,
+       "subLabels": [
+        {
+         "id": 168,
+         "text": "(a)  preparation of design and working drawings",
+         "descriptions": [],
+         "parentId": 167,
+         "subLabels": []
+        },
+        {
+         "id": 169,
+         "text": "(b)  preparation of workshop rod/ setting",
+         "descriptions": [],
+         "parentId": 167,
+         "subLabels": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": 170,
+     "text": "Out",
+     "descriptions": [],
+     "parentId": 8,
+     "subLabels": [
+      {
+       "id": 171,
+       "text": "(c)  making of prototype",
+       "descriptions": [],
+       "parentId": 170,
+       "subLabels": []
+      },
+      {
+       "id": 172,
+       "text": "(d)  preparation of cutting list",
+       "descriptions": [],
+       "parentId": 170,
+       "subLabels": []
+      },
+      {
+       "id": 173,
+       "text": "(e)  preparation of materials",
+       "descriptions": [],
+       "parentId": 170,
+       "subLabels": []
+      },
+      {
+       "id": 174,
+       "text": "(f)  marking out using template",
+       "descriptions": [],
+       "parentId": 170,
+       "subLabels": []
+      },
+      {
+       "id": 175,
+       "text": "(g)  production of parts \u2013 use of jigs; division of labour",
+       "descriptions": [],
+       "parentId": 170,
+       "subLabels": []
+      },
+      {
+       "id": 176,
+       "text": "(h)  trial run",
+       "descriptions": [],
+       "parentId": 170,
+       "subLabels": []
+      },
+      {
+       "id": 177,
+       "text": "(i)  assembly line \u2013 trial assembly and final assembly",
+       "descriptions": [],
+       "parentId": 170,
+       "subLabels": []
+      },
+      {
+       "id": 178,
+       "text": "(j)  application of finishing",
+       "descriptions": [],
+       "parentId": 170,
+       "subLabels": []
+      },
+      {
+       "id": 179,
+       "text": "(k)  quality control",
+       "descriptions": [],
+       "parentId": 170,
+       "subLabels": []
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "labels": [
+  {
+   "id": 4,
+   "text": "Theory and design",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 5,
+     "text": "1",
+     "descriptions": [
+      "General Workshop Safety"
+     ],
+     "parentId": 4,
+     "subLabels": []
+    },
+    {
+     "id": 6,
+     "text": "2",
+     "descriptions": [
+      "Hand tools"
+     ],
+     "parentId": 4,
+     "subLabels": []
+    },
+    {
+     "id": 7,
+     "text": "3",
+     "descriptions": [
+      "Special Purpose Hand tools."
+     ],
+     "parentId": 4,
+     "subLabels": []
+    },
+    {
+     "id": 8,
+     "text": "4",
+     "descriptions": [
+      "Portable Power tools."
+     ],
+     "parentId": 4,
+     "subLabels": []
+    },
+    {
+     "id": 9,
+     "text": "5",
+     "descriptions": [
+      "Woodworking machines."
+     ],
+     "parentId": 4,
+     "subLabels": []
+    },
+    {
+     "id": 10,
+     "text": "6",
+     "descriptions": [
+      "Maintenance"
+     ],
+     "parentId": 4,
+     "subLabels": []
+    },
+    {
+     "id": 11,
+     "text": "7",
+     "descriptions": [
+      "West African Timbers in common use."
+     ],
+     "parentId": 4,
+     "subLabels": []
+    },
+    {
+     "id": 12,
+     "text": "8",
+     "descriptions": [
+      "Timber Conversion"
+     ],
+     "parentId": 4,
+     "subLabels": []
+    },
+    {
+     "id": 13,
+     "text": "9",
+     "descriptions": [
+      "Timber seasoning"
+     ],
+     "parentId": 4,
+     "subLabels": []
+    },
+    {
+     "id": 14,
+     "text": "10",
+     "descriptions": [
+      "Timber defects"
+     ],
+     "parentId": 4,
+     "subLabels": []
+    },
+    {
+     "id": 15,
+     "text": "11",
+     "descriptions": [
+      "Timber preservation"
+     ],
+     "parentId": 4,
+     "subLabels": []
+    },
+    {
+     "id": 16,
+     "text": "12",
+     "descriptions": [
+      "Manufactured boards"
+     ],
+     "parentId": 4,
+     "subLabels": []
+    },
+    {
+     "id": 17,
+     "text": "13",
+     "descriptions": [
+      "Timber Preparation"
+     ],
+     "parentId": 4,
+     "subLabels": []
+    },
+    {
+     "id": 18,
+     "text": "14",
+     "descriptions": [
+      "Woodwork joints"
+     ],
+     "parentId": 4,
+     "subLabels": []
+    },
+    {
+     "id": 19,
+     "text": "15",
+     "descriptions": [
+      "Wood finishes and finishing."
+     ],
+     "parentId": 4,
+     "subLabels": []
+    },
+    {
+     "id": 20,
+     "text": "16",
+     "descriptions": [
+      "Wood abrasives"
+     ],
+     "parentId": 4,
+     "subLabels": []
+    },
+    {
+     "id": 21,
+     "text": "17",
+     "descriptions": [
+      "Wood adhesives"
+     ],
+     "parentId": 4,
+     "subLabels": []
+    },
+    {
+     "id": 22,
+     "text": "18",
+     "descriptions": [
+      "Wood fittings and fasteners"
+     ],
+     "parentId": 4,
+     "subLabels": []
+    },
+    {
+     "id": 23,
+     "text": "19",
+     "descriptions": [
+      "Non-wood materials"
+     ],
+     "parentId": 4,
+     "subLabels": []
+    },
+    {
+     "id": 24,
+     "text": "20",
+     "descriptions": [
+      "Veneers and Veneering"
+     ],
+     "parentId": 4,
+     "subLabels": []
+    },
+    {
+     "id": 25,
+     "text": "20",
+     "descriptions": [
+      "Veneers and Veneering"
+     ],
+     "parentId": 4,
+     "subLabels": []
+    },
+    {
+     "id": 26,
+     "text": "21",
+     "descriptions": [
+      "Wood shaping and bending."
+     ],
+     "parentId": 4,
+     "subLabels": []
+    },
+    {
+     "id": 27,
+     "text": "22",
+     "descriptions": [
+      "Design and Drawing"
+     ],
+     "parentId": 4,
+     "subLabels": []
+    },
+    {
+     "id": 28,
+     "text": "23",
+     "descriptions": [
+      "Project Design and Construction."
+     ],
+     "parentId": 4,
+     "subLabels": []
+    },
+    {
+     "id": 29,
+     "text": "24",
+     "descriptions": [
+      "Upholstery"
+     ],
+     "parentId": 4,
+     "subLabels": []
+    },
+    {
+     "id": 30,
+     "text": "25",
+     "descriptions": [
+      "Wood turning"
+     ],
+     "parentId": 4,
+     "subLabels": []
+    },
+    {
+     "id": 31,
+     "text": "26",
+     "descriptions": [
+      "Wood carving and sculpture"
+     ],
+     "parentId": 4,
+     "subLabels": []
+    },
+    {
+     "id": 32,
+     "text": "27",
+     "descriptions": [
+      "Surface Decoration"
+     ],
+     "parentId": 4,
+     "subLabels": []
+    },
+    {
+     "id": 33,
+     "text": "28",
+     "descriptions": [
+      "Mass Production"
+     ],
+     "parentId": 4,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 38,
+   "text": "Gambia only",
+   "descriptions": null,
+   "parentId": -1,
+   "subLabels": [
+    {
+     "id": 39,
+     "text": "29. entrepreneurship in",
+     "descriptions": [
+      "(a)   Types of business organisation e.g. sole proprietorship, partnership,",
+      "cooperatives etc.",
+      "(b)   Business",
+      "opportunities in",
+      "Woodworking: e.g. merchandizing, spray painting, upholstery work, wood turning."
+     ],
+     "parentId": 38,
+     "subLabels": [
+      {
+       "id": 40,
+       "text": "Woodworking",
+       "descriptions": [
+        "(c)    Business plans:",
+        "format and content.",
+        "(d)    Sources of fund e.g. gifts, personal savings,",
+        "loans, inheritance, cooperatives etc."
+       ],
+       "parentId": 39,
+       "subLabels": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "text": "1",
+   "descriptions": [
+    "General Workshop Safety"
+   ],
+   "parentId": 4,
+   "subLabels": []
+  },
+  {
+   "id": 6,
+   "text": "2",
+   "descriptions": [
+    "Hand tools"
+   ],
+   "parentId": 4,
+   "subLabels": []
+  },
+  {
+   "id": 7,
+   "text": "3",
+   "descriptions": [
+    "Special Purpose Hand tools."
+   ],
+   "parentId": 4,
+   "subLabels": []
+  },
+  {
+   "id": 8,
+   "text": "4",
+   "descriptions": [
+    "Portable Power tools."
+   ],
+   "parentId": 4,
+   "subLabels": []
+  },
+  {
+   "id": 9,
+   "text": "5",
+   "descriptions": [
+    "Woodworking machines."
+   ],
+   "parentId": 4,
+   "subLabels": []
+  },
+  {
+   "id": 10,
+   "text": "6",
+   "descriptions": [
+    "Maintenance"
+   ],
+   "parentId": 4,
+   "subLabels": []
+  },
+  {
+   "id": 11,
+   "text": "7",
+   "descriptions": [
+    "West African Timbers in common use."
+   ],
+   "parentId": 4,
+   "subLabels": []
+  },
+  {
+   "id": 12,
+   "text": "8",
+   "descriptions": [
+    "Timber Conversion"
+   ],
+   "parentId": 4,
+   "subLabels": []
+  },
+  {
+   "id": 13,
+   "text": "9",
+   "descriptions": [
+    "Timber seasoning"
+   ],
+   "parentId": 4,
+   "subLabels": []
+  },
+  {
+   "id": 14,
+   "text": "10",
+   "descriptions": [
+    "Timber defects"
+   ],
+   "parentId": 4,
+   "subLabels": []
+  },
+  {
+   "id": 15,
+   "text": "11",
+   "descriptions": [
+    "Timber preservation"
+   ],
+   "parentId": 4,
+   "subLabels": []
+  },
+  {
+   "id": 16,
+   "text": "12",
+   "descriptions": [
+    "Manufactured boards"
+   ],
+   "parentId": 4,
+   "subLabels": []
+  },
+  {
+   "id": 17,
+   "text": "13",
+   "descriptions": [
+    "Timber Preparation"
+   ],
+   "parentId": 4,
+   "subLabels": []
+  },
+  {
+   "id": 18,
+   "text": "14",
+   "descriptions": [
+    "Woodwork joints"
+   ],
+   "parentId": 4,
+   "subLabels": []
+  },
+  {
+   "id": 19,
+   "text": "15",
+   "descriptions": [
+    "Wood finishes and finishing."
+   ],
+   "parentId": 4,
+   "subLabels": []
+  },
+  {
+   "id": 20,
+   "text": "16",
+   "descriptions": [
+    "Wood abrasives"
+   ],
+   "parentId": 4,
+   "subLabels": []
+  },
+  {
+   "id": 21,
+   "text": "17",
+   "descriptions": [
+    "Wood adhesives"
+   ],
+   "parentId": 4,
+   "subLabels": []
+  },
+  {
+   "id": 22,
+   "text": "18",
+   "descriptions": [
+    "Wood fittings and fasteners"
+   ],
+   "parentId": 4,
+   "subLabels": []
+  },
+  {
+   "id": 23,
+   "text": "19",
+   "descriptions": [
+    "Non-wood materials"
+   ],
+   "parentId": 4,
+   "subLabels": []
+  },
+  {
+   "id": 24,
+   "text": "20",
+   "descriptions": [
+    "Veneers and Veneering"
+   ],
+   "parentId": 4,
+   "subLabels": []
+  },
+  {
+   "id": 25,
+   "text": "20",
+   "descriptions": [
+    "Veneers and Veneering"
+   ],
+   "parentId": 4,
+   "subLabels": []
+  },
+  {
+   "id": 26,
+   "text": "21",
+   "descriptions": [
+    "Wood shaping and bending."
+   ],
+   "parentId": 4,
+   "subLabels": []
+  },
+  {
+   "id": 27,
+   "text": "22",
+   "descriptions": [
+    "Design and Drawing"
+   ],
+   "parentId": 4,
+   "subLabels": []
+  },
+  {
+   "id": 28,
+   "text": "23",
+   "descriptions": [
+    "Project Design and Construction."
+   ],
+   "parentId": 4,
+   "subLabels": []
+  },
+  {
+   "id": 29,
+   "text": "24",
+   "descriptions": [
+    "Upholstery"
+   ],
+   "parentId": 4,
+   "subLabels": []
+  },
+  {
+   "id": 30,
+   "text": "25",
+   "descriptions": [
+    "Wood turning"
+   ],
+   "parentId": 4,
+   "subLabels": []
+  },
+  {
+   "id": 31,
+   "text": "26",
+   "descriptions": [
+    "Wood carving and sculpture"
+   ],
+   "parentId": 4,
+   "subLabels": []
+  },
+  {
+   "id": 32,
+   "text": "27",
+   "descriptions": [
+    "Surface Decoration"
+   ],
+   "parentId": 4,
+   "subLabels": []
+  },
+  {
+   "id": 33,
+   "text": "28",
+   "descriptions": [
+    "Mass Production"
+   ],
+   "parentId": 4,
+   "subLabels": []
+  },
+  {
+   "id": 39,
+   "text": "29. entrepreneurship in",
+   "descriptions": [
+    "(a)   Types of business organisation e.g. sole proprietorship, partnership,",
+    "cooperatives etc.",
+    "(b)   Business",
+    "opportunities in",
+    "Woodworking: e.g. merchandizing, spray painting, upholstery work, wood turning."
+   ],
+   "parentId": 38,
+   "subLabels": [
+    {
+     "id": 40,
+     "text": "Woodworking",
+     "descriptions": [
+      "(c)    Business plans:",
+      "format and content.",
+      "(d)    Sources of fund e.g. gifts, personal savings,",
+      "loans, inheritance, cooperatives etc."
+     ],
+     "parentId": 39,
+     "subLabels": []
+    }
+   ]
+  },
+  {
+   "id": 40,
+   "text": "Woodworking",
+   "descriptions": [
+    "(c)    Business plans:",
+    "format and content.",
+    "(d)    Sources of fund e.g. gifts, personal savings,",
+    "loans, inheritance, cooperatives etc."
+   ],
+   "parentId": 39,
+   "subLabels": []
+  }
+ ]
+}
